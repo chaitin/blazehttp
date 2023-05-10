@@ -1,0 +1,8 @@
+issues:
+  exclude-rules:
+    - path: http/request_parser.go
+      linters:
+        - unused
+    - path: http/response_parser.go
+      linters:
+        - unused
