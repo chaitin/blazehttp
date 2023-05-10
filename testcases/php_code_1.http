@@ -1,0 +1,8 @@
+# tag: black,php_code
+GET / HTTP/1.1
+Host: monster
+User-Agent: Chrome
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 55
+
+<?php echo $a; ?>
