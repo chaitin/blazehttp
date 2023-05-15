@@ -1,0 +1,56 @@
+project_name: blazehttp
+
+dist: .builds
+
+before:
+  hooks:
+    - go mod tidy
+
+builds:
+  - id: build
+    main: ./cmd/blazehttp
+    binary: blazehttp
+    # ldflags:
+    #   - -s -w -X github.com/chaitin/blazehttp/cmd/blazehttp.Version={{ .Version }}
+    env:
+      - CGO_ENABLED=0
+    goos:
+      - linux
+      - windows
+      - darwin
+    goarch:
+      - amd64
+      - arm64
+      - arm
+    goarm:
+      - 7
+    ignore:
+      - goos: windows
+        goarch: arm
+      - goos: darwin
+        goarch: arm
+
+release:
+  draft: false
+
+archives:
+  - id: archive
+    builds: [build]
+    format: zip
+    files:
+      - LICENSE*
+      - CHANGELOG*
+
+checksum:
+  name_template: 'checksums.txt'
+
+snapshot:
+  name_template: '{{ incpatch .Version }}-next'
+
+changelog:
+  sort: asc
+  filters:
+    exclude:
+      - '^examples:'
+      - '^debug:'
+      - '^doc:'
