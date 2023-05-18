@@ -7,6 +7,7 @@ import (
 	"net"
 	"net/url"
 	"path/filepath"
+	"regexp"
 	"strings"
 	"time"
 
@@ -44,6 +45,14 @@ func init() {
 func connect(addr string, isHttps bool, timeout int) *net.Conn {
 	var n net.Conn
 	var err error
+
+	if m, _ := regexp.MatchString(`.*(]:)|(:)[0-9]+$`, addr); !m {
+		if isHttps {
+			addr = fmt.Sprintf("%s:443", addr)
+		} else {
+			addr = fmt.Sprintf("%s:80", addr)
+		}
+	}
 
 	retryCnt := 0
 retry:
