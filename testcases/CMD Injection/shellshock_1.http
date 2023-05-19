@@ -1,4 +1,4 @@
-# tag: black,shellshock
+# tag: black,shellshock,cmdi
 GET / HTTP/1.1
 Host: monster
 User-Agent: () { :;}; echo; echo $(/bin/ls -al)
