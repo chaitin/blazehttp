@@ -1,4 +1,4 @@
-# tag: black,ognl
+# tag: black,ognl,java_code
 GET / HTTP/1.1
 Host: a.cn
 Content-Type: a
