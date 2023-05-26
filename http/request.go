@@ -8,40 +8,82 @@ import (
 	"strconv"
 )
 
+const (
+	InPrefix = iota
+)
+
+// type Request struct {
+// 	Method   string
+// 	Metadata []string
+
+// 	RequestLine []byte
+// 	Headers     []*HeaderKV
+// 	Body        []byte
+
+// 	isClear bool
+// 	inBuf   bytes.Buffer // use for input request
+// 	outBuf  bytes.Buffer // use for rewrite request
+// }
+
+/**
+Request examples:
+
+1. normal get request
+```request
+# tag: white
+GET / HTTP/1.1
+Host: waf-ce.chaitin.cn
+```
+
+2. normal post request
+```request
+# tag: black,sqli
+POST /index.php HTTP/1.1
+Host: waf-ce.chaitin.cn
+
+id=1' or 1=1&submit=submit
+```
+
+3. abnormal post request
+```request
+# tag: black,abnormal
+POST /index.php HTTP/1.1
+Host: waf-ce.chaitin.cn
+abnormal_headers
+
+id=1&submit=submit
+```
+
+to be explore!!!
+*/
+
 type Request struct {
-	Method   string
-	Metadata []string
+	Method       string           // http method
+	CommentLines [][]byte         // all comment lines, for request's description or tag
+	HeaderLines  [][]byte         // all request lines, include comment lines, header lines, body lines
+	Headers      map[string][]int // record headers and it's line number
+	Body         []byte           // all the request body, include smuggling things
 
-	RequestLine []byte
-	Headers     []*HeaderKV
-	Body        []byte
+	hasHost          bool // true if a request has `Host` header
+	hasMultiHost     bool // true if a request has more than one `Host` header
+	hasContentLength bool // true if a request has `Content-Length` header
+	hasBody          bool // true if a request has request body
 
-	isClear bool
-	inBuf   bytes.Buffer // use for input request
-	outBuf  bytes.Buffer // use for rewrite request
+	inBuf  bytes.Buffer // use for input request
+	outBuf bytes.Buffer // use for rewrite request
 }
 
 // SetHost set Host header to the target host, remove unnecessary hosts.
 func (r *Request) SetHost(host string) {
-	foundHost := false
-	for k, v := range r.Headers {
-		if bytes.EqualFold(v.Key, []byte("host")) {
-			if !foundHost {
-				foundHost = true
-				if bytes.Equal(v.Value, []byte(host)) {
-					continue
-				}
-				r.isClear = false
-				r.Headers[k].Value = []byte(host)
-			} else {
-				// remove other Host header
-				r.Headers = append(r.Headers[:k], r.Headers[k+1:]...)
-				r.isClear = false
-			}
+	if hs, ok := r.Headers[HEADER_HOST]; ok {
+		r.hasHost = true
+		if len(hs) > 1 {
+			r.hasMultiHost = true
 		}
-	}
-	if !foundHost {
-		r.AddHeader("Host", host)
+
+	} else {
+		// not exist Host header
+		r.AppendHeader(HEADER_HOST, host)
 	}
 }
 
@@ -114,14 +156,11 @@ func (r *Request) SetHeader(key string, value string) {
 	}
 }
 
-// AddHeader add a header key value
-func (r *Request) AddHeader(key string, value string) {
-	kv := &HeaderKV{
-		Key:   []byte(key),
-		Value: []byte(value),
-	}
-	r.Headers = append(r.Headers, kv)
-	r.isClear = false
+// AppendHeader add a header key value
+func (r *Request) AppendHeader(key string, value string) {
+	i := len(r.HeaderLines)
+	r.HeaderLines = append(r.HeaderLines, []byte(value))
+	r.Headers[key] = []int{i}
 }
 
 // Len implements the Request buffer length method.
