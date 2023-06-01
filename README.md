@@ -36,33 +36,34 @@ go build ./cmd/blazehttp
 
 ```bash
 # 测试请求
-./blazehttp -t http://192.168.0.1:8080 -g './testcases/*.http'
-
-sending 100% |██████████████████████████████████████████| (18/18, 86 it/s)        
-Total http file: 18, success: 18 failed: 0
+./blazehttp -t http://192.168.0.1:8080 -g './testcases/*/*.http'
+sending 100% |████████████████████████████████████████████████████████████████████████████| (102/102, 36 it/s)
+Total http file: 102, success: 102 failed: 0
 Stat http response code
 
-Status code: 403 hit: 16
+Status code: 403 hit: 100
 Status code: 200 hit: 2
 
 Stat http request tag
 
-tag: sqli hit: 1
-tag: black hit: 16
-tag: file_include hit: 1
-tag: file_upload hit: 1
-tag: java_unserialize hit: 1
-tag: php_unserialize hit: 1
-tag: cmdi hit: 1
-tag: ssrf hit: 1
-tag: xslti hit: 1
-tag: xss hit: 1
-tag: xxe hit: 1
-tag: asp_code hit: 1
-tag: white hit: 2
-tag: ognl hit: 1
+tag: cmdi hit: 12
 tag: shellshock hit: 1
-tag: ssti hit: 1
-tag: directory_traversal hit: 1
-tag: php_code hit: 1
+tag: file_include hit: 14
+tag: php_code hit: 10
+tag: sqli hit: 15
+tag: xxe hit: 5
+tag: asp_code hit: 1
+tag: java_code hit: 1
+tag: java_unserialize hit: 1
+tag: directory_traversal hit: 9
+tag: black hit: 100
+tag: ognl hit: 1
+tag: ldap hit: 3
+tag: php_unserialize hit: 8
+tag: ssrf hit: 4
+tag: white hit: 2
+tag: xslti hit: 3
+tag: file_upload hit: 1
+tag: ssti hit: 3
+tag: xss hit: 10
 ```
