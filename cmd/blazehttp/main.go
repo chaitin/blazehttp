@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"net"
 	"net/url"
+	"os"
 	"path/filepath"
 	"regexp"
 	"strings"
@@ -149,7 +150,23 @@ func main() {
 
 	success := 0
 
-	bar := progressbar.Default(int64(len(fileList)), "sending")
+	bar := progressbar.NewOptions64(
+		int64(len(fileList)),
+		progressbar.OptionSetDescription("sending"),
+		progressbar.OptionSetWriter(os.Stderr),
+		progressbar.OptionSetWidth(10),
+		progressbar.OptionThrottle(65*time.Millisecond),
+		progressbar.OptionShowCount(),
+		progressbar.OptionShowIts(),
+		progressbar.OptionOnCompletion(func() {
+			fmt.Fprint(os.Stderr, "\n")
+		}),
+		progressbar.OptionSpinnerType(14),
+		progressbar.OptionFullWidth(),
+		progressbar.OptionSetRenderBlankState(true),
+		progressbar.OptionUseANSICodes(true),
+	)
+
 	for _, f := range fileList {
 		_ = bar.Add(1)
 		req := new(http.Request)

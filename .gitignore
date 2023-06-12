@@ -24,3 +24,4 @@ go.work
 dist/
 output*/
 .builds/
+build/
