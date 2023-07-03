@@ -21,14 +21,17 @@ const (
 )
 
 var (
-	target           string // the target web site, example: http://192.168.0.1:8080
-	glob             string // use glob expression to select multi files
-	timeout          = 1000 // default 1000 ms
-	statByCode       bool   // stat http response code
-	statByCodeDetail bool   // show http response code detail
-	statByTag        bool   // stat http request file tags
-	statByTagDetail  bool   // stat http request file tags
-	show_detail      bool   // show stat detail
+	target            string // the target web site, example: http://192.168.0.1:8080
+	glob              string // use glob expression to select multi files
+	timeout           = 1000 // default 1000 ms
+	statByCode        bool   // stat http response code
+	statByCodeDetail  bool   // show http response code detail
+	statByTag         bool   // stat http request file tags
+	statByTagDetail   bool   // stat http request file tags
+	show_detail       bool   // show stat detail
+	mHost             bool   // modify host header
+	mContentLength    bool   // calculate the correct content-length
+	requestPerSession bool   // send request per session
 )
 
 func init() {
@@ -40,6 +43,9 @@ func init() {
 	flag.BoolVar(&statByTag, "s", true, "stat http request file tags")
 	flag.BoolVar(&statByTagDetail, "S", false, "show http request file tags detail")
 	flag.BoolVar(&show_detail, "d", false, "show stat detail")
+	flag.BoolVar(&mHost, "mh", false, "modify host header")
+	flag.BoolVar(&mContentLength, "mcl", true, "calculate the correct content-length")
+	flag.BoolVar(&requestPerSession, "rps", true, "send request per session")
 	flag.Parse()
 }
 
@@ -179,11 +185,19 @@ func main() {
 			statTags(tagStat, f, req.Metadata)
 		}
 
-		req.SetHost(addr)
-		// one http request one connection
-		req.SetHeader("Connection", "close")
-		// fix content length
-		req.CalculateContentLength()
+		if mHost {
+			req.SetHost(addr)
+		}
+
+		if requestPerSession {
+			// one http request one connection
+			req.SetHeader("Connection", "close")
+		}
+
+		if mContentLength {
+			// fix content length
+			req.CalculateContentLength()
+		}
 
 		conn := connect(addr, isHttps, timeout)
 		if conn == nil {
