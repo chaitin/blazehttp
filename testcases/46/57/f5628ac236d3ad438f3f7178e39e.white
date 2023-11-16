@@ -1,0 +1,17 @@
+GET /tag/tag/describeTagKeys.json?__preventCache=1688383035146.27.7758720529691&regionId=cn-hangzhou&resourceType=instance&pageSize=100&pageNumber=1 HTTP/1.1
+Host: ecs.console.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Arms-Traceid: 31f05b49111314b4c06c32ef5db69057
+Arms-Userdata: traceId=31f05b49111314b4c06c32ef5db69057&domain=ecs-core&page=server%2Flist&session=NDF_wr62u1eZWaBIKSsBd&biz=server_list_20220621&__biz_id=server_list_20220621&bizId=server_list_20220621&actionId=e2d5e454f5202a1b556000c79bdf34de&actionType=%40%40dynamic%28%23instance-search%29%5BtxdtM4MrrttkiCN9yrlp_%5D%2FDESCRIBE_TAG_KEYS
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

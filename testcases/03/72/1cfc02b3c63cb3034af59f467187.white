@@ -1,0 +1,15 @@
+GET /s?async=1&entrance=general&inspire=general_pc&session_id=11628858481560110693&sign=1269675bac26787698c2201688380254&srcp=crs_pc_similar&tn=wise&tpl_from=pc HTTP/1.1
+Host: graph.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://graph.baidu.com/pcpage/similar?carousel=503&entrance=GENERAL&extUiData%5BisLogoShow%5D=1&image=http%3A%2F%2Fmms1.baidu.com%2Fit%2Fu%3D1741790979,3489879599%26fm%3D253%26app%3D120%26f%3DJPEG%3Fw%3D500%26h%3D887&index=2&inspire=general_pc&limit=6&originSign=121bc7e67629cdcd2459001688380034&page=1&render_type=carousel&session_id=11628858481560110693&shituToken=74de58&sign=121bc7e67629cdcd2459001688380034&srcp=crs_pc_similar&tpl_from=pc
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

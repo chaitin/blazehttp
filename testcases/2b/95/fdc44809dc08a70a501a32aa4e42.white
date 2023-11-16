@@ -1,0 +1,15 @@
+GET /cgi-bin/mmwebwx-bin/synccheck?r=1688383393221&skey=%40crypt_bd3f6eb_25e35e51a8b89f0d4681cad82b4183d1&sid=SGgysM0yzjTz5S71&uin=864054223&deviceid=e819908079426102&synckey=1_776786782%7C2_776787096%7C3_776787082%7C11_776787053%7C19_33502%7C23_1688383383%7C24_1688383389%7C27_775851%7C201_1688383389%7C206_101%7C1000_1688382781%7C1001_1688369461&_=1688383362560 HTTP/1.1
+Host: webpush.wx.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://wx.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

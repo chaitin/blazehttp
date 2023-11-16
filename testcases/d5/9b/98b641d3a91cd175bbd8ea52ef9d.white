@@ -1,0 +1,14 @@
+GET /mp/jsmonitor?idkey=125617_12_1 HTTP/1.1
+Host: mp.weixin.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491582&idx=1&sn=b94836fcf0990550373c52e398bf153e&chksm=96f40093a1838985c8ad9bc7a7d44b5b926b7a7505cb66f40e69095798f0684269c3d342a39b
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

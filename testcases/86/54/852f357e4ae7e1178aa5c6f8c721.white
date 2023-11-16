@@ -1,0 +1,19 @@
+POST /restapi/soa2/13916/tripAds.json?_rm=0.08578182057279804 HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 926
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: json
+Cookieorigin: https://passport.ctrip.com
+Content-Type: application/json; charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://passport.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://passport.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"cid":"","ctok":"","cver":"1.0","lang":"zh-CN","sid":"8888","syscode":"09","auth":null},"id":"PC_3.4.17_e7baf165-60b0-d2d9-4144-c83684cf81c3","type":"PC","sdkVer":"3.4.17","apiVer":"1.0.0","device":{"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","deviceType":"PC","os":"WINDOWS","osv":"10","height":1080,"width":1920,"pixelRatio":1,"language":"zh-CN","connectType":"Unknown"},"user":{"cid":"","vid":"1688378011842.4ejff0","data":[{"name":"aid","value":""},{"name":"sid","value":""},{"name":"ouid","value":""}]},"site":{"url":"https://passport.ctrip.com/user/login?backurl=https%3A%2F%2Fmy.ctrip.com%2Fhome%2FOrder%2FQicheOrderlist.aspx&responsemethod=GET","ref":"","title":"登录首页","keywords":""},"imps":[{"impId":"03GGMEXT0396GGWJQX1121","tagId":"bannerpic","width":1920,"height":540,"heightResizeFixed":true,"id":0}],"app":{"ver":"1.0"}}

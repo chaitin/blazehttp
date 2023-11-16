@@ -1,0 +1,17 @@
+POST /matomo.php?action_name=%E5%9C%A8%E7%BA%BF%E5%8D%8F%E8%AE%AE&idsite=9&rec=1&r=749140&h=17&m=53&s=10&url=https%3A%2F%2Fagree.xiaohongshu.com%2Fh5%2Fterms%2FZXXY20230215001%2F-1&urlref=https%3A%2F%2Fwww.xiaohongshu.com%2F&_id=f1f998efa841a0e6&_idn=1&_refts=1688377991&_ref=https%3A%2F%2Fwww.xiaohongshu.com%2F&send_image=0&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=1920x1080&pv_id=LGiUht&pf_net=0&pf_srv=127&pf_tfr=1&pf_dm1=66 HTTP/1.1
+Host: matomo.xiaohongshu.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Accept: */*
+Origin: https://agree.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://agree.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

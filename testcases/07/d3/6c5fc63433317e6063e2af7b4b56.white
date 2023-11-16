@@ -1,0 +1,22 @@
+POST /speed?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379336483&from=https%3A%2F%2Fuser.qzone.qq.com%2F389264167%2Fmain%2Fcustom%2Flayout&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 1119
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryjKbdUjqqCtQwh0Xo
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryjKbdUjqqCtQwh0Xo
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[],"static":[{"url":"https://qzonestyle.gtimg.cn/qzone_v6/gb/custom/v1/img/custom_demo_transparent.png","method":"get","duration":13.7,"status":200,"type":"static","isHttps":true,"urlQuery":"","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0},{"url":"https://qzonestyle.gtimg.cn/ac/qzone/qzfl/lc/qzfl.widget.slider.js","method":"get","duration":14,"status":200,"type":"static","isHttps":true,"urlQuery":"","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0}]},"id":"RiaWqsnTHOaqiNeiQn","uin":"o0389264167","version":"1.23.51","aid":"7d994c22-9157-4bfa-84fa-2628ba4bc8f4","platform":100,"x5Type":3,"netType":100,"sessionId":"session-1688379336483","from":"https%3A%2F%2Fuser.qzone.qq.com%2F389264167%2Fmain%2Fcustom%2Flayout","referer":""}
+------WebKitFormBoundaryjKbdUjqqCtQwh0Xo--

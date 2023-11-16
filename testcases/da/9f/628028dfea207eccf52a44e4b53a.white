@@ -1,0 +1,20 @@
+GET /api/v4/search/top_search HTTP/1.1
+Host: www.zhihu.com
+X-Zse-93: 101_3_3.0
+X-Zst-81: 3_2.0aR_sn77yn6O92wOB8hPZnQr0EMYxc4f18wNBUgpTQ6nxERFZKXY0-4Lm-h3_tufIwJS8gcxTgJS_AuPZNcXCTwxI78YxEM20s4PGDwN8gGcYAupMWufIeQuK7AFpS6O1vukyQ_R0rRnsyukMGvxBEqeCiRnxEL2ZZrxmDucmqhPXnXFMTAoTF6RhRuLPFHY1K_HK_9NCggVmLhVGfGtmIqrLiDc_BBOKUBt0zcuCQheMPrLGureYkicTvLCKyBoB8iHBUJSVy93p0vS9iBwCWULmcgxxeCg_Egt9WcXfPuoKUhH9mhN0WvgLwvCsFUYM8AL0sBXKhUxpHUcmxuYfoAHCkMNKt939KLLGZDU_HvN9Oqfz-CVLCc3qb6Lpb_e02hXYwGLMFGCf9qHmdDVKzDrqeCO8PgYCqBYYVrHGbTHOfwoBHuFqxbpGIhNxHgcC3qXLxgV9uUH_9wXyJrXmQ8HCEJeBwweLwwYC
+X-Ab-Param: 
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ab-Pb: CgY7AicH+AwSAwIAAA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Requested-With: fetch
+X-Zse-96: 2.0_VgneleLZ1o1QwjYrWrdWv4nJLMrlKPRwaaSa0LSn/zl3pYcgeUS7J6aXtgLnhywC
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.zhihu.com/question/531148965/answer/2890242014
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

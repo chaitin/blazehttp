@@ -1,0 +1,16 @@
+GET /oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&code_challenge=l3w7EIJ9doFTR9zXxHjC9OZ5n2DWOoWYQNAFOWSDgDU&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_8b31eab70197b513&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmV1LW5vcnRoLTEiRjBEAiA4aqugAtzMv%2BtT07qXpdR5WKW6749ata0L8qBEJRtZ9gIgQW%2BGtYWRc4YU1%2BDhzD3HfFiPVM67QZZRIUPOtS8yd2QqkwII6%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgw4MDI3NzAwNjQ0NzMiDEmfJ6Yi6VmYv%2FzBxSrnAVXiS7znGD7hQxt2SYfQGWnGUqB7MAEbNhQsQnC2C5xpcjMnS5LWks3eChSilsz4rgDSlQY0EE8hdCDyf3VihA%2FLRZ0tysFehyxAL6uihAI8F5x43P%2BUecluM662uvQ7V4KfOqAxAA1Jp5VlbMpITL2y8AEGfTgj8kGRcVoPGzoJiIywDpmYXYUdjaCqthycstcGCcgXj%2FpYu5ZgIMFYvWmmJMVaBVjLvKcWnkKEyRdo8NsRYQHO8KwZ61EWLeF%2FXJ0OS7WNansbOBHqjWCZQBFneETAAp7W8y3ZgBdOCdkOj64Xn6YQ5jCQr4qlBjqQAQhYYQKbNaeSMezgxODhGON0nUEHY5dIWl80BVDCPovjEGlMCNDuZqzU%2FAmqVK0SY0mfZhVUdWkEBqPQMeBGHiFDwbUcl6Heh5mp43W%2Fz3fBaoZTa52r9NK7ezCLFVm9RB4JrFKdXxzPxVVPwcss9kcyPHWA08IZEMECYOEAaMPwF%2F4bY%2Bkyr9qr%2BHndJfkXQw%3D%3D&X-Amz-Date=20230703T101016Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA3V2GTCRM6Y4QEC6V%2F20230703%2Feu-north-1%2Fsignin%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b0b79bab97d2e8a4514f2bf891e5a7582548f6d495e4f1a3339d9ebcd224089a HTTP/1.1
+Host: eu-north-1.signin.aws.amazon.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Referer: https://console.aws.amazon.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

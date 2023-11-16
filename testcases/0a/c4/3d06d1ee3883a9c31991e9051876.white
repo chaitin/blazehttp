@@ -1,0 +1,15 @@
+GET /tcbox?service=bdbox&action=pblog&ctv=2&cen=uid_ua_ut&data=%7B%22appid%22%3A%221%22%2C%22dataid%22%3A%222%22%2C%22actiontype%22%3A%221%22%2C%22actionid%22%3A%222%22%2C%22actiondata%22%3A%7B%22boxV%22%3A0%2C%22ref%22%3A%22%22%2C%22gmv%22%3A%22%22%2C%22source%22%3A%22%22%2C%22boxVersion%22%3A%220%22%2C%22boxPlatform%22%3A%22android%22%2C%22id%22%3A%2210046%22%2C%22type%22%3A0%2C%22timestamp%22%3A1688380253192%2C%22content%22%3A%7B%22from%22%3A%22ugc%22%2C%22type%22%3A%22share_pub_ugc_view%22%2C%22page%22%3A%22detail_ugc%22%2C%22source%22%3A%22others%22%2C%22value%22%3A%22pic_ugc%22%2C%22ext%22%3A%7B%22dynamic_nid%22%3A%22dt_4652591524137232056%22%2C%22uid%22%3A%221697154999069991%22%2C%22channel%22%3A%22%22%2C%22aut_type%22%3A%22ugcbjh%22%2C%22theme_id%22%3A%22%22%2C%22miniapp_id%22%3A%22%22%2C%22goods_id%22%3A%22%22%2C%22group_id%22%3A%22%22%2C%22sid%22%3A%22111136_2%22%7D%7D%7D%2C%22cateid%22%3A99%7D&_rnd=b4e24086 HTTP/1.1
+Host: mbd.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://mbd.baidu.com/newspage/data/dtlandingwise?nid=dt_4652591524137232056&sourceFrom=homepage
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

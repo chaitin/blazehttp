@@ -1,0 +1,19 @@
+POST /mp/wapcommreport?uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzIwMDk1MjMyMg%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 984
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491582&idx=1&sn=b94836fcf0990550373c52e398bf153e&chksm=96f40093a1838985c8ad9bc7a7d44b5b926b7a7505cb66f40e69095798f0684269c3d342a39b
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+reportjson=%7B%22LoadType%22%3A0%2C%22Actiontype%22%3A1%2C%22Type%22%3A1%2C%22Bizuin%22%3A%22MzIwMDk1MjMyMg%3D%3D%22%2C%22Msgid%22%3A2247491504%2C%22Itemidx%22%3A1%2C%22Sendtimestamp%22%3A1686065696%2C%22Pos%22%3A2%2C%22Recalltype%22%3A11008%2C%22Mmversion%22%3A0%2C%22Isreaded%22%3A0%2C%22ExpType%22%3A%22%22%2C%22ExtInfo%22%3A%22%7B%5C%22rec_info%5C%22%3A%7B%5C%22model_id%5C%22%3A20002%2C%5C%22rank_rk%5C%22%3A%5C%2220002%3A17051%3A28196002%3A40%3A2%5C%22%2C%5C%22recall_rk%5C%22%3A%5C%2211008%3A1%3A0%5C%22%2C%5C%22prerank_rk%5C%22%3A%5C%2220002%3A17051%3A0%3A0%3A2%5C%22%2C%5C%22rec_reason%5C%22%3A%7B%7D%2C%5C%22related_score%5C%22%3A33735%7D%2C%5C%22do_not_report%5C%22%3A0%7D%22%2C%22RecInfo%22%3A%22%7B%7D%22%2C%22Bizuin_from%22%3A%22MzIwMDk1MjMyMg%3D%3D%22%2C%22Msgid_from%22%3A2247491582%2C%22Itemidx_from%22%3A1%2C%22Scene%22%3A0%2C%22Subscene%22%3A0%2C%22Sessionid%22%3A%22svr_88fcb9b0c00%22%2C%22Enterid%22%3A1688383429%2C%22ItemShowType%22%3A0%2C%22log_id%22%3A18832%7D

@@ -1,0 +1,15 @@
+GET /newspage/api/dtasync?page=dtlandingwise&async_param=%7B%22nid%22%3A%224652591524137232056%22%2C%22user%22%3A%7B%22user_type%22%3A%22ugcbjh%22%2C%22uk%22%3A%22Eyn3H_n1F3mSYWM2O4W-KQ%22%2C%22third_id%22%3A%221697154999069991%22%7D%2C%22sourceFrom%22%3A%22homepage%22%7D&osbranch=&cb=boxjs1 HTTP/1.1
+Host: mbd.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://mbd.baidu.com/newspage/data/dtlandingwise?nid=dt_4652591524137232056&sourceFrom=homepage
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,18 @@
+POST /service/um.json?_bx-v=2.2.3 HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 788
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://cnpassport.alibaba.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cnpassport.alibaba.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!f0kk5y06fQ6f5EsUWPWnTF8G9UNu54tyH49JJ%2FgxGnxUp15RATiSGdLUCKvQfM4tp%2FYJ9QUpNtrX8dBvslTVkHfgIzyIrIwLffxu1C4lr2ioB3AxfQ7%2BW51jLujz5M6%2F9Vf%2FvMfuyJlJCH6WBafT5%2Bc7XUhktJdi6PPffdth%2BJl8X0Cf2CbL%2BZyOPffP5QmnW8PtkzEkb5fQxWpXfuG25S4wx%2FfjS3jQ5HHqfDZefV64hROfff%2Bkog%2BKZwKMqnAvypAU9UpkXHag7v%2B5ldwVIYhq5m%2FWiH02WxEmDs%2BrcJTH8L4C2mO7gaQXxI%2F%2BWNgHcldQcGJfHEjLSSFyP0sp%2FE3Wp9%2FQC4RoXgg%2FganOpnvgLSWOiLk0Un7KKk52e5ZKd%2BIq4DI9EDYht8oV%2FQtsexZlPXahSldvrIL1IXTyQLymKTB6rR1tRbrDDXZ9%2FsJGXCV6LepcyXzKHVoXPOQHA0mTlkoYYfyyivlr1wcJ6xgmEZ3P%2B0cyCWqTYkcUItAY9KtKQxGnDjTEHuYvj4Rw00WUJn9CHNjeBTJxG6l9PlodtWivxJMqt8DiZALXAK2Cl%2FcrlWNdI53QFE50IOEgP7MqayBHG2HOzw5hkxhR6sFVVWRYIHKfQycGPWuR3qTWiTNPK%2BdtCl%2FoUk0nKG80JJZqb6RJ%2BmRZoyNfEj%2F9vD9s%2Blf%3D&xa=CF_APP_TBLogin_PC&xt=&efy=1

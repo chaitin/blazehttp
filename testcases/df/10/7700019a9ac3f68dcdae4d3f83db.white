@@ -1,0 +1,18 @@
+POST /sso/login.php?client=ssologin.js(v1.4.19)&_=1688376179331 HTTP/1.1
+Host: login.sina.com.cn
+Content-Length: 542
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://s.weibo.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://s.weibo.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+entry=weibo&gateway=1&from=&savestate=7&qrcode_flag=false&useticket=1&pagerefer=https%3A%2F%2Fweibo.com%2F&vsnf=1&su=MTEx&service=miniblog&servertime=1688376174&nonce=GZU4VA&pwencode=rsa2&rsakv=1330428213&sp=d2b60d2a793c37c2876f5963fa14301bcd02141a4e3219212885657f44085024a0d3ad37e67015ea3ef5cf15bb846397ed962afb159e1d14f354a4a1b2815672377f889515f0a859f5c6e0252fe52475e1e0aad3a04356008b6c5fce2c8151a168d7c9004774d0b77cefc2c6176febe0d3c786793fb032f7bdd46a00c2d2c959&sr=1920*1080&encoding=UTF-8&cdult=2&domain=weibo.com&prelt=33&returntype=TEXT

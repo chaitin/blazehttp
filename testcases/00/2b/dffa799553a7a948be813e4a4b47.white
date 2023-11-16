@@ -1,0 +1,18 @@
+POST /restapi/soa2/16163/saveLogInfo?_fxpcqlniredt HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 440
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://hotels.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://hotels.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"auth":null,"cid":"09031121410788884587","ctok":"","cver":"1.0","extension":[],"lang":"01","sid":"","syscode":"09"},"logTime":1688378020332,"oid":"","transId":"prd-2023_7_3_1-40fc61be-21e7-4301-a2cd-adff9c98c96b-hotel_online_list-3.6.2-DOM-online","source":"hotel_online_list","uid":"","version":"3.6.2","extend":"@1688378020283-3.6.2,@1688378020283-ext=bf740fc0-f98b-430c-a4a5-3dddf38369de,@1688378020331-start","content":"start"}

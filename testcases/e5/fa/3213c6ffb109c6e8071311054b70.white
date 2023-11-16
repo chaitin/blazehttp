@@ -1,0 +1,19 @@
+POST /common/oauth2/v2.0/token HTTP/1.1
+Host: login.microsoftonline.com
+Content-Length: 268
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://amcdn.msftauth.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://amcdn.msftauth.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+code_verifier=nrzhysnYuZ8sH3AwTmQ5sTQmVH0i8z08AsX-TxLGwIs&client_id=7eadcef8-456d-4611-9480-4fff72b8b9e2&scope=user.read&redirect_uri=https%3A%2F%2Famcdn.msftauth.net%2Fme%2Fcallgraph&grant_type=authorization_code&code=M.C106_BAY.2.c96cc445-6bb5-e691-cab6-b2206bd1ae06

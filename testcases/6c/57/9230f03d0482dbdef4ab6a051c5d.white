@@ -1,0 +1,16 @@
+GET /common/oauth2/v2.0/authorize?client_id=e8e8fc40-94d5-4ed6-89f2-9e5ec6c1e11e&scope=https%3A%2F%2Foneservice.microsoft.com%2FOneService.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fcn.bing.com%2F&client-request-id=425ea8f7-f563-48f3-a78e-311fe12319eb&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.28.2&client_info=1&code_challenge=F0zxMOenNeAW9mIhxS_oqpKJqnRD4raO37QvQmNq2lQ&code_challenge_method=S256&prompt=none&login_hint=agdngcy%40outlook.com&X-AnchorMailbox=UPN%3Aagdngcy%40outlook.com&nonce=ea2296aa-5da2-4a99-90c5-bf5c03396620&state=eyJpZCI6ImFhYTcxYjgyLThjY2QtNDBmNC1hYzEyLTUzZjU4OTNlYjg1MiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 HTTP/1.1
+Host: login.microsoftonline.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

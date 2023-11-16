@@ -1,0 +1,15 @@
+GET /pagead/adview?ai=Cccc98peiZM-JIJyQpt8P37ORyAvb3tazcIWw9-7ADmQQASCR19lHYJ0BoAH0_NPyA8gBAakC_9k1_dKAgj6oAwHIA8sEqgT4AU_QyOPhgRC3Tz8TLlf6LhcB2v9nR8uUGtMiE57VMIkHiDY_RgKblmOYknJWj4Uw56SFw9yPYcSANV82cKAX3W23A3t5iMv82tqstlzx6swZd_HGuh9p7A_ya_lpm-4DLFgOD42KNsAGQu_tZXnBWm9glTfZHRUEADX0hETuvNFvMyG4CkFlhSNehYOX7j8AlGThrPTE1SjiMviUtAz3KGGYSD7HcmMehYe3ORmJcO7b26zgqCu3Awr9ut3psSB4Kx2d5JsdbpC3VTe1YeNDUINCDMa7OUg16e8_G2deb_DZJG6-pfQaRrnx1SH5hQvywbi-fzypClbtwATixIq1hAKSBQQIBBgBkgUECAUYBIAH9IKsDagHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4b2AcB8gcEEO7LAdIIFAiAYRABGB8yAooCOgKAQEi9_cE6gAoByAsB2BMNiBQO0BUBgBcBshccChoIABIUcHViLTYzMzA4NzI2NzczMDAzMzUYAA&sigh=H_d8anLO-Go&uach_m=[UACH]&cid=CAQSOwBygQiDkGZyOqb4if-4wliyjb5fhxAEH6HmTCwROtP_EDocKxfKAdhUE8iRMR0jfkYT4LXI21ASSBMtGAE&template_id=5028 HTTP/1.1
+Host: googleads.g.doubleclick.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQj6mM0BCIWgzQEIpL3NAQ==
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6330872677300335&output=html&h=250&slotname=6800875204&adk=1979215374&adf=873255816&pi=t.ma~as.6800875204&w=300&lmt=1688377333&format=300x250&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000007926959&wgl=1&uach=WyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTE0LjAuNTczNS4xOTkiLFtdLDAsbnVsbCwiNjQiLFtbIk5vdC5BL0JyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTQuMC41NzM1LjE5OSJdLFsiR29vZ2xlIENocm9tZSIsIjExNC4wLjU3MzUuMTk5Il1dLDBd&dt=1688377333531&bpp=14&bdt=504&idt=40&shv=r20230627&mjsv=m202306270101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D6aafded440dc1db9-222c2b1155e20095%3AT%3D1688030263%3ART%3D1688377283%3AS%3DALNI_MbsZThAeu830LexlIJwjKsUTwoQDg&gpic=UID%3D00000c7abcaed475%3AT%3D1688030263%3ART%3D1688377283%3AS%3DALNI_MYlU_jI_6CqhR-WlKM2-RDQjLUl1w&correlator=3578620617007&frm=20&pv=2&ga_vid=1687488833.1675933087&ga_sid=1688377334&ga_hid=2067400873&ga_fc=1&u_tz=480&u_his=1&u_h=1080&u_w=1920&u_ah=1032&u_aw=1920&u_cd=24&u_sd=1&dmc=8&adx=1210&ady=319&biw=1903&bih=921&scr_x=0&scr_y=0&eid=44759927%2C42532279%2C44759837%2C42532277%2C44759876%2C31075625%2C31075641%2C31075721%2C44788442&oid=2&pvsid=241730147436721&tmod=1099378211&uas=0&nvt=1&ref=https%3A%2F%2Fcn.bing.com%2F&fc=896&brdim=-1917%2C3%2C-1917%2C3%2C1920%2C0%2C1914%2C1026%2C1920%2C921&vis=1&rsz=%7C%7CeoE%7C&abl=CS&pfx=0&fu=0&bc=31&ifi=1&uci=a!1&fsb=1&xpc=X7hKmmr1B0&p=https%3A//segmentfault.com&dtd=54
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

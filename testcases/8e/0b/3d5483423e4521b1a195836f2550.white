@@ -1,0 +1,19 @@
+POST /logstores/gaoding-prod-rum-raw/track?APIVersion=0.6.0 HTTP/1.1
+Host: gaoding-prod.cn-hangzhou.log.aliyuncs.com
+Content-Length: 1217
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://huaban.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://huaban.com/search?q=%E7%BE%8E%E5%A5%B3
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"__logs__":[{"attribute":"{\"sid\":\"9de9abbfaa4954aa6d1ad1ba46a520b6\",\"pid\":\"4d2aba013d9cc222\",\"sr\":\"1920x1080\",\"ad\":\"1920x921\",\"instance\":\"gaoding-prod\",\"browser_name\":\"Chrome\",\"browser_version\":\"114.0.0.0\",\"os_type\":\"pc\",\"os\":\"Windows\",\"os_version\":\"10\",\"sdk_version\":\"1.11.7\",\"sampleRate\":1,\"env\":\"prod\",\"version\":\"huaban-pinit-front_v2023-06-27\",\"uid\":\"83045b025f5b4a0f8f99bbbba475d0b9\",\"device_id\":\"83045b025f5b4a0f8f99bbbba475d0b9\",\"page.duration\":\"6520.90\",\"page.host\":\"huaban.com\",\"page.target\":\"/\",\"page.path\":\"/\",\"page.user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"page.referrer\":\"\",\"t\":\"vitals\",\"perf.lcp\":1960.6,\"perf.lcp_xpath\":\"#hb_home_list>div.__7PA500_F>div.content>div.slider>a.xQQC3tiW>img\",\"perf.lcp_pageurl\":\"\",\"perf.fp\":-1,\"perf.fcp\":659.2,\"perf.cls\":0.7254,\"perf.cls_xpath\":\"#rc-tabs-0-panel-pin>div.aFQ2kaAz>div\",\"perf.cls_pageurl\":\"\",\"perf.tbt\":-1,\"perf.fid\":0.7}","service":"huaban-pinit-front","start":"1688375420222000"}],"__tags__":{"tags":"tags"},"__topic__":"topic","__source__":"source"}

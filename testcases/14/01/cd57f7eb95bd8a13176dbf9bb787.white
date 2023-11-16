@@ -1,0 +1,18 @@
+POST /bee/collect HTTP/1.1
+Host: s.c-ctrip.com
+Content-Length: 802
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"d":"f001688378116504!m1Legacy!ac=ntl&d=xXsidHlwZSI6InRpbGVkX3RsIiwiY29tbW9uIjpbMTAzMjA2NzMzMDIsIjE2ODgzNzgwMTE4NDIuNGVqZmYwIiwxLDksIgMxAzEDMYYyLjguNDYDN5V0c21ieHEtMXQzbGxjZi1qajJnM2QDTIgiLG51bGwsIgNUA1QDVIZvbmxpbmUDWgMtA0SUMDkwMzExMjE0MTA3ODg4ODQ1ODcDbpZodHRwczovL2ZsaWdodHMuY3RyaXAuA4EBgS8GK78vbGlzdC9vbmV3YXktaGdoLWJqcz9fPTEmZGVwZGF0ZT0yMDIzLTA3LTA0JmFsbGlhbmNlaWQ9ODYzNDE3JnMDCIszMzI4MzQ1Il0sIgMrgWEDgUeFeyJrZXkDgWCUb19mbHRfY29mZmVlYmVhbl9kZXYDgWmTdmFsIjp7InJvb3RNc2dJREFycgOCB4tbXCIxMDAwMjU1MgNYmWE3MGMzMTItNDY4OTkzLTMwMTg2NTZcIl0DgiAGgiyHMSwidG9rZQOCH54iUFJELTMtMTQ4OWU2OTEtYzRiNi00MTRmLWJlYzYDLYswYzQ4Nzc2NDlhLQSBJoMwNzADPIguMi4yLVdFQgOCW4dWRVJTSU9OA4JtgTMEDAOCY5BJU19JTlMiOjF9LCJkdWlkA4J-A4JznSQudWJ0Lmhlcm1lcy50b3BpYy5jbGFzc2lmaWVyA4Mbj0RlYnVnQ3VzdG9tIn1dfQ~~&c=1&mt=1688378114827&jv=2.8.46"}

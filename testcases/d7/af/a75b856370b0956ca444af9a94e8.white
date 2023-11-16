@@ -1,0 +1,9 @@
+GET /fcgi-bin/set_cookie?lv_irt_id=&dm=v.qq.com&ua=Mozilla%2F5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F114.0.0.0+Safari%2F537.36&r=1688379825409&vid=w35059dj7ag&sr=1920x1080&ul=zh-CN&tv=0.0.7&pt=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&guid=773b388ae5c4718d842f32c91399210f&url=https%3A%2F%2Fv.qq.com%2Fx%2Fpage%2Fw35059dj7ag.html&from=https%3A%2F%2Fv.qq.com%2Fx%2Fpage%2Fw35059dj7ag.html&playing_url= HTTP/1.1
+Host: tj.video.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://speed.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

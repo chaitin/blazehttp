@@ -1,0 +1,15 @@
+GET /p?oid=100,100,100,100,100&cid=1,1,1,1,1&loc=NEW_QQCOM_N_Width2,NEW_QQCOM_N_Width3,NEW_QQCOM_N_Width4,NEW_QQ_Couplet,NEW_WWW_RM_RightMove1&aver=0,0,0,0,0&soid=ts6v6pst7qr5c01,ts6v6pst7qr5c02,ts6v6pst7qr5c03,ts6v6pst7qr5c05,ts6v6pst7qr5c04&pri=&exp=1,1,1,1,1&pv_type=1,1,1,1,1&tango=&dtype=&targetid=&btoid=&pctr=&btpri=&extstr=&index=1,1,1,1,1&ping_data=EAEYASABKABAGw_viewid_AAXy_VCSzYGn!CUG7oJZBWOvcePF4OnDM!ujU4oeUdU2XIWSfFHwXA,EAEYASABKABAGw_viewid_AAXy_VCSzYGn!CUG7oJZBQ99AvY2yR662Y_kJppwuLVZG4RyoHT9Ww,EAEYASABKABAGw_viewid_AAXy_VCSzYGn!CUG7oJZBfg9GMzETu0uNQc9sY3tG1YaMWBGYVYg5A,EAEYASABKABAGw_viewid_AAXy_VCSzYGn!CUG7oJZBeZfgaf2vms1Y02uvQ!yzYKNuvqpA7WJOw,EAEYASABKABAGw_viewid_AAXy_VCSzYGn!CUG7oJZBddLtmSStNkAvQsH554dNXob0zGYobIOFw&chl=&rurl=&page_type=1&k=&t=%E8%85%BE%E8%AE%AF%E7%BD%91&r=&s=&0.4142155320783365 HTTP/1.1
+Host: p.l.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,18 @@
+POST /api/console-base/cookie/govern HTTP/1.1
+Host: fecs.console.aliyun.com
+Content-Length: 978
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://ecs-buy.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs-buy.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+collina=140%23OIMoXI7dzzPx%2Fzo2%2Bi3sKtN8s77%2BPK4ng9wJT6WojGqWyKnX41Bgq07u3LUD7slcLxr7lp1zzqeK1tVPMQrxpKPza3h%2Fzzrb22U3l61cSPv7i5WKLZNaPEcgdNJazzrbKOU3lp15xe5OONdOHaU%2BWFqNygx%2FShxfAgJnU6mTY5MmAxE2p1qF9QmdzT%2BMQ2FP9GP1fB9R2rxEmay9vFoMW%2BQU%2FiqPt8t4xw8qFvHLmO1a94Zhvx9YT5QumN4yo5HekNDhiRvOCQGEyperRELQVK%2B7fkb5v2gNM%2BorgYvvfSvTH3rOaCpjk1qUSnEWazAV%2Fj4kvgptT8Bow4W9YHJfU5cmYicd3v%2BCydLRcuNp924L5WJyIC4pgU4jKhJKeW87sqQ%2BHHmt1LLNYvvELcZYm0p7gzq085gVaG3kyGGRsXuyiTfQRxAJe5FwhIOp%2BiX65QoiX40jPSEAgckMRecZ85hD%2Fu2uaC9Pkyulhg7yDIzMKP5XLa7ifeDGrzfrYE0Ca8UsTEiPbAsC%2BdqHHZBNF5esTCgt3TsO7F%2F5slc3ABDyZp9NXMbl30bPc5kkzZvOze7SnnRokDPKaL3dIlfqi25BxUkGE2euOdcY5W9Hlt2SK%2FF5u13sMg7dGS60ztozMk7%2BdXMpYHgZ%2BuD8%2F4nbNn3eDXPHTU9VWxerI%2Ff4%2FtlzECNesfFYwL%2BXWrvnfc4zfodWmQHDOSDkbobWNrVaiJ342KniEUmrArmPCPDugdVcxgY2GsKlQ0Lf7RHr1mkAnpINcpdBNuJqt5iJt4MhzesUSMYZK4nPUrcfdyYfTvWIiOm8zQNT%2FmpEzvpMQIMW0ZDJtf9Quis1%2BIKRU2b6&umid=Ydaad383b2618303615435c75eda01d76&sec_token=25NARh6Y

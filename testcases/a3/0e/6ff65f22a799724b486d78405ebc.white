@@ -1,0 +1,18 @@
+POST /cdn-cgi/rum? HTTP/1.1
+Host: ant.design
+Content-Length: 1349
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://ant.design
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ant.design/components/dropdown-cn
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"referrer":"https://cn.bing.com/","eventType":3,"versions":{"js":"2023.4.2","fl":"2023.4.0"},"pageloadId":"0838a5c7-0b2c-470e-9f69-0c60a0d3a68b","location":"https://ant.design/components/dropdown-cn","landingPath":"/index-cn/","startTime":1688376809182.7,"wd":false,"b":1,"siteToken":"99e8e5822a844cdaa1916725da659cf2","lcp":{"value":3883.100000023842,"path":"/index-cn","element":"#root>div.css-yu17gf.ant-app>section>div>div","size":202240,"url":"https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*6d50SboraPIAAAAAAAAAAAAAARQnAQ","rld":2985.9000000953674,"rlt":11.399999976158142,"erd":192.29999995231628,"it":"css","fp":null},"fid":{"value":0.7999999523162842,"path":"/components/overview-cn/","element":"","name":"pointerdown"},"cls":{"value":0.30613387905070416,"path":"/components/dropdown-cn","element":"section.css-1d0sb0m","currentRect":{"x":0,"y":0,"width":0,"height":0,"top":0,"right":0,"bottom":0,"left":0},"previousRect":{"x":381,"y":595,"width":1352,"height":73,"top":595,"right":1733,"bottom":668,"left":381}},"fcp":{"value":3843.2000000476837,"path":"/index-cn"},"ttfb":{"value":693.5,"path":"/index-cn"},"inp":{"value":72,"path":"/components/dropdown-cn","element":"ul.ant-menu-item-group-list>li.ant-menu-item.ant-menu-item-only-child>span.ant-menu-title-content>a","name":"click"},"timingsV2":{"nextHopProtocol":"h2"},"st":1}

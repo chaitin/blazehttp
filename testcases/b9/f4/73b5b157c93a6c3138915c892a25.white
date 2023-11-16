@@ -1,0 +1,14 @@
+OPTIONS /captcha/verify?lang=zh&app_name=&h5_sdk_version=2.28.9&sdk_version=3.5.2&iid=0&did=0&device_id=0&ch=web_text&aid=2608&os_type=2&mode=slide&tmp=1688383244298&platform=pc&webdriver=false&fp=verify_ljll8pb6_BRLiEicb_P0oH_46nK_9KTN_Xu52BPJcu1zw&type=verify&detail=GbqCba-nmU8230LS1Hjms-d*YR1enxA99zZXfybD1yT79Aw7C*pUujV*ZBnXl8it6UDXx7deyS4lZTtUNnUKqK2HJjc2iIDBqOQIp1*j5yDxgfd5yR5RrCDl1XQZ3kwsfzR7gWB8jfj3ta3yOd1bYHLOaP9tJxuzScHLZm4mwvB7ZiWKQ3*PGL2O5xO0pqydKDAFOX1VbUtRSJYVexEyD5QBdRPAq--rB4W8J6*TUmy-ZHujc2NnBDLfRJFagx240hynB9tXIii9bHmlQzWWEziLolpXLkDnWa4ScTpA5eu7wVwMESF5YunkUEXJd6iye6Sf*Bx5nGN7ALbZW3kKAAF1-2BzsBGLaoYWvAi9F2vFiQ5jQVOGejaO0ehO4*Lnjl*6YpgBE*ia-pUywfICWJbM3izo1SvS0aofZK6MAyCB6Bqv1MP-&server_sdk_env=%7B%22idc%22:%22lf%22,%22region%22:%22CN%22,%22server_type%22:%22whale%22%7D&subtype=slide&challenge_code=99999&os_name=windows&h5_check_version=3.5.2&xx-tt-dd=qJI7ttpVdGKKbSBvYqmaf0aPo HTTP/1.1
+Host: verify.snssdk.com
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: https://juejin.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

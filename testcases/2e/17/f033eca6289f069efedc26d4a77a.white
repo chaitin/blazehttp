@@ -1,0 +1,18 @@
+POST /x/v2/reply/add HTTP/1.1
+Host: api.bilibili.com
+Content-Length: 156
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/video/BV1gV4y1k7N1/?spm_id_from=333.999.0.0&vd_source=b3e4f900304b3567373da8122c2b5004
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+at_name_to_mid=%7B%7D&csrf=75a49d3dee0cd505eec38f4677904fb7&message=%E5%A4%AA%E5%8E%89%E5%AE%B3%E4%BA%86+%40[%E5%BE%AE%E7%AC%91]&oid=868683413&plat=1&type=1

@@ -1,0 +1,19 @@
+POST /v3/b HTTP/1.1
+Host: ac.dun.163.com
+Content-Length: 1656
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+d=.RmeRnroWN5IwTVFKAAJqAVmP7Ubh7i.Vi2Jsk.18O9oT2w%2F%2FNpnHiNWHw49U6IPeUab1eoF4YxA8yPExe5Y0tg9pmEw7SdrqUFGk%2FBAUzf4Ny5Xbu8csZpH0rw69QMjGuws%2BtjWzCQPz0WPpEub4b8dnS1F%2F4mwOv0KDGx4boa9pXah7fDyPtr9WsuKXRi17U0PDYxMwLiMXfse.mYLjMfkh%2FUOMWE8pYXT2bLEmvroji0J0RquMgZNgwWuum95QAqchcFizPy0QYcISyFjMhF16TNkYPEG0ojAzFU%2F1O%2B.CcABFGqkCKpthjh9vTSIrgD2.%2BLLJRJ6%2BFVXBmkka6GUhhLT7RJbBF%2B%2F2HeqKmBPQ2TXSPUMIePV0kfumGRdF0V4zGZwoV634njOYCoCkoO6ASiRIbt1HQ4tgh34.CNszQCJUQApwPtyniiRySzescWwcUCw3giMCE3M6%2FMrg4FN.RZXkNiU2bS4ywgEWPQOxQ1Pm5i4Vn5pVx0E2zp1GKPNm0GLWdK0kPybeckPDxPMVAL6STQ5uv8SAQyZk1nbks4H1HAhnLcuu%2FJtiatpzH266zovp23KreZAIaX%2BGi9kTLyCWO2ngqWJA.tL3UL2KGuYiVM3zsm8Mytd0gCuFKPXezjLtYqJOXpfYriGTHaa4cqFTTEW8aErFXS8Rf0IjrjkE%2BM%2Fe4nMsOm71%2BMmvp9EoDOpSB8obO%2FgCiiozEJ527n0xBd6OmQuZHyWLERJIPk%2F1.tfWedHQyzGsH1o3dtLgo3vA4KVsKDiBhB05VvM7Gswo6vBQqhQGg%2BMGjgLW2JUqPfZI8WtKv4RsSb9CG2Z69OBIo.4sSUEYN6G1Wku5D6B1X.n6f2zGnUz55x6KuqYYxc5KXPVmwtuiOqGYMFpIkuVtRx%2BhgjnRJzNNkvB8OehPxpb8TIOsErLxGaFawJajA7EpjEOsibud%2FLtkHybcPzURtOnS8tS6Kiu%2BG%2Fv7%2B2TEUEg%2FmkdZcgyxtn6B6htCDNG6I9LKumiEVQuiYc.1bFLzBQgsnRbsFTTK.EW1opaG9MxqzaUSQAmCNGxGVmg1BrUUMoUOv4FuDAp2g22.VrumJmydpQAYanGM3sGRJtRvpp9Au4MYQoHMjtJKsKoK4XYKNkGPoFdQY7OEePseybntYNwkUdnEuQATzcweJ5g7adbbTK5F4wpZCs5QqM9q5E%2F4fhDn6z78fsb9DrHisiWfpXPsIjAfwtgCvriR75g5ThqO%2BEkULf8pjE69T96aNzmJQ0JsyE5wXnbQwMTmpzvGS5zbbmJXOtJNidEDqVgb%2BjzQXGJXujzsgipCs0ggx4ZiSPUDQResdteYH6qeCBwfWqZs3vI3pLG%2FK%2FFNbniRpEe2BXi2LMELG%2FnXgEINS%2B6QbdGPkEjZRqr7noehMr3tPrnA1wg1ocY9JiyRNuaGY%2FHe94benk4ZT42poIWcku%2F%2FqYOkpxcRm7QGgiYSLVp8P2St2ILYKJ5eVP5k0H2UUcots2RWFIkPODSJ%2FBBO%2Bt9X6oo7gDq2HrboR7fYqll&v=e2891084&cb=__wmjsonp_4d949a6

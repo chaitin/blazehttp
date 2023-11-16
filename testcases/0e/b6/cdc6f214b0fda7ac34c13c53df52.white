@@ -1,0 +1,15 @@
+GET /secdev/sufei_data/3.9.11/index.js HTTP/1.1
+Host: g.alicdn.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://login.dingtalk.com
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://login.dingtalk.com/oauth2/challenge.htm?iframe=true&redirect_uri=https%3A%2F%2Fqiye.aliyun.com%2Flogin%2Fv2%2Findex%3FuiTheme%3Dwebmail%26takeOverParentWindow%3Dtrue%26deviceIdType%3DUMID%26state%3D801ffdc5-3762-4a79-afb8-bde9bc2fe9f3%26lang%3Dzh_CN&response_type=code&client_id=suitefjqkxvrnxxo9htk6&scope=openid&prompt=consent&state=42c1ada1-ee35-4266-8761-162e8d45410b
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

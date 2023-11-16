@@ -1,0 +1,15 @@
+GET /code.cgi?uin=0&key=domain,cgi,type,code,time,rate&r=0.5151348626850865&1_1=qzs.qq.com&1_2=/qzone/address/1.js?qzfl&1_3=3&1_4=1&1_5=25&1_6=1&2_1=snsapp.qzone.qq.com&2_2=/cgi-bin/qzonenext/getplcount.cgi?qzfl&2_3=2&2_4=502&2_5=87&2_6=1&3_1=base.qzone.qq.com&3_2=/cgi-bin/user/cgi_userinfo_get_all?qzfl&3_3=1&3_4=1&3_5=139&3_6=1&4_1=user.qzone.qq.com&4_2=//ic2.qzone.qq.com/cgi-bin/feeds/feeds2_html_picfeed_qqtab?qzfl&4_3=1&4_4=1&4_5=363&4_6=1 HTTP/1.1
+Host: huatuocode.weiyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

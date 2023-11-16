@@ -1,0 +1,15 @@
+GET /xhr/f169de09298f104bdc/tid/ts/wtid?ev=atnDwBgDwNGMrCXXw8dcxkb4KkfqYjO8P00rEcO7wAvcvAcywsKyHhbhOBwUVDmCv4OVrDHCQDIaQ1XQtDpDCEfCwZp5i0wwMmQ8vMDy1Sn5p3KjO6PiI3K0KkkrUxEgDMIcvCNog9krduw0PBDDDpDDiEYCwCwBcJwqwkqxwuqMOM37H4KsK79rtMKqO0O8O6D4AMKc7jHkK8Tcj%2FTiwDwPtoODuCCFlCtCRCbcoFZCVfkDkZwCnDrGKcOmKM3cF8jgK7HkLMZMOM3cKDO0OqZM%2FWsqOmQXDDodu6pCwctDnwwuUEPIlDMDcDwtfCjDchYAKEpMbMPsb7OhHc7MgX%3D8%2F0OBKwKSYsfXKqKVt%3DJDsXufvlRkGCtQwLNbjmDwDeCc%2BwLsCwjw6PKsz6PCnhKqFsnrk5KMsOnbp94nMvoKrDpQ8OhObCwEwDZCwswCwagiCejiEw0rxvjwTm2FDa%2FxkH9o41QiOoKcAEHsg%2FW8CvqDW%2FMFsK5EoKICVboDwCMDhbKIwswvnrfXDoqqepDC3wtdjFNMcwvCh8K37QO6gsOMSKU3o9oO8fp0sPqKcOV6lDwEw1oDwUtDwlf8&callback=jsonpCallback_1688379457704 HTTP/1.1
+Host: m.you.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

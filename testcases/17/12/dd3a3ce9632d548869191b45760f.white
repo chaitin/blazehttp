@@ -1,0 +1,20 @@
+POST /docpre/api/inner/statusex HTTP/1.1
+Host: kns.cnki.net
+Content-Length: 216
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://kns.cnki.net
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UGixHllolovfoV4tOQSjji4d05kzA655Yz-PZwk9ZnCK&uniplatform=NZKPT
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+OHs5idHiVhZCNPeNTeeXbEUUvr5JMV4AMjedUggytpeu0aXYgQrO4GMTugzDp58qZmyJGi6uNico+8Nmarw0II+u6Yp4FaQRr1cPZoVsqpuimVOXUW7XlI7UWuCwwBhEUC+Vexkm8g796tMbYIoGis6oTbSGt/1bjzqV1vD9wkkgV3tR2PpGdpbWpyT518P4na8sznkDixviO+3Ko3ciCw==

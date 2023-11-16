@@ -1,0 +1,19 @@
+POST /dl/zj/mail/ini HTTP/1.1
+Host: dl.reg.163.com
+Content-Length: 304
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://dl.reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dl.reg.163.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2023%2F%2Fcss%2F&cf=urs.163.5dcd4ddd.css&MGID=1688376203003.7632&wdaId=&pkid=CvViHzl&product=mail163
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"fb92d947f117b9c07f4851c0c73f23c4ed6165781244c208ddb210dfff86cc44e81d9ba13f1435c13da05d34f97c8afe44fc783fcaae957730ac703906e79a5421307d73e54443ffc443f82ef8abd16f9ba827be1d5f2c22079721b20a52c95e973341d20c739465f893164c97474aa33e3615eb93a6fee4e36fca4095920995e49e8938eb905f5259862c2b3c25e8fd"}

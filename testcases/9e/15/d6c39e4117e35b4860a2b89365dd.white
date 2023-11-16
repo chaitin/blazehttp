@@ -1,0 +1,16 @@
+GET /oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fsupportcenter&code_challenge=bNtpAWlbFdlmfCQ7kQYM2_BcXzFLPkqwz2CheADj81E&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fsupport.console.aws.amazon.com%2Fsupport%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ql_cu%26state%3DhashArgsFromTB_us-east-1_e69ce5a9d84ee1a2&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIASnJnKOIblXOEz63d9LzYZ8Va6J35UhKenIURCDB1ojAiEAucV81plV5mr%2FjXBk6HAHpuAKsOOjvmE5CRC0zDmmdTQqkwII6%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwyMDk0MjU5MzMxNjAiDDv7Sq%2Fundf3GyxzAirnAYzlC8JQg6%2FodVf0mUqg44MBUedxp46nUcacfpYZVwAElp5qXdXHvH27BLUtlNqLXcCAfkhhfQAki7RNJoRB8%2FkqvHoDxLqFiMZmBXJGjGumRiwiCDCheqcvMOg2HZ7Qo%2BDoV20camPcIyEigfKeyfqSk7uw1mXL6jnCLVmP4vrE46eDf0ljZHjswGjW0DEbIyNkgVo29vZfb0knvDH7NsNFJVsnedAD%2F74giRPsdOw1zxP8VlIAMnqZQuR03WIXU4oxTOzYqMwFdVeqLgMSjSf3Lfu055VFTr7DX3rVjkfXNs3eVY6wTDDbs4qlBjqPAfaO12o%2F6HxFIEs5A4FRqhXM7%2Bwi535A%2BQyxqCb7HZRdXjvz5b5RrZAXy9Rodq2ZovYwzpA7ZN49YDtcALsgiuyIkOlCFwDrjQNqWieCDVpfWBKvTeH2j%2FfSUWlgPuNDWYCR5bjOUBhK3uL4UeayVoXrE%2FNqyrHaJfIXJex9I9oVkj5%2BqKhXxptBUvbODNJ8&X-Amz-Date=20230703T101023Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATBQWCENUDO2THTMW%2F20230703%2Fus-east-1%2Fsignin%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5bcbc3d41320a4fe157bb778dc30c454d742a76329c58a63290a274e12352114 HTTP/1.1
+Host: signin.aws.amazon.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Referer: https://support.console.aws.amazon.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

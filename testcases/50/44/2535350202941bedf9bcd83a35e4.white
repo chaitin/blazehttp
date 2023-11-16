@@ -1,0 +1,19 @@
+POST /mp/appmsgreport?action=page_time_5s&__biz=MzIwMDk1MjMyMg==&uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzIwMDk1MjMyMg%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 1610
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&tempkey=MTIyNF9xMmFlQytOdUVsZHExaElLRnJyMWlBMjV3TG9FaUxzNU1nMU1BbmhEX1N5SlljTEMyZDJBVnU5dDdtcm95bkU5ci1xblpFX0ZmYXUtNldwLV9fd1lKQzlpYm5TN1p4aFU5RnU1dkxkWmRVMVZadXFReU9WQnZEckk3cEZIUWVjSUp4YlJSY21GUUhuLWhYRl9yQnVzSmVOVXhBNEJkZWRKZXFYWjVBfn4%3D&chksm=16f400fa218389ec60056d221adc8169fe44bb9c9d29522326489086a43a9c39fa33e1825158&scene=0&xtrack=1&previewkey=JJpTZC2yjJECg4b7kOoop8NS9bJajjJKzz%252F0By7ITJA%253D
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+report_bizuin=MzIwMDk1MjMyMg%3D%3D&title=0day%E9%80%9F%E4%BF%AE%EF%BD%9CSmartbi%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E&mid=100007831&idx=1&subscene=10000&sessionid=svr_1ee4802fd4f&enterid=1024&read_cnt=0&old_like_cnt=0&like_cnt=0&screen_width=1903&screen_height=921&screen_num=5&idkey=28307_78_2%3B28307_80_2%3B28307_64_1%3B27822_121_315%3B27822_122_1&copyright_stat=0&ori_article_type=&video_cnt=0&read_screen_num=5&is_finished_read=1&scene=0&content_len=465540&start_time=1688380269760&end_time=1688380275292&handup_time=0&inactive_time=0&inactive_time1=5000&inactive_time2=5000&total_height=3877&exit_height=3877&img_640_cnt=2&img_0_cnt=0&img_300_cnt=0&wtime=2599&ftime=2073&ptime=2219&onload_time=2599&reward_heads_total=0&reward_heads_fail=0&outer_pic=0&publish_time=1688380053&item_show_type=0&page_req_info=%7B%22startGetAppmsgExtTime%22%3A1688380269935%2C%22startGetAppmsgAdTime%22%3A1688380269956%2C%22receiveGetAppmsgExt%22%3A%22200%7C1688380270019%22%2C%22receiveGetAppmsgAd%22%3A%22200%7C1688380269983%22%2C%22domCompleteTime%22%3A1688380269967%7D&is_darkmode=0&from_masonry=0&search_click_id=0&webp_total=1&webp_lossy=1&webp_lossless=1&webp_alpha=1&webp_animation=1&download_cdn_webp_img_cnt=0&download_img_cnt=2&download_cdn_img_cnt=2&img_cnt=3&report_time=1688380275&img_png_cnt=1&img_jpeg_cnt=1&source=&req_id=03183pnnV7LENL9ZYofoSD1T&recommend_version=&class_id=&ascene=-1&hotspotjson=%7B%22hotspotinfolist%22%3A%5B%5D%7D&is_pay_subscribe=0&is_paid=0&preview_percent=0&is_finished_preview=0&fee=&pay_cnt=undefined&worthy_cnt=undefined&exptype=&expsessionid=

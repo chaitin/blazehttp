@@ -1,0 +1,18 @@
+POST /faas/proto/json-to-proto-json-to-proto/proxy HTTP/1.1
+Host: fe.xiaohongshu.com
+Content-Length: 1185
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"app":{"type":"App","value":{"nameTracker":{"type":"NameTracker","value":"wapT"},"platform":{"type":"Platform","value":"PC"},"appVersion":"discovery-undefined","artifactName":"xhs-pc-web","artifactVersion":"2.13.0","sessionId":"","trackerVersion":"0.1.33"}},"mob":{"type":"Mobile","value":{}},"dvc":{"type":"Device","value":{"dvceId":"927a82ae17ced391f1043c54d513d64d"}},"network":{"type":"Network","value":{"networkType":{"type":"NetworkType","value":"unknow"}}},"page":{"type":"Page","value":{"instanceId":""}},"browser":{"type":"Browser","value":{"matchedPath":"/protocols/news","route":"https://www.xiaohongshu.com/protocols/news","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","sessionId":"cbb68194-058e-465e-988f-b8e89a54e343"}},"user":{"type":"User","value":{"userId":"648c586d000000001403d2f0"}},"browserApmTracker":{"type":"BrowserApmTracker","value":{"browserFmpTimes":{"type":"BrowserFmpTimes","value":{"fullyLoaded":1367,"firstMeaningfulPaint":272,"firstScreenPaint":null}}}},"event":{"type":"Event","value":{"eventId":"c4fe1180-cdea-40e2-b961-0e3c9b1c9138","dvceMicroTs":1688377990126000}}}]

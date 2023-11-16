@@ -1,0 +1,17 @@
+GET /dashboard/instance/queryEcsCountByInstanceType.json?__preventCache=1688383035146.95.69926051787854&bizRegionId=cn-hangzhou HTTP/1.1
+Host: ecs.console.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Arms-Traceid: 71d8925dbde4b81f1c805ec522a3c910
+Arms-Userdata: traceId=71d8925dbde4b81f1c805ec522a3c910&domain=ecs-core&page=server%2Flist&session=NDF_wr62u1eZWaBIKSsBd&biz=server_list_20220621&__biz_id=server_list_20220621&bizId=server_list_20220621&actionId=755c9cea39a43667742f734993d59778&actionType=%40%40container%28%23new-warning-module%29%5Bu8sTzuXkzrpBUgtYOdTUP%5D%2FDESCRIBE_EVENT_WARNING_STATUS
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,17 @@
+GET /?appid=pc-item-soa&functionId=pc_detailpage_wareBusiness&client=pc&clientVersion=1.0.0&t=1688375750871&body=%7B%22skuId%22%3A10059961126719%2C%22cat%22%3A%226233%2C6264%2C6274%22%2C%22area%22%3A%2215_1213_3038_59931%22%2C%22shopId%22%3A%2210303129%22%2C%22venderId%22%3A10513850%2C%22paramJson%22%3A%22%7B%5C%22platform2%5C%22%3A%5C%221%5C%22%2C%5C%22colType%5C%22%3A0%2C%5C%22specialAttrStr%5C%22%3A%5C%22p0ppppppppp3pppppppppppppp%5C%22%2C%5C%22skuMarkStr%5C%22%3A%5C%2210%5C%22%7D%22%2C%22num%22%3A1%2C%22bbTraffic%22%3A%22%22%7D&h5st=20230703171550922%3B1784152647017041%3Bfb5df%3Btk03wce3a1cff18nl7myRtG8AitknU3aQgapJZSd6OmLsOQyU7FD-mZ7ayyylX2Hvrb4mFcEsaktF6Dj0aDtMYd7xrd9%3B0bcc9b62da4237b53750d4f0ee88f07324270f22404c50b0c2a2fd29a7c41b0d%3B3.1%3B1688375750922%3B24c9ee85e67cf80746dd82817ecbeafc7a829b35c7f446a4c7d476cc9faa1d8834a93323ad7bce9bef1bba682b93d2e3067eb51313b94b6fc3568ae7add54a93884367ebb3122f4eed3c4f424abfeb19d79a51eb1edc313fef68f537b1fd9dd7&x-api-eid-token=jdd03NX4CSOYD4M7RIFPZYV5PGBZM4MQCOGCE5GOL766D2CIHKLU54FMXHAY33CE4YJAXLGPEE2BCTB2EE5KNZFWHCDLJB4AAAAMJDMETJEIAAAAAC2UG7RTW5J52PEX&loginType=3&uuid=122270672.1688363422614408241737.1688363423.1688363423.1688375738.2 HTTP/1.1
+Host: api.m.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Referer-Page: https://item.jd.com/10059961126719.html
+X-Rp-Client: h5_1.0.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://item.jd.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://item.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

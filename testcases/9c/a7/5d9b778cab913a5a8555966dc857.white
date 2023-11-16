@@ -1,0 +1,18 @@
+POST / HTTP/1.1
+Host: data.js.design
+Content-Length: 980
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.design
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"theme":"behaviour","action":"register","distinct_id":"0sQnS5-PSLUNbnX34lloH","time":1688375701155,"user_id":"64a291910ef7f80e8ef41a7f","nickname":"你好啊","hrefUrl":"https://js.design/login?type=registerSuccess&wid=64a29180ca91f6026265f568","properties":{"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","device_type":"web","os":"Win10","browser_window_size":"1920x921","screen_resolution":"1920x1080","screen_magnification":2,"referrer_url":"https://cn.bing.com/","screenWidth":1920,"screenHeight":1080,"devicePixelRatio":2,"source":"360","plan":"ps","initExpandUrl":"https://js.design/?xl=a3273390191.k47347947756.c12683318635.g3740306725.p1791092700.m1.d1.t1&source=360&plan=ps&qhclickid=a9ea00ad11984d7c","firstEnterUrl":"https://js.design/?xl=a3273390191.k47347947756.c12683318635.g3740306725.p1791092700.m1.d1.t1&source=360&plan=ps&qhclickid=a9ea00ad11984d7c","eqId":"https://cn.bing.com/"}}

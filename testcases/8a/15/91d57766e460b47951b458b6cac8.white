@@ -1,0 +1,18 @@
+GET /online/api/poi/get?v=0.6738071922873576 HTTP/1.1
+Host: flights.ctrip.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-086xBPxXUepLE9tvHgEDnYN8iTti3dy19wo0j6QIatwqzJfnYD8WFDy3dWkhRNqwzQRLtvNFj87E1NjZHJSFwTzYdAw7LeH6EfGRpaihZEgDwBSIBjPYlMj8gybFI90R5GwdcjU8jfTihqyDHjL4R4NWafYlzvpQiNMJ0sy0jbXrkYkOiolRU3y6dKfcjaTjoBEZqypEOhizgYaEdmYTby6E7pYsqyBOvGsWNgePMx6oKSFj3byAfIBqwMmjfPwdHeQOEL3IHbwLninlRdEMgY8cyd5iFAYobWOLebnYz4jZEkhYaPyPmWpmeAnyQ8jGEkTY0dyd7ifQYU9jA4KBzE3bIf4eQLKfGxkfK9FelXJpmIonyXEL9iOzygnYPEG8i1nJDQRHEoLYaBwoGyMpjcAESUyfAElDjB9j5E0OiXBJUbYdTWFLYSGiHge9dW3UybHeomWQ3EbE5HYb4w4PEa4WkUWH3eLNE5zYX7whOj64eM7ybEAci5BJ0SjmDwSTiQ3E5bRXkyQEZ7Y4cwtUydgeG9y5E39inoJ0fiSsiHTYAmjc8it4EpfJ9vmbytAY6YpwtMyhaYLpRFtwUMj5tjpGiLoy1bjMbWdzRf5RpajNGE7ZYOgILaEZzjhBIHtvQbvBAWbaRfzI7FYnYhZiBgxo7Yt6Jl9ysSjdZvXHYAZRpHJXZjdte3fwX8vMliApR6BeM3EF0EXciD6W81ep0joZWGbELpJdZehcRgbY5byqgj3aRp4WT6vPtENbi0Si5tjlGvfoYb7vlhJkYsAJbFrFnK9lY8cwShY6dwU7EzLj9qYN4wZOJA8Kb4wsYfEBmeokE5QYnSEl7YlTyqkyfYmMy3nvzOj3mvPnedqYdbif0Y4HKkZyFsj6YDgyXfvhMw8UecdETlj19WNkYMhE4hymYNLxhfvdZySMrm8KlBeP5EBgWnfEk8ilJPYZkxHLia7ed6R0nvzqYHgWaceMLR1gW7BjfqWNSWg1WQ6KlY7v4krchJXoRbSvfMYn3WaGeQ5R4bWH9iMqY1PePNWtl
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

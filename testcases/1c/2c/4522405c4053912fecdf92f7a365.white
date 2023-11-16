@@ -1,0 +1,17 @@
+GET /link?url=hm_0DtYrfuLJDhE6-K5akw8v3Pf9T77d_tsyFnbNMJS&wd=&eqid=bb1e75480004ba7f0000000464a29f57 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=qq%E7%A9%BA%E9%97%B4&fenlei=256&rsv_pq=0xaff5209100001020&rsv_t=b6cfxTBVOUNtZPakN6BRVpS1QSKDo0NJFUTsYrzl0C8mlUd8%2FH5SaB7Fb46Q&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=8&rsv_sug1=6&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=qqkongj&rsp=0&inputT=2174&rsv_sug4=2174
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,18 @@
+POST /restapi/soa2/18088/getAppConfig.json HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 169
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appId":"5278","categoryList":["ubtconfig"],"head":{"appid":"5278","auth":"","cid":"1688378011842.4ejff0","ctok":"","cver":"000.001","lang":"","sauth":"","sid":"8892"}}

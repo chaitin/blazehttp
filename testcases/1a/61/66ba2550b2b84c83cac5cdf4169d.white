@@ -1,0 +1,19 @@
+POST /dl/zj/mail/vftcp HTTP/1.1
+Host: dl.reg.163.com
+Content-Length: 1456
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://dl.reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dl.reg.163.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2023%2F%2Fcss%2F&cf=urs.163.5dcd4ddd.css&MGID=1688376203003.7632&wdaId=&pkid=CvViHzl&product=mail163
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"8d00be1f6366d72a7870fcb6b95eb1578aace5e9fb163115ed5bb48c5fc04fd013f3cd929ac1019edb842f3e9fdac779251366cdca353238d3e3483c98495a20a170e006c742db8f05fc77231ce3e305ed6165781244c208ddb210dfff86cc44f5a78e681e4a80c954cbae105a78083d6c617a674c08f41c24e21a8ae8b283409a095f1d336e8dd861c84a0f3f9530efcd312f315954ccacd3aff9277fa0dbb5e7038244d1ed1519999cdbc4569eb708fc48ef0d1b3e1b575802387adf30dd4b358fbb1bc6ebd31c52288ee1353ef217a3647f03361e69a5e5022800c022f1324551dce8dfc4bd7235e809b2579d86be797af6a0c87f96cd8131e5d311ec27061e54c473ce0dd4f9c1a139dc52246b52001f1350ac32e884cb6e1980853c8beb15cf0cd99f19ba44722cee299e8489d4b33ddaa253f852f2b8d1a79e948d2e9003fd7400c56770022b0100414fd00682b3fc0e8537e378586f2f541b48236a128b6fcb0930f45ebf63bcc2255c8f933e26b40acb25c2c7ff6c810ffedd783d7339e3864996bac86db041bb807486b98b11976d6b49935a626410c239fce70fce7eb542579ebc4410b2f38f2177539d000a4247921b4aa15495555a149414adb035298fce1c3d722a9d5e36ab38186df5ddca2466256984de3fc02877890174c532475becb1549e57c656dfb33926dc6c0310deee318b33cee511687ada4f01761bf03ca873fd17c81997e2b834c07e56d3d850e3b42525a67d6d00930227ec1752be3c24b11b0925aeec37e064a8aaaed2b0f97e378219220e91fec22afd9d23080d0ac5a53e6ba3a95678ef526fe9fcc9efdf25173d92a706ccb4565a5a9f399001173526c347b25a8008437941b3aa6d393821345c4192a2c77e21dfb704b4a8f5edbc6467fc2f9564f7aaf3d1097320d072da7f40e2a0f15d4d47ad0801537a505c900ba2a30cd5d6deaf7d70925527ce9abc09f4be52231bc132073a825ccbac47a4b97a1c3f84d72971c7720a6a"}

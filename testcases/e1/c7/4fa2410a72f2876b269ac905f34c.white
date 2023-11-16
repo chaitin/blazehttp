@@ -1,0 +1,22 @@
+POST /speed?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379274198&from=https%3A%2F%2Fuser.qzone.qq.com%2F183678453&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 924
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryvWhCIAvpInTkGOlJ
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryvWhCIAvpInTkGOlJ
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[],"static":[{"url":"https://aqqmusic.tc.qq.com/amobile.music.tc.qq.com/C400003u53bt2rZEA1.m4a","method":"get","duration":230.8,"status":200,"type":"static","isHttps":true,"urlQuery":"guid=8480998448&vkey=909463DAF6EB183DDD9B140ACC07108401B072D618A7050DB82C7D8D192D40F5F23F3BF5113B0908363FBE0CACC829D06C2EC16417D176B6&uin=389264167&fromtag=123032","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0}]},"id":"RiaWqsnTHOaqiNeiQn","uin":"o0389264167","version":"1.23.51","aid":"7d994c22-9157-4bfa-84fa-2628ba4bc8f4","platform":100,"x5Type":3,"netType":100,"sessionId":"session-1688379274198","from":"https%3A%2F%2Fuser.qzone.qq.com%2F183678453","referer":""}
+------WebKitFormBoundaryvWhCIAvpInTkGOlJ--

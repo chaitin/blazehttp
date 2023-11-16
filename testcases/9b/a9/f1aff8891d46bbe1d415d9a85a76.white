@@ -1,0 +1,17 @@
+GET /search/eclk?p=f0adtVnObZ3SQD0seAtHFNaKGNNfgMjnbP2N2nPV7WuRXiPiDpaRTXHgxquTk94z10Cw0FP9u9XlSp76_Oz5fJBVQRY6bKw2b6Wc8eNkT9TjY7OtSBTdOSJfYh_MeDRfgr9kcZrV8Gx1wk90JUxUYhHcyldNI7Yn4mkiCWA1kiUzuEaTbo5ZJgc7QbzqdZ6_M1OJ9UWYjWiwRk0xxCvEDVWo3R9RpqKW8B3FJoOSewjuuukPKnhCzZrxfjKb8-Kl1tKJfyMncavNhkPQBjZM-dcm3cWpdBQqW_q6lALYx1kCqKTGc_zT-aBjQgUAYXqV0egER8CHdG1mG5ILk4sr4V26TbdV4uTleTEQT1PUDZ_FnjfJcoYijkdpIGjATslEPNFxx_6nNQpWe51iYIOE-eyG-75-azz2Kfm1bfs7ZZoycLgnt-4wifOhrVljOVX0mmIKhSauvd5xge4-00ieWEDvFEy9HHY-szb0I3mEQQM055NnL642mKMEgdbFEoEOGwSrl9zDbghIO3SiVlPw3-xT6gXuBD1qfSUc3Atag94Xgl0EWNUanN4VUcdlAziZXVQ_ognT_2P_rOcryf5QGwu67SgSUxem_vEvnuVQFq0rNboZvRC2BICWgV8EDy0R9SRGHyJmI7hyZPwV7miGKSQD8rhDyAj2m3YsHRvrOm5MNBlhLhp3D7p_AeVyf3qVtw1Cgvjf4N7IAuZSluhRk0IJN3D3fLvLREzWLP8Y8z-r9Bao0HTLD6TlPd7dj7jJhLXg72MjA4pdmzwvAOsT0RWCEyR_XQQ9wA6mQKM&ns=0&v=2&at=Aea3seS_oeacjQLotoXono3lkIjkuIDkvZPmnLos5reY5LiN5YGc77yMPOa3mOWunT7lsLHmmK_otoXlgLwh&aurl=aHR0cDovL3JlZGlyZWN0LnNpbWJhLnRhb2Jhby5jb20vcmQ_Yz11biZ3PXVuaW9uc2VtJms9NzQxNzVmMTNjNzQxNTdkZiZwPW1tXzI2NjMyMzYwXzg4NTg3OTdfMjk4NjYxNzgmYj12U2lzeUpCQkdzdnRIc21DaGt6JnM9JmY9aHR0cHMlM0ElMkYlMkZ1bGFuZC50YW9iYW8uY29tJTJGc2VtJTJGdGJzZWFyY2glM0ZyZWZwaWQlM0RtbV8yNjYzMjM2MF84ODU4Nzk3XzI5ODY2MTc4JTI2a2V5d29yZCUzRCUyNUU2JTI1QjclMjVCMSUyNUU0JTI1QkYlMjVBMSUyNUU2JTI1OUMlMjU4RCUyNUU4JTI1QjYlMjU4NSUyNUU4JTI1OUUlMjU4RCUyNUU1JTI1OTAlMjU4OCUyNUU0JTI1QjglMjU4MCUyNUU0JTI1QkQlMjU5MyUyNUU2JTI1OUMlMjVCQQ&sig=bf9c&bt=1 HTTP/1.1
+Host: e.so.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

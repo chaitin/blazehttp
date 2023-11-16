@@ -1,0 +1,18 @@
+POST /weapi/artist/top?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 480
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/discover/artist
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=xiYAxoddLDE%2BdrwF4ShzZGDbKkL%2BbTtUmN6tpVgQxZlIr7RMjav5WN7e6IVr9xRPOoND%2BhXzcXrnum9O1TFJVdXpX93BqKhXJ%2F%2FAru4LvNhlk%2FE45SXFK78wDq5yMORjF59wwFgthnN8KjbkzWNwZ3sT2UjmLxJlceePwhs58HCBhU%2FUMefVzK11Gu9fPmlp&encSecKey=30fe8265a2c66de6332e1995e7394089749b4b85acdc2f18d6d8b3013bfd4cf3ededada03bd5d45ca1f76f71d92b0db63e3d4b5bd26fabde9bb3734b8b90be163a0fca499fe1fdb6f280647e659ba723b33cde5b055a085645c6ea49b290cc8713a476e14b793a7a49c53fa1c1ac1087c85bcc453c0ca5e33af38d273e949c0a

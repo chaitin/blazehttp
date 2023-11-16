@@ -1,0 +1,18 @@
+POST /cgi-bin/musics.fcg?sign=zzb17d3bde9j0qot26rslwthi8lpxermwc8963b09&_=1688383894540 HTTP/1.1
+Host: u.y.qq.com
+Content-Length: 1642
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"req_0":{"module":"music.UserInfo.userInfoServer","method":"get_user_baseinfo_v2","param":{"vec_uin":["1152921504763685208"],"ifpictype":1}},"req_1":{"module":"music.sociality.KolRank","method":"getUserIdentity","param":{}},"req_2":{"module":"music.sociality.KolAdminIdentity","method":"Identity","param":{}},"req_3":{"module":"music.sociality.KolAdminIdentity","method":"ArtistLst","param":{"OnlyParent":1}},"req_4":{"module":"music.sociality.KolAdminIdentity","method":"ArtistLst","param":{}},"req_5":{"module":"music.sociality.KolIdCertStatusSvr","method":"GetKolIdCertStatus","param":{}},"req_6":{"module":"music.sociality.KolRank","method":"getAllRank","param":{}},"req_7":{"module":"music.ugc_authority","method":"get_user_authority","param":{"platform":0}},"req_8":{"module":"music.sociality.SigningOnline","method":"getSigningOptions","param":{}},"req_9":{"module":"music.sociality.KolRank","method":"getUserIncomeStatus","param":{}},"req_10":{"module":"music.sociality.KolLoginReport","method":"ReportUserLogin","param":{"from":"0"}},"req_11":{"module":"music.fansManagement.authentication","method":"CheckDynamic","param":{"SquarePos":1}},"req_12":{"module":"music.sociality.OnceVisit","method":"getUserLatestCopyrightAuditState","param":{}},"req_13":{"module":"music.sociality.KolCompanySubIdentity","method":"GetSubIdentityBindStatus","param":{}},"req_14":{"module":"music.playlist.PlaylistCommercialRead","method":"McnInWhiteList","param":{}},"req_15":{"module":"mlive.anchor.MLiveShowStreamerAuditSvr","method":"GetAuditStatus","param":{}},"comm":{"g_tk":317648113,"uin":"1152921504763685208","format":"json","platform":"yqq"}}

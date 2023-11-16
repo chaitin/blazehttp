@@ -1,0 +1,14 @@
+GET /main/a.js?event_action=click&event_name=click_expert_advice_theyadvice&page_name=expert&topage=https%3A%2F%2Fyou.163.com%2Fexpert%2Fadvice%3Fid%3D20000174&client_type=web&url=https%3A%2F%2Fyou.163.com%2Fexpert%2Findex&refer_url=https%3A%2F%2Fyou.163.com%2Fsearch%3Fkeyword%3D%25E5%25BA%258A%25E5%259E%25AB%26timestamp%3D1688379583251%26_stat_search%3Dhot%26searchWordSource%3D8&t=1688379594180&sessionid=63bc9137-dea9-425c-9174-194c08a0c7411688379457521&sequence=c_6f8f98253d&from_seq=v_f8b37a37e8&seq_list=v_cb1dba58d5%3B-1%3Bv_4edf2d1ce2%3Bc_e2b1a9891e%3Bv_d75d980128%3B-1%3Bv_68becf64e6%3Bc_785129f573%3Bv_25b0cfe537%3Bc_47c65989ff%3Bv_f8b37a37e8 HTTP/1.1
+Host: dc.you.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

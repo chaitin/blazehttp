@@ -1,0 +1,19 @@
+POST /handle HTTP/1.1
+Host: tsdk.qq.com
+Content-Length: 460
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+xubN7QAAAAMAAAAfAAAAAAAAAAAAAwAIAAABNAEABTEwMDg2SkV+MXAIe9YEFPLijIcUknZxaH9RpFS674UYH/1j1kZLVK84uN1qDkcJy7fdgwJ5ameTnu5ykygcjZXxKk74Uk9gOq5KlhuAqakfvApIrHEOfRK5d+4tYofhjgX3Vu2q7vpq8/WE86mjmKaokcmegCgTxetkRCOIRSEuciLK9pqmeV21r/5WCMv14GJSHfD/Zb0fcQRzaOkB5pQNo+EBiq+pawTpWE0ZjtI9KkJzM9fCBHgnmPVB+s4Tnz5r5AEOdF+9Tztrt01/CEcInoKs64oq4IDyQmzvIyO8iSoQgECkkhbJNsnz3Wx3kzNcMGORhLQIII8fwHj7KGmqlqbXdWdzMOnnIJWXgpkhTNNB+E9qkbXG98eT09VzFIaOYwtXmSXF1ADtT25y0wuKsCEhAm+dT68=

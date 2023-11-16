@@ -1,0 +1,15 @@
+GET /proxy/domain/plist.photo.qq.com/fcgi-bin/cgi_floatview_photo_list_v2?g_tk=1508769380&callback=viewer_Callback&t=560858733&topicId=c775dc27-636e-43bd-b52d-59a30cad6b96&picKey=NR8AVjZiQ1FBeE9ETTJOemcwTlROT2E2Rmt1UFQ3RlEhIQcAcGhvdG9neg!!&shootTime=&cmtOrder=1&fupdate=1&plat=qzone&source=qzone&cmtNum=10&likeNum=5&inCharset=utf-8&outCharset=utf-8&callbackFun=viewer&offset=0&number=15&uin=389264167&hostUin=183678453&appid=4&isFirst=1&sortOrder=3&showMode=1&need_private_comment=1&prevNum=9&postNum=18&_=1688379274493 HTTP/1.1
+Host: user.qzone.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/183678453
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

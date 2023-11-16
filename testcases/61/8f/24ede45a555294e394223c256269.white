@@ -1,0 +1,18 @@
+POST /analytics/v2_upload?appkey=0WEB0OEX9Y4SQ244 HTTP/1.1
+Host: otheve.beacon.qq.com
+Content-Length: 1603
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=utf-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appVersion":"","sdkId":"js","sdkVersion":"4.5.14-web","mainAppKey":"0WEB0OEX9Y4SQ244","platformId":3,"common":{"atversion":"3.3.3","system":"Windows(10)-Blink","browser":"Chrome(114.0.0.0)","uid":"100003290640","fromsource":"gwzcw.7455492.7455492.7455492","from":"","from_column":"","islogined":"true","pagetag":"","trafficparams":"***$;timestamp%3D1688383695816;from_type%3Dserver;track%3D209e824a-63cb-4713-b428-eba9e8ddf6d8;$***","owneruin":"100003290640","qclouduid":"d25addea5c3c4ce19e1bcc9f0a430ff0@devS","A2":"BxWSJw8tHc0T3KPB1c9Z2idy0hQ85Ddf","A8":"","A12":"zh-CN","A17":"1920*1080*1","A23":"","A50":"","A76":"0WEB0OEX9Y4SQ244_1688383701023","A101":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","A102":"https://console.cloud.tencent.com/vpc/flowlog","A104":"https://cloud.tencent.com/act/pro/seckill_season?fromSource%3Dgwzcw.7455492.7455492.7455492%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.7455492.7455492.7455492","A119":"","A153":""},"events":[{"eventCode":"stay_page","eventTime":"1688384088866","mapValue":{"viewportWidth":"1920","viewportHeight":"921","url":"https://console.cloud.tencent.com/vpc/flowlog2/topic?rid%3D9","pathname":"/vpc/flowlog2/topic","query":"?rid%3D9","hostname":"console.cloud.tencent.com","qr_rid":"9","pagefrom":"console.cloud.tencent.com$$/vpc/flowlog2/dashboard$$","urlfrom":"https://console.cloud.tencent.com/vpc/flowlog2/dashboard","title":"日志配置 - 流日志 - 私有网络 - 控制台","staytime":"4730","isExit":"false","A99":"Y","A100":"130","A72":"4.5.14-web","A88":"1688383701022"}}]}

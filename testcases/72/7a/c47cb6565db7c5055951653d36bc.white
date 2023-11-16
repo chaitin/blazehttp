@@ -1,0 +1,17 @@
+GET /xhr/common/checklogin.json?csrf_token=fe833680fc746bd0c10921e484cc5182&__timestamp=1688379464576 HTTP/1.1
+Host: you.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/javascript, */*; q=0.01
+Ntes-Spanid: 79464545
+X-Requested-With: XMLHttpRequest
+Ntes-Traceid: 1#web-monitor#1688379464539#7bj9Idm4
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/u/login?callback=https%3A%2F%2Fyou.163.com%2Fcart
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

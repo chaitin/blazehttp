@@ -1,0 +1,31 @@
+POST /webv3 HTTP/1.1
+Host: ev.csdn.net
+Content-Length: 1275
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Device-Type: web
+App-Ver: 1.0
+X-Hasdk-Productid: 3629892982708167306
+App-Id: 243650030996486022
+Servicetag: _openness_config_tag
+X-Hasdk-Debug: false
+Request-Id: e945b4069aec4fb2a5f84cb765b8dcfd
+Sec-Ch-Ua-Platform: "Windows"
+Sdk-Name: hianalytics
+X-Hasdk-Resourceid: p1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+X-Hasdk-Clientid: 616369439914343296
+Package-Name: 243650030996486022
+X-Hasdk-Token: eyJraWQiOiJWR0pFNlFXTDZjOHZQVjQ0M0NDaUZWQ3JMNWNPaEx2TyIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiI2MTYzNjk0Mzk5MTQzNDMyOTYiLCJjbGllbnRfdHlwZSI6MCwiZXhwIjoxNjg4Mzg5MTczLCJpYXQiOjE2ODgzNzQ3NzN9.aCpoq4AFngqzqnPmVJxRepgUNMAqOO2Msmh8185gNQ8
+Accept: */*
+Origin: https://mp.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.csdn.net/mp_blog/creation/editor?spm=1001.2101.3001.4503
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"header":{"protocol_version":"1","serviceid":"hmshioperqrt","appid":"243650030996486022","timestamp":1688374778168,"servicetag":"_openness_config_tag","requestid":"e945b4069aec4fb2a5f84cb765b8dcfd","productid":"3629892982708167306"},"event":{"events":[{"type":"oper","event":"$ExitScreen","properties":{"$CurActivityName":"https://mp.csdn.net/mp_blog/creation/editor","$CurActivityId":"https://mp.csdn.net/mp_blog/creation/editor","$Duration":2224,"$TaskId":"","$PrePageId":"","$CurrPageId":"https://mp.csdn.net/mp_blog/creation/editor"},"eventtime":1688374778163,"event_session_name":"8d11f268116b465bb51c8e5ba55402af_1688374775939","first_session_event":"false"}],"events_common":{"aaid":"533d0185-1108-0c73-d181-47d2fad815b7","userid":"","properties":{"_new_user_flag":1,"_signed":0,"_restriction_enabled":"false","_terminal_name":"","_app_ver":"1.0.0","_restriction_shared":"false","_model":"Chrome","_lib_ver":"6.9.9-301","_lib_name":"hianalytics","_lib_type":"Web","_sys_language":"ZH_CN","_os":"Windows","_os_ver":"10.0","_screen_height":1080,"_screen_width":1920,"_browser":"Chrome","_browser_version":"114.0.0.0","_browser_language":"ZH_CN","_first_open_time":"1688374775938","_is_testdevice":0,"_package_name":"243650030996486022"},"events_global_properties":{}}}}

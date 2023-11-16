@@ -1,0 +1,17 @@
+GET /v1.0/me/photos/96x96/$value?state=33cf00c5-c44a-4578-8a65-0795efce76d3 HTTP/1.1
+Host: graph.microsoft.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer EwBIA8l6BAAUAOyDv0l6PcCVu89kmzvqZmkWABkAAaq5Fx6at0yKj81h2ezkp3ZFN1BtdmRzQbOrWnftUapec6M1WfQee0Ene1i2N2emIhBlbv+tcBAWbIRIL4HnO0upue9d0pANq/go/B/AdCW4PM9lG4IZ1f+jyEDfkqnzPVbX/CpBfyD4vYAupQdlfMe2CaNeVj/YPUJVkTSRkgZMveitl6ranMqtrbItRYsN23PnhKeidIsms1tKn8f+csNYlwKUuEMv22SLBcgtl9Fx3I7Wfr7fX+XnQEeARdI0ayxev/YZIF7P9vOEI9n/QZ/f64BudAWcQQxiNAQQT3418rYqDiy4Sp2wID/Fcok90xvsFkTLPgWSFvxgSnkiyBADZgAACCCsT3VDiJIRGAJhPyl7OcMUjWOYPXL6uCKDq7W+ZI1USv34udRQtFXXkrz4Jv3ncSyN8dg4fkdMoy2fd5Ci8A102t9Qr7joAtP/h2o8qBIC4BZh/kjIq0I4v+JGb1c1yPi3jc/+OZojEc4O0P5JJ4FIHpgi/ilTkWO3noWDQkIkv3p96Varmwbjg1XBwCpwPhY7VTK7eHx/LxftGrfMbO+bogZJ+USoxWuH8XEY4Cwev7YZ9d+MrQ4mJ743cMR+7oNYBt/Om6L8TMSpnWmd9lVfZQoX1a5q2HveGUP1r5gEtDjJKWeXhTZ3WtEe9ATnzbx2tMZFynVduOKDYVLKrxPbVXgRaV9dK8WkzPT6fzfjjhtZYYAagUOKQqrSqHkMZu8orGZlsgY/o7sbgrjL9p9PCaiZtDLcB+wXKqBaSsKOH3/JUO8Tps3IYV5jqbu/30qaxqZHqpA9H30YEDf14gnXt3WDE0ULp0PXhciZWeszka3vb5BB9pUOrKUD5R7tk10Up5+bWm3/Ndm7VujlKbvadDQpyViP/qWkvgrh1tHT/QSFLO2tT4qa8VOatQZQQ/KJqTUVlpkfK2m8QY9GtMnABH+/Li7LKsQhkPMv2zZoflpHXBPjUB9qD4IYBXFjhOPEb1T8rB5ZfMAg6THOHwzGTtYGUSzwpUNOdz+6oyjd2uMCOVrgQvdL3VMpmKf1Ttf4Yb7kWODFjB7Za0Hay22EPkUC
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://amcdn.msftauth.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://amcdn.msftauth.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

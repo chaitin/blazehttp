@@ -1,0 +1,22 @@
+POST /international/search/api/lowprice/calendar/get45DaysCalendarDetailList?v=0.7825169427436931 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 215
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-ZQMWHPIoSrqaw14I3he9MRQFJ1qRA7YSOwUgjdDj41jaMvBqiXkjtMYgZWZ7yfdwqBJZcjfQvBSJLNygbJFZj5aJfkYqaE30WPQy5FRFmw7UY6lKhzepYfkRQkEOqYaSR3twNbjkNjpZi4dysQj76RHaWP1EFPv6hydMwXzK6fiUgrPYcUy0lYG0ic7KntjLcjT5El8ynEMfiOkY3EqMYUlyZE7zYUSytTvM5W1gesLxtZKPZjHQyhFIZBwnoj31w16e97E5NIq5whci0fRbE7ZYtlyPMiN1YXSWApeH8Yqkj5En3YgayUaWh7eamyXHjqEP0YGMyZ5isNYNajoHKmhE6tISteH8K4Gx6QK7meZkJqfI4DynEN7iZayklYGES0iLAJ4lRBE5fYBSwfFytQjcDE7Fys5E0QjBmjAE65i50JtXYlnW61Yshi6BeLUWtqyz7eB3WLGEBEpLYtHwodEnOWLsWFgeX3EqfYBfwFkjPqeTAyUEk8ioBJSlj38wgtiTXEF6RSFyHEUaY4lws8yT9e8MylEtdiacJhOiqXiHaYDBjdmiOkElTJSvgDRsfrnYAfJTDWfZw7nRTDw5QjhbjOmiP3ypljsFWFzRfoRO6j3ZE4oYAsIkOEchjs5I0tv5Ov7cW3PvcqJ84eAYOnyPcwf9yZgYntW5OihfJf7vT3jonWSfimDePqYDcydaj48JzTe9SEG4yhnJ8NRSpe9Sj3pJXcjHgRUqeg0jNnindwGaRNQY7Fy6tJq0j6PwnpE1cWBQj4tjbAjFOEsYAkRHAwM6xAfYXGwNUYsOwnZEL4jHXYa1wcUvcmyFFK1Yk8KFkwNQy7kYSqE57yl9KMBYTYkUI73iBAYl9v9AeBGYAMi1LYhNRqowcHWXYZcR1DxBPicGeShEqXjs4W0QvZZKtqJMYBAJ35yPnKFHrsLK0fe1qE0QW4mKftIhTxzYkjtLyqfyAOR58vn9Y3nWc4eqTRQDWn0jftWTgJNFIc8r4YagYT5jmFyH1R1OvFqYnPWgheZPROTW9FiSmY3Zx5sy5
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"flightSegmentList":[{"arrivalCityCode":"BJS","departureCityCode":"HGH","departureDate":"2023-07-03"},{"arrivalCityCode":"HGH","departureCityCode":"BJS","departureDate":"2023-08-03"}],"cabin":"Y_S","flightWay":"D"}

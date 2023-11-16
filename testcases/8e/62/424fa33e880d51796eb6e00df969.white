@@ -1,0 +1,23 @@
+POST /v1/initialize HTTP/1.1
+Host: exp.notion.so
+Content-Length: 604
+Statsig-Client-Time: 1688375271567
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Statsig-Api-Key: client-Tgza5wNFa8dVt9BdeUfG6Vkm29bHxX10MhoztTMzLBB
+Statsig-Sdk-Version: 4.36.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Statsig-Encoded: 1
+Statsig-Sdk-Type: js-client
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+9JiMipGZiojIoNXYoJCLlVnc0pjIzFGdsVGRzRHclN2YhJCL9JiMxUDM4UWN2ITM5MWL2cjMi1yY0EDNtUWYldTL2EzMxUDZ0cjI6ICRJVGbiFGdzJCLiAjL2MjL0IiOi42bpNnclZ1akNnIsICduVWasNWLzpmI6ISZwlHVrR2cisnOiEGdhRWY0VWTnl2c0FGdzJCL91nIu9Wa0NWdk9mcwJiOiIXZpRnI7pjI05WZt52bylmduV0ZpNHdhR3ciwSf7pjIzVGd1JWayRHdBVGdhZXayBnIs03e6IycElUbvR3c1NmIs0XZ1JHd6IiclN3dvJnQw9GdrNXZENXaiwSZzxWYmpjIlxWai9WTzlmIsUWdyRnOiIXZzd3byJ0cpJCLlNHbhZmOiIXZzd3byJUZslmYv10cpJCLlNHbhZmOiUmdpRXYOVGbpJ2bNNXaiwSZzxWYmpjIu9mc0NWZsV0cpJCLiMDNx4CMuITMuMjMiojIu9WazJXZWRnbllGbjJye6ISbvR3c1NmIsISYjVWM1EmY3kTO1MWL1YTMh1SO3EGNtMWZkBTLxEjYzgzY0QjI6ICRJJXZzVnI7pjIyV2c1Jye

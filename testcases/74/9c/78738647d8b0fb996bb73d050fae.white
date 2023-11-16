@@ -1,0 +1,15 @@
+GET /collect/whitelist?id=QV3d8hJE88e8bbEqe3&uin=100003290640&version=1.36.4&aid=00010011-0110-0001-0110-000000011111&env=production&ext1=%2Fact%2Fpro%2Fseckill_season&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688383698299&from=https%3A%2F%2Fcloud.tencent.com%2Fact%2Fpro%2Fseckill_season%3FfromSource%3Dgwzcw.7455492.7455492.7455492%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.7455492.7455492.7455492&referer=https%3A%2F%2Fcloud.tencent.com%2Flogin%3Fs_url%3Dhttps%253A%252F%252Fcloud.tencent.com%252Fact%252Fpro%252Fseckill_season%253FfromSource%253Dgwzcw.7455492.7455492.7455492%2526utm_medium%253Dcpc%2526utm_id%253Dgwzcw.7455492.7455492.7455492 HTTP/1.1
+Host: aegis.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cloud.tencent.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cloud.tencent.com/act/pro/seckill_season?fromSource=gwzcw.7455492.7455492.7455492&utm_medium=cpc&utm_id=gwzcw.7455492.7455492.7455492
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

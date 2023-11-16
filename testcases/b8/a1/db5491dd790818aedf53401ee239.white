@@ -1,0 +1,19 @@
+GET /blog//phoenix/console/v1/article/cover-for-editor HTTP/1.1
+Host: bizapi.csdn.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ca-Signature-Headers: x-ca-key,x-ca-nonce
+X-Ca-Signature: o+yCRxtk9LFJM/YhgZNbzC3b2Fi8L7qP8IU56yWwYPQ=
+X-Ca-Nonce: 4c30896b-314b-4ed5-98dc-c84a1ad28943
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+X-Ca-Key: 203803574
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://mp.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.csdn.net/mp_blog/creation/editor?spm=1001.2014.3001.5352
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

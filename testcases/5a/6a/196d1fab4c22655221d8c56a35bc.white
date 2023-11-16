@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx? HTTP/1.1
+Host: cn.bing.com
+Content-Length: 351
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=jira%20demo&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&ghc=1&lq=0&pq=jira%20demo&sc=10-9&sk=&cvid=1294255762AB457D836F80835C518807&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>C701D3B491AF4AB49B702AFAEDDFCAB1</IG><TS>1688379922300</TS><D><![CDATA[{id:8401,P:"2:1a,3:1a,4:1a,5:1a,7:1a,8:1g,9:m2,10:m4,11:m5,12:nq,13:nq,14:nq,15:nr,16:nr,17:nr,FN:mg,BN:mh",S:"nav:0",v:1.1,T:"CI.Perf",FID:"CI",Name:"PerfV2"}]]></D></E></Events><STS>1688379922300</STS></ClientInstRequest>

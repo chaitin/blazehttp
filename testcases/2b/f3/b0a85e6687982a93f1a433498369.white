@@ -1,0 +1,18 @@
+POST /cdn-cgi/rum? HTTP/1.1
+Host: ant.design
+Content-Length: 1516
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://ant.design
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ant.design/~demos/components-dropdown-demo-basic
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"memory":{"totalJSHeapSize":61796964,"usedJSHeapSize":51718676,"jsHeapSizeLimit":4294705152},"resources":[],"referrer":"","eventType":1,"firstPaint":0,"firstContentfulPaint":0,"startTime":1688376833046.6,"versions":{"fl":"2023.4.0","js":"2023.4.2","timings":2},"pageloadId":"01db119f-82e0-46c9-a0f6-3a134e9f9beb","location":"https://ant.design/~demos/components-dropdown-demo-basic","wd":false,"b":1,"timingsV2":{"unloadEventStart":0,"unloadEventEnd":0,"domInteractive":2673.1999999284744,"domContentLoadedEventStart":2675.1999999284744,"domContentLoadedEventEnd":2675.2999999523163,"domComplete":2686.6999999284744,"loadEventStart":2686.6999999284744,"loadEventEnd":2686.7999999523163,"type":"navigate","redirectCount":1,"activationStart":0,"initiatorType":"navigation","nextHopProtocol":"h2","workerStart":0,"redirectStart":3.899999976158142,"redirectEnd":384.59999990463257,"fetchStart":384.59999990463257,"domainLookupStart":384.59999990463257,"domainLookupEnd":384.59999990463257,"connectStart":384.59999990463257,"connectEnd":384.59999990463257,"secureConnectionStart":384.59999990463257,"requestStart":386,"responseStart":1370.2999999523163,"responseEnd":1370.8999999761581,"transferSize":3664,"encodedBodySize":3364,"decodedBodySize":3364,"serverTiming":[],"renderBlockingStatus":"non-blocking","responseStatus":200,"name":"https://ant.design/~demos/components-dropdown-demo-basic/","entryType":"navigation","startTime":0,"duration":2686.7999999523163},"siteToken":"99e8e5822a844cdaa1916725da659cf2","st":2}

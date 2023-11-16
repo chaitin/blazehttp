@@ -1,0 +1,19 @@
+POST /api/v2/liveperson/async/session?monitor=false&refreshToken=false&createAnonymousIdentity=true&inAppIdentity=false&sessionStart=false HTTP/1.1
+Host: messaging.contact-module.ibm.com
+Content-Length: 2944
+Cm-Session-Id: 1688382612054-4072351312905857
+Accept: */*
+Content-Type: text/plain
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.ibm.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"bluemixSigned":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOjE2ODgzODI2MTAxMjgsImFub255bW91c0lkIjoiMjIyNjQ1MDItNzFlNS00MGE3LWE3ZmQtZjg1NTk5Zjk0YmNiIiwiY29udGV4dCI6eyJpcCI6IjE4My4xNTkuMTI1LjkwIiwiYXBwIjp7InZlcnNpb24iOiIxMTQuMC4wLjAifSwib3MiOnsibmFtZSI6IkNocm9tZSIsInZlcnNpb24iOiIxMTQifSwiZGV2aWNlIjp7Im1vZGVsIjoiV2luZG93cyIsInR5cGUiOiJXZWIiLCJ2ZXJzaW9uIjoiMTAiLCJpZCI6IjIyMjY0NTAyLTcxZTUtNDBhNy1hN2ZkLWY4NTU5OWY5NGJjYiJ9LCJsb2NhdGlvbiI6eyJjb3VudHJ5Q29kZSI6IkNOIiwicmVnaW9uIjoiWkoifX0sImF1dGhlbnRpY2F0ZWQiOmZhbHNlLCJjc3JmIjoiUVRNamZ2cUktbWdNM3V6Sm44eEd2OFZqTmxBNEVuZUM1WGxvIiwidmVyc2lvbiI6MiwiaXNzIjoiL2FuYWx5dGljcy9wcm9maWxlIiwiaWF0IjoxNjg4MzgyNjExLCJleHAiOjE2ODg0NjkwMTF9.anJn1lzw0D98ou2TAWJhnteOl9O7a6OawfNV_Rm-7vSuAQPVaZhOX-uEwzvHbyhKchXiC7ezhvcq02MqDKfNfX7GyNaKIbku6m_xSj1m7oii3dL9RoMWgjdRxrGDMzzN1nywGV3GVN94xpJnAcFNFTxeklf2uxW7i90lCWOy3Gh8VKdva30bv78Xs58xKHZNNNF4o4XmU0jDJcOxsJK3sAApKRTfxcRtMDq2JQcnSmW-BPIE5hcj_liT0sIM3gFaQ-asoss9BR9uM-of1zlIz88PqVXR5ecxT2ZidWAgT51rRnHciCLQ2b98ZWjPSUtoviwd9QlqKTwkr9-oicilxg","inApp":false,"services":["42327359","16520780"],"clientProperties":{"os":"WINDOWS","osVersion":"NT 10.0","deviceFamily":"DESKTOP","appVersion":"4.9.3"},"entryPoints":["https://www.ibm.com/cn-zh/topics/saas"],"tokenIdentities":[],"customerInfo":{"imei":"{\"version\":\"4.9.3\",\"uPageViewID\":\"904a4b9b-00ac-45c7-9d7d-c61394fbf53d\",\"pageURL\":\"https://www.ibm.com/cn-zh/topics/saas\",\"referrerURL\":\"https://www.baidu.com/link?url=S_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_&wd=&eqid=8708c0100003171e0000000464a2ac4a\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"vcpi\":{\"pathSegments\":{\"segment1\":\"topics\",\"segment2\":\"saas\"},\"cm_mmc\":\"OSearch_Baidu-_---_---_--\",\"cm_mmc_vendor\":\"OSearch_Baidu\",\"cm_mmc_category\":\"-\",\"cm_mmc_placement\":\"-\",\"cm_mmc_item\":\"-\",\"utm_source\":\"Baidu\",\"p1\":\"Osearch\",\"marketing_type\":\"Osearch\"},\"focusArea\":\"Cloud - Automation - All\",\"timeZoneOffsetJS\":-480,\"cmTranslationKey\":{\"regionCode\":\"CN\",\"languageCode\":\"zh\",\"variation\":\"Cloud - Automation - All\"},\"lead\":[null],\"productTitle\":\"Unnamed Product\",\"companyInfo\":{\"audience\":\"SMB\",\"audienceSegment\":\"Mobile Network\",\"informatioLevel\":\"Basic\",\"isInternetServiceProvider\":false,\"stateProvinceName\":\"Zhejiang\",\"registryCity\":\"Hangzhou\",\"registryCompanyName\":\"Chinanet\",\"registryCountryName\":\"China\",\"registryCountry\":\"CN\",\"registryLatitude\":30.3,\"registryLongitude\":120.16,\"registryStateProvince\":\"ZJ\"}}","socialId":"22264502-71e5-40a7-a7fd-f85599f94bcb","storeNumber":"https://www.ibm.com/cn-zh/topics/saas","storeZipCode":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},"personalInfo":{"language":"zh-CN","contacts":[]}}

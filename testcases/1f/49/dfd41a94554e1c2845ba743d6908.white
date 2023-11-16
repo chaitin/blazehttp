@@ -1,0 +1,23 @@
+POST /cgi/capi?i=monitor/GetMonitorData&uin=100003290640 HTTP/1.1
+Host: capi.cloud.tencent.com
+Content-Length: 337
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Life: 2353
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+X-Csrfcode: 2093508630
+Accept: application/json, text/javascript, */*; q=0.01
+X-Seqid: 447f3d92-1d38-47b2-b943-0400b737a67c
+X-Referer: https://console.cloud.tencent.com/cls/overview
+X-Lid: H1jSM4lF2
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"serviceType":"monitor","action":"GetMonitorData","regionId":1,"data":{"Version":"2018-07-24","Namespace":"QCE/CLS","MetricName":"TrafficIndexAllregion","Instances":[{"Dimensions":[{"Name":"uin","Value":"100003290640"}]}],"Period":300,"StartTime":"2023-07-02T19:34:32+08:00","EndTime":"2023-07-03T19:34:32+08:00"},"clientTimeout":65000}

@@ -1,0 +1,18 @@
+POST /web/spans HTTP/1.1
+Host: apm.you.163.com
+Content-Length: 662
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://you.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"meta":{"app":"yanxuan-expert-web","uid":"","tid":"1#yanxuan-expert-web#1688379595279#79595278","os":"unknown","bws":"Chrome","sdk":"1.7.0","type":1980,"dpi":"1920x1080","page":"you.163.com/expert/advice"},"list":[{"st":1688379596362,"sid":1688379595278,"spn":"pageroot","type":1980,"psid":-1,"err":0,"fds":{"dnsQuery":0,"tcpConnect":0,"contentTransfer":1,"domExplain":504,"resourceLoad":1226,"responseTime":120,"firstPaint":124,"firstInteractive":628,"domReady":727,"completeLoad":1953,"ttfb":124,"fb":124,"ssl":0,"ct":"","et":"4g","bw":10,"nt":"direct","begin":1688379596362},"tgs":{},"url":"you.163.com/expert/advice","et":124,"ants":{"staticResource":""}}]}

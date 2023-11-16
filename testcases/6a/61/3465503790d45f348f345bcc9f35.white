@@ -1,0 +1,19 @@
+POST /sg/operator/createSecurityGroup.json HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 1344
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/legacy?hideTopbar=true&hideSidebar=true&hideAppNav=true&hideVersionController=true&master=next
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+collina=140%23ZF2DcnXezzPVjzo22xZ%2BwtSrazEjoDwp0epDKm1REBT9MdjJ7KHyfNInsMQebTJFlRtH92ACzW2m8oA3XDumg3hqzznpWNnd%2BE2zzRQHba7tlzzx2DD3VtgqxsXSr19bMAGzyT%2BXMcN7abFr2PzvL6hqzFo4zZj88YLLMZ2aMXLQarbVBX8Cf6VN%2BZx74T4tUkW4eBLJVRUhOZhi7o6ulEOedVrwXYHeUKq24jwgptFwN6Ga2uhSzQYUADmLuuFjc3ne0ZIuSVSoyR4Oab5d1z%2BsN8l1RkWuk7vLjIV93G3jhZluWTDSqXD45AOxHfxMt2TvcBwLItvweBUSlpaEo4urMTKn3%2BDrraqfN3ZU5cAwFE4RA66NzHxXn7pLqrImNwT05wSC%2Bj0IPECqSVjWcEH4MpEHO%2FREOAVwNYC3YI1%2BzV89ZFOIf7J%2BO5XVHl%2FF0v2ZC2ZZycGxO4gpE5zcyvwVEg25JYgCC36kiWuhySPbI%2Bvk1EiUfapMmPzXA%2FLMJhHPbTkwxLCI2XbuXinlxpna2aJQMUENZ69FI5nk3KDf%2FNJ6Bqf%2B86tBkJ%2FsEoPXmAFdKz1DLD1r%2FcRs4NLrsZbgsr5Xn%2B67BecJf%2BoOYKY5Duh8cTtNgnOsgs3e6tnPZYYaOag0lrsR5qfzOOiVeSwWul1YfUdGGyLimF2W6TJvNd%2FiEX8SqGroHu6WZrqeV%2BCqLWmVeFUg52Oze%2FJ00vOodtchaiS9Hey5Xf6jJbF36tLINht13IQwjG1YeAd9He9adTNXvkklMSix2sCXV8EPSsYFTru%2BwV6vf%2B2wsIv5V15QipWhXg5bEvZeCzpJg0HCZzLMYSOq9xxoWzqC6BN6z6iOifo01oJ3LfMgsa8dRtiW%2Fm1F9yGqrce0hF026aDmC3jTW26pHiJvklvg0EFYpOTngvuU8Zea2M94DttuhNxbjnt3zu%2FyTclUO%2FUyCVGnJnr9mRBGXJXTs1E1yoSdjo8zZMoQq5%2Fz02NG5rXOpklcQEdLUhXqc8Km2xa%2BM9SaQL%2FEc8JNkKbe1iB9h%2BB9%2FM7WzfaeETthJ3fYs1oUFx0IRIpK%2Bz%3D%3D&regionId=cn-hangzhou&secToken=d5mraaH0uvLd9OQlTDzyz7&securityGroupName=sg-20230703&securityGroupType=normal&token=Ybc1d57879a3d426a9515f7ea803ff363&vpcId=vpc-bp1e4uoa1tbabh5wt7fqx

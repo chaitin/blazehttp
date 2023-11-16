@@ -1,0 +1,22 @@
+POST /speed?id=1005&uin=oqFLxsmMLgrDfuK6JD8Dh9xX0JH4&version=1.40.9&aid=00010011-0110-0001-0110-000000011111&env=production&platform=3&netType=4&vp=1914%20*%20779&sr=1920%20*%201080&sessionId=session-1688383898140&from=https%3A%2F%2Fy.tencentmusic.com%2Fqqmusic.html%3Fqynum%3D1152921504763685208%26qytoken%3D3OPiYI60maqn0T1-I7PbujnXNQznNjWz3_eIfvNo_bxvK8FE38kXI0Jxhdatg7BB8zrvKlgUspwQ%23%2Fuser%2Fcreateorgan&referer=https%3A%2F%2Fy.qq.com%2F HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 926
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryCqBPt5SoIZz5PplN
+Accept: */*
+Origin: https://y.tencentmusic.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.tencentmusic.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryCqBPt5SoIZz5PplN
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[],"static":[{"url":"https://cdn-y.tencentmusic.com/musician/commonPic/cos_80d3d7bdca4686bc009abec32f9640597ce2a98d.png","method":"get","duration":103.8,"status":200,"type":"static","isHttps":true,"nextHopProtocol":"h2","urlQuery":"","domainLookup":0,"connectTime":0,"transferSize":550}],"bridge":[]},"id":1005,"uin":"oqFLxsmMLgrDfuK6JD8Dh9xX0JH4","version":"1.40.9","aid":"00010011-0110-0001-0110-000000011111","env":"production","platform":3,"netType":4,"vp":"1914 * 779","sr":"1920 * 1080","sessionId":"session-1688383898140","from":"https%3A%2F%2Fy.tencentmusic.com%2Fqqmusic.html%3Fqynum%3D1152921504763685208%26qytoken%3D3OPiYI60maqn0T1-I7PbujnXNQznNjWz3_eIfvNo_bxvK8FE38kXI0Jxhdatg7BB8zrvKlgUspwQ%23%2Fuser%2Fcreateorgan","referer":"https%3A%2F%2Fy.qq.com%2F"}
+------WebKitFormBoundaryCqBPt5SoIZz5PplN--

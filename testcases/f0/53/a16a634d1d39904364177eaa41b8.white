@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=CB54D0C297E941E8989D943B8045192B&TYPE=Event.ClientInst&DATA=%5B%7B%22T%22%3A%22CI.Init%22%2C%22TS%22%3A1688377527811%2C%22Name%22%3A%22Base%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Rtt%22%3A%22100%22%2C%22Downlink%22%3A%2210%22%2C%22T%22%3A%22CI.NetworkPerformance%22%2C%22TS%22%3A1688377527811%2C%22Name%22%3A%22timinginfo%22%2C%22FID%22%3A%22NetworkPerformanceDetails%22%7D%2C%7B%22T%22%3A%22CI.SCArrST%22%2C%22TS%22%3A1688377527817%2C%22Name%22%3A891%2C%22FID%22%3A%22SCArrST%22%7D%2C%7B%22width%22%3A%221920%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688377527819%2C%22Name%22%3A%22XW%22%2C%22FID%22%3A%22BRW%22%7D%2C%7B%22height%22%3A%22921%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688377527819%2C%22Name%22%3A%22M%22%2C%22FID%22%3A%22BRH%22%7D%2C%7B%22RawDPR%22%3A%221.0%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688377527820%2C%22Name%22%3A%221.0%22%2C%22FID%22%3A%22DPR%22%7D%2C%7B%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688377527821%2C%22Name%22%3A%220%22%2C%22FID%22%3A%22DM%22%7D%2C%7B%22T%22%3A%22CI.SWRM%22%2C%22TS%22%3A1688377527822%2C%22Name%22%3A%22Notification%20permission%20is%20not%20granted%22%2C%22FID%22%3A%22Unregister%22%7D%2C%7B%22T%22%3A%22CI.EffectiveLocation%22%2C%22TS%22%3A1688377527823%2C%22Name%22%3A%22tryWriteEffectiveLocation%22%2C%22FID%22%3A%22EffectiveLocation%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/search?q=two+options%2C+1+and+2++1.+Eating++2.+Not+eating++What+is+the+difference+between+choosing+1+or+2&form=QBLHCN&sp=-1&lq=0&pq=two+options%2C+1+and+2++1.+eating++2.+not+eating++what+is+the+difference+between+choosing+1+or+2&sc=6-94&qs=n&sk=&cvid=13BC0EF686F94C1EBEA6B30225A4E97C&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

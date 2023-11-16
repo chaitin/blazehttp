@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=1169939875&t=pageview&_s=1&dl=https%3A%2F%2Fwww.ruanyifeng.com%2Fblog%2F2023%2F06%2Fweekly-issue-259.html%3FcontinueFlag%3Ded33b44512f3232a855bab2a5a1e7cff&dr=https%3A%2F%2Fweibo.cn%2F&ul=zh-cn&de=UTF-8&dt=%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC%20259%20%E6%9C%9F%EF%BC%89%EF%BC%9A%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8%20ChatGPT%20-%20%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&_u=IADAAAABAAAAACAAI~&jid=1491417687&gjid=1856414439&cid=452135792.1687768775&tid=UA-46829782-1&_gid=845835792.1688380834&_r=1&_slc=1&z=348832241 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.ruanyifeng.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ruanyifeng.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

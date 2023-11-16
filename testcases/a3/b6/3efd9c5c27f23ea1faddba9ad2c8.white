@@ -1,0 +1,15 @@
+GET /webv1?action_name=%E6%B3%A8%E5%86%8C_%E5%8D%8E%E4%B8%BA%E5%B8%90%E5%8F%B7&idsite=id1.cloud.huawei.com&rec=1&r=886244&h=19&m=27&s=11&url=https%3A%2F%2Freg.huaweicloud.com%2Fregisterui%2Fcn%2Fhwid%2Fregister.html%3Flocale%3Dzh-cn%26at%3Dpromotion%26rt%3Dall%26service%3Dhttps%253A%252F%252Fbbs.huaweicloud.com%252F%23%2Fsdk_reg&_id=9540e45448124e08815f8c8ae1c92dfc&_idts=1688383631630&_idvc=1&_idn=e3655015dc3646cf8266c07e35a6bf34&urlref=https://reg.huaweicloud.com/registerui/cn/hwid/register.html?locale=zh-cn&at=promotion&rt=all&hwc_route_url=sdk_reg&service=https%3A%2F%2Fbbs.huaweicloud.com%2F&_refts=1688383631629&_viewts=1688383609145&scd=24&vpr=1920%20X%201080&cvar=&pdf=1&qt=0&data=%7B%22type%22%3A%22customEvent%22%2C%22vf%22%3A%229540e45448124e08815f8c8ae1c92dfc%22%2C%22rt%22%3A1688383631630%2C%22ut%22%3A0%2C%22cxx%22%3A%22%22%2C%22idsite%22%3A%22id1.cloud.huawei.com%22%2C%22suid%22%3A%22%22%2C%22cvar%22%3A%22%22%2C%22idts%22%3A1688383631630%2C%22idvc%22%3A%221%22%2C%22idn%22%3A%22e3655015dc3646cf8266c07e35a6bf34%22%2C%22refts%22%3A1688383631629%2C%22viewts%22%3A%221688383609145%22%2C%22hsv%22%3A%222.1.5.301%22%2C%22data%22%3A%7B%22url%22%3A%22https%3A%2F%2Freg.huaweicloud.com%2Fregisterui%2Fcn%2Fhwid%2Fregister.html%3Flocale%3Dzh-cn%26at%3Dpromotion%26rt%3Dall%26service%3Dhttps%253A%252F%252Fbbs.huaweicloud.com%252F%23%2Fsdk_reg%22%2C%22title%22%3A%22%E6%B3%A8%E5%86%8C_%E5%8D%8E%E4%B8%BA%E5%B8%90%E5%8F%B7%22%2C%22at%22%3A1688383630845%2C%22rf%22%3A%22https%3A%2F%2Freg.huaweicloud.com%2Fregisterui%2Fcn%2Fhwid%2Fregister.html%3Flocale%3Dzh-cn%26at%3Dpromotion%26rt%3Dall%26hwc_route_url%3Dsdk_reg%26service%3Dhttps%253A%252F%252Fbbs.huaweicloud.com%252F%22%2C%22en%22%3A%22RANDOMCODE_LOAD_SUCCESS%22%2C%22el%22%3A%22%22%2C%22cd%22%3A%7B%22isMobile%22%3A%22pcWeb%22%2C%22siteID%22%3A1%2C%22reqClientType%22%3A%2288%22%7D%7D%7D HTTP/1.1
+Host: metrics-drcn.dt.hicloud.com:6447
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://reg.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

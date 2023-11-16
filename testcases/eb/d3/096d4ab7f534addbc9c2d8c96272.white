@@ -1,0 +1,19 @@
+POST /restapi/soa2/13012/proxy.json HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 356
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Cookieorigin: https://aria.ctrip.com
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://aria.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://aria.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"cid":"","cver":"1.0","lang":"01","sid":"8888","syscode":9,"auth":"","version":""},"service":"20972","target":"searchproductlist","data":"{\"head\":{\"clientId\":\"\",\"platform\":\"09\",\"clientVersion\":\"\"},\"source\":\"ctrip.home.elderly.app\",\"districtId\":110000,\"pageNo\":1,\"pageSize\":50,\"tabId\":7,\"productSources\":[\"collect\"]}"}

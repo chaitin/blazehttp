@@ -1,6 +1,0 @@
-# tag: black,xxe
-POST / HTTP/1.1
-Host: 1.2.3.4
-Content-Length: 108
-
-<!DOCTYPE test [ <!ENTITY % init SYSTEM "data://text/plain;base64,ZmlsZTovLy9ldGMvcGFzc3dk"> %init; ]><foo/>

@@ -1,0 +1,14 @@
+GET /comment/productCommentSummaries.action?referenceIds=10070898984538,10076220242615,10066737989769,10068933367455,10079347437419,10061118938166,10039939446153,10077499866415,10056108804548,10049556587252,10071948970999,10075544983588,10073856785073,10053098488527,10047816727358,10072839704246,10072144304752,10073857229549,10079236642966&callback=jQuery951996&_=1688375749307 HTTP/1.1
+Host: club.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://search.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

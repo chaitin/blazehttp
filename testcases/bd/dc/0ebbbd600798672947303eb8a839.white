@@ -1,0 +1,17 @@
+POST /graphql HTTP/1.1
+Host: api.daily.dev
+Content-Length: 1817
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: chrome-extension://jlmpjdjjbgclbocgajdjefcidcncaied
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"query":"\n  query SimilarPosts(\n    $post: ID!\n    $loggedIn: Boolean! = false\n    $trendingFirst: Int\n    $similarFirst: Int\n    $discussedFirst: Int\n    $tags: [String]!\n  ) {\n    trendingPosts: randomTrendingPosts(post: $post, first: $trendingFirst) {\n      id\n      title\n      permalink\n      commentsPermalink\n      bookmarked @include(if: $loggedIn)\n      source {\n        ...SourceShortInfo\n      }\n      scout {\n        ...UserShortInfo\n      }\n      author {\n        ...UserShortInfo\n      }\n      trending\n      tags\n    }\n    similarPosts: randomSimilarPostsByTags(\n      tags: $tags\n      post: $post\n      first: $similarFirst\n    ) {\n      id\n      title\n      permalink\n      commentsPermalink\n      bookmarked @include(if: $loggedIn)\n      source {\n        ...SourceShortInfo\n      }\n      scout {\n        ...UserShortInfo\n      }\n      author {\n        ...UserShortInfo\n      }\n      numComments\n      numUpvotes\n      tags\n    }\n    discussedPosts: randomDiscussedPosts(post: $post, first: $discussedFirst) {\n      id\n      title\n      permalink\n      commentsPermalink\n      numComments\n      source {\n        ...SourceShortInfo\n      }\n      tags\n      scout {\n        ...UserShortInfo\n      }\n      author {\n        ...UserShortInfo\n      }\n      featuredComments {\n        author {\n          ...UserShortInfo\n        }\n      }\n    }\n  }\n  \n  fragment UserShortInfo on User {\n    id\n    name\n    image\n    permalink\n    username\n    bio\n  }\n\n  \n  fragment SourceShortInfo on Source {\n    id\n    handle\n    name\n    permalink\n    description\n    image\n    type\n    active\n  }\n\n","variables":{"loggedIn":false,"post":"mYmrLDo8E","trendingFirst":1,"similarFirst":3,"discussedFirst":4,"tags":["react"]}}

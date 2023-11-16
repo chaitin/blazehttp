@@ -1,0 +1,16 @@
+GET /assets/projectData/64a291e3ccae1f2e52b9f544.json?OSSAccessKeyId=LTAIrQc3eYZZIj9A&Expires=1688377634&Signature=6B3ZCtX7EJn2LKHc5ODdMJOpNkE%3D HTTP/1.1
+Host: js-design-oss.oss-cn-beijing.aliyuncs.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.design
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

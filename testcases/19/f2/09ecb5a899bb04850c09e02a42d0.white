@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1174
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E6%B7%B1%E4%BF%A1%E6%9C%8D&form=QBLHCN&sp=-1&lq=0&pq=shen%27xin%27fu&sc=10-11&qs=n&sk=&cvid=43818836CEAC4ED5A7EEFF69918430A8&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>2961C4021E2D438E97E4B7E764577A45</IG><TS>1688379603587</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":6,"N":8,"I":"2vx","S":"V+C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":443084,"K":"9hvw+9fwy+9g14+9gu7+9gws+9gwq+9h10+9hao","F":0},"V":"9gwp/////////visible/","M":"9fe1+491+-1+9fwt+5z+4g+0+3g+25s+9qj+1","E":"@ah/2/X/1o/+@ah/6/X/1o/+@ah/7/X/1o/+@ah/8/X/1o/+@ah/9/X/1o/+@ah/a/X/1o/+@ah/b/X/1o/+@ah/c/X/1o/+@ah/d/X/1o/+@ah/e/X/1o/+@ah/f/X/1o/+@ah/g/X/1o/+@ah/h/X/1o/+@ah/i/X/1o/+@ah/j/X/1o/+@ah/k/X/1o/+@ah/l/X/2s/+@ah/m/X/4y/+@ah/n/X/4y/+@ah/o/X/4y/","N":"@ai/5w//@p/ls%2Flsp.aspx/@6h/46/@o/@ai/@ai/@ai/9fx1/@aj/@aj+@ak/5x//@p/@1a/@q/2l/@o/@ak/@ak/@ak/9gua/@al/@al+@am/5y//@p/tabfocuschanged/@q/4a/@o/@am/@am/@am/9gx2/@an/@an","C":"9gx8/////183/8m//9gx0+9h5l/////17x/7m//9h5k+9h61/////17p/72//9h60+9h6i/////17f/6e//9h6g+9h6y/////172/5n//9h6w+9h7f/////16i/4i//9h7c+9h7w/0////15s/3i//9h7s+9h8c/////154/2q//9h88+9h8v/////14b/24//9h8o+9h9a/////13f/1k//9h94+9h9r/////@46/1a//9h9k+9ha8/////11x/u//9ha0+@ao/////119/e//9hag+9haw/////@27/6//@ao"}]]]></D></E></Events><STS>1688379603587</STS></ClientInstRequest>

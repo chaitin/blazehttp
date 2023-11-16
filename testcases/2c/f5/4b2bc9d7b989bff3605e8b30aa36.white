@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1388
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=icon+anime&FORM=R5FD4
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>37D96E597BB9421098B5B2224B574B64</IG><TS>1688376711963</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":3,"N":3,"I":"79b","S":"C+V","M":"V+L+M+MT+E+N+C+K+BD+BF","T":28155,"K":"lq1+lq3+jjm+l0z+l3r+beacon+l3g+k0s+kby+l10+mousedown+mouseup+click","F":1},"V":"@8h//////////pagehide","L":"@8h/2/////i2///R/+@8h/3////17////R/+@8h/o////10////R/+@8h/1r////1f////R/+@8h/1t///0/0/0/0//R/+@8h/1u///0/0/0/0//R/+@8h/1v///0/0/0/0//R/+@8h/1w/////ev///R/","M":"1mq+u5+-1+lq3+5p+1i+0+9+8b+3w6+1","E":"@8i/2/X/1o/+@8i/6/X/1o/+@8i/7/X/1o/+@8i/8/X/1o/+@8i/9/X/1o/+@8i/a/X/1o/+@8i/b/X/1o/+@8i/c/X/1o/+@8i/d/X/1o/+@8i/e/X/1o/+@8i/f/X/1o/+@8i/g/X/1o/+@8i/h/X/1o/+@8i/i/X/1o/+@8i/j/X/1o/+@8i/k/X/1o/+@8i/l/X/2s/+@8i/m/X/4y/","N":"@8j/5m//@o/@88/@15/2k/@p/@8j/@8j/@8j/jjn/jm6/jm7+@8k/5n//@o/ls%2FGLinkPingPost.aspx/@8m/2s/@p/@8k/@8k/@8k/@8q/@8l/@8l+@8n/5o//@o/d/@8m/2l/@p/@8n/@8n/@8n/l3h/l61/l62","C":"jpa/////a2///jp9+jx9/1w////bh/2c//jx8+jzl/1t////9q/2o//jzg+@8o/////5l/3h//@8o+k11/////3t/3r//k10+k2c/////1i/4s//k2b+k63//////6m//k61+ka0//@8r///1s/7d/1/k9y+@8p//@8s/////0/@8p+kbz//@8t//////+kft//@7k///2b/5w//kfo+kho/////4s/4h//khh+kik/0////69/3s//kic+klu/////7l/3c//klo+@8q//@8r///6r/35/1/l0y+l3f//@8s/////0/l3e+//@8t//////+lau//@7k///87/31//lar+ld5/////8i/30//lcz"}]]]></D></E></Events><STS>1688376711963</STS></ClientInstRequest>

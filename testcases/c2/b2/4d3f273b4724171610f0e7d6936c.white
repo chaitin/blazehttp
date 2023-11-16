@@ -1,0 +1,14 @@
+GET /nvc/nvcPrepare.jsonp?a=%7B%22a%22%3A%22FFFF00000000016770EE%22%2C%22d%22%3A%22ic_activity%22%2C%22c%22%3A%221688379483020%3A0.8528245931969329%22%7D&callback=jsonp_06102601080515322 HTTP/1.1
+Host: cf.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.wjx.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

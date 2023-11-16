@@ -1,0 +1,18 @@
+POST /metal/ingest HTTP/1.1
+Host: api.atlassian.com
+Content-Length: 1604
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"type":"metric","meta":{"version":"0.0.1","env":"prod","os":"windows","platform":"desktop","browser":"chrome"},"metalId":"21f7d7da-ace4-4c52-ac0f-3acfa6972922","data":[{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira/free","type:script"],"value":6.699999928474426,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira/free","type:script"],"value":12,"sampleRate":1},{"type":"timing","name":"fe.perf.request_timing","tags":["page:/software/jira/free","type:xmlhttprequest"],"value":123.39999997615814,"sampleRate":1},{"type":"timing","name":"fe.perf.request_timing","tags":["page:/software/jira/free","type:xmlhttprequest"],"value":128.39999997615814,"sampleRate":1},{"type":"timing","name":"fe.perf.request_timing","tags":["page:/software/jira/free","type:xmlhttprequest"],"value":122.79999995231628,"sampleRate":1},{"type":"timing","name":"fe.perf.request_timing","tags":["page:/software/jira/free","type:xmlhttprequest"],"value":150.89999997615814,"sampleRate":1},{"type":"timing","name":"fe.perf.request_timing","tags":["page:/software/jira/free","type:xmlhttprequest"],"value":80.5,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira/free","type:script"],"value":1.1999999284744263,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira/free","type:script"],"value":169.79999995231628,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira/free","type:script"],"value":151.70000004768372,"sampleRate":1}]}

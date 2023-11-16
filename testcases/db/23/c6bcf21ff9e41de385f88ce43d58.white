@@ -1,0 +1,19 @@
+POST /action?url=https%3A%2F%2Fdownload.csdn.net%2F%3Fspm%3D1010.2135.3001.6907&pvid=142f460a10674b869aa8810efb67e09f&ref=https%3A%2F%2Fdownload.csdn.net%2F%3Fspm%3D1010.2135.3001.6907&referrer=https%3A%2F%2Fi.csdn.net%2F&v=3.3.1-saas.2&av=3.3.1-saas.2&did=10_18754282740-1597979518688-247971&uid=weixin_46708016&sid=b8bdfc38ea0b4e16bd83f49f29381cd9&__s=1688375097358&id=oxCR3HG3rnM&key=jcyC7WVM7Ho&token=8399f6662a2747fc872cacd390930886&sh=1080&sw=1920&ps=0&__r=1688375099952 HTTP/1.1
+Host: wkbrs1.tingyun.com
+Content-Length: 376
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://download.csdn.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://download.csdn.net/?spm=1010.2135.3001.6907
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+c{"type":"common","optCustomParam":{}}
+a{"type":"ajax","subType":"fetch","start":1688375099834,"end":1688375099952,"duration":118,"data":{"type":"ajax","subType":"fetch","id":17,"cid":20,"method":"POST","url":"https://ev.csdn.net/webv3","start":1688375099834,"end":1688375099951,"du":117,"status":200,"opt_custom_param":{},"hasServerHeader":false,"state":"finish","items":[]}}

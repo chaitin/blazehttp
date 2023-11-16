@@ -1,0 +1,18 @@
+POST /0 HTTP/1.1
+Host: r.stripe.com
+Content-Length: 1360
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.stripe.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.stripe.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+event_name=rum.stripejs&client_id=stripe-js&created=1688380987740&event_count=48&os=Windows&browserFamily=Chrome&version=3&browserClassification=modern&event_id=7c70e3bc-5110-465c-bff5-6d3bb1f1b57f&deploy_status=main&key=pk_live_51HG2NqEkNJHWF29kIRFXLA6zm5kEpZoj5gK3mR69yC8n6CCQX6TnACGPXS6XqQTU1a207KG9EseoU7XfJqCLiL6D00HoiGrdyj&key_mode=live&referrer=https%3A%2F%2Freviewgpt.lemonsqueezy.com&stripe_js_id=187e1b79-6252-485c-befc-469c66e02ebd&controller_load_time=1688380969034&wrapper=unknown&es_module=true&es_module_version=1.47.0&deploy_status_time_to_fetch_ms=197&deploy_status_fetch_failed=false&intent_id=seti_1NPkDQEkNJHWF29kbNl68ABx&decoupled_intent=false&requestId=req_y85h9pQFHsvxUB&tokenType=unknown&url=https%3A%2F%2Fapi.stripe.com%2Fv1%2Felements%2Fsessions&status=200&start=1688380987325&end=1688380987740&resourceTiming[startTime]=19741.1&resourceTiming[duration]=414.2&resourceTiming[redirectStart]=0&resourceTiming[redirectEnd]=0&resourceTiming[fetchStart]=19741.1&resourceTiming[domainLookupStart]=19741.1&resourceTiming[domainLookupEnd]=19741.1&resourceTiming[connectStart]=19741.1&resourceTiming[connectEnd]=19741.1&resourceTiming[secureConnectionStart]=19741.1&resourceTiming[requestStart]=19741.8&resourceTiming[responseStart]=20155&resourceTiming[responseEnd]=20155.3&paymentUserAgent=stripe.js%2Fe788aede38%3B+stripe-js-v3%2Fe788aede38

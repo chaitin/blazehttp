@@ -1,0 +1,18 @@
+POST /weapi/cloudvideo/user/info/get?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 408
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/friend
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=qpilP470ORhwSCRGuT265Rv7sgKokPOrhNNvw6t8zwQk30bUbhfVY86F9joK1Izz9Ap2R%2FsijmzXupzG6xIJ9HPDTAwnmjPCyRs9X6CDmGp9Ou%2FPOv270I%2BzGy1PTZ6q&encSecKey=c86f6cb107507f4c0cefc0d67aba6a650664fcffd135a85f1be6c5e127447cb98dd0581ece6e6e536a32f55f680f3629fad6cf06ffda71c73f04fa7d2ba6f628953278d20262a6804a465941d18d5386c760f9fc9b60f3fd3bdef8be9eca4aed4d7e0522ce0d64713f627c06e766e8ea70847e89a106525ca9261b0afff1a7cd

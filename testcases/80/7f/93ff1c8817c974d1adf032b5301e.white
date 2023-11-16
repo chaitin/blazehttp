@@ -1,0 +1,20 @@
+GET /sf.php?mod=dynamic_module&module=&action=topbar_post HTTP/1.1
+Host: bbs.sangfor.com.cn
+Cache-Control: no-cache
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Pragma: no-cache
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Tingyun-Id: _jEJpwY16AA;r=379616863
+Accept: application/json, text/plain, */*
+X-Requested-With: XMLHttpRequest
+If-Modified-Since: Mon, 26 Jul 1997 05:00:00 GMT
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=258987&page=1&extra=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

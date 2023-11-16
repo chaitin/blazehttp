@@ -1,0 +1,18 @@
+POST /promote/uploadConvertData HTTP/1.1
+Host: ds.js.design
+Content-Length: 254
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.design
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+type=360&params%5Bqhclickid%5D=a9ea00ad11984d7c&params%5BinitialUrl%5D=https%3A%2F%2Fjs.design%2F%3Fxl%3Da3273390191.k47347947756.c12683318635.g3740306725.p1791092700.m1.d1.t1%26source%3D360%26plan%3Dps%26qhclickid%3Da9ea00ad11984d7c&params%5Baccount%5D=

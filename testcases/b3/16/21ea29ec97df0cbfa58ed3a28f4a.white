@@ -1,0 +1,19 @@
+POST /g/collect?v=2&tid=G-DGPMYHX081&gtm=45be36s0&_p=970256468&cid=1411256234.1688375657&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=AEA&ngs=1&dl=https%3A%2F%2Fjs.design%2Flogin%3Fby%3Dphone&dr=https%3A%2F%2Fjs.design%2F%3Fxl%3Da3273390191.k47347947756.c12683318635.g3740306725.p1791092700.m1.d1.t1%26source%3D360%26plan%3Dps%26qhclickid%3Da9ea00ad11984d7c&sid=1688375657&sct=1&seg=1&dt=%E7%99%BB%E5%BD%95%20-%20%E5%8D%B3%E6%97%B6%E8%AE%BE%E8%AE%A1&_s=3 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 148
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://js.design
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://js.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+en=page_view&_et=6554
+en=page_view&_et=2960&dl=https%3A%2F%2Fjs.design%2Flogin%3Ftype%3DwechatLogin&dr=https%3A%2F%2Fjs.design%2Flogin%3Fby%3Dphone

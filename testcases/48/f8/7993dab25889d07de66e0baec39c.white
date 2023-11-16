@@ -1,0 +1,15 @@
+GET /cgi-bin/dir_tlog?callback=jQuery191012625310840441473_1688379349888&structname=webCommonReport&fieldcount=26&field0=40034&field1=2020052901&field2=926&field3=40901301&field4=-1&field5=3&field6=-1&field7=-1&field8=-1&field9=-1&field10=-1&field11=-1&field12=-1&field13=-1&field14=-1&field15=-1&field16=-1&field17=-1&field18=-1&field19=-1&field20=-1&field21=-1&field22=-1&field23=-1&field24=-1&field25=-1&_=1688379349889 HTTP/1.1
+Host: log.minigame.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://minigame.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

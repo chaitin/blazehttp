@@ -1,0 +1,13 @@
+GET /socket.io/?buvid=54F00853-746D-49F1-B499-6192F46FDB16138373infoc&sdkVersion=2.10.3%3Aleecher&aid=80557943&cid=137863020&sessionid=kcPxJDe0j0aH6tahy2IOZ&mid=503647489&duration=200&testID=0&EIO=4&transport=websocket HTTP/1.1
+Host: ali-web-player-tracker.biliapi.net
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://www.bilibili.com
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: mc1ZTgv0xHwFfeydhcnyiA==
+

@@ -1,0 +1,17 @@
+GET /api/templates?app=Word&culture=en-us&show=23&isEdu=false&isIw=false&isAdmin=false&isSmb=false&isEduFaculty=false&isEduStudent=false&flights=thumbnailcallcf,P-R-1106085-C5-5,P-R-1099573-6-6,P-R-1099462-2-7,P-R-1098392-2-5,P-R-1098220-2-4,P-R-1094643-6-14,P-R-1093687-2-5,P-R-1092270-2-11,P-R-1089823-2-4,P-R-1088774-2-6,P-R-1088387-C1-12,P-R-1087121-2-11,P-R-1083787-2-15,P-R-1083588-2-10,P-R-1081914-2-8,P-R-1081603-2-6,P-R-1058211-2-20,P-R-1078308-2-8,P-R-1072632-2-9,P-R-1073611-2-7,P-R-1071441-6-62,P-R-1070323-2-6,P-R-1064239-2-9,P-R-1064205-2-14,P-R-1062277-12-11,P-R-1059875-2-6,P-R-1033762-2-11,P-R-1057601-2-3,P-R-1056218-2-8,P-R-1050304-2-4,P-R-1050613-2-2,P-R-1052902-2-10,P-R-1052893-2-8,P-R-1051532-2-10,P-R-1050538-2-2,P-R-1049154-2-9,P-R-1048795-2-16,P-R-1048734-2-10,P-R-1048088-2-12,P-R-1045844-2-7,P-R-1045839-2-21,P-R-1042157-2-19,P-R-1041556-2-15,P-R-1042098-2-13,P-R-1041906-4-20,P-R-1039769-2-11,P-R-1038765-10-19,P-R-1025625-2-19,P-R-1038650-2-8,P-R-113218-8-29,P-R-1035877-4-6,P-R-1034124-2-16,P-R-1020934-8-88,P-R-1026389-4-11,P-R-1025438-2-7,P-R-1020611-2-15,P-R-1020323-2-4,P-R-1019936-2-4,P-R-1018575-12-18,P-R-1018626-2-10,P-R-1018404-2-5,P-R-1009378-20-25,P-R-1014796-2-11,P-R-1013219-2-4,P-R-1005016-2-8,P-R-1004015-2-20,P-R-1003867-2-27,P-R-1000295-2-22,P-R-117054-4-6,P-R-108797-2-7,P-R-108833-2-6,P-R-108875-2-6,P-R-110074-16-13,P-R-106573-4-4,P-R-95756-12-9,P-R-93960-2-30,P-R-88009-6-9,P-D-1058394-2-6,P-D-1058392-1-6,P-D-1058393-1-11,P-D-1050381-1-3,P-D-1042850-1-14,P-D-1042836-8-114,P-D-116695-2-14,P-D-116687-1-5,P-D-109195-1-9,P-D-68024-8-218&authId=1&page=StartPage&firstVisitAgeInWeeks=0&browserName=Chrome&osName=PC&osVersion=10_0_0&deploymentEnvironment=prod&workload=officehome HTTP/1.1
+Host: www.office.com
+X-Officehome-Authtype: MSA
+X-Officehome-Authversion: 2.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Officehome-Userid: 0003BFFD5FEE893C
+Accept: application/json, text/plain, */*
+X-Officehome-Tenantid: 9188040d-6c67-4c5b-b112-36a304b66dad
+X-Officehome-Correlationid: 4d3c3096-4762-4d38-b53a-822b76cf7e60
+X-Officehome-Forceexternal: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/sw?cdnDomain=res.cdn.office.net/officehub&workload=officehome
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

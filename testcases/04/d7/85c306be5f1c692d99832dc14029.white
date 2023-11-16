@@ -1,0 +1,21 @@
+POST /logstores/origin_client-performance-log_prod/track HTTP/1.1
+Host: one-second-campaign.cn-hangzhou.log.aliyuncs.com
+Content-Length: 830
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Log-Bodyrawsize: 830
+X-Log-Apiversion: 0.6.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://common-buy.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://common-buy.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"__topic__":"pcp_metric_common-buy.aliyun.com","__logs__":[{"__topic__":"pcp_metric_common-buy.aliyun.com","GROUP":"LOG","TIME":"1688383181682","OS":"Windows","OS_VERSION":"10","BROWSER":"Chrome","BROWSER_VERSION":"114.0.0.0","LOCATION_HOST":"common-buy.aliyun.com","LOCATION_PATHNAME":"/","LOCATION_SEARCH":"?commodityCode=datav","RESOLUTION_SCREEN":"1920x1080","RESOLUTION_BROWSER":"1920x921","SPM_A":"5176","SPM_B":"14013154","IN_IFRAME":"false","REFERRER":"https://smcnext.console.aliyun.com/","channel":"OFFICIAL","locale":"zh-CN","uid":"1845102322007694","uidMain":"1845102322007694","category":"website","pcp":"1283.2999999523163","LOCATION_HREF":"https://common-buy.aliyun.com/?commodityCode=datav","custom":"pageType=%E6%BA%90%E7%A0%81%E9%A1%B5%E9%9D%A2&pageid=&terminal=PC","TOPIC":"pcp_metric_common-buy.aliyun.com"}]}

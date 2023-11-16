@@ -1,0 +1,16 @@
+POST /log/web?0000161688375153915https%3A%2F%2Fsearch.bilibili.com%2Fall%3Fkeyword%3D%25E5%2595%25A5%25E6%25AF%2594%25E8%25B5%259B|333.337.search-card.all.show|1688375153915|1920x921|1|{%22spmid%22:%22search.search-result.video.all%22,%22avid%22:375506828,%22content_id%22:375506828,%22url%22:%22%22,%22card_index%22:12,%22query%22:%22%E5%95%A5%E6%AF%94%E8%B5%9B%22,%22qv_id%22:%22dCtd2a7QruRe2xHJqnnKjV3rjloAZfi6%22,%22trackid%22:%225785549441811181428%22,%22tab_id%22:%22all%22,%22tab_name%22:%22%E7%BB%BC%E5%90%88%22,%22page%22:1,%22page_offset%22:0,%22search_source%22:0,%22b_nut_h%22:0,%22lsid%22:%22751246A8_1891AFFEBA8%22,%22buvid_fp%22:%2237641a7278a6dec1a3053feadfe22ff3%22,%22buvid4%22:%22508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}||{%22ab_type%22:2,%22remove_back_version%22:%22V0%22,%22remove_topic%22:%22REMOVE%22,%22storage_back_btn%22:%22HIDE%22,%22clean_version_old%22:%22KEEP%22}|1 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://search.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://search.bilibili.com/all?keyword=%E5%95%A5%E6%AF%94%E8%B5%9B
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

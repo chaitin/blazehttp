@@ -1,0 +1,15 @@
+GET /speed/custom?payload=%7B%22custom%22%3A%5B%7B%22name%22%3A%22%E6%B8%B2%E6%9F%93%E6%97%B6%E9%95%BF-%2Fexpense%2Ftransactions%22%2C%22duration%22%3A751%7D%5D%7D&id=VD3jYHd7Vd7Q2xdwal&uin=100003290640&version=1.38.0&aid=818cec06-54c8-44f7-8f37-7b76ca250efc&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688384128090&from=https%3A%2F%2Fconsole.cloud.tencent.com%2Fexpense%2Foverview&referer=https%3A%2F%2Fconsole.cloud.tencent.com%2Fcls%2Fhosts%3Fregion%3Dap-guangzhou HTTP/1.1
+Host: aegis.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

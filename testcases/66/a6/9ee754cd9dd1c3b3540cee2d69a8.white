@@ -1,0 +1,17 @@
+GET /maps/modules?v=1.4.22&key=30710397364d8286848b5b85ab1c44ee&vrs=1671592305593&m=mouse,vectorlayer,overlay,cgl,AMap.CitySearch,sync HTTP/1.1
+Host: webapi.amap.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://www.gaokao.cn
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Intervention: <https://www.chromestatus.com/feature/5718547946799104>; level="warning"
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://www.gaokao.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

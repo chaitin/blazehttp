@@ -1,0 +1,18 @@
+POST /github/collect HTTP/1.1
+Host: collector.github.com
+Content-Length: 1312
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://github.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://github.com/SpiderLabs/ModSecurity/blob/v3/master/src/rule.cc
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"client_id":"876056057.1661334490","events":[{"page":"https://github.com/SpiderLabs/ModSecurity/blob/v3/master/src/rule.cc","title":"ModSecurity/src/rule_script.h at v3/master · SpiderLabs/ModSecurity · GitHub","context":{"actor_id":"130349172","actor_login":"naocanmonster","actor_hash":"05398acd83c991226de9aa5bbdadf3a603b72d8fb68a935415d861ec376c6eaf","user_id":"508521","user_login":"SpiderLabs","repository_id":"1320594","repository_nwo":"SpiderLabs/ModSecurity","repository_public":"true","repository_is_fork":"false","repository_network_root_id":"1320594","repository_network_root_nwo":"SpiderLabs/ModSecurity","referrer":"https://github.com/SpiderLabs/ModSecurity/blob/v3/master/src/rule_script.cc","request_id":"D2BD:1DB1:3846BF4:3C6AFC1:64A29CF6","visitor_id":"3762632115939046362","region_edge":"southeastasia","region_render":"iad","staff":"false","truncatedSloc":"39","truncatedLoc":"43","length":"1266","humanLength":"1.24 KB"},"type":"blob-size"}],"request_context":{"referrer":"https://cn.bing.com/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","screen_resolution":"1920x1080","browser_resolution":"1920x921","browser_languages":"zh-CN,en-US,en,zh","pixel_ratio":1,"timestamp":1688378642453,"tz_seconds":28800}}

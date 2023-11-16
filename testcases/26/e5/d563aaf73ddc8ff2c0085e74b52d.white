@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2948
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=jira%20demo&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&ghc=1&lq=0&pq=jira%20demo&sc=10-9&sk=&cvid=1294255762AB457D836F80835C518807&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>C701D3B491AF4AB49B702AFAEDDFCAB1</IG><TS>1688379937658</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":3,"N":3,"I":"5yz","S":"C+V+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":16230,"K":"196+cit+ciu+88j+89g+8av+8ca+8cs+8d6+8sy+awd+b83+b90+bw7+keydown+bxy","F":0},"V":"877//jh////////+@18//k4////////+@19//l1////////+89y//lr////////+8ae//mn////////+@1a//ns////////+8bb//p3////////+8bu//qj////////+@1b//s0////////+@1c//th////////+@1d//uu////////+8dn//vx////////+8e4//wp////////+8f1//xc////////+8qn//y1////////+8rj//z6////////+8s0//102////////+8si//115////////+@1e//12h////////+8te//13z////////+8tv//15g////////+8uc//16q////////+8ut//17o////////+8vq//18g////////+94j//@15////////+95f//1af////////+95x//1bd////////+96d//1ck////////+96u//1dy////////+97b//1fg////////+97r//1gx////////+988//1i4////////+98p//1iz////////+99m//1jk////////+a7g//1iw////////+a8e//1hv////////+a8u//1h3////////+a9b//1g4////////+a9s//1ez////////+aa8//1dq////////+aap//1ce////////+ab6//1b3////////+abm//1a0////////+ac3//@15////////+ad0//18h////////+ahn//17j////////+ai4//16h////////+ail//14n////////+aj2//125////////+ajj//zi////////+ajz//wx////////+akf//uo////////+akx//t2////////+ale//s5////////+api//re////////+aqg//q7////////+aqx//ot////////+ard//mu////////+aru//kc////////+asc//hq////////+ass//ff////////+at8//dj////////+ato//c6////////+au6//bf////////+@1g//al////////+b8k//9t////////+@1h//8h////////+b9h//6n////////+b9x//4i////////+bae//2i////////+bav//11////////+bbb//7////////+bbs//0////////","L":"@1i/x/INPUT#sb_form_q//5c/18/dt/18/4/K/-1+@16/2/////r4///R/+@16/3////i////R/+@16/p////b////R/+@16/x/////mv///R/","M":"0+kj+-1+27i+1v+1l+0+1q+333+59u+1","E":"@17/2/X/1o/+@17/6/X/1o/+@17/7/X/1o/+@17/8/X/1o/+@17/9/X/1o/+@17/a/X/1o/+@17/b/X/1o/+@17/c/X/1o/+@17/d/X/1o/+@17/e/X/1o/+@17/f/X/1o/+@17/g/X/1o/+@17/h/X/1o/+@17/i/X/1o/+@17/j/X/1o/+@17/k/X/1o/+@17/l/X/2s/+@17/m/X/4y/+@17/n/X/4y/","C":"876//////xi//875+@18//////y2//88g+@19//////yx//895+89x//////zl//89s+@1a/7/////11k//8ao+8bt/8/////149//8bc+@1b//////15n//8c1+@1c//////173//8c9+@1d//////18e//8d4+@1e/a/////1g0//8so+9qq/c////ec/1x1//9qp+9rq//////1we//9rh+9s6//////1vs//9rx+9sn//////1uu//9sd+9t3//////1sf//9t0+9tk//////1qw//9th+9u1/b/////1pm//9tw+9uh/////e8/1ov//9uc+9uy/////e6/1oc//9us+9vk/////e1/1nw//9vj+9wt/////du/1nj//9wl+a4o/////e5/1nk//a4d+@1f/6////e2/f4//@1f+awy/////do/f0//aws+axf/////d9/ev//ax8+axv/////ct/ep//axp+ayu/////bm/e3//ays+az9/////b5/dv//az8+azq/////av/dp//azp+b0n/////ai/db//b0l+b21/////ab/cz//b1w+b5q/////a8/da//b5o+b68/////ae/ds//b64+b6q/////ah/e6//b6k+@1g/////ar/e9//b7w+b8j/////at/dn//b8c+@1h/////au/cd//b8l+bhc//////3u//bh9+bht/0////ar/3i//bhp+bir/////am/34//bil+bkl/////ag/2v//bkf+blz/2////ae/2i//blq+bnd/x////a9/25//bnb+boa//////1u//bnz+bp9//////1h//bp2+bqv//mousedown/////1/bqu+bu8//mouseup/////0/bu7+//click//////","K":"@1i/x/@1j/1ekk/bw6+@1k/x/@1j/4/@1k"}]]]></D></E></Events><STS>1688379937658</STS></ClientInstRequest>

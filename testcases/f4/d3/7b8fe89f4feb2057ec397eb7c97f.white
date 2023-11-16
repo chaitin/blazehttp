@@ -1,0 +1,19 @@
+POST /zc/mailRegPage/mail/ini/powGetP HTTP/1.1
+Host: zc.reg.163.com
+Content-Length: 272
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://zc.reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://zc.reg.163.com/regInitialized?pd=yanxuan_web&pkid=njSLDRg&pkht=you.163.com
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"7084a32b4d35da3295380ce007b6ac745afb3b9d736cef143438a39ce51a7917c25f01514252c6999c661538116b1cb621302533c9ffcd83c69860e0e379c8c9a0d2640d0cf62ee032a8b9747fbca88b0c627e71c9f2ae71a1fb5d692fa217dc44ad5a7ac3ef408209d40ed94b41968724617354f640eb3106e67322a5d3dbc8"}

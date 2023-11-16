@@ -1,0 +1,424 @@
+POST /_graphql/GetSuggestedNavigationDestinations HTTP/1.1
+Host: github.com
+Content-Length: 14276
+Scoped-Csrf-Token: BTqZBJAuq47L1P16IWuheEV0yDyb8yCJZT_v5hBr8HBQNX_nbuCzHFW9-aLjzOZ734pLQztdJDNFvjZ6tKUz4Q
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryLVTXfbpysu0tlQvg
+Accept: application/json
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://github.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: empty
+Referer: https://github.com/search?q=repo%3ASpiderLabs%2FModSecurity%20xss&type=code
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/safeline
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:PeiQi0/PeiQi-WIKI-Book
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:phith0n/Mind-Map
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:riusksk/secbook
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:zhuifengshaonianhanlu/pikachu
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:SecWiki/sec-chart
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/xray
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Bypass007/Safety-Project-Collection
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:guanguans/favorite-link
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:521xueweihan/HelloGitHub
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:knownsec/404StarLink
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Wechat-ggGitHub/Awesome-GitHub-Repo
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:hehonghui/android-tech-frontier
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:talkgo/night
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:1c7/chinese-independent-developer
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Flywith24/BlogList
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Snailclimb/JavaGuide
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Jackpopc/DevWeekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:live0717/Article-1
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chinesehuazhou/python-weekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:ruanyf/weekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:GitHubDaily/GitHubDaily
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:ljinkai/weekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:1Panel-dev/1Panel
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:rustq/vue-skia
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:88250/awesome-seeds
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/lua-resty-t1k
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/safeline-open-platform
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/yanshi
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:HummerRisk/HummerRisk
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:UniiemStudio/CTFever
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Knowly-ai/langtorch
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:wazuh/wazuh
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:cisagov/RedEye
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:4ra1n/JavaSecInterview
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:DVKunion/CollieTrickster
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:frizb/Bypassing-Web-Application-Firewalls
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:lcatro/PHP-WebShell-Bypass-WAF
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:OWASP/SecureTea-Project
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:clouedoc/AutoSQLi
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Prodject/BurpSuite-collections
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:khalilbijjou/WAFNinja
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:codewatchorg/bypasswaf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:WaftTech/WaftEngine
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:YagamiiLight/Cerberus
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:titansec/OpenWAF
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:sleeyax/burp-awesome-tls
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:TeaWeb/build
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:aws-solutions/aws-waf-security-automations
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:nemesida-waf/waf-bypass
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:zer0yu/CyberSecurityRSS
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:DropsOfZut/awesome-security-weixin-official-accounts
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:eryajf/learning-weekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:datawhalechina/DOPMC
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:lvgithub/blog
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:HelloGitHub-Team/Article
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:linuxkerneltravel/community
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:NKDACS/NKDACS-Website
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:czzz0813/HelloGitHub
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:polaris1119/golangweekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:mcxtzhang/NestFullListView
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:gh0stkey/HaE
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:topics/security
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:topics/dependency-management
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:Hack-with-Github/Awesome-Hacking
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:FallibleInc/security-guide-for-developers
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:trending/developers
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:tnfe/TNT-Weekly
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:eslint/eslint
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:vulhub/vulhub
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/collie
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chaitin/blazehttp
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:alexazhou/VeryNginx
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:loveshell/ngx_lua_waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:bukaleyang/zhongkui-waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:unixhot/waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:chengdedeng/waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:EnableSecurity/wafw00f
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:starjun/openstar
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:jbe2277/waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:0xInfection/Awesome-WAF
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:stamparm/identYwaf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:ADD-SP/ngx_waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:p0pr0ck5/lua-resty-waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:3xp10it/xwaf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:lightbulb-framework/lightbulb-framework
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:ironbee/waf-research
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:xsec-lab/x-waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:weka-io/waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:nbs-system/naxsi
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:SpiderLabs/ModSecurity
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:terrylinooo/shieldon
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:baidu/openrasp
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:jx-sec/jxwaf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:SpiderLabs/ModSecurity-nginx
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:sindresorhus/devtools-detect
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:yaklang/yakit
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:ddonline/nginx-lua-waf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:wallarm/gotestwaf%E4%B8%8A%E6%94%B9%E9%80%A0%E4%B8%80%E4%B8%8B
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="variables[pageViews][]"
+
+repository:wallarm/gotestwaf
+------WebKitFormBoundaryLVTXfbpysu0tlQvg
+Content-Disposition: form-data; name="_method"
+
+GET
+------WebKitFormBoundaryLVTXfbpysu0tlQvg--

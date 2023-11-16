@@ -1,0 +1,21 @@
+POST /api/v3/syncRecordValues HTTP/1.1
+Host: www.notion.so
+Content-Length: 2335
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Notion-Audit-Log-Platform: web
+Notion-Client-Version: 23.12.0.143
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+X-Notion-Active-User-Header: 44c83b11-0dec-4a79-a165-c5997ba51eca
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/WAF-fc15ee8d2bbf410b821555ebb62e0f23
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"requests":[{"pointer":{"table":"page_visit","id":"d03b5efb-c41f-46b8-a41f-4a58f8645993","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"table":"page_exit","id":"d03b5efb-c41f-46b8-a41f-4a58f8645993","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"09942946-ed29-4836-bdb5-f2d0c68330e1","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"3c9eea35-e379-4f8d-8ada-fe2fa62dd92a","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"435182d1-c152-4c42-8bbb-b0d133fffdd7","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"d06f5f78-e6fe-4766-a44d-35c5dd6d0998","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"51371b70-6e77-4864-90ee-87173ac74f84","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"4948c0be-3c0f-4af7-b4b5-a100f7551db0","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"a7139b44-d18a-46f5-9820-319ec597c114","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"02c6616a-3af3-4e48-92fb-1c52d61e1c21","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"0da51c05-e864-4453-a2b9-52901af97f40","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"13507955-6191-4202-ae40-6ee000f0c2dc","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"48224eea-3675-4771-a7ff-5ad08d49bd65","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"3c5076e0-17f5-4f29-b023-089d8f24d84b","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"55617134-47df-402c-af2c-3202fec3975d","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"eae0faea-5865-4482-9a2e-2baa1031f1bb","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1},{"pointer":{"id":"20489656-02ca-42c8-bde6-3eb0cf9430bd","table":"block","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":-1}]}

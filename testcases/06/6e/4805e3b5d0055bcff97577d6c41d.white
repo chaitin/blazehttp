@@ -1,0 +1,15 @@
+GET /log/web?00111116883751740971688375173492|Default:Ugc:0|4.1.20-7187a7c9|cdnTime|{%22val%22:3.3,%22initErr%22:0}|bdaf9f34ce6c5a2f9a293d4853adb2ab|||868683413|1131820384|1|78|4|5|2|3|0|0|https://upos-sz-mirror08c.bilivideo.com/upgcxcode/84/03/1131820384/1131820384-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1688382368&gen=playurlv2&os=08cbv&oi=3080682842&trid=0a00a422511e4d27981bd9e3236031e3u&mid=503647489&platform=pc&upsig=12cee66c63cb61bb601c0876665e70ce&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&buvid=54F00853-746D-49F1-B499-6192F46FDB16138373infoc&build=0&agrr=1&bw=101776&logo=80000000,https://upos-sz-estghw.bilivideo.com/upgcxcode/84/03/1131820384/1131820384-1-30232.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1688382368&gen=playurlv2&os=upos&oi=3080682842&trid=0a00a422511e4d27981bd9e3236031e3u&mid=503647489&platform=pc&upsig=b0cbb482c01456fde3babf2ff98b3f00&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&buvid=54F00853-746D-49F1-B499-6192F46FDB16138373infoc&build=0&agrr=1&bw=10993&logo=80000000|||{%22webAbTest%22:{%22remove_back_version%22:%22SHOW%22,%22login_dialog_version%22:%22V0%22,%22open_recommend_blank%22:%22SELF%22,%22storage_back_btn%22:%22HIDE%22,%22call_pc_app%22:%22FORBID%22,%22clean_version_old%22:%22KEEP%22,%22optimize_fmp_version%22:%22LOADED_METADATA%22,%22in_new_ab%22:true,%22ab_version%22:{%22remove_back_version%22:%22SHOW%22,%22login_dialog_version%22:%22V0%22,%22open_recommend_blank%22:%22SELF%22,%22storage_back_btn%22:%22HIDE%22,%22call_pc_app%22:%22FORBID%22,%22clean_version_old%22:%22KEEP%22,%22optimize_fmp_version%22:%22LOADED_METADATA%22},%22ab_split_num%22:{%22remove_back_version%22:4,%22login_dialog_version%22:63,%22open_recommend_blank%22:15,%22storage_back_btn%22:13,%22call_pc_app%22:19,%22clean_version_old%22:14,%22optimize_fmp_version%22:22},%22pageVersion%22:%22new_video%22,%22videoGoOldVersion%22:null},%22playerIdle%22:%22cg%22,%22qn%22:32,%22aq%22:30232,%22ncEnabled%22:true,%22ncVersion%22:%222.10.3%22,%22ncSource%22:%22configZip%22,%22loaderEnabled%22:true} HTTP/1.1
+Host: data.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/video/BV1gV4y1k7N1/?spm_id_from=333.999.0.0&vd_source=b3e4f900304b3567373da8122c2b5004
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

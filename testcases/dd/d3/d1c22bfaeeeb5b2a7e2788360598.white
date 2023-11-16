@@ -1,0 +1,16 @@
+GET /external/gl.html?projects=724795035651,726768938479,725926785912,726933558877,727268977960,727575783964,727411650306,727603091972,727425275131,727288781705,723079467251,727070120868,724061025016,702400655877,727279565466,727057356753,727270685329,727581399995,675308408571,726965193770,707601908362,727027428637,726625702846,726753972053,727384138855,727024024685,727553551108,722392828219,726661865025,727550935145&ctl= HTTP/1.1
+Host: search.damai.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+X-Xsrf-Token: c2fc8d1d-1b5a-49b5-b570-0b81facbd87a
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://search.damai.cn/search.html?keyword=%E8%AF%9D%E5%89%A7&spm=a2oeg.search_category.searchtxt.dsearchbtn
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

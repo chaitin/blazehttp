@@ -1,0 +1,15 @@
+GET /appstore/cgi-bin/comm/appstore_getinstinfo?g_tk=1508769380&r=0.7008870423668048&callback=_Callback&need_uin=3&need_score=1&need_user=1&appid=100666811%2C13057%2C1107920767%2C1101082222%2C1106912177%2C358%2C100616028%2C1105587804&uin=389264167&_=1688379284002 HTTP/1.1
+Host: apphub.qzone.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://game.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

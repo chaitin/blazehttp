@@ -1,0 +1,14 @@
+GET /main/a.js?event_action=show&event_name=show_searchkw_words&page_name=searchkw&parameters=%7B%22type%22%3A3%2C%22key%22%3A%22%E9%A3%9E%E5%A4%A9%22%2C%22extra%22%3A%22%7B%5C%22resource%5C%22%3A%7B%5C%22materialName%5C%22%3A%5C%22%E6%90%9C%E7%B4%A2%E6%8A%A2%E8%B4%AD%E8%8C%85%E5%8F%B0%E5%85%B3%E9%94%AE%E8%AF%8D_0104-1231%5C%22%2C%5C%22resourcesId%5C%22%3A54685773%2C%5C%22materialId%5C%22%3A54707710%7D%7D%22%2C%22from%22%3A%22%22%7D&client_type=web&url=https%3A%2F%2Fyou.163.com%2Fexpert%2Findex&refer_url=https%3A%2F%2Fyou.163.com%2Fsearch%3Fkeyword%3D%25E5%25BA%258A%25E5%259E%25AB%26timestamp%3D1688379583251%26_stat_search%3Dhot%26searchWordSource%3D8&t=1688379586772&sessionid=63bc9137-dea9-425c-9174-194c08a0c7411688379457521&sequence=o_8558d24305&from_seq=&seq_list= HTTP/1.1
+Host: dc.you.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

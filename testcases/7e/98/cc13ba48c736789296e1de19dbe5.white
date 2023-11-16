@@ -1,0 +1,18 @@
+POST /xhr1?pvid=233ddca2-7dae-4d88-8bf4-42fa59595c49&ref=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dinfo%3Aindex&referrer=https%3A%2F%2Fcn.bing.com%2F&key=2MsHntswCUw&v=1.8.3&av=1.8.3&did=85c8767c-12a9-4478-9bd7-c543ed39b64e&sid=7a60dee7-b663-43f3-80f5-413741dc521d&__r=1688379619132 HTTP/1.1
+Host: beacon.tingyun.com
+Content-Length: 755
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"xhr":[{"id":17,"req":"GET member.php?mod=logging&action=login&handlekey=post&infloat=yes&inajax=yes&guestmessage=yes&sf_click_id=support_1","start":1688379617919,"du":213,"cb":0,"status":200,"err":0,"rec":12093,"send":0,"type":"XHR"},{"id":19,"req":"GET https://bbs.sangfor.com.cn/static/js/md5.js?20230701pyE&_=1688379611473","start":1688379618141,"du":107,"cb":0,"status":200,"err":0,"rec":5734,"send":0,"type":"XHR"},{"id":18,"req":"GET webapp/common/ui/view/mobileCodeBtn.html?v=20230701pyE","start":1688379618138,"du":129,"cb":0,"status":200,"err":0,"rec":1037,"send":0,"type":"XHR"},{"id":20,"req":"GET webapp/common/ui/view/inputTip.html?v=20230701pyE","start":1688379618269,"du":109,"cb":0,"status":200,"err":0,"rec":347,"send":0,"type":"XHR"}]}

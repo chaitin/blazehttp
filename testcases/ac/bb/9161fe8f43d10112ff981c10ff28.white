@@ -1,0 +1,19 @@
+POST /sg/operator/configureSecurityGroupPermissions.json HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 2649
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/legacy?hideTopbar=true&hideSidebar=true&hideAppNav=true&hideVersionController=true&master=next
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+authorizePermissions=%5B%7B%22NicType%22%3A%22intranet%22%2C%22Direction%22%3A%22ingress%22%2C%22IpProtocol%22%3A%22TCP%22%2C%22Policy%22%3A%22Accept%22%2C%22Priority%22%3A1%2C%22PortRange%22%3A%2280%2F80%22%2C%22SourceCidrIp%22%3A%220.0.0.0%2F0%22%2C%22GressFlow%22%3A%22in%22%7D%2C%7B%22NicType%22%3A%22intranet%22%2C%22Direction%22%3A%22ingress%22%2C%22IpProtocol%22%3A%22TCP%22%2C%22Policy%22%3A%22Accept%22%2C%22Priority%22%3A1%2C%22PortRange%22%3A%22443%2F443%22%2C%22SourceCidrIp%22%3A%220.0.0.0%2F0%22%2C%22GressFlow%22%3A%22in%22%7D%2C%7B%22NicType%22%3A%22intranet%22%2C%22Direction%22%3A%22ingress%22%2C%22IpProtocol%22%3A%22TCP%22%2C%22Policy%22%3A%22Accept%22%2C%22Priority%22%3A1%2C%22PortRange%22%3A%2222%2F22%22%2C%22SourceCidrIp%22%3A%220.0.0.0%2F0%22%2C%22GressFlow%22%3A%22in%22%7D%2C%7B%22NicType%22%3A%22intranet%22%2C%22Direction%22%3A%22ingress%22%2C%22IpProtocol%22%3A%22TCP%22%2C%22Policy%22%3A%22Accept%22%2C%22Priority%22%3A1%2C%22PortRange%22%3A%223389%2F3389%22%2C%22SourceCidrIp%22%3A%220.0.0.0%2F0%22%2C%22GressFlow%22%3A%22in%22%7D%2C%7B%22NicType%22%3A%22intranet%22%2C%22Direction%22%3A%22ingress%22%2C%22IpProtocol%22%3A%22ICMP%22%2C%22Policy%22%3A%22Accept%22%2C%22Priority%22%3A1%2C%22PortRange%22%3A%22-1%2F-1%22%2C%22SourceCidrIp%22%3A%220.0.0.0%2F0%22%2C%22GressFlow%22%3A%22in%22%7D%5D&collina=140%234%2F2Dnn8EzzPiWzo22xZ%2BwtSrazEjoDwp0epDKm1REBT9MdjJ7KHyfNInsMQebTJFlRtH92ACzW2m8oA3XDX2l3hqzznpWNnd%2BE2zzB5C9j%2Fqlbrz2DD3VthP5bFWLUt9fxDCf5V33S2vwQrrLDc3L6gqzzrbEQrwssNIPtrPHpcDuHi22UU%2Bye4XhVrFjEgoltJSE6w8B1UtNYrq1jQgC3TY3ZX5d0KIptVvIoUyJhCfd7JqjInKGz%2BKpyFI8CnrciVZ6RSXvL2GzGwWYHO%2BZqzommspkc%2FSl4aG8wOOYWqWwNMtlrgz9n0zVTAjzPyztnP4L50eIXvRepw693hjsQE5x3K2iEWzixHvymVftsZyAS%2BEUA%2F%2FBbDbwxYhPCi2IhyJLsA9dEc9OSsel92US5s8V6mu8anUuYdXe7NyEqONoz2TaffH2yHhEH%2Bw28plML98rA8rfRZNFjoghuTFx9ReOTg8%2BBkJeeE%2F%2FOflKGRrO2VLgN%2B1tyH7tDMbcdC8tmk8SO44ybPA1Ic2nc2Z6QBZYIH7T33shS%2Fjf2sZgVWbynh7gwlyo%2BJCwg7lh%2BQM0DefxWbKzIFNxn50BohIZmrX4hx%2BwxE4jU6Z7eozYKVNsFvKTiJnBJ5Ym4hot%2FCZMSqNaaHJGp5mcuCyzHH2X6RdSl3kKy3iqqRPXPMDrg%2FmGhiC1uU%2B9ns4RszZnkeKjvAa9WoxhzlCAoBEeKP2S5AIBMAk%2BTrTeEXSdGIh6kE0RITM0mrW3%2BlfKSVGp0BCbcg%2FwLCJr%2B9El5suQQNICnsY%2F%2BH%2BuJnDWPcPJ8Iu%2F%2BjLK4EuPcNCJxUwVzZ0Vb6BIsaHVsEHK1NKvjNnpGAaUdmEgVYs6xfWWdFqAH0v%2FiZeWJ2lkMnPiPzkB2ptlcm5o1fhgPh%2F9%2F1YyB55xrQSe3MFB%2BggLi1IHBaimJHrMRHTdPvt5YFEkZ7miY2%2FV8re4s%2B97shwQ3x9AmO6oP%2BPpYhPfTeZR9HyNPubxVCZulde26Bp3tHOBcbG10GGtDdkFTUlsXdSqKUajhPrruNb3RLpQOe3Ko6svMvQhFaynbuNecqL&regionId=cn-hangzhou&revokePermissions=%5B%5D&secToken=d5mraaH0uvLd9OQlTDzyz7&securityGroupId=sg-bp1j0atvwnzsqbdih3hf&token=Ybc1d57879a3d426a9515f7ea803ff363

@@ -1,0 +1,19 @@
+POST /cgi-bin/mmwebwx-bin/ccreport HTTP/1.1
+Host: wx.qq.com
+Content-Length: 1461
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://wx.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://wx.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"ver":2,"key":"8XVxCbiSXkKLxyTSKmDiTL96EWTKziowlV4y/Tr+k2U=","value":"ORo/UfmPImvaso0p9PA22p8Fs8LbD9GmD5JopftT8jrwiEh2aQttRND7s+n50rrZX6tdROssPbsca7gUAmjCsS8CIvABaagEJb8SrkOdIkvfkPfTQVkOwo+thUNPC4x6iFhdzBD6V/fa2N6ix//hR0VUSKac0qMIe1soD0tv14O7NTFbW+v/fK/Z6JLnSgFZaEcTQ2Iy5VaYz0wxuLwfn6ki6nj8WgHcvUzGuYAOV2nKqqNYt1UnL/6Rw+CxDQCZMkFJtVMH48hEJY+MNkIfGtImiaZf5XkakH8T+peJrIxlXlICq99yxC2eY2iPhFBiB9RWBrDnb76hBM3VH+Nwh9sp5YRVVwRMEKi5HjpWOTalSNxXkVEAcPilxALxZ0jCl5kZDeGoM3U96P6rjDyGEOYniYDArsRSU34olt4k6WuXAUJO2SfzQMGTA8lq1N36pNLHgUZfwSoYKkcj2smHND4twabeDL7YOBt8Gd9y2ZUHLAEl2JtB2O/ecN63odXiRJcufgK5O7F9jVHcKFoTFeG1QpSxQDpruHP89F2ILSuGgyJqLfOpJi2c7DaDs/27yuPSeS99CslnlH5z3cXjTEcLQfLCymPJKec1Y8o5Yxb01td+o+Ud2ehIQJ6CzR+m599X3h9hF5Knm6/hMYrYL2/xtZQafQfWwCWJ895DK7CdMFL41xe8ViEg7EJs/9i/69ugPUeNnu8le/a4zVcuv6OQCk4LwpjI7M38nrPNSKpbAo7BVK9P3yVm/fyBLX7h1LQ1OtD98GLBFP5l7ptCfx35wQ2ifTtsI3SwKtmm044Z43nAKfT0Uuk5O1plbBdoRdR0sllnd5bR31H97duklNsUnb3S4MdKFsT86hc/kzjySgwk+k9P3rYxZ8rrP9mO5H6Er9sFIkqyGynPwcH9GfPYmhWgjMVcSCMaV+Ff1UgLLaUdJysWNxof9AVj23O8xZDe6klUbLs1fe5FK8IIzw/p6eDhH4WZf3fuQkuqGPLhsb3NxcGofbZkr2EqqsJRyEwzhh0E6c7LPOCfyX2LPn6blTL7mFLCPAlJ178y7cYh6+kTNqOs9GYY1HM1VTMcQU07FppO+Xuy6Wunvt1nW0M88KD2qoslb/ZZ8LjaYXfhkVn3MCEYrT3MGvZbLw0uPn6apMmLAAemNOIyRP4tQXNwn6/ezdMBbIUQNZxQB51DEYMuk1luOHmXF8reV3Q/MSWNetz80kyet0UAGdQk415dYZqsgs6ILwnHhwoxW8CwIJoeOugDJ8B9RdS/m6dO0GSG1AC+TyD7gJYNqD9N7aAZifZco52PIfKq0ulTqARvzRd/PlhjhK/nyK5K3pSB1ufrwJgPam5XA7W79dzxzZU8VE5MomWj7VVuVAoP/Po="}

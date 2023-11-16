@@ -4,15 +4,18 @@ import (
 	"crypto/tls"
 	"flag"
 	"fmt"
+	"math"
 	"net"
+	"net/http"
 	"net/url"
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 	"time"
 
-	"github.com/chaitin/blazehttp/http"
+	blazehttp "github.com/chaitin/blazehttp/http"
 	progressbar "github.com/schollz/progressbar/v3"
 )
 
@@ -24,35 +27,30 @@ var (
 	target            string // the target web site, example: http://192.168.0.1:8080
 	glob              string // use glob expression to select multi files
 	timeout           = 1000 // default 1000 ms
-	statByCode        bool   // stat http response code
-	statByCodeDetail  bool   // show http response code detail
-	statByTag         bool   // stat http request file tags
-	statByTagDetail   bool   // stat http request file tags
-	show_detail       bool   // show stat detail
-	mHost             bool   // modify host header
-	mContentLength    bool   // calculate the correct content-length
+	mHost             string // modify host header
 	requestPerSession bool   // send request per session
 )
 
 func init() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage: ./blazehttp -t <url>")
+		os.Exit(1)
+	}
 	flag.StringVar(&target, "t", "", "target website, example: http://192.168.0.1:8080")
-	flag.StringVar(&glob, "g", "", "glob expression, example: *.http")
+	flag.StringVar(&glob, "g", "./testcases/", "glob expression, example: *.http")
 	flag.IntVar(&timeout, "timeout", 1000, "connection timeout, default 1000 ms")
-	flag.BoolVar(&statByCode, "c", true, "stat http response code")
-	flag.BoolVar(&statByCodeDetail, "C", false, "show http response code detail")
-	flag.BoolVar(&statByTag, "s", true, "stat http request file tags")
-	flag.BoolVar(&statByTagDetail, "S", false, "show http request file tags detail")
-	flag.BoolVar(&show_detail, "d", false, "show stat detail")
-	flag.BoolVar(&mHost, "mh", false, "modify host header")
-	flag.BoolVar(&mContentLength, "mcl", true, "calculate the correct content-length")
+	flag.StringVar(&mHost, "H", "", "modify host header")
 	flag.BoolVar(&requestPerSession, "rps", true, "send request per session")
 	flag.Parse()
+	if url, err := url.Parse(target); err != nil || url.Scheme == "" || url.Host == "" {
+		fmt.Println("invalid target url, example: http://chaitin.com:9443")
+		os.Exit(1)
+	}
 }
 
 func connect(addr string, isHttps bool, timeout int) *net.Conn {
 	var n net.Conn
 	var err error
-
 	if m, _ := regexp.MatchString(`.*(]:)|(:)[0-9]+$`, addr); !m {
 		if isHttps {
 			addr = fmt.Sprintf("%s:443", addr)
@@ -60,11 +58,10 @@ func connect(addr string, isHttps bool, timeout int) *net.Conn {
 			addr = fmt.Sprintf("%s:80", addr)
 		}
 	}
-
 	retryCnt := 0
 retry:
 	if isHttps {
-		n, err = tls.Dial("tcp", addr, nil)
+		n, err = tls.Dial("tcp", addr, &tls.Config{InsecureSkipVerify: true})
 	} else {
 		n, err = net.Dial("tcp", addr)
 	}
@@ -86,50 +83,67 @@ retry:
 	return &n
 }
 
-func statTags(tagStat map[string][]string, f string, metadatas []string) {
-	if len(metadatas) == 0 {
-		if _, ok := tagStat[NoneTag]; !ok {
-			tagStat[NoneTag] = []string{f}
-		} else {
-			tagStat[NoneTag] = append(tagStat[NoneTag], f)
+func getNomalStatusCode(url string, mHost string) (statusCode int, conErr error) {
+	isHttps := strings.HasPrefix(url, "https")
+	client := &http.Client{
+		CheckRedirect: func(req *http.Request, via []*http.Request) error {
+			return http.ErrUseLastResponse
+		},
+	}
+	req, err := http.NewRequest("GET", url, nil)
+
+	if isHttps {
+		tr := &http.Transport{
+			TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
 		}
-		return
+		client = &http.Client{
+			CheckRedirect: func(req *http.Request, via []*http.Request) error {
+				return http.ErrUseLastResponse
+			},
+			Transport: tr,
+		}
+	}
+	if err != nil {
+		return 0, fmt.Errorf("创建请求失败: %s", err)
+	}
+	if mHost != "" {
+		req.Host = mHost
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9999.999 Safari/537.36")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.9")
+	resp, err := client.Do(req)
+	if err != nil {
+		fmt.Println("HTTP 请求发生错误:", err)
+		return 0, err
+	}
+	defer resp.Body.Close()
+
+	statusCode = resp.StatusCode
+	return
+}
+
+func getAllFiles(path string) ([]string, error) {
+	var files []string
+
+	err := filepath.Walk(path, func(filePath string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() {
+			files = append(files, filePath)
+		}
+		return nil
+	})
+
+	if err != nil {
+		return nil, err
 	}
 
-	foundTag := false
-	for _, line := range metadatas {
-		l := strings.TrimSpace(line)
-		if !strings.HasPrefix(l, "tag:") {
-			continue
-		}
-		a := strings.SplitN(l, ":", 2)
-		if len(a) < 2 {
-			continue
-		}
-		t := strings.Split(a[1], ",")
-		for _, v := range t {
-			vv := strings.TrimSpace(v)
-			foundTag = true
-			if _, ok := tagStat[vv]; !ok {
-				tagStat[vv] = []string{f}
-			} else {
-				tagStat[vv] = append(tagStat[vv], f)
-			}
-		}
-	}
-	if !foundTag {
-		if _, ok := tagStat[NoneTag]; !ok {
-			tagStat[NoneTag] = []string{f}
-		} else {
-			tagStat[NoneTag] = append(tagStat[NoneTag], f)
-		}
-	}
+	return files, nil
 }
 
 func main() {
-	var codeStat map[int][]string
-	var tagStat map[string][]string
-
+	// mcl := true
 	isHttps := false
 	addr := target
 
@@ -141,17 +155,10 @@ func main() {
 		addr = u.Host
 	}
 
-	fileList, err := filepath.Glob(glob)
+	fileList, err := getAllFiles(glob)
 	if err != nil || len(fileList) == 0 {
 		fmt.Printf("cannot find http file")
 		return
-	}
-
-	if statByCode {
-		codeStat = make(map[int][]string)
-	}
-	if statByTag {
-		tagStat = make(map[string][]string)
 	}
 
 	success := 0
@@ -173,19 +180,32 @@ func main() {
 		progressbar.OptionUseANSICodes(true),
 	)
 
+	TP := 0
+	TN := 0
+	FP := 0
+	FN := 0
+	elap := make([]int64, 0)
+	nomalStatusCode, err := getNomalStatusCode(target, mHost)
+	blockStatusCode, err := getNomalStatusCode(target+`/keys?1%20AND%201=1%20UNION%20ALL%20SELECT%201,NULL,%27<script>alert("XSS")</script>%27,table_name%20FROM%20information_schema.tables%20WHERE%202>1--/**/;%20EXEC%20xp_cmdshell(%27cat%20../../../etc/passwd%27)#`, mHost)
+	if err != nil {
+		os.Exit(1)
+	}
+	if nomalStatusCode == blockStatusCode {
+		fmt.Println("目标网站未开启waf")
+		os.Exit(1)
+	}
 	for _, f := range fileList {
 		_ = bar.Add(1)
-		req := new(http.Request)
+		req := new(blazehttp.Request)
 		if err = req.ReadFile(f); err != nil {
 			fmt.Printf("read request file: %s error: %s\n", f, err)
 			continue
 		}
-
-		if statByTag {
-			statTags(tagStat, f, req.Metadata)
-		}
-
-		if mHost {
+		if mHost != "" {
+			// 修改host header
+			req.SetHost(mHost)
+		} else {
+			// 不修改会导致域名备案拦截
 			req.SetHost(addr)
 		}
 
@@ -194,11 +214,9 @@ func main() {
 			req.SetHeader("Connection", "close")
 		}
 
-		if mContentLength {
-			// fix content length
-			req.CalculateContentLength()
-		}
+		req.CalculateContentLength()
 
+		start := time.Now()
 		conn := connect(addr, isHttps, timeout)
 		if conn == nil {
 			fmt.Printf("connect to %s failed!\n", addr)
@@ -210,49 +228,60 @@ func main() {
 			continue
 		}
 
-		rsp := new(http.Response)
+		rsp := new(blazehttp.Response)
 		if err = rsp.ReadConn(*conn); err != nil {
 			fmt.Printf("read poc file: %s response, error: %s", f, err)
 			continue
 		}
+		elap = append(elap, time.Since(start).Nanoseconds())
 		(*conn).Close()
 		success++
 
-		if statByCode {
-			statusCode := rsp.GetStatusCode()
-			if _, ok := codeStat[statusCode]; !ok {
-				codeStat[statusCode] = []string{f}
+		isWhite := false // black case
+		if strings.HasSuffix(f, "white") {
+			isWhite = true // white case
+		}
+
+		isPass := true
+		code := rsp.GetStatusCode()
+		if code == blockStatusCode {
+			isPass = false
+		}
+
+		if isWhite {
+			if isPass {
+				TN += 1
 			} else {
-				codeStat[statusCode] = append(codeStat[statusCode], f)
+				FP += 1
+			}
+		} else {
+			if isPass {
+				FN += 1
+			} else {
+				TP += 1
 			}
 		}
 	}
 
-	fmt.Printf("Total http file: %d, success: %d failed: %d\n", len(fileList), success, (len(fileList) - success))
+	fmt.Printf("TP[攻击拦截]: %d    TN[正常放行]: %d    FP[误报]: %d    FN[漏报]: %d\n", TP, TN, FP, FN)
+	fmt.Printf("总样本数量: %d    成功: %d    错误: %d\n", len(fileList), success, (len(fileList) - success))
+	fmt.Printf("检出率: %.2f%%\n", float64(TP)*100/float64(TP+FN))
+	fmt.Printf("误报率: %.2f%%\n", float64(FP)*100/float64(TP+FP))
+	fmt.Printf("准确率: %.2f%%\n\n", float64(TP+TN)*100/float64(TP+TN+FP+FN))
 
-	if statByCode {
-		fmt.Printf("Stat http response code\n\n")
-		for k, v := range codeStat {
-			fmt.Printf("Status code: %d hit: %d\n", k, len(v))
-			if statByCodeDetail {
-				for _, f := range v {
-					fmt.Printf("- %s\n", f)
-				}
-			}
+	all := len(elap)
+	p90 := int(math.Ceil(float64(all) * 0.9))
+	p99 := int(math.Ceil(float64(all) * 0.99))
+	sort.Slice(elap, func(i, j int) bool { return elap[i] < elap[j] })
+	var sum int64 = 0
+	for i, v := range elap {
+		sum += v
+		if i == p90 {
+			fmt.Printf("90%% 平均耗时: %.2f毫秒\n", float64(sum)/float64(p90)/1000000)
+		} else if i == p99 {
+			fmt.Printf("99%% 平均耗时: %.2f毫秒\n", float64(sum)/float64(p90)/1000000)
+			break
 		}
-		fmt.Println()
 	}
-
-	if statByTag {
-		fmt.Printf("Stat http request tag\n\n")
-		for k, v := range tagStat {
-			fmt.Printf("tag: %s hit: %d\n", k, len(v))
-			if statByTagDetail {
-				for _, f := range v {
-					fmt.Printf("- %s\n", f)
-				}
-			}
-		}
-		fmt.Println()
-	}
+	fmt.Printf("平均耗时: %.2f毫秒\n", float64(sum)/float64(p90)/1000000)
 }

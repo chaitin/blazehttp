@@ -1,0 +1,18 @@
+POST /stats/i HTTP/1.1
+Host: countly.mail.163.com
+Content-Length: 1725
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://mail.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+events=%5B%7B%22key%22%3A%22page_stay%22%2C%22count%22%3A1%2C%22segmentation%22%3A%7B%22time%22%3A27.7%2C%22module_name%22%3A%22MAIL163_INDEX%22%2C%22page_url%22%3A%22https%3A%2F%2Fmail.163.com%2F%22%7D%2C%22path_trace%22%3A%22free_webmail_9c89159b6fde1dc2%7Cperformance%22%2C%22session_id%22%3A%224cc411ae-ec39-48a1-8b05-1f94b1be589d%22%2C%22type%22%3A%22time%22%2C%22module_name%22%3A%22MAIL163_INDEX%22%2C%22utm%22%3A%7B%22utm_id%22%3A%22%22%2C%22utm_source%22%3A%22%22%2C%22utm_medium%22%3A%22%22%2C%22utm_term%22%3A%22%22%2C%22utm_content%22%3A%22%22%2C%22utm_campaign%22%3A%22%22%7D%2C%22domInfo%22%3A%7B%7D%2C%22timestamp%22%3A1688383738972%2C%22hour%22%3A19%2C%22dow%22%3A1%2C%22tz%22%3A480%7D%5D&app_key=free_webmail_9c89159b6fde1dc2&device_id=e4e7942e699753cc6181cc11ab5bb056_v1&version=1.0&common=%7B%22ua%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36%22%2C%22browser%22%3A%22Chrome%22%2C%22browser_version%22%3A%22114.0.0.0%22%2C%22os%22%3A%22Windows%22%2C%22os_version%22%3A%2210%22%2C%22device%22%3A%22desktop%22%2C%22resolution%22%3A%221920x1080%22%2C%22referrer%22%3A%22https%3A%2F%2Fmusic.163.com%2F%22%2C%22site_channel%22%3A%22default%22%2C%22client%22%3A%22pc%22%2C%22density%22%3A%22%401x%22%2C%22locale%22%3A%22zh-CN%22%2C%22manufacturer%22%3A%22%22%2C%22domain%22%3A%22mail.163.com%22%2C%22app_version%22%3A%221.0.0%22%2C%22abtest_zone%22%3A%22%22%2C%22abtest_version%22%3A%22%22%2C%22carrier%22%3A%22%22%2C%22app_channel%22%3A%22%22%2C%22ip%22%3A%22%22%2C%22lbs%22%3A%22%22%2C%22network_type%22%3A%22%22%2C%22sdid%22%3A%22993205314227376128%22%7D&timestamp=1688383738973&hour=19&dow=1&tz=480

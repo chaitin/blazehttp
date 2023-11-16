@@ -1,0 +1,18 @@
+POST /collect?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379251293&from=https%3A%2F%2Fuser.qzone.qq.com%2F389264167&referer=https://qzs.qq.com/ HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 1505
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+msg[0]=SCRIPT%20load%20fail%3A%20https%3A%2F%2Fcdn-go.cn%2Fvasdev%2Fweb_webpersistance_v2%2Fv1.5.3%2Fflog.core.min.js&level[0]=32&&msg[1]=AJAX_ERROR%3A%20request%20failed.%20status%3A%200.%20%0A%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20https%3A%2F%2Fuser.qzone.qq.com%2Fproxy%2Fdomain%2Fboss.qzone.qq.com%2Ffcg-bin%2Ffcg_get_multiple_strategy%3Fuin%3D389264167%26board_id%3D2420%26need_cnt%3D65536%26g_tk%3D1508769380%26g_tk%3D1508769380.%20%0A%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20request%20body%3A%20.&level[1]=16&&msg[2]=AJAX_ERROR%3A%20request%20failed.%20status%3A%200.%20%0A%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20https%3A%2F%2Fuser.qzone.qq.com%2Fproxy%2Fdomain%2Fic2.qzone.qq.com%2Fcgi-bin%2Ffeeds%2Ffeeds3_html_more%3Fuin%3D389264167%26scope%3D0%26view%3D1%26daylist%3D%26uinlist%3D%26gid%3D%26flag%3D1%26filter%3Dall%26applist%3Dall%26refresh%3D0%26aisortEndTime%3D0%26aisortOffset%3D0%26getAisort%3D0%26aisortBeginTime%3D0%26pagenum%3D1%26externparam%3Dundefined%26firstGetGroup%3D0%26icServerTime%3D0%26mixnocache%3D0%26scene%3D0%26begintime%3Dundefined%26count%3D10%26dayspac%3Dundefined%26sidomain%3Dqzonestyle.gtimg.cn%26useutf8%3D1%26outputhtmlfeed%3D1%26rd%3D0.07225190186104014%26usertime%3D1688379247397%26windowId%3D0.4467212319744944%26g_tk%3D1508769380%26g_tk%3D1508769380.%20%0A%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20request%20body%3A%20.&level[2]=16&&count=3

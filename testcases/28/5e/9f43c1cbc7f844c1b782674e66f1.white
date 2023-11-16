@@ -1,0 +1,15 @@
+OPTIONS /recommended/api/beta/edgeworth/deltasync?rs=en-US&excludeApps=WebLink HTTP/1.1
+Host: substrate.office.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: authorization,client-request-id,x-anchormailbox,x-ms-clientappid,x-office-application,x-office-scenario,x-routingparameter-sessionkey
+Origin: https://www.office.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

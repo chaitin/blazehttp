@@ -1,0 +1,15 @@
+GET /api/ecsImage/describeImages.json?regionId=cn-hangzhou&networkType=vpc&status=Available,Deprecated&filterKey=NetworkType&filterValue=vpc&instanceType=ecs.u1-c1m1.large&isSupportIoOptimized=True&imageOwnerAlias=system&includeMarketSystemImage=false&chargeType=PrePaid&pageSize=100&pageNumber=2&apiVersion=ecs_v2&__preventCache=1688383010238 HTTP/1.1
+Host: ecs-buy.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs-buy.aliyun.com/ecs?spm=5176.ecscore_overview.res-empty-sale.buy.611e4df5veUCse
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

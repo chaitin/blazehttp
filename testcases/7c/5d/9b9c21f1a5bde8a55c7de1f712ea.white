@@ -1,0 +1,30 @@
+POST /wind HTTP/1.1
+Host: wind.hlgdata.com
+Content-Length: 1906
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryNmzxhoB8H4xpB7fU
+Accept: */*
+Origin: https://huaban.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://huaban.com/activities
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryNmzxhoB8H4xpB7fU
+Content-Disposition: form-data; name="gzip"
+
+0
+------WebKitFormBoundaryNmzxhoB8H4xpB7fU
+Content-Disposition: form-data; name="use_client_time"
+
+false
+------WebKitFormBoundaryNmzxhoB8H4xpB7fU
+Content-Disposition: form-data; name="data"
+
+eyJwcm9qZWN0IjoiaGJfd2ViIiwicGF0aCI6Ii93aW5kIiwic2RrX3ZlcnNpb24iOiIyLjYuMSIsInJ1bnRpbWUiOnsib3MiOiJXaW5kb3dzIiwibW9kZWwiOiIxMCIsInNjcmVlbl93aWR0aCI6MTkyMCwic2NyZWVuX2hlaWdodCI6MTA4MH0sInJlcG9ydF90aW1lIjoxNjg4Mzc1NDM2NzU1LCJkYXRhIjp7ImNoYW5uZWxfaWQiOiIyODkiLCJkZXZpY2VfaWQiOiI4MzA0NWIwMjVmNWI0YTBmOGY5OWJiYmJhNDc1ZDBiOSIsImlzX2ZpcnN0X2RheSI6MCwicHJvamVjdF92ZXIiOiIyLjAuMCIsInNlc3Npb25faWQiOiIxODkxYjA0NGY1ZmJlYS0wZmQxZWY1NDEzMmZlMy0yNjAzMWQ1MS0yMDczNjAwLTE4OTFiMDQ0ZjYwZGYzIiwiZW52IjoicHJvZCIsInVzZXJfaWQiOiI4MzA0NWIwMjVmNWI0YTBmOGY5OWJiYmJhNDc1ZDBiOSIsImlzX2xvZ2luIjowLCJyZWZlcnJlciI6IiIsInVrX2lkIjoiMjgxMzcxOWIwZWQxNDJjZjkzN2Q2ZDZkMWViMWJmYzYiLCJldmVudF9pZCI6MzkwMDgsImV2ZW50IjoiYnV0dG9uX2NsaWNrIiwiYXR0cmlidXRlcyI6eyJyZWdpb25faWQiOiIxIiwiYml6X2NvZGUiOiIxIiwiZW5kcG9pbnQiOiI0IiwicGFnZV9wYXJhbXMiOnt9LCJzb3VyY2VfcGFnZSI6Imh0dHBzOi8vaHVhYmFuLmNvbS9zZWFyY2g/cT0lRTclQTclOTElRTYlOEElODAmc29ydD1jcmVhdGVkX2F0JnR5cGU9cGluJmZpbHRlcl9pZHM9aXNfbWF0ZXJpYWwtNTM0Mjc0Ny41MzQyNzQ5LjUzNDI3NTUlN0VmaWxlX3R5cGUtNTM0Mjc0Ny41MzQyNzUwLjUzNDI3NTglN0Vjb2xvcnMtNTM0Mjc0Ny41MzQyNzUxLjUzNDI3NjYlN0VyYXRpby01MzQyNzQ3LjUzNDI3NTIuNTM0Mjc3MyU3RWNhdGVnb3J5LTUzNDI3NDcuNTM0Mjc0OC41MzQzODA5IiwicGFnZSI6Imh0dHBzOi8vaHVhYmFuLmNvbS9hY3Rpdml0aWVzIiwicGFnZV90aW1lIjoxNjg4Mzc1NDM1NjMxLCJkZXRhaWwiOnsiYnV0dG9uX25hbWUiOiJBSeWciCIsInBhZ2Vfbm0iOiLlpKfotZvpobXpnaIiLCJidXR0b25fc291cmNlIjoi5aSn6LWb6aG16Z2iX1/lr7zoiKrmoI8iLCJfaWRlbiI6ImJ1dHRvbl9jbGljayJ9LCJhYl90YWdzIjpbImV6cWZkc2RfMSIsImJxaWpwdG1fMiIsInRndmZ6eXdfMCJdfSwidGltZXN0YW1wIjoxNjg4Mzc1NDM2NzU1LCJ1dGNfdGltZSI6IjIwMjMtMDctMDNUMDk6MTA6MzYuNzU1KzA4OjAwIn19
+------WebKitFormBoundaryNmzxhoB8H4xpB7fU--

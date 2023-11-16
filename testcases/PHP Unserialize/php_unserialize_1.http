@@ -1,8 +1,0 @@
-# tag: black,php_unserialize
-GET / HTTP/1.1
-Host: monster
-User-Agent: Chrome
-Content-Type: application/x-www-form-urlencoded
-Content-Length: 55
-
-a=O:9:"FileClass":1:{s:8:"filename";s:10:"config.php";}

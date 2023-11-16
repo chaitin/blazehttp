@@ -1,0 +1,18 @@
+POST /metal/ingest HTTP/1.1
+Host: api.atlassian.com
+Content-Length: 1433
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://id.atlassian.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://id.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"type":"metric","meta":{"version":"5.0.448","env":"prod","os":"windows","platform":"desktop","browser":"chrome"},"metalId":"106040e7-7aa1-40d4-af50-1464ab63b642","data":[{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":226.19999992847443,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:link"],"value":1165.9000000953674,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":1199.2000000476837,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":1170.7000000476837,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":1198,"sampleRate":1},{"type":"timing","name":"fe.perf.time_to_first_byte","tags":["page:login"],"value":742.1999999284744,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":274.40000009536743,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":285.90000009536743,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":298.39999997615814,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:login","type:script"],"value":292.8000000715256,"sampleRate":1}]}

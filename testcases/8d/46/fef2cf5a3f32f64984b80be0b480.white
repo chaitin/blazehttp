@@ -1,0 +1,18 @@
+POST /analytics/v2_upload?appkey=0WEB0QEJW44KW5A5 HTTP/1.1
+Host: otheve.beacon.qq.com
+Content-Length: 1511
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=utf-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://im.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://im.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appVersion":"","sdkId":"js","sdkVersion":"4.5.16-web","mainAppKey":"0WEB0QEJW44KW5A5","platformId":3,"common":{"A2":"m7ch6k7XZM3iPPBZCWdJHa1ZtkWMG7bm","A8":"","A12":"zh-CN","A17":"1920*1080*1","A23":"","A50":"","A76":"0WEB0QEJW44KW5A5_1688383488511","A101":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","A102":"https://im.qq.com/index/","A104":"","A119":"","A153":""},"events":[{"eventCode":"init_player","eventTime":"1688383488512","mapValue":{"videocapability":"{\"codec\":{\"av1\":1\\,\"hevc\":0\\,\"dolby\":0}\\,\"format\":{\"hls\":0}\\,\"hdr\":0\\,\"hw\":{\"concurrency\":16}}","platform":"70201","vplatform":"70201","flowid":"fad81a705d9bd37fe7a0fd1a49505578","uin":"","QQopenid":"","WXopenid":"","logintype":"0","guid":"fada875f449289c238c032d1bc5ae4a8","uip":"","cdnuip":"","cdnip":"","online":"1","p2p":"0","sstrength":"0","network":"0","speed":"0","device":"","resolution":"1920*1080*1","testid":"0","codec":"0","osver":"windows 10.0","p2pver":"","appver":"3.5.57","playerver":"1.15.2","confid":"0","playertype":"0","cdnid":"","scenesid":"421","playtype":"0","dltype":"0","vid":"","fmt":"","rate":"","drm":"0","definition":"","duration":"0","seq":"0","kernel":"unknown","domain":"im.qq.com","isad":"0","ext1":"","ext2":"","ext3":"","framedrop":"-1","avgdecodecost":"-1","stepname":"init_player","step":"5","stime":"1688383488370","etime":"1688383488385","code":"0","A99":"Y","A100":"11","A72":"4.5.16-web","A88":"1681196734533"}}]}

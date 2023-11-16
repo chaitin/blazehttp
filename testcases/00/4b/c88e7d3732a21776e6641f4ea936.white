@@ -1,0 +1,14 @@
+POST /restapi/soa2/16163/saveLogInfo?_fxpcqlniredt HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 1527
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://hotels.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"auth":null,"cid":"09031121410788884587","ctok":"","cver":"1.0","extension":[],"lang":"01","sid":"","syscode":"09"},"logTime":1688378026218,"oid":"","transId":"prd-2023_7_3_1-40fc61be-21e7-4301-a2cd-adff9c98c96b-hotel_online_list-3.6.2-DOM-online","source":"hotel_online_list","uid":"","version":"3.6.2","extend":"@1688378025590-rootID=[\"100025527-0a70c314-468993-2935899\",\"100025527-0a70c3e3-468993-2936569\",\"100025527-0a70c206-468993-2936959\"],@1688378026217-end","content":"{spID=0,gID=64a2eb43-c340-4510-8545-e78144db7a0c,len=1}xµTÛjÛ@\u0010ýyVAwK~kk\u0017\n­]J\u000b\u0012ÄÖÚ$*º!­\u0010ä¥Ð~O¿)Éoä$Ëò\u0002±'ÍÌsfvV5é4¯IÝäæ´X&d%SuZ\u001aB\t\u000eÙ¶Ø dhge¤¢,-iþ³¦\u001db\u0001ä\rðFQ¯\t_E\\_^\u0012\u0005ß\u0018~sÑt±R$GëyÖÌÓMÇ6\u001c\u001cÉ\r\u0017Á2N¥£¶Ü)t¡Pª~mìýB&YÕ:5å¢@±­J³ë[ÓpZ\u0018¶\tSB]×\u001az°ÌW\u0014zs,ÙÖ(E>;é6áe!Êî\u0019Ñ\u0012W+°¦0ª iÌQÓ&\u0016%\fRqp-E(àwÆ\"\u000bTÁE\\\u0011ZÛ\\Gq¸Bé^K?¦YÓhc=\u001czZ\u0010/\u0002ßg©jGCwþßßÞ>üû\u000bi}U¯^\u000e×çèfîÃ²^lgM\\Å;k{:wÛ:\u0002ó Ç`s\u0004v0\u0013\u0006ã®:0²ÁÖ\u0001ìöOg\u0012l òäx|s\u0018d0\u001en¥=Ã\u0006\tÇÚ&è]Ýæ;éè\rXÎ9ôÃl§é\u001cî±£3a¹çÐáúÙ­i¸\u0003=ÿ\tfçÐ÷ÿ\u0013é\u0019äqÝñ[§áÝòÃúë2ø¾ú´~»Ø«ù\"\nàpï/wx ®\u0006Ïa\\w©\u0002¶2¨y\u0004\n8Ð\u000f"}

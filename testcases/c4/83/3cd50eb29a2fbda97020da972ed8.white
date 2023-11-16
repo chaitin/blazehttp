@@ -1,0 +1,19 @@
+POST /action?url=https%3A%2F%2Fwww.csdn.net%2F&pvid=e1fcaab41c4e4c0a8697195ef40e6685&ref=https%3A%2F%2Fwww.csdn.net%2F&referrer=&v=3.3.1-saas.2&av=3.3.1-saas.2&did=10_18754282740-1597979518688-247971&uid=weixin_46708016&sid=6645052141d14f1a8c546504fe0fc9f7&__s=1688373822942&id=hWg-u0rE5b8&key=Z1Tu5hoKbGw&token=568934913a6343de840a781ca5eaba4b&sh=1080&sw=1920&ps=1&__r=1688374542786 HTTP/1.1
+Host: wkbrs1.tingyun.com
+Content-Length: 2460
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.csdn.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+c{"type":"common","optCustomParam":{}}
+p{"type":"pf","start":1688374541976,"end":1688374542785,"duration":809,"data":{"items":[{"type":"ajax","subType":"xhr","id":0,"cid":2,"method":"GET","url":"https://img-home.csdnimg.cn/data_json/toolbar/toolbar1105.json","state":"finish","jserror":false,"start":1688374541981,"end":1688374542242,"du":261,"cb":17,"status":200,"err":0,"rec":7734,"send":0,"opt_custom_param":{},"hasServerHeader":false,"items":[{"type":"ajax","subType":"xhr","id":1,"cid":3,"method":"GET","url":"https://silkroad.csdn.net/api/v2/assemble/list/channel/search_hot_word?new_hot_flag=1&channel_name=pc_hot_word&size=20&user_name=weixin_46708016&platform=pc&imei=10_18754282740-1597979518688-247971","state":"finish","jserror":false,"start":1688374542248,"end":1688374542648,"du":400,"cb":1,"status":200,"err":0,"rec":5653,"send":0,"opt_custom_param":{},"hasServerHeader":false,"items":[]},{"type":"ajax","subType":"xhr","id":2,"cid":4,"method":"GET","url":"https://kunpeng.csdn.net/ad/json/integrate/list?positions=932","state":"finish","jserror":false,"start":1688374542253,"end":1688374542599,"du":346,"cb":0,"status":200,"err":0,"rec":51,"send":0,"opt_custom_param":{},"hasServerHeader":false,"items":[]},{"type":"ajax","subType":"xhr","id":3,"cid":5,"method":"POST","url":"https://msg.csdn.net/v1/web/message/view/unread","state":"finish","jserror":false,"start":1688374542254,"end":1688374542638,"du":384,"cb":3,"status":200,"err":0,"rec":920,"send":15,"opt_custom_param":{},"hasServerHeader":false,"items":[]}]},{"type":"ajax","subType":"fetch","id":4,"cid":6,"method":"POST","url":"https://ev.csdn.net/webv3","start":1688374542447,"end":1688374542774,"du":327,"status":200,"opt_custom_param":{},"hasServerHeader":false,"state":"finish","items":[]},{"type":"ajax","subType":"fetch","id":5,"cid":7,"method":"POST","url":"https://ev.csdn.net/webv3","start":1688374542462,"end":1688374542785,"du":323,"status":200,"opt_custom_param":{},"hasServerHeader":false,"state":"finish","items":[]}],"ns":1688374541179,"f":4,"qs":62,"rs":554,"re":556,"os":1128,"oe":1173,"oi":1128,"oc":1395,"ls":1396,"le":1607,"tus":0,"tue":0,"cs":46,"ce":61,"ds":4,"de":4,"sl":58,"je":0,"sh":1080,"sw":1920,"__fp":1,"fp":1011,"__dr":1,"dr":1128,"__fs":1,"fs":1256,"loadEventEnd":1396,"trflag":"0000","type":"pf","body":{"tr":false,"tt":"(33%E6%9D%A1%E6%B6%88%E6%81%AF)%20CSDN%20-%20%E4%B8%93%E4%B8%9A%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA","charset":"UTF-8"}}}

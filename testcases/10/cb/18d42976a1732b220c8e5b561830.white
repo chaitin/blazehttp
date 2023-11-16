@@ -1,0 +1,18 @@
+POST /rest/v1/delivery?client=ibm&sessionId=5bac3e63-5021-447e-84ab-34010dcfb78b HTTP/1.1
+Host: tgt.maep.ibm.com
+Content-Length: 1317
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.ibm.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"id":{"tntId":"5978933b-db13-4eaf-96f7-1d4a519b41bd"},"property":{"token":"33786398-82af-6de5-0dcd-e4f72e4fcea3"},"context":{"channel":"web","window":{"width":1920,"height":921},"address":{"url":"https://www.ibm.com/cn-zh/topics/saas","referringUrl":"https://www.baidu.com/link"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},"prefetch":{"mboxes":[{"name":"umx-contact-module","index":1,"parameters":{"isIBMer":"false"}},{"name":"homepage","index":2,"parameters":{"isIBMer":"false"}},{"name":"umx_testing","index":3,"parameters":{"isIBMer":"false"}},{"name":"umx_testing2","index":4,"parameters":{"isIBMer":"false"}},{"name":"umx-test-activity","index":5,"parameters":{"isIBMer":"false"}},{"name":"umx-track","index":6,"parameters":{"isIBMer":"false"}},{"name":"umx-scheduler-container","index":7,"parameters":{"isIBMer":"false"}},{"name":"umx-launcher","index":8,"parameters":{"isIBMer":"false"}},{"name":"umx-contact-form-container","index":9,"parameters":{"isIBMer":"false"}}],"views":[{"name":"umx-contact-module"},{"name":"homepage"},{"name":"umx_testing"},{"name":"umx_testing2"},{"name":"umx-test-activity"},{"name":"umx-track"},{"name":"umx-scheduler-container"},{"name":"umx-launcher"},{"name":"umx-contact-form-container"}]}}

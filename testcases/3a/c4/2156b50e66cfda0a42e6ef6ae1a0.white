@@ -1,0 +1,20 @@
+POST /secure/Passport.aspx?nocontent=1&wa=wsignin1.0 HTTP/1.1
+Host: www.bing.com
+Content-Length: 1085
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://login.live.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://login.live.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+NAPExp=Wed%2C+11-Oct-2023+17%3A51%3A40+GMT&pprid=e54a372df60d1ad8&NAP=V%253D1.9%2526E%253D1c2d%2526C%253D8HFxo3oc04rbgf6GL0WP88jWZpQX1MG0hXOElBvaOhm4-dOc417Yjg%2526W%253D3&ANON=A%253DB67EBF8DDE561213F871D593FFFFFFFF%2526E%253D1c2d%2526W%253D3&ANONExp=Fri%2C+19-Jan-2024+18%3A51%3A40+GMT&t=GABGAgMAAAAMgAAADgAgFE7Q3zbBgQrqRFOHycj%2BpAYghfB0bQkATJZZEiIOpUYAAQhEQ4PTs7GAu%2FSVXnd2epHmWbOOL8Lr24OH7eV7JkQupAc026xtWYIQtKN9kVyh%2BafH0zhsHvd8AURZ3oo23i6eu%2Fnt%2FwVthK6lXH%2BLPfeqIgD5eckAMn35FudFF7nku81OU1cxo9UuSK5%2BZmBDIB5CKDkp8k52hfll%2B%2BE6S5rzCIxva1veinN9xP5TZwrcMo5giyF%2Bm2Mi0DijY3I1PGC3731kQOtSabVvCtvKmznC4VHCvtawvdJ3HLusejnMzoP2fuuXq7TVWwkoKTUhyWTMnDMUIs3qd0qLvLfLqDP1GUwXNCCFJ1jacaiqsJLLDs0LEtk6AF2Yfqauy5ggT0kTAX4AEwH9vwMAPInuXzyoomQJbj5kAAsEAAoTIAAYFABhZ2RuZ2N5QG91dGxvb2suY29tAFgAACBhZ2RuZ2N5JW91dGxvb2suY29tQHBhc3Nwb3J0LmNvbQAAAApVUwAAAAAAAAQJAgAAjQFVQAAGQwAERG9yYQAGQ2FybWVuAAAAAAAAAAAAAAAAAAAAAAAA9g0a2OVKNy0AADyoomQJFbVkAAAAAAAAAAAAAAAADwAxODMuMTU5LjEyNS45MAAFAQAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAAAAAASuWtA4JrrygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAA

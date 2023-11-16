@@ -1,0 +1,18 @@
+POST /cgi-bin/musicu.fcg HTTP/1.1
+Host: u.y.qq.com
+Content-Length: 244
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"comm":{"tmeAppID":"qqmusic","tmeLoginType":"1","g_tk":1000952582,"platform":"yqq","ct":24,"cv":0},"req":{"module":"music.login.LoginServer","method":"Login","param":{"strAppid":"wx48db31d50e334801","code":"031qBjFa14LYAF0fAWFa1yP6Qe0qBjFP"}}}

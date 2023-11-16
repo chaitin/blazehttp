@@ -1,0 +1,22 @@
+POST /international/search/api/flight/comfort/getFlightComfort?v=0.8429858205681053 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 195
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-S99I3fr7DYsTEp6jktilHRp3WGSYLtimawn6iz0j6FysTwTMv6gwp4jGqEoljbqWT0yg1E9PEO7YaQJlLjAZw3Uv7hJQ4JTPEZ5jcgydLvG5K3LydqKSY0Qx0QINQipZRm6wtfjntjHqibLy5TjU1RncWQbwH1YdgiD8izaK1zrD7e1Yz0epSwmkibsKXSjNZj3XEaTyAEkTi9qYHEQqYDFy4E4gYbPyP5vgHWB8eTcxhHKFMjo0yaBImDwN6jgswhceBXEM4IPGw4niX3RhEGcYDNyf1i1dYf4WThecQYQnjMEGnYFfyB3WQmeSqyhXj9E9XYAdyDPit9YLUjdAKzBEBQIDgem7KcXxgXKfLeo7J3XI7fylE4TilMytFY8EAfi9zJq1R1EloYZ9wBkysFjo6Ea0ylSEc1jbUjkE3qiPLJBfYt8W3PYqLiHFeqZWUmyzBePmWDaE1E8hY7lw5AEthWPtWc1eh7EqcYm3wFQjGleQbyAE4Qia5JFOjbmwcqi5UEzXRahy0Eb9Y1kw0dyZXekUyaEXoiSmJH4ifdi9OY0UjUbiNlEknJNPY3JmvMYNcYl9j94vHgR5AwbNjDqjpFiGqykMjqbWHLRDgR4ZjtPEPnY40IloEbDjkOIh6vlnv7dWMgv31iglJBYzbvasEmLjAGWHUJ8liANioniBTwFARc4JAZezhjfGJtXR3GE8ZekMEN4R9Dj3bYs9eMlvapvzaynXwbleDkRToyFMvaBYGAjHGyAcj5pE8zvF5vD6JdtyGdRN7WHQvbYhpxhhKUcv7oYhbwGdY4ownDEMkj35Yo0w3yqXId3W9YpUjo1yMcjchYfSEaPvz1wnykYz3ehDeLmImtv3begoYhDiMnYfLI7mv6XR7Y99xtFEtNELle17E56jhmW0lxP6w0lyQY3jtcJUfIdgr9DKLUeM3EDNWmTRHDY6zwBY16IUmxcqwoXRADvPUYN8Wo3e4PRf1WBHjpfWspx75WsnIbY0tihMiQgIMFRNDvQFYP5WM4eb9RlMWz4iH7YM0EfOY9D
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"airlineCode":"3U","arrivalDate":"2023-07-04","cabinList":["Y","C"],"departureCityCode":"HGH","arrivalCityCode":"BJS","departureDate":"2023-07-04","flightNoList":["CZ8854"],"aircraftCode":"321"}

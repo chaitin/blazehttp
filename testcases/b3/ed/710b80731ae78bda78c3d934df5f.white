@@ -1,0 +1,22 @@
+GET /recommended/api/beta/edgeworth/deltasync?rs=en-US&excludeApps=WebLink HTTP/1.1
+Host: substrate.office.com
+X-Office-Scenario: OfficeHome
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Anchormailbox: 0003BFFD5FEE893C@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer EwBAA2KBBAAUshnlKUacyQdQKOqcUGR00eGLdnwAAVlrBIA3xujB2vINRJDNy4svEj8AOUCXMrwvmjweDzpjxui1i5Eu0TiqCpKH5723RCG/nO3jpdwtmws/hoUDFExT0tTcFgiS43wB7PXShwW+uBnsG6WXAeFswE9Yl/uvV1KrSYf69CrLTSHw3U0l1Q70Tm1vvElR0XPdQsTy2JixzsYLKaXza+vcMznBaa09ii8obOvEB6dtl2iIEg1oUs1u6GXc4xwuVIrBoYrx1NTt/03lic90qUhiiW/Lo8poAAh6tTec7eVEP1b9ntveoXtw+F+H8b07BqN+VNm4qLdRePYPJVl/bKn/dtspGxpoNFTsPPhpKN7e+N1J6FG/bWoDZgAACNc6It1elIDrEALCO3aw5dGiZgZJ/V7kLl0b85m2g/JlgGqxaPcl+sntAYWnv7aGISUN44JTT3Xx8R4P6lS1KjiGJ6BMTAHZkjP/D/WppyC8RRZd6WOxwOm+5J4n7vr1NqrizVR2Ly1L+/w1jLV+iZxlogcFyiRoYfJUOqEwA8gsNeL7jUW67nys9mPSKz6xZ+7VNqChOGX/qNitQbf4WWyzkE7Zy0e5g+7KrDCnQlAgjQFFx2GK0/neKbDSKUVZa9tX4WjSVZIP674bSYSQ6JNe1miMMFF7samnKrQekUQYa2u915O+NKfxFoUaloICEzo6v+NqhLPcI2p065jAG7fT22z1OL+sL/h93RLlGsf2c9ygI4K1slrULyzc/LNFLl1WPkDPC3EtmT+py8Zk2X23bm7QF1ELnwcWHMWpSbXLwbQoTWL09y28tYGL7bjAJwm4E53wTKCfEbwII2bX97R86RfG3tR0u/H/gaxJ9DYz9ywsdWb8RfMq5xnTl4FUrAQmzL1jbjH3z+T+na41XYfVW7O1+GD39naX4dShKrUAGnXrLHaxiKuV6Y1gFW4LywB8Gb1afxcd0usaHpH7JDscYqNehQxWpXi0Gg/B9j8hZlTMxk+FxC5uNnz6lEOxbpQPhHDxEdJwoGWI4XQEfmk2WWLaC1+F9fO28ACWO9gFq51DxE75eOXgp1dNC5xJfowvKR03E5+eYlk7Ag==
+Client-Request-Id: 7525e148-2569-4dd9-9ab8-1227264953b2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Office-Application: 109
+Accept: application/json, text/plain, */*
+X-Ms-Clientappid: 4345a7b9-9a63-4910-a426-35363201d503
+X-Routingparameter-Sessionkey: 0003BFFD5FEE893C
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.office.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

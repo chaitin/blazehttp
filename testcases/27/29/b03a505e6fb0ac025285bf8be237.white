@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 771
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://qiye.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qiye.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!f0LfNy7PfQ6f5z%2BBWPQ3TF8G9UNuC6hjkM8pJ%2FqmGnlUFys1Gn5SZwLUnlPWOD9iFfYmQfpJszCCJ9eVAJ8%2B1Iv3k2OErIwLffxu1sfe9RVAUpQrA%2Bf5GhSYVteMCo8DxuLFlHAUrQ47l9S7X4L8XKfffCl0t3gxPYfmYEWB6Puf5flz2NSPfteXmuGutzAY8D%2FfdI4qWPGQfPfFdPY%2FtKeffX0%2FWSo1fVr4wRjpaf70%2BeBhw%2BjGq1VfKDfRQ8212V2JnwcpvYs5YISXFvgGGBOzegvSqE186RNujz2U%2FclZ1uhbdBg4oQV6igtiIkXywKhp0FVS7qiEWwl1jXAhEC5JeAvghdY1BweGNyydARrOyIMFJg48S%2BEX6xgaBxnBOlrXsDsdpmcDmglSBrvtb1A99%2BlopP%2FAX9G9njiVWK5lo82lo91lkMDDWJyif1RZ8gJR%2F2u%2BPUkmy9pBxPRwOxjrEvEvMgQHQOEa3njASPRSEqxfoQH7M9tMi2%2F4AKgvt%2Foxj36lMjwIT4qUfi%2ByWdKv2%2BIG3jGMxmoiDWrSVC%2Bvg25pzxk9bFW7qMK0MKcrQzArLxfaEGGEIwEEOZC0V0LVqgRsqXg6XG0%2BiRhMtDqyFnzx%2BUgc%2F5wupNwPKmwJ%2Fw0Uf9rdCH4l%2FHxocCRKgZX3sTfVmbVYRm6A%2BWWMtff%3D&xa=4bFcb8b63EdFBD57&xt=

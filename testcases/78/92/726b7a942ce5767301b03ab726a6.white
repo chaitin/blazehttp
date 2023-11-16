@@ -1,0 +1,18 @@
+POST /_private/browser/stats HTTP/1.1
+Host: api.github.com
+Content-Length: 703
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://github.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://github.com/SpiderLabs/ModSecurity/tree/v3/master/src
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"stats": [{"incrementKey":"REF_SELECTOR_BOOTED_FROM_LOCALSTORAGE","timestamp":1688378585014,"loggedIn":true,"staff":false,"bundler":"webpack"},{"requestUrl":"https://github.com/SpiderLabs/ModSecurity/tree/v3/master/src","softNavigationTiming":{"mechanism":"FRAME","destination":"react-code-view","duration":6436,"initiator":"rails"},"timestamp":1688378585017,"loggedIn":true,"staff":false,"bundler":"webpack"},{"longTasks":[{"name":"self","duration":50,"url":"https://github.com/SpiderLabs/ModSecurity/tree/v3/master/src"},{"name":"self","duration":94,"url":"https://github.com/SpiderLabs/ModSecurity/tree/v3/master/src"}],"timestamp":1688378585039,"loggedIn":true,"staff":false,"bundler":"webpack"}] }

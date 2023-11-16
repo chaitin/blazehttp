@@ -1,0 +1,21 @@
+GET /api/v4/creator/apply HTTP/1.1
+Host: www.zhihu.com
+X-Zse-93: 101_3_3.0
+X-Zst-81: 3_2.0aR_sn77yn6O92wOB8hPZnQr0EMYxc4f18wNBUgpTQ6nxERFZKXY0-4Lm-h3_tufIwJS8gcxTgJS_AuPZNcXCTwxI78YxEM20s4PGDwN8gGcYAupMWufIeQuK7AFpS6O1vukyQ_R0rRnsyukMGvxBEqeCiRnxEL2ZZrxmDucmqhPXnXFMTAoTF6RhRuLPF8g93gXmrgXLIuC1Bwo0MCoCgb9Bzh2mtGofpBVq9JSmtGC_6rOMFhS_HhSTvXCmWBO1xbOKjgLZYCtMUvNKdcPCLJg8bixOqCYO5hV1LJUqBBcmgGL_zuo9rANmBre9PCS979H_3rwK2JNVZgF8qCHO3crY_9ofeekMug30Dwe_CGxsOqfzWhYmNUUCEhtYFcPOmig8auC_swgmUDCyBTOYbi9CkbxYrMtC4CgBxJVGkGH_obS8XcN_nwNftJLYsG3G1_OfbiVLw9SBo4efPwOqrHw0jw2LCwLC1QNC
+X-Ab-Param: 
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ab-Pb: CgY7AicH+AwSAwIAAA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Requested-With: fetch
+X-Zse-96: 2.0_W9ixzvDekq/xwDG8+iBnZyRTo4m0fRS4mNhgkYuv4hwyCGvyNg76XWaPD83vbm=Z
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://zhuanlan.zhihu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://zhuanlan.zhihu.com/p/127922840
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

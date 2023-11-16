@@ -1,0 +1,14 @@
+GET /?h5st=20230703171538337%3B3495818367842900%3Bb5216%3Btk03wde381d3718nDqPUcONrHmxtyALAGYmY_umnFYb7KhpBOQyNsy991eoMliveKhz9mm66ago6NN7jnNSfOuwIClI2%3Bc2d276a5fd48e1f1ec51b0275717a66b5fcce78609f215146dad745afd18ecc8%3B3.1%3B1688375738337%3B24c9ee85e67cf80746dd82817ecbeafc7a829b35c7f446a4c7d476cc9faa1d8834a93323ad7bce9bef1bba682b93d2e355d6e8e5dd59f86cf6366b81c51e383a058cdc803c59734301b770d3117b3b0912e6a7ac4d90ffc19676d97ebc6f9b59&uuid=76161171.1688363422614408241737.1688363423.1688363423.1688375738.2&loginType=3&appid=www-jd-com&clientVersion=1.0.0&client=pc&t=1688375738329&body=%7B%22source%22%3A%22pc_seckill%22%2C%22pin%22%3A%22%22%2C%22uuid%22%3A%221688363422614408241737%22%2C%22isAdvance%22%3A0%7D&functionId=pchome_pcIndexMiaoShaArea&x-api-eid-token=jdd03NX4CSOYD4M7RIFPZYV5PGBZM4MQCOGCE5GOL766D2CIHKLU54FMXHAY33CE4YJAXLGPEE2BCTB2EE5KNZFWHCDLJB4AAAAMJDJILV2AAAAAADRV7LF7PR4RY4IX&callback=jsonpSeckill&_=1688375738340 HTTP/1.1
+Host: api.m.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

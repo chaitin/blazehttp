@@ -1,0 +1,15 @@
+GET /pagead/adview?ai=CiGdN8Y2iZK79FvKKid4Ps9Wp0AHFldGucZeylN3MEdmTp7zFDxABILfIlAJgnQGgAYLlyrspyAEBqQI5STC8kyCBPqgDAcgDywSqBKMCT9C56FBczS-GotCOL_gpQocVY-Lu2k-36hqM5NMrVYbK3uS_IV87hJLGW2WYiswy-DyHvISOD1EK7BTBVqoGmN-PE61M5-HrvqUr6Jz8fSpdGcd0cxDqqm8cadNUjqEXKry4vw-Odox8gcdkPU2EP5HSasEzTejPaHth5EK24XC1_f7L4bysyJ8ocDlP6DscqvBx5chUpVP_ZUFI0tp1IEYtCf6gP7FxVgxBWddYOgyq-R3IeuiPkLAxmeMIHTX_UXFqjVubRDauLUqwJJ0D6wRzUv3hxYTOQcJ_p8lpxmX4mhp4HXyqUtV1hXVEwZnDlJlBQGF-5BCGxERCDLGkgV0_BnGQcbb9qm31-fvorm6U8b1DuwEHTWGNkTd6Q8kH1XdWwASqyvSotQSSBQQIBBgBkgUECAUYBIAHgp2bmwSoB47OG6gHk9gbqAfulrECqAf-nrECqAeko7ECqAfVyRuoB6a-G9gHAfIHBBD3vQTSCBQIgGEQARgfMgKKAjoCgEBIvf3BOoAKAcgLAdgTDIgUBNAVAZgWAYAXAbIXHAoaCAASFHB1Yi0xMDc2NzI0NzcxMTkwNzIyGAA&sigh=sTZmrs6TSzc&uach_m=[UACH]&cid=CAQSPABygQiDO2BWCvzKbP0YRiOXY6LUj18rG3odK2JusWNF_V9vobdvDPZ4ZwTLPq48ejrBOsxyBWcIo3gAOBgB&template_id=5001 HTTP/1.1
+Host: googleads.g.doubleclick.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQj6mM0BCIWgzQEIpL3NAQ==
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1076724771190722&output=html&h=600&slotname=7553470938&adk=2811122236&adf=1401350160&pi=t.ma~as.7553470938&w=300&fwrn=4&fwrnh=100&lmt=1688374772&rafmt=1&format=300x600&url=https%3A%2F%2Fblog.csdn.net%2Fweixin_46708016%2Farticle%2Fdetails%2F130892341%23comments_27241162&fwr=0&fwrattr=true&rpe=1&resp_fmts=4&wgl=1&uach=WyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTE0LjAuNTczNS4xOTkiLFtdLDAsbnVsbCwiNjQiLFtbIk5vdC5BL0JyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTQuMC41NzM1LjE5OSJdLFsiR29vZ2xlIENocm9tZSIsIjExNC4wLjU3MzUuMTk5Il1dLDBd&dt=1688374772137&bpp=3&bdt=564&idt=226&shv=r20230627&mjsv=m202306220101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Daaf8cf4fcdf5bee8-2259a8dea6b400a2%3AT%3D1686641062%3ART%3D1688363136%3AS%3DALNI_MaB82NTdgsSo7Yi95_wL1uYaGujNw&gpic=UID%3D00000c3247f028c0%3AT%3D1684983198%3ART%3D1688363136%3AS%3DALNI_Ma34GEjyFxWoohMQdPiZPwDEL5Ahw&prev_fmts=0x0&nras=1&correlator=4238320698205&frm=20&pv=1&ga_vid=1128566005.1597989302&ga_sid=1688374772&ga_hid=1697833378&ga_fc=1&u_tz=480&u_his=1&u_h=1080&u_w=1920&u_ah=1032&u_aw=1920&u_cd=24&u_sd=1.25&dmc=8&adx=106&ady=1328&biw=1522&bih=737&scr_x=0&scr_y=0&eid=44759837%2C42532278%2C44759876%2C44759927%2C42532280%2C31075623%2C31075645%2C31075757%2C44788441&oid=2&pvsid=84717289820179&tmod=1293293030&uas=0&nvt=1&ref=https%3A%2F%2Fi.csdn.net%2F&fc=1920&brdim=-1917%2C3%2C-1917%2C3%2C1920%2C0%2C1914%2C1026%2C1536%2C737&vis=1&rsz=%7C%7CpeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=2&uci=a!2&btvi=1&fsb=1&xpc=RU6X3lCq5w&p=https%3A//blog.csdn.net&dtd=235
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,14 @@
+GET /sp/r.png?appid=10013&speedparams=flag1%3D1649%26flag2%3D4%26flag3%3D2%261%3D0%262%3D0%263%3D0%264%3D0%265%3D6%266%3D6%267%3D6%268%3D6%269%3D6%2610%3D11%2611%3D74%2612%3D74%2613%3D78%2614%3D162%2615%3D162%2616%3D162%2617%3D339%2618%3D339%2619%3D339%2625%3D89%2626%3D233%2628%3D0%2629%3D63%2630%3D0%2631%3D18%2632%3D21%2633%3D211%2634%3D229%2636%3D225%2637%3D257&platform=pc HTTP/1.1
+Host: stat.y.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

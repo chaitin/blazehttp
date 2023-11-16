@@ -1,0 +1,19 @@
+POST /rbook-api/v1/criteria/query HTTP/1.1
+Host: t.cnki.net
+Content-Length: 1070
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://gongjushu.cnki.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://gongjushu.cnki.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"resource":"CROSSDB","product":"TOTAL","extend":0,"start":1,"size":20,"type":1,"sort":"FFD","sequence":"desc","q":{"userScope":{"title":"","logic":"AND","items":[],"childItems":[{"title":"","logic":"AND","items":[{"isHasSpecialCharator":false,"key":"","title":"词目","logic":"AND","operator":"DEFAULT","uf":"ET","uv":"社会","uv2":""},{"key":"","title":"词目","logic":"AND","operator":"DEFAULT","uf":"LC","uv":"Y"}]},{"title":"","logic":"AND","items":[{"isHasSpecialCharator":false,"key":"","title":"书名","logic":"AND","operator":"DEFAULT","uf":"BTI","uv":"*社会社会*","uv2":""}]},{"title":"","logic":"AND","items":[{"isHasSpecialCharator":false,"key":"","title":"书名","logic":"AND","operator":"DEFAULT","uf":"BTI","uv":"*社会社会*","uv2":""}]}]},"naviScope":{"title":"","logic":"AND","items":[],"childItems":[]},"groupScope":{"title":"","logic":"AND","items":[],"childItems":[]},"bizzScope":{"title":"","logic":"AND","items":[{"key":"","title":"时间范围","logic":"AND","operator":"BETWEEN","uf":"YE","uv":"2009","uv2":"2015"}],"childItems":[]}}}

@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=211484286&t=pageview&_s=1&dl=https%3A%2F%2Fmui.com%2F&dp=%2F&ul=zh-cn&de=UTF-8&dt=MUI%3A%20The%20React%20component%20library%20you%20always%20wanted&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&_u=QACAAAABAAAAACAAAAB~&jid=&gjid=&cid=1798231774.1688380340&tid=UA-106598593-2&sf=80&_gid=2079303575.1688380340&_slc=1&cd1=TS&cd2=en&cd3=1&cd4=light&cd5=light&z=1246044711 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://mui.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mui.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

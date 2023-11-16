@@ -1,0 +1,18 @@
+POST /UnifiedIDMPortal/ajaxHandler/login/jsRemoteLogin?reflushCode=0.5777751107477938&cVersion=UP_CAS_6.11.0.100_live HTTP/1.1
+Host: id1.cloud.huawei.com
+Content-Length: 705
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://auth.huaweicloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://auth.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+pageToken=a6ebad1e8a318998aed2ca858ebb1bda10acf2334780414c876f7b1461444376&pageTokenKey=049f3e2a88934e129a05321fc5ac57de&reqClientType=88&loginChannel=88000000&clientID=103493351&lang=zh-cn&languageCode=zh-cn&state=d561c10e67e7481d84b4b1bd3d699468&loginUrl=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2Flogin.html%23%2FhwIDLogin&service=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2FcasLogin%3Fservice%3Dhttps%253A%252F%252Fconsole.huaweicloud.com%252Fconsole%252F&themeName=lightred&jsSiteID=1&scope=https%253A%252F%252Fwww.huawei.com%252Fauth%252Faccount%252Funified.profile%2Bhttps%253A%252F%252Fwww.huawei.com%252Fauth%252Faccount%252Frisk.idstate&client_id=103493351&access_type=offline&regionCode=cn

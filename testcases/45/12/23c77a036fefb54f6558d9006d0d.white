@@ -1,0 +1,9 @@
+GET /livemsg?url=http%3A%2F%2Fspeed.qq.com%2F%3FADTAG%3Dmedia.free.gamepaihangbang&oadid=6&vptag=media.free.gamepaihangbang&lcount=1&t=0&chid=0&from=0&pf=out&v=3.4.40&dura=311.23&coverid=&pf_ex=pc&tpid=6&appversion=1.0.176&r90=1&adtype=PVL&dft_empty=1&uniquetimestamp=1688379825571 HTTP/1.1
+Host: rpt.gdt.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://speed.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

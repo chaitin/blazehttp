@@ -1,0 +1,17 @@
+GET /login/?platform=NZKPT&returnUrl=https%3a%2f%2fbar.cnki.net%2fbar%2fdownload%2forder%3fid%3djBGETXBNdPImvx70aLAuJPYxPoFw%252bp%252bi0fIiSrcN6lU3PUp90Y4ddHPw7HLm0azWfIposeNU2ImrJAJ3lANen0SjJNzYPfoYyyFikZw3RsIr4qya3J1MXVAeiRx5OlqsTexkrKzFwIrft71n9EQs%252fUN1tZaOZ9Yf2CwqWvTYvKvMu%252fsTy5QX8vMQEr7plrpCrWIT%252frxfKkBzEFleExx0RXcoBQGVUiyBxvQTy79iQIo%253d%26source%3d%26isMobile%3dFalse%26returnUrl%3d%26loginNum%3d2%26showpage%3d1&AppendUID=0&ForceReLogin=1&lang=zh-CN HTTP/1.1
+Host: login.cnki.net
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Referer: https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UGixHllolovfoV4tOQSjji4d05kzA655Yz-PZwk9ZnCK&uniplatform=NZKPT
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

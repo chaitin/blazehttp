@@ -1,2 +1,0 @@
-# tag: black,sqli
-GET /somepath?q=1'%20or%201=1 HTTP/1.1

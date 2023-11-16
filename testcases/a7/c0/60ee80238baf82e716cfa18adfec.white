@@ -1,0 +1,18 @@
+POST /metal/ingest HTTP/1.1
+Host: api.atlassian.com
+Content-Length: 1498
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"type":"metric","meta":{"version":"0.0.1","env":"prod","os":"windows","platform":"desktop","browser":"chrome"},"metalId":"21f7d7da-ace4-4c52-ac0f-3acfa6972922","data":[{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1538.9000000953674,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1525,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1524.2000000476837,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1593.7000000476837,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1581,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1583.2999999523163,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1575.4000000953674,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:script"],"value":1444.6000000238419,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:img"],"value":1583.3000000715256,"sampleRate":1},{"type":"timing","name":"fe.perf.resource_timing","tags":["page:/software/jira","type:script"],"value":233.19999992847443,"sampleRate":1}]}

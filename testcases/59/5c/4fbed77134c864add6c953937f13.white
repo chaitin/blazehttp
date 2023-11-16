@@ -1,0 +1,15 @@
+GET /cgi-bin/musics.fcg?g_tk=317648113&sign=zza0f8666spvpzi7494ffe79d13a52ec9f6abf74ea78444&loginUin=1152921504763685208&hostUin=0&format=json&inCharset=utf8&outCharset=GB2312&notice=0&platform=yqq.json&needNewCode=0&data=%7B%22comm%22%3A%7B%22ct%22%3A24%2C%22cv%22%3A0%7D%2C%22vip%22%3A%7B%22module%22%3A%22userInfo.VipQueryServer%22%2C%22method%22%3A%22SRFVipQuery_V2%22%2C%22param%22%3A%7B%22uin_list%22%3A%5B%221152921504763685208%22%5D%7D%7D%2C%22base%22%3A%7B%22module%22%3A%22userInfo.BaseUserInfoServer%22%2C%22method%22%3A%22get_user_baseinfo_v2%22%2C%22param%22%3A%7B%22vec_uin%22%3A%5B%221152921504763685208%22%5D%7D%7D%7D HTTP/1.1
+Host: u.y.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

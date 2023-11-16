@@ -1,0 +1,13 @@
+GET /primus-v8/?sessionId=8d40be1e-afd4-422c-89d5-5542c0045bd7&_primuscb=OaR0YCk&EIO=4&transport=websocket&sid=46_8Hd8GfYHNCEF2AI5i&t=OaR0YU5&b64=1 HTTP/1.1
+Host: msgstore.www.notion.so
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://www.notion.so
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: R0xcDPlqeXIkhN9ftUk/nQ==
+

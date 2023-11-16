@@ -1,0 +1,18 @@
+POST /gateway/api/gasv3/api/v1/batch HTTP/1.1
+Host: id.atlassian.com
+Content-Length: 1388
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://id.atlassian.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://id.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"batch":[{"context":{"locale":"zh-CN","screen":{"width":1920,"height":1080,"density":1},"library":{"name":"analytics.js","version":"4.14.5"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},"timestamp":"2023-07-03T10:24:15.448Z","type":"track","userId":null,"anonymousId":"ef6882a0-fe0b-0a58-294f-552648803c07","properties":{"env":"prod","product":"identity","origin":"web","platform":"web","tenantIdType":"none","source":"loginScreen","actionSubject":"button","action":"clicked","actionSubjectId":"googleLoginButton","attributes":{"firstProductAccessed":"wac","originId":"4e58227fcf3343ba8e6032a823f070f1","originProduct":"wac-globaldropdown","originLibrary":"origin-tracing.js@6.1.2","isMobileApp":false,"loginPageExperimentCohort":"background-variation","loginExperimentResolvedCohort":"not-enrolled","loginPageExperimentCohortV3":"control","ffsId":"5601e052-ecce-41a5-8988-1de98bdfe98d","isInPopup":false},"tags":["identity"],"eventType":"ui","tabId":"95c92aea-590f-46fa-a76b-6f17506385b8","sessionId":"1688379841513","taskSessions":{},"pageLoadId":"4f54dabb-60e9-41d0-8daa-5a4453bc009c"},"event":"button clicked","messageId":"ajs-ae65b784-c034-45a2-952a-e3c6aa3c641a","sentAt":"2023-07-03T10:24:15.958Z"}],"sentAt":"2023-07-03T10:24:15.958Z","metadata":{"eventCount":1,"resilienceMechanism":"indexeddb"}}

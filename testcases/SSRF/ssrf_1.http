@@ -1,5 +1,0 @@
-# tag: black,ssrf
-GET /hello?content=hello&user=ftp://a.com HTTP/1.1
-Host: www.baidu.com
-User-Agent: Chrome
-Referer: http://www.qq.com/abc.html

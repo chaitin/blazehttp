@@ -1,0 +1,17 @@
+GET /ocs/v2/recent/docs?apps=Word,Excel,PowerPoint,Visio,OneNote,Sway,Project,Portfolio,Bohemia,Fluid,Forms,PdfViewer,PowerBI&show=100&rs=en-US HTTP/1.1
+Host: ocws.officeapps.live.com
+X-Office-Application: 109
+Accept: application/json, text/plain, */*
+X-Office-Platform: Web
+X-Correlationid: fadea784-f4f3-45db-b8e4-3a5861948163
+X-Office-Version: 30b770ac-f558-b793-297a-5490b532735d
+Authorization: Bearer EwBAA61DBAAUZUYqEwmYbaXIJECvBbNriwl1aGYAAbxHsgDtIYPZwLI8tUBPpMfo2yK5BkIJ6foDmLifA9SeTUO1TPplXSYbFWCTDLsyvKFlpEG4mj9fBaoiHSWJ7Z/Imsx8ftPYTtU0nfprYgZlz9CUTqaYOcDwfjArT8hCXeuUZ6kA0hLnSvPLYPd8J2Cye4s8y998VZ1WjOZ/0txGTKhZbmdYKwZAE63dZ+pOeGPH6pLhbsjAfSeVZXijGReq7ron5yfLt2HG3L5O+xNlc5iyHlsmw8khm4yp4DVsA4Se60vxpnwp5vfBltgqE2IzQFaO5miLng6ONETofMMT2+ibZCiRE74eEvOAU5Qkz1Pd0snNRa1TZbGxMPkHc3wDZgAACNOqnJL/x5xfEAKXAiSy5V8KQQp3H3NXzeoDjn+nykGev44jFnPiJD6aTTdAZRDp5cHfEJ4+PX7rt0I0bz94W3kfFTXBMhhhufIRalx/mrYqblE8rgTJLGBji/bAe5rV9ZUybeUKGcinDLmRRg0rNhny22T5tVSwkZOPf6Hd0Z2eDkeQjRB2Gp3kHmunVw4GfWjHIpsNzy8iS/JvDiW98OucVEhEM8MEzje1a/U1YHHH4CftSyTSKFO2h1tEcRAeEns4SO5YNaNpYFEWgEOF2fJTw5UUjq4nb5uWQt9YcEdAdxbtpTaUdbNPtUDU8Ew6YFWcsOmnhFzFaIRoQYwiPFfevDkHSaEy/m9xWnu4Su7r5l4WpnMj52eD1P6ixMV2z4L0G6Dw9L79VjKSGo++vdegxYY3edWBXXq1sFwE2UyZzgNKGJ51X+cpovVXDqh0VAPt6PTA1MslXNJAlaBaPID8IYcSrqx3z3sIfwd1+9rfqFzfYUtfF/VjRshvmI3cb43uXDyTo0Ev5jMvNuW5kho+9mBHzGtPiHHFEvvP4lrhAz7vuakOjhlFG5S2wNytM//NXlPQZyCdJQ1cNW0tlxISZhKtlwbAWqcZCAWrtUbKnGLU8PN5PzgVGIuHYYB+0mNaIlcLhPdy2gH5V1+CY30A1//c6heBXIEH64BiCqtFVm0nJRFXFfwPNEGH6YdbXjTnrA0kBBQF6XY/Ag==
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Origin: https://www.office.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

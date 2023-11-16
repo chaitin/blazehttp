@@ -1,0 +1,15 @@
+GET /api/speed?v=1&sdk=1.10.1&project=com.sankuai.mtnode.imeituan&pageurl=https%3A%2F%2Fi.meituan.com%2F&speed=0%7C0%7C0%7C0%7C0%7C12%7C12%7C12%7C16%7C35%7C36%7C260%7C261%7C263%7C585%7C585%7C585%7C585%7C586%7C587%7C0%7C19%7C225%7C544%7C544%7C544%7C544&customspeed=&timestamp=1688378046387&noCache=true&pageId=owl-003344de-be98-53b3-de7d-f06e-1688378045779&network=4g HTTP/1.1
+Host: catfront.dianping.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://i.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

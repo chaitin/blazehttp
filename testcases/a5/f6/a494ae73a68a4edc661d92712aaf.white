@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2175
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=two+options%2C+1+and+2++1.+Eating++2.+Not+eating++What+is+the+difference+between+choosing+1+or+2&form=QBLHCN&sp=-1&lq=0&pq=two+options%2C+1+and+2++1.+eating++2.+not+eating++what+is+the+difference+between+choosing+1+or+2&sc=6-94&qs=n&sk=&cvid=13BC0EF686F94C1EBEA6B30225A4E97C&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>CB54D0C297E941E8989D943B8045192B</IG><TS>1688377578849</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":6,"N":5,"I":"3fi","S":"V+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":51989,"K":"1440+1444+d3l+d6l+11yf+124m+11yq+13a3+13ch+13am+12bj+1338+13b8+13df+134x+keydown+135y+139x","F":0},"V":"11yp/////////visible/","L":"@70/62/INPUT#sb_form_q//5c/18/dt/18/4/K/-1+@6m/60///0/0/0/0/0/R/+@6m/61///0/0/0/0//R/","M":"154+yh+-1+d3k+4j+2d+0+2u+0+3nr+1","E":"@6n/2/X/1o/+@6n/6/X/1o/+@6n/7/X/1o/+@6n/8/X/1o/+@6n/9/X/1o/+@6n/a/X/1o/+@6n/b/X/1o/+@6n/c/X/1o/+@6n/d/X/1o/+@6n/e/X/1o/+@6n/f/X/1o/+@6n/g/X/1o/+@6n/h/X/1o/+@6n/i/X/1o/+@6n/j/X/2s/+@6n/k/X/4y/+@6n/l/X/jq/","N":"@6o/4e//@14/@5s/beacon/2z/@15/@6o/@6o/@6o/d3o/@6p/@6p+@6q/4f//@14/returntop15/@1n/67/@15/@6q/@6q/@6q/11z3/@6r/@6r+@6s/4g//@14/tabfocuschanged/@1n/5v/@15/@6s/@6s/@6s/11z5/124l/@6r+@6t/4h//@14/@1z/@1n/2e/@15/@6t/@6t/@6t/13a5/@6u/@6u+@6v/4i//@14/AS%2FSuggestions/@16/2s/@15/@6v/@6v/@6v/13an/13de/@6z","C":"124v/////@3y/0//124u+125k/////10r/h//125i+1261/////zs/o//125x+126g/////xl/13//126e+126x/////wk/18//126m+127e/////t3/1w//127a+127w/////rw/24//127v+128b/////oc/2p//1283+128s/0////mx/2t//128j+1299/60////ky/31//1293+129p/////k0///129j+12a6/////j9///129z+12an/////is///12ae+@6w/////if///@6w+12de/////i5/32//12db+12es/////hv/37//12en+12fr/////h3/3f//12fp+12go/////g5/3g//12gm+12h3/////fl///12h2+12hl/////f3/3f//12hi+12i1/////el/35//12hy+12ii/////e2/2v//12ie+12iy/////dr/2q//12il+12jg/62////cp/29//12j9+12jw/////c7/1z//12jq+12kc/////bw/1w//12jy+12ku/////b0/1k//12km+12la/////af/1c//12l7+12m7/2////a5/17//12m4+12o2/////a1/x//12nw+12u3/62/////1e//12tw+12uk/////a9/1r//12ub+12v0/////ah/21//12uz+12xc/////as/22//12x0+12yp/////b2/1z//12yj+12zn/////bc/1u//12zg+130l//@69/////1/130k+@6x//@6a/////0/@6x+139u//@61///bo///139n+@6y/////c4///@6y+13cn/////ck/1x//13cj+13dk/////d3/23//@6z+13e0/////dg/27//13dv+13ei/////ds/2a//13ef+13f0/////eb/2e//13ez+13fv/2////en/2i//13fn+13gt/////f7/2n//13gq+13hq/////fh/2p//13hp+13j5/////fm///13j0","K":"@70/62/@71/1ekk/134w+@72/62/@71/4/@72+@73/62/@71/4/@73"}]]]></D></E></Events><STS>1688377578849</STS></ClientInstRequest>

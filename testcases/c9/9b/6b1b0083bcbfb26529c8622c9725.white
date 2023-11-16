@@ -1,0 +1,23 @@
+POST /v1/initialize HTTP/1.1
+Host: exp.notion.so
+Content-Length: 1276
+Statsig-Client-Time: 1688375272955
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Statsig-Api-Key: client-Tgza5wNFa8dVt9BdeUfG6Vkm29bHxX10MhoztTMzLBB
+Statsig-Sdk-Version: 4.36.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Statsig-Encoded: 1
+Statsig-Sdk-Type: js-client
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+==QfiIjYqRmI6ICazFGaiwSZ1JHd6IychRHblR0c0BXZjNWYiwSfiITM1ADOlVjNyETOj1iN3IjYtMGNxQTLlFWZ30iNxMTM1QGN3IiOiQUSlxmYhR3ciwiIw4iNz4CNiojIu9WazJXZWtGZzJCLiQnbllGbj1ycqJiOiUGc5R1akNnI7pjIhRXYkFGdl10ZpNHdhR3ciwSf9JibvlGdjVHZvJHciojIyVWa0Jye6ICduVWbu9mcpZnbFdWazRXY0NnIs03e6IyclRXdilmc0RXQlRXY2lmcwJCL9JSNxYTNxAjZ0IjZ5MTLwYWZ50CNyIGNtUTOmRWLkJjNxIDMmJjI6ICZJV2YhB3ciwiImdzNwEWY1ATYkJjYtUzN4kTL4UjM00iZyUzYtM2YxgTN5IzNiojIklUZjlmdlRmI7pjIzRUSt9GdzV3YiwSfiY2N3ATYhVDMhRmMi1SN3gTOtgTNyQTLmJTNj1yYjFDO1kjM3IiOiQWSlNWa2VGZiwiI1EjN1EDMmRjMmlzMtAjZllTL0IjY00SN5YGZtQmM2EjMwYmMiojIklUZjFGczJCLiwWYu92cyVGciojIlBXeU5WYsBnIs0lIyVGa09mIsIyclR3buJCLiQ3Ylp2byBnIsIycptWa3JCLiM3YvRmIbpjIzV2chNUZzVnIsICZhVGbfRHclRmI6ISZs9mUtFWZ0JCLiQXaiojIh52bzJXZwJCLiwWYu92cyVGciojIlBXeU5Wah12bkJCL1kTM2gjN2kTO3YjNxojIl1WaUBXdudWaTJXZzVnIsISZlJnZiojIyVWaU52bpRHcpJ3YzJWdTV2YhB3ciwiIxIiOiQnb192QyVmYtVWTlNWYwNnIsISOw0SMx0iMyAjMiojIlRXYERWZ0FWZyNUZjFGczJCL2QDMyQzN2kTO3YjNxojIl1WaURWZ0FWZyNUZjFGczJCLlVnc0pjIyV2c39mcCB3b0t2clR0cpJCLlNHbhZmOiUGbpJ2bNNXaiwSZ1JHd6IiclN3dvJnQzlmIsU2csFmZ6IiclN3dvJnQlxWai9WTzlmIsU2csFmZ6ISZ2lGdh5UZslmYv10cpJCLlNHbhZmOi42byR3YlxWRzlmIsIyM0EjLw4iMx4yMyIiOi42bpNnclZFduVWasNmIsIyUV1iblJiOiUGbhN2bsJye6ISbvR3c1NmIsISYjVWM1EmY3kTO1MWL1YTMh1SO3EGNtMWZkBTLxEjYzgzY0QjI6ICRJJXZzVnI7pjIyV2c1Jye

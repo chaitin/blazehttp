@@ -1,0 +1,16 @@
+POST /log/web?00111116883797740161688379774012|Homepage:Ugc:0|3.27.2-d0bc6222|dash_requested_info_detail|{%22TBD%22:[{%22co%22:200,%22qn%22:32,%22in%22:null,%22rt%22:%22X%22,%22qr%22:%22T%22,%22ct%22:0,%22bf%22:0,%22lt%22:158,%22dt%22:1,%22cs%22:51,%22ts%22:1012,%22ry%22:0,%22ht%22:%22-%22},{%22co%22:200,%22qn%22:32,%22in%22:0,%22rt%22:%22X%22,%22qr%22:%22T%22,%22ct%22:0,%22bf%22:0,%22lt%22:190,%22dt%22:1,%22cs%22:7718,%22ts%22:183307,%22ry%22:0,%22ht%22:%22-%22},{%22co%22:200,%22qn%22:32,%22in%22:1,%22rt%22:%22N%22,%22qr%22:%22-%22,%22ct%22:0.32,%22bf%22:4.8,%22lt%22:703,%22dt%22:1,%22cs%22:1970,%22ts%22:173080,%22ry%22:0,%22ht%22:%22-%22},{%22co%22:200,%22qn%22:32,%22in%22:2,%22rt%22:%22N%22,%22qr%22:%22-%22,%22ct%22:0.32,%22bf%22:9.8,%22lt%22:130,%22dt%22:1,%22cs%22:11626,%22ts%22:188916,%22ry%22:0,%22ht%22:%22-%22}]}|c30048029f33249e37cdde41c34865bb|||272094854|1158207274|1|0|4|3|2|3|32|0|https://xy124x73x194x61xy.mcdn.bilivideo.cn:8082/v1/resource/1158207274-1-30032.m4s?agrr=1&build=0&buvid=54F00853-746D-49F1-B499-6192F46FDB16138373infoc&bvc=vod&bw=37405&deadline=1688386969&e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M%3D&gen=playurlv2&logo=A0000002&mcdnid=2003216&mid=503647489&nbs=1&nettype=0&oi=3080682842&orderid=0%2C3&os=mcdn&platform=pc&sign=72c415&traceid=trfkeVzneMUEmP_0_e_N&uipk=5&uparams=e%2Cuipk%2Cnbs%2Cdeadline%2Cgen%2Cos%2Coi%2Ctrid%2Cmid%2Cplatform&upsig=211ca320bc34f5092c7401b708a929ee,|||{%22playerIdle%22:%22cg%22,%22qn%22:32,%22aq%22:-1} HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

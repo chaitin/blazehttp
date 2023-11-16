@@ -1,0 +1,15 @@
+GET /event/js?mt_pp=2&mt_adid=171815&mt_id=1075167&event_type=catchall&industry=technology&mt_excl=22264502-71e5-40a7-a7fd-f85599f94bcb&page_name=www.ibm.com%252Fcn-zh%252Ftopics%252Fsaas&product_category=IBM%2520Software%2520w%252Fo%2520TPS&site_language=zh-CN&previous_url=https%253A%252F%252Fwww.baidu.com%252Flink%253Furl%253DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%2526wd%253D%2526eqid%253D8708c0100003171e0000000464a2ac4a&version=1.0&language=zh-CN%2Czh%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&mt_lim=20&document_title=SaaS%20-%20%E8%BD%AF%E4%BB%B6%E5%8D%B3%E6%9C%8D%E5%8A%A1%20%7C%20IBM&location=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&document_path=%2Fcn-zh%2Ftopics%2Fsaas&mt_cb=1688382615402 HTTP/1.1
+Host: pixel.mathtag.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

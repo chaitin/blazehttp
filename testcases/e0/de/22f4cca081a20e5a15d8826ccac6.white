@@ -1,0 +1,17 @@
+POST /graphql HTTP/1.1
+Host: api.daily.dev
+Content-Length: 1941
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: chrome-extension://jlmpjdjjbgclbocgajdjefcidcncaied
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"query":"\n  query AnonymousFeed(\n    $loggedIn: Boolean! = false\n    $first: Int\n    $after: String\n    $ranking: Ranking\n    $version: Int\n    $supportedTypes: [String!] = [\"article\",\"share\",\"freeform\"]\n  ) {\n    page: anonymousFeed(\n      first: $first\n      after: $after\n      ranking: $ranking\n      version: $version\n      supportedTypes: $supportedTypes\n    ) {\n      ...FeedPostConnection\n    }\n  }\n  \n  fragment FeedPostConnection on PostConnection {\n    pageInfo {\n      hasNextPage\n      endCursor\n    }\n    edges {\n      node {\n        ...FeedPost\n        \n        ...UserPost @include(if: $loggedIn)\n      }\n    }\n  }\n  \n  fragment FeedPost on Post {\n    ...SharedPostInfo\n    sharedPost {\n      ...SharedPostInfo\n    }\n    trending\n    feedMeta\n  }\n  \n  fragment SharedPostInfo on Post {\n    id\n    title\n    image\n    readTime\n    permalink\n    commentsPermalink\n    summary\n    createdAt\n    private\n    upvoted\n    commented\n    bookmarked\n    numUpvotes\n    numComments\n    scout {\n      ...UserShortInfo\n    }\n    author {\n      ...UserShortInfo\n    }\n    type\n    tags\n    source {\n      ...SourceBaseInfo\n    }\n    downvoted\n  }\n  \n  fragment SourceBaseInfo on Source {\n    id\n    active\n    handle\n    name\n    permalink\n    public\n    type\n    description\n    image\n    membersCount\n    currentMember {\n      ...CurrentMember\n    }\n    memberPostingRole\n    memberInviteRole\n  }\n  \n  fragment CurrentMember on SourceMember {\n    user {\n      id\n    }\n    permissions\n    role\n    referralToken\n  }\n\n\n  \n  fragment UserShortInfo on User {\n    id\n    name\n    image\n    permalink\n    username\n    bio\n  }\n\n\n\n  \n  fragment UserPost on Post {\n    read\n    upvoted\n    commented\n    bookmarked\n    downvoted\n  }\n\n\n","variables":{"version":11,"ranking":"POPULARITY","first":17,"loggedIn":false}}

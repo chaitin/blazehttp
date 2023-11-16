@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=1350079536&t=pageview&_s=1&dl=https%3A%2F%2Fant.design%2Findex-cn%2F&dr=https%3A%2F%2Fcn.bing.com%2F&ul=zh-cn&de=UTF-8&dt=Ant%20Design%20-%20%E4%B8%80%E5%A5%97%E4%BC%81%E4%B8%9A%E7%BA%A7%20UI%20%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E5%92%8C%20React%20%E7%BB%84%E4%BB%B6%E5%BA%93&sd=24-bit&sr=1920x1080&vp=1920x921&je=0&_u=YADAAUABAAAAACAAI~&jid=2012289958&gjid=474651710&cid=828129259.1682051365&tid=UA-72788897-1&_gid=1962629394.1688376812&_r=1&gtm=457e36s0&jsscut=1&z=922573782 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://ant.design
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ant.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

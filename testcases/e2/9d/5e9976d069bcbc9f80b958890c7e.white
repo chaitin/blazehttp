@@ -1,0 +1,15 @@
+GET /log/web?00111116883783505611688378350296|Homepage:Ugc:0|3.27.2-d0bc6222|stage|{%22initErr%22:0,%22initial%22:1,%22renewal%22:1,%22visible%22:1,%22origin%22:314,%22approx%22:314,%22totalRetries%22:0,%22streamRetries%22:0,%22playurlRetries%22:0,%22s1%22:5720.6,%22s2%22:157.5,%22s3%22:96.9,%22s4%22:69.9,%22s5%22:121.6,%22s6%22:5878.1}|fb421112b02fdc5376e73c35d634179f|||910920123|1122699858|1|NaN||3|2|||||||{%22playerIdle%22:%22cg%22,%22qn%22:32,%22aq%22:-1} HTTP/1.1
+Host: data.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://search.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://search.bilibili.com/all?keyword=passwd%20%E6%98%AF%E4%BB%80%E4%B9%88&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

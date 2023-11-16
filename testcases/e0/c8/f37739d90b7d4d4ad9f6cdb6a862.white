@@ -1,0 +1,15 @@
+GET /xv/web/user_manage/h5_channel/get_h5_channel_css?sign=37ef9b97d12757972112cbeb18b7b3641e2736ff2e8a9e5c753a00dae331a140e504536d9b37e1c32370950b68ca1b0e2c92dd HTTP/1.1
+Host: yzf.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://y.tencentmusic.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.tencentmusic.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

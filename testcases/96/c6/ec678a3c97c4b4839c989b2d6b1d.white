@@ -1,0 +1,17 @@
+GET /data_json/jsconfig/redPacket.json HTTP/1.1
+Host: img-home.csdnimg.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://blog.csdn.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://blog.csdn.net/Byeweiyang/article/details/131511459?spm=1000.2115.3001.6382&utm_medium=distribute.pc_feed_v2.none-task-blog-his_today-5-131511459-null-null.pc_personrec&depth_1-utm_source=distribute.pc_feed_v2.none-task-blog-his_today-5-131511459-null-null.pc_personrec
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: W/"10B4FB1A2B41F4AF82F7E68363A5266B"
+If-Modified-Since: Mon, 06 Mar 2023 03:18:42 GMT
+

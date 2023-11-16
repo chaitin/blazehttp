@@ -1,0 +1,18 @@
+POST /graphql HTTP/1.1
+Host: api.daily.dev
+Content-Length: 2852
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+Requestkey: ["post_comments","anonymous","mYmrLDo8E"]
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: chrome-extension://jlmpjdjjbgclbocgajdjefcidcncaied
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"query":"\n  query PostComments($postId: ID!, $after: String, $first: Int) {\n    postComments(postId: $postId, after: $after, first: $first) {\n      edges {\n        node {\n          ...CommentWithChildrenFragment\n        }\n      }\n    }\n  }\n  \n  fragment CommentWithChildrenFragment on Comment {\n    ...CommentFragment\n    children {\n      edges {\n        node {\n          ...CommentFragment\n        }\n      }\n    }\n  }\n  \n  fragment CommentFragment on Comment {\n    id\n    content\n    contentHtml\n    createdAt\n    lastUpdatedAt\n    permalink\n    upvoted\n    numUpvotes\n    author {\n      ...UserShortInfo\n    }\n  }\n  \n  fragment UserShortInfo on User {\n    id\n    name\n    image\n    permalink\n    username\n    bio\n  }\n\n\n\n","variables":{"postId":"mYmrLDo8E","initial":{"postComments":{"edges":[{"node":{"id":"HGkt2r0fL","content":"🏆","contentHtml":"<p>🏆</p>\n","createdAt":"2023-06-10T07:20:49.865Z","lastUpdatedAt":null,"permalink":"https://app.daily.dev/posts/mYmrLDo8E","upvoted":null,"numUpvotes":1,"author":{"id":"QyZMpLLLk","name":"Yoav Ganbar","image":"https://avatars0.githubusercontent.com/u/6682981?v=4","permalink":"https://app.daily.dev/hamatoyogi","username":"hamatoyogi","bio":"Web Developer, Developer Experience @ Builder.io"},"children":{"edges":[]}}},{"node":{"id":"5V9B2RZfj","content":"🤘🏽❤️","contentHtml":"<p>🤘🏽❤️</p>\n","createdAt":"2023-06-11T19:24:17.362Z","lastUpdatedAt":null,"permalink":"https://app.daily.dev/posts/mYmrLDo8E","upvoted":null,"numUpvotes":1,"author":{"id":"I4celeYgSbhgvDi23zRAv","name":"Raniel","image":"https://avatars.githubusercontent.com/u/20558676?v=4","permalink":"https://app.daily.dev/ranoob","username":"ranoob","bio":"Frontend Dev - React/Typescript"},"children":{"edges":[]}}},{"node":{"id":"qwXWb53ZB","content":"exactly what i needed !","contentHtml":"<p>exactly what i needed !</p>\n","createdAt":"2023-06-12T07:43:13.604Z","lastUpdatedAt":null,"permalink":"https://app.daily.dev/posts/mYmrLDo8E","upvoted":null,"numUpvotes":1,"author":{"id":"b51IUJqnztf7CNr38IlYU","name":"Erwan Le pierres","image":"https://lh3.googleusercontent.com/a/AGNmyxbz_kR_IIXqUX72jDoho55QDaObL1f7vh2ltHNW=s96-c","permalink":"https://app.daily.dev/wan_love","username":"wan_love","bio":null},"children":{"edges":[]}}},{"node":{"id":"yADYUX2fk","content":"Muy útil, gracias!","contentHtml":"<p>Muy útil, gracias!</p>\n","createdAt":"2023-06-16T02:08:27.120Z","lastUpdatedAt":null,"permalink":"https://app.daily.dev/posts/mYmrLDo8E","upvoted":null,"numUpvotes":0,"author":{"id":"U81IotrKdxO8hJ58fxiwd","name":"Raggio Fernando Andrés","image":"https://avatars.githubusercontent.com/u/25178784?v=4","permalink":"https://app.daily.dev/joetheorium","username":"joetheorium","bio":"Programmer & Student."},"children":{"edges":[]}}}]}},"first":500}}

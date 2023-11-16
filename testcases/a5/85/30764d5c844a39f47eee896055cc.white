@@ -1,0 +1,15 @@
+GET /w.cgi?key=appid,releaseversion,stime,commandid,resultcode,touin,frequency&1_1=1000372&1_2=window_10_chrome_114&1_3=682&1_4=r/p/right_frame.cgi&1_5=0&1_6=389264167&1_7=1&2_1=1000372&2_2=window_10_chrome_114&2_3=5000&2_4=browser_core_detail&2_5=3114&2_6=389264167&2_7=1&3_1=1000372&3_2=window_10_chrome_114&3_3=5000&3_4=browser_core&3_5=3&3_6=389264167&3_7=1&4_1=1000372&4_2=window_10_chrome_114&4_3=5000&4_4=brand_core&4_5=99&4_6=389264167&4_7=1&5_1=1000372&5_2=window_10_chrome_114&5_3=5000&5_4=pc_qq_ptsig&5_5=100&5_6=389264167&5_7=1 HTTP/1.1
+Host: wspeed.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

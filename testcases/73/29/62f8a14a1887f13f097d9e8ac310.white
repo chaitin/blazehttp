@@ -1,0 +1,19 @@
+POST /api/v1/group/batch_command HTTP/1.1
+Host: collie.rivers.chaitin.cn
+Content-Length: 307
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://collie.rivers.chaitin.cn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://collie.rivers.chaitin.cn/command
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"commands":"#!/bin/sh\nset -x\n\nlscpu\ncat /proc/meminfo\nfdisk -l\n","shell":2,"host_ids":["96f89c8f-0caa-49fb-8084-a0e96a708dae.collie_server","3aad07af-80ba-4aca-8a23-dad63aeda725.collie_server","3d0e29b3-1c34-4e8a-ab5a-45cf2c7cbc92.collie_server","ca8913a1-8d3e-405a-9f4b-a5228cfb62e9.collie_server"]}

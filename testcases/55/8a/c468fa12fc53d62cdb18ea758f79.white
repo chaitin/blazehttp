@@ -1,0 +1,18 @@
+POST /token HTTP/1.1
+Host: vs.aws.amazon.com
+Content-Length: 747
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://aws.amazon.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://aws.amazon.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"mid":"58585895452460791520815924541957650164","token":"eyJraWQiOiJlMDVhYTE0MC1jYzJiLTQxNjItODM3ZC1kNmE2MmRhMzFhNzgiLCJ0eXAiOiJjb20uYXdzLmFtYXpvbi5kMmMudnMrSldUIiwiYWxnIjoiUlMyNTYifQ.eyJ2aWQiOiJiNmMxYmJlMy03MmM4LTAxYzYtMDcxMi04ODBiZGI1ZWZiOTMiLCJpc3MiOiJodHRwczpcL1wvdnMuYXdzLmFtYXpvbi5jb20iLCJtaWQiOiI1ODU4NTg5NTQ1MjQ2MDc5MTUyMDgxNTkyNDU0MTk1NzY1MDE2NCIsImV4cCI6MTY2NDI2NjA4MCwiaWF0IjoxNjY0MjY1NDgwfQ.qn5nyZHlrPA6qV0zoLaUu4UfVZ4yPnUZmu4ZRT4BCDI2D047e7Fd0Coe9TQWMNYgL1nSNkmukwZwU2CL1hXpFYCEJKX78wlNFz4gpelTQZVgXmU4zgt5c3Kn0yQDmtAh2vO3C3FkD4hfDQE9TSNchYVWawgoALtazEAL5mqwzsQQBDHfKabFbEIgbIvxARU7bLNaGuFtlTIvoR4D1JXlmH3fjhMn1vuaYXqw4c0zjNQS2e6PPjdDbgsrX986rlSjxUHAo1FMtD8Y1_IHpRfAKx58q-qml8Mul0_ESQfSHHxnBQ-ybPsAla4QjlDP5PjSTJYWjxGfZDsS_gvBwhs4iA"}

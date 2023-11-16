@@ -1,0 +1,26 @@
+POST /accounts/qrlogin/polling?_r45276=1688375944718 HTTP/1.1
+Host: login.feishu.cn
+Content-Length: 17
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Locale: zh-CN
+X-Terminal-Type: 2
+X-App-Id: 18
+X-Device-Info: device_id=0;device_name=Chrome;device_os=Windows;device_model=Chrome;lark_version=;channel=Release;package_name=feishu;tt_app_id=1658
+X-Api-Version: 1.0.18
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+X-Web-Id: 8611841688375803725
+X-Flow-Key: 8759e6dc-2804-4ffc-bac1-9d92908daf8e-0220230703171844z08eu_nc759e
+X-Request-Id: 2c6a5042-fef7-4108-b1ca-9b72bad3e2a7
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://login.feishu.cn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.feishu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"biz_type":null}

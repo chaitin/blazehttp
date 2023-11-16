@@ -1,0 +1,14 @@
+POST /i/14029/da/?type=multi&wid=695672&sid=CC44727D8E38AE81538BAA13BD4D0A2545&pvid=1688382620847&dnt=1&dc=2&dv=1&dl=1740&retryCode=socketNotConnected HTTP/1.1
+Host: collection.decibelinsight.net
+Content-Length: 1740
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"type":"proxyUrls","data":{"prefix":"https://proxy.decibelinsight.net/v2-us-east-1/695672/2023-07-03/www.ibm.com/","items":["https/www.ibm.com/etc.clientlibs/adobe-cms/clientlibs/clientlib-idlStylesCarbon.min.ACSHASH9c945eef68551f901e18d257c87ec491.css","https/www.ibm.com/etc.clientlibs/adobe-cms/clientlibs/clientlib-idlStyles.min.ACSHASH715ef0e268e4a6ba664ae2203eb07a17.css","https/1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v1/latest/plex.css","https/1.www.s81c.com/common/carbon/plex/sans.css","https/www.ibm.com/common/digitaladvisor/cm-app/latest/cm-app-support.css","https/www.ibm.com/common/digitaladvisor/cm-app/latest/cm-app-fonts.css","https/www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/other/ul/creative-assets/a1/1a/isometric-leadspace_office-data-review-analyze-code-engineer.component.xl-retina.ts=1655914701228.jpg/content/adobe-cms/cn/zh/topics/saas/jcr:content/root/leadspace","https/www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/other/ul/creative-assets/a1/1a/isometric-leadspace_office-data-review-analyze-code-engineer.component.xl.ts=1655914701228.jpg/content/adobe-cms/cn/zh/topics/saas/jcr:content/root/leadspace","https/www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/other/ul/creative-assets/a1/1a/isometric-leadspace_office-data-review-analyze-code-engineer.component.l-retina.ts=1655914701228.jpg/content/adobe-cms/cn/zh/topics/saas/jcr:content/root/leadspace","https/www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/other/ul/creative-assets/a1/1a/isometric-leadspace_office-data-review-analyze-code-engineer.component.l.ts=1655914701228.jpg/content/adobe-cms/cn/zh/topics/saas/jcr:content/root/leadspace"]},"offset":0}]

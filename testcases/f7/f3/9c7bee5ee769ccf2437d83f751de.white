@@ -1,0 +1,16 @@
+GET /common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=cee2eb9e-0c29-4a18-ac8b-6dfc1cb772a8&redirect_uri=https%3a%2f%2fcn.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid%20email%20profile%209ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7/.default&response_mode=form_post&instance_aware=true&msafed=0&prompt=none&state=%7b%22ig%22%3a%22423A0E82B87B4EA48D27B9FCF42AAFBD%22%7d HTTP/1.1
+Host: login.microsoftonline.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

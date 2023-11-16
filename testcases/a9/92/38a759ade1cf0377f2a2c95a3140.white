@@ -1,0 +1,23 @@
+POST /international/search/api/search/batchSearch?v=0.0949198621061873 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 1055
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Transactionid: 14df44056144400a9e6079166ea184fe
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-zfHW3TJggx1UrHBRNdRo4JdXj1LwcfyUlvhGjanR3MEmqEAXY0OWFPYATwUOw8njhXWTPJFzjtHvphW4sR4XWqbRFnvzpwn6w3QWhbwLojG9wO8YAjGYTOjq3JH9iSdRpLwoDjL1jaciG4yzXja7RlPRfciaAifMYb4iT4YsdegcxZYQhEm8WHnYMOKkTjlOjNkEp7ykEaPi8hYFE8nYqcykE64YGByzSv0OWbheTXxHaK7bjpoyqUIOnwdAjo3wgLesXEAMIGUw0kiNORFEDUYbfyNli4qY6NWsAeOBYzmj1E8lYsFyltW5QeoLyszjZEZ6YNhyPdiQoY4bj95Ka9E5qIPMe0AKl9x1XKnle3dKbzvHaK5EQGifgysQyMTj39E8Py5qEOsjc4j1EO3ig4JtGYz4WM3YpUifXetOWHlypne6BWUnEkEz8Y8QwsHwozEnAJ9lefNYBEBaiX0JA8I5tY7gyQNYMfwqbYkFvgEGnY7cwHbEpMyOsvU1W87jdEsmiMZJhfRPEQmYfXwB8wFaK0TebPWSLyAE7SipfJHtWXEoDYznwUFebmYo1vpBEbtYMNjZEtsiQUJTpWNZYttKTsIqY7Uxt5EQqrShRfQw1GjBgjtOimZylgjGkWS8R4QR1Lj4nE6qY0FI1XEMkj7tIkNvpUvZlWbUEsSEn3eSYOXYnLjZ3rL3vLbWG0yzsv6SwMQw1UEDpwZnehTjZcypSv0oWX1eGlET4WUcvNTwpMeXlEPUyUTvb7WnLeFLyShR6GYDNimfJlOWaLyH7YB0ETawkTYolwFhjtmxOyMY0px5mYNmWUGYA9wASYgNwnOEaPjocY7TwU4wL8eoLy5YQv1pxOfEznYPmE9SvLMxbPr5YBgjh7rMOvzavaqehGY5HiGPYHHK0kYaqR7Y0gWhdEBzRabeZbEFdjz1WPPKsGWFpwgYGlJdkrPNwSUrGfKzgeP1ENsWdQy5Xx0miQYokrlaKFcElmRXfvDnYbmWLge3dRSzWhBja8WBpictvScYcYTqrmsYSXRqcRz4vHaYmFWfpeOfR5lWlzi7cYsBWhhKpt
+Sign: 841390bdbf8fdcb36fa71ae96ba00584
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"flightWayEnum":"OW","arrivalProvinceId":20,"extGlobalSwitches":{"useAllRecommendSwitch":true,"unfoldPriceListSwitch":true},"arrivalCountryName":"中国","infantCount":0,"cabin":"Y_S_C_F","cabinEnum":"Y_S_C_F","departCountryName":"中国","flightSegments":[{"departureDate":"2023-07-04","arrivalProvinceId":20,"arrivalCountryName":"中国","arrivalCountryCode":"CN","departureCityName":"杭州","departureCityCode":"HGH","departureCountryName":"中国","departureCountryCode":"CN","arrivalCityName":"武汉","arrivalCityCode":"WUH","departureCityTimeZone":480,"arrivalCountryId":1,"timeZone":480,"departureCityId":17,"departureCountryId":1,"arrivalCityTimeZone":480,"departureProvinceId":16,"arrivalCityId":477}],"childCount":0,"segmentNo":1,"scope":"d","adultCount":1,"extensionAttributes":{"LoggingSampling":false,"isFlightIntlNewUser":false},"transactionID":"14df44056144400a9e6079166ea184fe","directFlight":false,"departureCityId":17,"isMultiplePassengerType":0,"noRecommend":false,"army":"","flightWay":"S","arrivalCityId":477,"departProvinceId":16}

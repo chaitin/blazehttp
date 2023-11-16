@@ -1,0 +1,17 @@
+GET /sugrec?pre=1&p=3&ie=utf-8&json=1&prod=pc&from=pc_web&sugsid=36549,38942,38881,38796,38907,38955,38964,38918,38811,38987,38636,26350&wd=xie%27c&req=2&bs=%E5%B0%8F%E7%BA%A2%E4%B9%A6app%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E5%85%8D%E8%B4%B9%E6%AD%A3%E7%89%88&pbs=%E5%B0%8F%E7%BA%A2%E4%B9%A6app%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E5%85%8D%E8%B4%B9%E6%AD%A3%E7%89%88&csor=5&pwd=xie&cb=jQuery110204729276216682512_1688377974013&_=1688377974036 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Ps-Dataurlconfigqid: 0xc026fadc0001137d
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%B0%8F%E7%BA%A2%E4%B9%A6app%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E5%85%8D%E8%B4%B9%E6%AD%A3%E7%89%88&fenlei=256&rsv_pq=0xc026fadc0001137d&rsv_t=488bpq0AxZUMw5Ngr%2B31ztlruZX97EErGzA%2BumlgWr42H0nnrx8%2FL6Lha814&rqlang=en&rsv_dl=ts_8&rsv_enter=1&rsv_sug3=16&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=xiaohongshu&rsp=8&inputT=3886&rsv_sug4=3885
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

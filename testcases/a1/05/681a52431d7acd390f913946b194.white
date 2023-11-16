@@ -1,0 +1,15 @@
+GET /collect/events?payload=%5B%7B%22name%22%3A%22start%20cgi%20original%20report%2C%20reportType%3A%20LD%22%2C%22ext1%22%3A%22%22%2C%22ext2%22%3A%22%22%2C%22ext3%22%3A%22%22%7D%5D&id=YrDeWFbYKW7YWqzGaW&uin=c8c808585fce8a621e14ee3544b798f3&version=1.40.9&aid=6f2e4fc5-54b2-4fdc-8e2c-ee4cb160e228&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688379215292&from=https%3A%2F%2Fwww.qq.com%2F&referer= HTTP/1.1
+Host: aegis.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

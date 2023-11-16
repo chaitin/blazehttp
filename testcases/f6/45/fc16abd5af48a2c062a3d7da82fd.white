@@ -1,0 +1,18 @@
+POST /csp_report HTTP/1.1
+Host: security.bilibili.com
+Content-Length: 1061
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/csp-report
+Accept: */*
+Origin: https://space.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: report
+Referer: https://space.bilibili.com/3493279433755293
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"csp-report":{"document-uri":"https://space.bilibili.com/3493279433755293","referrer":"https://message.bilibili.com/","violated-directive":"font-src","effective-directive":"font-src","original-policy":"default-src 'self' data: *.bilibili.com *.hdslb.com; style-src 'self' 'unsafe-inline' *.hdslb.com static.geetest.com; img-src 'self' data: blob: *.bilibili.com *.hdslb.com http://*.hdslb.com static.geetest.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.bilibili.com *.hdslb.com api.geetest.com static.geetest.com; object-src 'self' *.hdslb.com; media-src 'self' *.acgvideo.com http://*.acgvideo.com *.ksyungslb.com; connect-src 'self' data: wss://*.bilibili.com:* *.bilibili.com *.hdslb.com *.biliapi.net *.biliapi.com; frame-ancestors 'self' *.bilibili.com *.biligame.com; report-uri https://security.bilibili.com/csp_report","disposition":"report","blocked-uri":"https://at.alicdn.com/t/font_438759_d66lkuno6c9.woff?t=1636699893382","line-number":31,"source-file":"https://space.bilibili.com/3493279433755293","status-code":200,"script-sample":""}}

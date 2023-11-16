@@ -1,0 +1,18 @@
+GET /api/galaxy/user/info HTTP/1.1
+Host: creator.xiaohongshu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-T: 1688377993951
+X-B3-Traceid: 4f2cfb1c964c42a1
+Sec-Ch-Ua-Mobile: ?0
+Authorization: 
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+X-S: 1lVJZ2TGs25COlvW1BvKZ6w6OBcp1BV6Z6q6ZgkU1lc3
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://creator.xiaohongshu.com/publish/publish?source=official
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,14 @@
+GET /r/www/cache/static/protocol/https/amd_modules/@searchfe/promise_33d6467.js HTTP/1.1
+Host: pss.bdstatic.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6&fenlei=256&rsv_pq=0xa528e969000588bf&rsv_t=5f28QdhuBBe46xd6EQUFW9Zf%2FndLOqjOf6zmP%2BSdvmp4XYG7EW3l7FkgKGW1&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=9&rsv_sug1=4&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=qinghuada&rsp=0&inputT=1710&rsv_sug4=1710
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

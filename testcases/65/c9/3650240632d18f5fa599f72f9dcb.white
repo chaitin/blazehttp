@@ -1,0 +1,18 @@
+POST /event?e=error-log HTTP/1.1
+Host: insight.cloud.tencent.com
+Content-Length: 1459
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"app":"qcconsole","event":"error-log","lid":"H1jSM4lF2","born":1688384066631,"at":1688384072633,"path":"/cls/topic","href":"https://console.cloud.tencent.com/cls/topic?region=ap-guangzhou","uin":100003290640,"ownerUin":100003290640,"quid":"d25addea5c3c4ce19e1bcc9f0a430ff0@devS","nickname":"100003290640","idcDomains":"cloud.tencent.com; cloudcache.tencent-cloud.com; cloudcache.tencentcs.com; iaas.cloud.tencent.com","idcDomainCount":4,"userArea":1,"userAppId":1255718784,"userLang":"zh","cookieLang":"zh","authType":0,"platformVersion":"platform.f6e3d49078.js","insightClientVersion":"insight-client.3714a9ce2.js","level":1,"message":"account is abnormal（CLS service is unregistered）, Operation not Allowed RequestId:[633d2f4e-fa6c-4f55-90f4-dabebe2d3a74]","stack":"Error: capi CAPI Call (cls.DescribeTopics)\n    at e.<anonymous> (https://cloudcache.tencentcs.com/qcloud/tea/app/cls.zh.390f3f79cb.js?max_age=31536000:1:993977)\n    at e.request (https://cloudcache.tencentcs.com/qcloud/tea/app/cls.zh.390f3f79cb.js?max_age=31536000:1:884301)\n    at u.capiRequest (https://cloudcache.tencentcs.com/qcloud/tea/app/cls.zh.390f3f79cb.js?max_age=31536000:1:993294)\n    at https://cloudcache.tencentcs.com/qcloud/tea/app/cls.zh.390f3f79cb.js?max_age=31536000:1:1006052","lifeRegion":"ap-guangzhou","consoleEnv":"production","business":"cls","productBlame":"stack","productId":1082,"dictId":2022,"blameJsUrl":"cdn:///qcloud/tea/app/cls.zh.390f3f79cb.js"}]

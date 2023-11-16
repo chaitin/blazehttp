@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2338
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=modsecurity&filters=ufn%3a%22ModSecurity%22+sid%3a%22863a4021-961d-5d9b-9be1-4f1a555d3703%22&asbe=AS&qs=MB&pq=modsec&sc=10-6&cvid=AB071B8E32B4494FA036CB7051595CF0&FORM=QBLH&sp=1&lq=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>BBE72EDEE9C7441D829439A103ACAA74</IG><TS>1688378734788</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":6,"N":4,"I":"7og","S":"V+C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":288234,"K":"66ed+2s8+2d2+2do+2ez+2gr+2ib+2jv+2lf+66eh+66ei+5e4y+64p3+64v3+64p4+65pn+668o+66b4+652x+65qj+65q3+65ry+65sx","F":0},"V":"@4c/////////visible/+65o8//t///////hidden/scroll+65op//1j////////+65p6//2w////////+@4f//5m////////+@4k//9q////////+@4j//em////////+65r1//iw////////+65ri//lh////////+@4l//m8////////","L":"@40/e//////3s//R/+@40/f////2el////R/+@40/g////2n9////R/+@40/h////2ov////R/+@40/m////@41////R/+@40/1e////@41////R/+@40/5f////2d3////R/+@40/5g////@42////R/+@40/5h////@42////R/+@40/5i////@43////R/+@40/5j////@43////R/+@40/5v////@44////R/+@40/5w////@44////R/+@40/5x////@45////R/+@40/5y////@45////R/+@40/5z////@45////R/+@40/60////@45////R/+@40/61////@46////R/+@40/62////@46////R/+@40/63////@46////R/+@40/64////@46////R/+@40/65////@47////R/+@40/66////@47////R/+@40/67////@47////R/+@40/68////@47////R/+@40/69////@48////R/+@40/6a////@48////R/+@40/6b////@48////R/+@40/6c////2nj////R/+@40/6d////2o0////R/+@40/6v//////@41//R/","M":"p2+lt+-1+5e4w+56+24+0+3d+m8+59x+1","E":"@49/2/X/1o/+@49/4/X/1o/+@49/5/X/1o/+@4a/6/X/1o/+@4a/7/X/1o/+@4a/8/X/1o/+@4a/9/X/1o/+@4a/a/X/1o/+@4a/b/X/1o/+@4a/c/X/1o/+@4a/d/X/1o/+@4a/e/X/1o/+@4a/f/X/1o/+@4a/g/X/1o/+@4a/h/X/1o/+@4a/i/X/2s/+@4a/j/X/4y/+@4a/k/X/4y/+@4a/l/X/jq/","N":"@4b/51//@17/@3g/@36/2t/@18/@4b/@4b/@4b/5e50/5e7r/5e7s+@4c/52//@17/tabfocuschanged/@1b/60/@18/@4c/@4c/@4c/64pj/@4d/@4d+@4e/53//@17/returntop15/@1b/5z/@18/@4e/@4e/@4e/64pn/@4d/@4d+@4f/54//@17/display/@1b/2g/@18/@4f/@4f/@4f/65pp/65s3/65s4+@4g/55//@17/@1r/@1b/2f/@18/@4g/@4g/@4g/668s/@4h/@4h","C":"64pq/j////rk/9k//64pg+64zo/////rb/9q//64zl+650l/6h////qy/a1//650j+651l/j////q6/al//651k+652g/////pi/b0//6528+@4i/////oy/ba//652o+653d/////oo/be//@4i+653t/////ne/c0//653n+654a/////mx/c8//6543+6557/4////m1/cj//654z+655o/////lp/cq//655f+6566/////l7/cx//6564+6573/////kx/d4//656z+65jn/////la/dr//65jm+65ki/////lv/e7//65kb+65lg/////m7/e8//65l6+65md/////mi/e9//65m5+65p5/////mu/h5//65p3+@4f/////n1/js//65pj+@4j/////n3/sr//@4k+65r0/////ng/wu//65qv+65rh/////nk/zc//65re+@4l/////nx/zu//65ru+@4m/////o9/zq//65sp+65tc/////ob///@4m"}]]]></D></E></Events><STS>1688378734788</STS></ClientInstRequest>

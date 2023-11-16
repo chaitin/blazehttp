@@ -1,0 +1,16 @@
+GET /international/search/api/lowprice/calendar/getOwCalendarPrices?departCityCode=HGH&arrivalCityCode=BJS&cabin=Y_S_C_F&v=0.3784683846340371 HTTP/1.1
+Host: flights.ctrip.com
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/channel/domestic?allianceid=4897&sid=155935&utm_medium=baidu&utm_campaign=ty&utm_source=baiduppc&bd_creative=19208801544&bd_vid=12216601323375966672&keywordid=1182474793
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

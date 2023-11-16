@@ -1,0 +1,21 @@
+POST /events/bulk/5afa3d7607a72221591aeb73 HTTP/1.1
+Host: events.launchdarkly.com
+Content-Length: 446
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Launchdarkly-Payload-Id: e49829b0-198b-11ee-b18f-139fa188ad38
+X-Launchdarkly-Event-Schema: 3
+X-Launchdarkly-User-Agent: JSClient/2.24.2
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"startDate":1688379910917,"endDate":1688379910919,"features":{"atl-global-safe-enrichment":{"counters":[{"value":true,"count":1,"variation":0,"version":3}]},"load-error-logging":{"counters":[{"value":true,"count":1,"variation":0,"version":7}]},"teamplates.scrub-trello-urls":{"counters":[{"value":true,"count":1,"variation":0,"version":3}]},"atl-global-gtm":{"counters":[{"value":true,"count":1,"variation":0,"version":13}]}},"kind":"summary"}]

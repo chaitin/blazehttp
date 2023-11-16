@@ -1,0 +1,18 @@
+POST /weapi/pl/count?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 418
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/artist?id=10559
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=GnXzPJJ%2BAlRdcD87GJ1mdgFD7XxSvs7fT%2BPcik%2BLtRZc2Cf4DPiIPCkCZTmCvPACqzU%2BkDTzm80V6H8uZBTbqSICc8JAKe3%2Fwjt%2FaReNeKv8%2FGmvDkSSgBJaQeL%2F28RU&encSecKey=36567cbfe785a541f5207bc987a9d3644afd8e5ac422801149a87e86e2d21ea37dad68a1f87871b556ce9caf55ac8e31496dde34405a125bb1679422a311f8a56e00086887278ff6d26557c56ee08b36076918fef6aa0984308747d4af35a6bdf2b5a19667b9a502245384f339935fed5548044323cedfa8811147abef411e33

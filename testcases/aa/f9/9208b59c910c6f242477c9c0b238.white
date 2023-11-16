@@ -1,0 +1,19 @@
+POST /data/api.json?action=DescribeResourceAggregations HTTP/1.1
+Host: smcnext.console.aliyun.com
+Content-Length: 1293
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://smcnext.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smcnext.console.aliyun.com/sourceServers/importMigrationSource?spm=5176.smc-next_welcome.welAction.IMPORT_MIGRATION_SOURCE.1cc318e6FwhWxT&sourceServerType=SMT
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=DescribeResourceAggregations&collina=140%23IcMo5jBMzzPozQo2%2BioFKtN8s77%2BPKm40O%2F1HPz0lcwzNkk3if06jdAw9oxGSk90KzvJlp1zzqeK1fjwyQzxixkxath%2Fzzrb22U3l61DkDrqVx7ulFzx2oa3Vthq4FjyTHmijDapVrMDuGiFB2Tj64flKXectjDMVLZKvgMRszesOPfRn7B%2BEzW%2BJTbMQ2FP9GP1fB9R2rxEmay9vFoMW%2BQUf8JLghu1H39XTX4INfS2MpfQu9qaAFzMnpd3yuSj4OXsAdkbezl9lBaEm1zHtX53DX6NBAhCGXRmUqyvoNUSDA%2BDc0PeYbvqMAp9vkQQTz1MCEyfCfktRbxdHRFC0psbyiq3nIzkrxZCiXoKG0J7jA22T0TlTcaTnuVu90Dhn06ueY98yMPkc8clZGVCPsmW3AyDnvUW4WxGI7w0gjwPlaYZ%2FDft7ic3pyRyDnhqVqscH14zHNOrz7MBLB%2BfVpNmsXzgU%2F%2FJsp9MKVYTzT8vHOLS%2FvFnvHjGRPcKwblE4OkqxENpkVOhb95W%2F3GaJM13%2FOABsrBUYJe094vnmjKAzKKgsiST3fTICMaCyrUVGVhD4NOPjiTgRyhrvusdkVgVA8%2BKdD87LVjCBj1GfMGihkOvQyVhdoWcsqsty%2FLeO0nCvgdS4NTNopDywIxLWUzOnaNBPLoFbzE53WLZNpMnIkhBUoPd8ya%2B920cOUM5ZaNsNK2qriwe%2BI5R%2BRM9tznbp5uTeBzly%2BaP9PYQNhIgbmLFxRJCCj59%2Fewoy5kbrhpJNaRopUHoDM4x4XiVt5ntaJJJz1%2B%2B%2Bjc6f%2B0KNX1iMvm8TitppPzRazAinvJogLNKd9zrOh1u0wAn5QMJkzL1W4vci0ElCs2m1SbmIrbE&params=%7B%22Aggregators.1%22%3A%22RegionId%22%2C%22Global%22%3A%22true%22%2C%22RegionId%22%3A%22cn-hangzhou%22%2C%22ResourceType%22%3A%22Instance%22%2C%22MaxItems%22%3A100%2C%22Product%22%3A%22Ecs%22%7D&product=ecs20160314&region=cn-hangzhou&sec_token=d5mraaH0uvLd9OQlTDzyz7&umid=Ya7fc04269a847f0d255e2bba70d2d2a5

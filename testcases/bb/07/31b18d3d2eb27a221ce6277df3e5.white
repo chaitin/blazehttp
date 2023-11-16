@@ -1,0 +1,22 @@
+POST /international/search/api/log/writeLog?v=0.502387080426429 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 289
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-aHpvakJ4nR06IpaY8myFfjDMyBfR1ny7OyAQjopybPyZXwXoE51rqLw8Aj7QRGBi1Ai83EBhifOyzpWOQW7QePMwUav9Hi7DWZtwntvOFEAGRp3KH9rgYP3v1PwFcKsXRzUw3mjTMj3Ni8Uy4kj5DRp1RnliS9RsNRmQRTzvq4JazY3Y7tWP0WfgYSzKAHjnTj51EaBysEs4iH5YgE9BY4nyHEZ8YsSyapvBZWb1eHLxgkKDNjOByMZImFwpPjkawoLehPEdQIF8wb8iNtR4E9dYU3ydAiBaY3HWoQeUDYmNjoElpYgQydpWQgeDXyacjLEZbYfUyD7ifZYk7jU1KoUEGcI6he98KQnx5sKnse0nJd0IGoyHE31iTDy89YMEs4i1BJOgRPEPQYMlw1Uy9UjHOE74yo0EpFjTnjNEAPiktJPmY5aWmpYPni8FeMGWUnyZte6mWSGEgEOUYMQwa7EgtWk6WdgeN9EUmYTswskjAMec8y7ElNimMJcNjqGwZOiB9E8FR6Hy9EHFYQDwOFyBmeksyGESQiG5JakilPiLAYhSjSHiFSEDNJotKBNelhjHYzPWPZyT4WfhRFQw7Njs9jd7iqHyZ4jAbWBXRmtR3DjOhE9dYUhI1LEDBjkPIZGvMnvMHWqUKtcEGHj5YMlYQlYlhYsZv3dRsTEb1wg5jstRdLvBLJHZeLoEm5YpzRf3wble5PEcTjp4JkBENfeHkEF3vtXvqsi4beHNyq1y31vgtYOQvQmyN6EM7Rn9v4njXSjX6El8K7TIlNRTYSXeZ6Wghi9gYdLw6XYdBw4lEUNjkXYdLwGsyoSILdJZYlwalvzXxpmYzZEMXrhgRFZWhYcAISzwQsIkHvgdeZ7Y0di5bYfNyDJh9RnYQTy6nwZJz5ekMEhQjtDWMaWg3iXDYOYnAYkHJnJ14rBlK90e1PEaMW5QEmQiNBecY8PEPsW37r34Rgdvt9YdaW3FeH6R1zWH1jm3WptjAMyqkx0Yb4e6JZBvT0RMkvD4YbOWAkeQ1RPXWkbintYhzxStJnF
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"title":"ubt","content":"{\"url\":\"https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345\",\"data\":{\"seq\":2,\"key\":\"poi_select_city\",\"remark\":\"选择城市[Wuhan|武汉(WUH)|477|WUH]\",\"time\":\"2023-07-03T09:55:13.110Z\"}}"}

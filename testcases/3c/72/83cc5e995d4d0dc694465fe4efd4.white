@@ -1,0 +1,15 @@
+GET /report/functions/report?_ApplicationId=qbweb&stComm={%22sGuid%22:%22c5dba00752b642c5a739b2d9ee6cfdf9%22}&vProtocols_Function=[{%22iProtocol%22:8888,%22iKey%22:522,%22iValueI%22:1,%22iValueII%22:1,%22iValueIII%22:1,%22sValueI%22:%22onload%22,%22sValueII%22:%22%7B%5C%22ua%5C%22%3A%5C%22mozilla%2F5.0%20(windows%20nt%2010.0%3B%20win64%3B%20x64)%20applewebkit%2F537.36%20(khtml%2C%20like%20gecko)%20chrome%2F114.0.0.0%20safari%2F537.36%5C%22%2C%5C%22locationHref%5C%22%3A%5C%22https%3A%2F%2Fuser.qzone.qq.com%2F389264167%5C%22%2C%5C%22type%5C%22%3A%5C%22ieweb%E4%B8%80%E9%94%AE%E6%9B%B4%E6%96%B0%5C%22%7D%22,%22sValueIII%22:%22%22}]&r=0.30520245431489856 HTTP/1.1
+Host: baas.browser.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

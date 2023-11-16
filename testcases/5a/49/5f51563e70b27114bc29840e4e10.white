@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=CB54D0C297E941E8989D943B8045192B&TYPE=Event.ClientInst&DATA=%5B%7B%22Meta%22%3A%22q%3Asql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F%2Ci%3A1%22%2C%22Latency%22%3A%2221%22%2C%22T%22%3A%22CI.Request%22%2C%22TS%22%3A1688377577787%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3Asql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F%2Ci%3A1%22%2C%22Latency%22%3A%22101%22%2C%22T%22%3A%22CI.Load%22%2C%22TS%22%3A1688377577888%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/search?q=two+options%2C+1+and+2++1.+Eating++2.+Not+eating++What+is+the+difference+between+choosing+1+or+2&form=QBLHCN&sp=-1&lq=0&pq=two+options%2C+1+and+2++1.+eating++2.+not+eating++what+is+the+difference+between+choosing+1+or+2&sc=6-94&qs=n&sk=&cvid=13BC0EF686F94C1EBEA6B30225A4E97C&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

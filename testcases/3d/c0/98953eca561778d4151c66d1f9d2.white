@@ -1,0 +1,15 @@
+GET /api/income/logAccess?callback=recordNewUserJsonpCallback&accessUrl=https%3A%2F%2Fwww.anhengcloud.com%2F&yun_reg_refid=&yun_reg_referrer=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DXq29LpXkbg6XirLwhI7keXTGPQLv1LLsA-eF2-XdlqyXz5vHxzl0xbGcwTTY-Mpn%26wd%3D%26eqid%3Db70004330004b6b20000000464a2a882&yun_reg_clientid=cw_1h4dm66g011nd1c3mlsil8vgat0 HTTP/1.1
+Host: product.anhengcloud.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.anhengcloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,15 @@
+GET /api/v3/get?referer=https%3A%2F%2Freg.huaweicloud.com%2Fregisterui%2Fcn%2Fhwid%2Fregister.html&zoneId=CN31&id=06c8410796844fad8613ac5639feffed&fp=ax9ywaUXnH2npaYxD1CThg8b6r1gNuxQWvbRypdo5iXDxtAJMpwfzAlpvfKeyR2QSQ8%5CMAbUKkEzimnu2%5Cbx8U1EQ08ekBJ0fwOqWhDYDX1saPSx4g5yV3mTgoA%5CWhtmMA%2Fq8IIAtr1raZTJOASBVTVXYryykGGPP9VXXL1%2Bck4CaHlW%3A1688384531589&https=true&type=5&width=&sizeType=undefined&version=2.20.2&dpr=1&dev=1&cb=745RrgwdLVFIckWxA8k68Chzvm25Zr9DWjw5%5C1V52a7ePupwdMTusx8gB1Gcsino&acToken=9ca17ae2e6ffcda170e2e6ee94d4408b8a9f91f7548dac8ea6c55a868a9e86c161bcba8599c46f8e86a782cf2af0feaec3b92a81eda8b0c159adb0beaff35f869f9ab3c14b948aff98e16bf39ba0b1c75ea1abee9e&ipv6=false&runEnv=10&group=&scene=&sdkVersion=undefined&callback=__JSONP_vd9wk0o_0 HTTP/1.1
+Host: c.dun.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://reg.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

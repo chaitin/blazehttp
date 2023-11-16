@@ -1,0 +1,10 @@
+GET /search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&dyTabStr=MCwzLDEsNiw0LDUsMiw4LDcsOQ%3D%3D&word=%E5%9B%BE%E7%89%87%E6%90%9C%E7%B4%A2 HTTP/1.1
+Host: image.baidu.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%9B%BE%E7%89%87%E6%90%9C%E7%B4%A2&fenlei=256&rsv_pq=0xb430c8a30004f6b9&rsv_t=44b63Ud%2Fv7mNVz2UvdQ2AXaGg64lpkTlDkxL2uj0PvG4Hi8mtpgUB4z%2FnI7k&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_sug3=14&rsv_sug1=4&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&inputT=1923&rsv_sug4=1923
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

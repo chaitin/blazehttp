@@ -1,0 +1,20 @@
+POST /services/collector/raw HTTP/1.1
+Host: http-inputs-notion.splunkcloud.com
+Content-Length: 218
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: text/plain; charset=utf-8
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Splunk EA76605A-F565-4B17-A496-34435622A1EB
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"environment":"production","from":"FeatureFlagTransactionQueue","type":"preferIndexedDB","level":"info","instantClientData":{"href":"https://www.notion.so/","clientTimestamp":1688375271954},"clientEnvironmentData":{}}

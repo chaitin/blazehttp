@@ -1,0 +1,18 @@
+POST /monitor_browser/collect/batch/?biz_id=2608 HTTP/1.1
+Host: mon.zijieapi.com
+Content-Length: 626
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"ev_type":"batch","list":[{"ev_type":"performance","payload":{"name":"cls","value":0.0071214936521148894,"isSupport":true,"isPolyfill":false,"isBounced":false,"isCustom":false,"type":"perf"},"common":{"bid":"2608","pid":"/post/:id","view_id":"/post/:id_1688375124741","user_id":"6922073775576761864","device_id":"3e175914-aa5a-4f6e-ac9a-1c6cdbc38eef","session_id":"94b15836-636e-47b4-8981-d506b12219ea","release":"1.0.0.7460","env":"production","url":"https://juejin.cn/post/7126456742409568269","timestamp":1688376747280,"sdk_version":"1.7.0","sdk_name":"SDK_SLARDAR_WEB","context":{},"network_type":"4g","sample_rate":1}}]}

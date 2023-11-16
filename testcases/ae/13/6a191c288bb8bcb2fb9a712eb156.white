@@ -1,0 +1,19 @@
+POST /api/agreement/logAction.json HTTP/1.1
+Host: ecs-buy.aliyun.com
+Content-Length: 1090
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs-buy.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs-buy.aliyun.com/ecs?spm=5176.ecscore_overview.res-empty-sale.buy.611e4df5veUCse
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+_csrf_token=d5mraaH0uvLd9OQlTDzyz7&action=customBuy_vpcTotalCount&collina=140%23w9OoG0aazzP2TQo2%2Bi3sKtN8s77%2BPK4ng9wJT6WojGqWyKnX41Bgq07u3LUD7slcCZh7lp1zzqeK1tVPMQrxhK8d7th%2Fzzrb22U3l61fSPv7i5WKLZNaPEcgdNpKKj4hsd9BP9Mxa1uiw24qKtsxx1N%2BZFfrhtOiodtwqH2xQLuiV2EqlaOz2Dc3%2BFtujHmijDapVrMn79%2FQCGKQAd%2Fh56JPgKstDeFu8mqnS3fr5ooi3%2BDrraqfNdcYwBIA4BVlm6tM2YhO7LwENJ3W%2FFHxKHAHBOJyb%2BGMMW9vn8rlSDF5jZps1kYHX0Oek%2F9GM1BVPT8qr96GFD%2FaphBbGYZHzC%2B7pHbZbNjCW11JFLZrXCJll45aNKNSjZLA%2BSi%2F1WZvEHHePW1sDVTI22MsOop6BwpS%2BP4zK0XtbYGoLY7xL4Dx5Dljn5keVwduXeh5kCOCDPz5WjuoqLMUPUiTvz4FKTz7Irh5WiDRsoOuzSLPpkHFqwLfRYDakFQc8JIz4JQvn9QMTiRis%2FTXc6Z6szt6YuVyTs5iL%2Fj3Ac3Vi%2BZ7tqb0NT3Pf%2FC1BMHFZask2gHRl6%2BAiuNstJo07gTYkmPI4P6st0aK3ksfMWzwEAYvqV%2FR0KLlxZEpvevRQclcMoZvbE6UfBh9CH%2F0m6LoREIRq5iQ6UxcFNU5uy2AevFeabRsZAYYtBd5q8BCVS9AnSd468ipquBdx6TOTtmgPJo9ByGlxqkGhRAUB2hkaPLPGUzkXPPjlbG6fbG5Apq%2F36TFSH8CCv0eKRCLbt%2FmP3RIurRLqSajCNQOw%2BhSgoUlQU5NEKxYB0S1v%2BLPOfkA6lIbmOUwQ8Q4KayOMZk3dw5Ziy8nfiSTnVF7FKNDJOXocEvZ%2FOLRHe1BDQgtdPBg7TDA3oltXExewBWSgRIhgPjgW9ZEIE4fi2ekZtNGYPSxf33lzzz%3D&param=1

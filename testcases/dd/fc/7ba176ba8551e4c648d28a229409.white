@@ -1,0 +1,13 @@
+GET /ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAFTUwNjc5MDktMTc5NzExNTYzNTItNGQABm9yZ19pZG0AAAAHNTA2NzkwOWQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAACzE3OTcxMTU2MzUyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GAHUvWhuJAQ.ZtkobS9tuyqFv6mGFGeRavvISBLRncnZcwHmvFAOIJM&remote_ip=3.226.111.211&vsn=2.0.0 HTTP/1.1
+Host: presence.api.drift.com
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://js.driftt.com
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: 8QHzrGhq6DE6PvbiddcscQ==
+

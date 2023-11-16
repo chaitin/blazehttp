@@ -1,0 +1,15 @@
+GET /seo-inlinks?current_url=%2Fai&title=AI%E7%BB%98%E7%94%BB%E7%B4%A0%E6%9D%90%E4%B8%8B%E8%BD%BD_AI%E7%BB%98%E7%94%BB%E5%9B%BE%E7%89%87_ai%E7%BB%98%E7%94%BB%E6%A8%A1%E6%9D%BF-%E8%8A%B1%E7%93%A3%E7%BD%91 HTTP/1.1
+Host: api.huaban.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://huaban.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://huaban.com/ai
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

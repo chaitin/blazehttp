@@ -1,0 +1,16 @@
+GET /bfs/svg-next/BDC/arrow_up_triangle_fill/v1.json HTTP/1.1
+Host: i0.hdslb.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://search.bilibili.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://search.bilibili.com/all?keyword=passwd%20%E6%98%AF%E4%BB%80%E4%B9%88&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: 042ee678b73d93ae163940a72f767239
+

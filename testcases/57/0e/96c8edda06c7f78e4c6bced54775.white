@@ -1,0 +1,24 @@
+POST /oauth2/login_with_qr HTTP/1.1
+Host: login.dingtalk.com
+Content-Length: 532
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec_collinaua: 140#u0rDQtm5zzFWEQo23zvu4pN8s77+P4X28WPP5EyoV+2Ar+y/1ypp40H2iad+jM+3cVbm36hqzznpWNYdEuQxzq8ZIY4qlQzx2DD3VthqzFK72MtGlp1xzoObV2EqlVFnlT8I1wba7X53xYYCTdkWsdWE5CTH83TmqZ5i6ePaeMrfG7v+xGAXSW/zixHvymVqX3dJDdeoO2XPqnF9i/D1NDVjTUfl2LE6OxmWOHh6/AtQYQ7PvT6A1tAm0nf/uKNOSbXfAr59+t+C/xgl/ntav7jXfDYbb0K1IFSFqCvNnmi8DHqDvxfc9oXQavPRVRnxxvgK5xoq/an9Dco5c9JzFmPeRyuWOMHuOasGCpAO1lRhXwtOBuE4gQZnleQvFvWTX3DEo3G+4rjF8JNfrnXWqIPZZU8TSRgJ3u20kHwUC149KKa222uIwbIgrWjx0Orzj2yDotXzTKlmWE/Ya2W9fqjJq26ZFjhoz/Uzynzwm6kTR08JA9ZaO/wTbZh42OrTND5orYTtQg3OWfyC19FMDbfH+437EzWUBw03KJ7CnthD9Ay/PFOeXWukeulR7ucAmfDrCwWtvyHfgGnzJPWBfsHmxLh+mHnhVi9IzVG5UNY34i7u+6qk2gh/sFbbrMDvtRInRHEny7wzhMlQygi4j6AI1vT9E9mFofoZQiX/2eGWYGBMQWjD6QjsMaIRt98IoE9CZlE6J2IsL75WMy61+yj2RH56sCfwQ5dbzqkEZif/uWEgM88E3aZq67RoGyp0VE+e600RaldJXqrZfVWPGC0NJcJfwJZu33caX4HC9OpLbnnDbvBAiGqmHHBa7re/gnuUOeO470nUkQDb4h00lvl7JkCelR3GsBvUqCmkg2QOR4/Sj2PeA5aDzLdDbn0dsKDQXKI7IJE5v5Yb/B11Ho72mzhl9f6VRaNAvELPyZPMDgd+x5g6ID9/k+YMcw6aqSnHDfDEkofS9q/TK5KH3b8i+6k0WVPsg4iex4vcfobTUeyv8fSew8UZ5Kp0e0lRpxUG3UoNk2pdEV83b4NUYlay+k8eOjhgvWFd/EfElFDWWv+I2Nr17fTK+LVA0CSFuR0205kya6EMcgJIBQWytFUR06/zALJ0gGoHiPiDoOX6Z0Jl/7hddrLKl+jflCf4A8/lkHZs5eXW4YVvXxytOc2p1vLLHo3r8jm3EWD6YvssxCRxJFmfGEwOoRmV
+Sec-Ch-Ua-Mobile: ?0
+Sec_umidtoken: T2gAsrIeGsG4WSIfb8aNkPGU0T_4BMXuQzIf-C6lJIEEfHHQEcawH-1i-rlc2cx8iPw=
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Sec_browser: Chrome
+Sec_browserver: 114
+Sec_refer: https://qiye.aliyun.com/
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://login.dingtalk.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.dingtalk.com/oauth2/challenge.htm?iframe=true&redirect_uri=https%3A%2F%2Fqiye.aliyun.com%2Flogin%2Fv2%2Findex%3FuiTheme%3Dwebmail%26takeOverParentWindow%3Dtrue%26deviceIdType%3DUMID%26state%3D801ffdc5-3762-4a79-afb8-bde9bc2fe9f3%26lang%3Dzh_CN&response_type=code&client_id=suitefjqkxvrnxxo9htk6&scope=openid&prompt=consent&state=42c1ada1-ee35-4266-8761-162e8d45410b
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+iframe=true&redirect_uri=https%3A%2F%2Fqiye.aliyun.com%2Flogin%2Fv2%2Findex%3FuiTheme%3Dwebmail%26takeOverParentWindow%3Dtrue%26deviceIdType%3DUMID%26state%3D801ffdc5-3762-4a79-afb8-bde9bc2fe9f3%26lang%3Dzh_CN&response_type=code&client_id=suitefjqkxvrnxxo9htk6&scope=openid&prompt=consent&state=42c1ada1-ee35-4266-8761-162e8d45410b&code=F6C7FBB3-B2D7-44FE-BA00-13765F03554D&exclusiveCorpId=&stayLogin=false&pdmTitle=Windows%20%20Web&pdmModel=Windows%20&pdmToken=T2gAsrIeGsG4WSIfb8aNkPGU0T_4BMXuQzIf-C6lJIEEfHHQEcawH-1i-rlc2cx8iPw%3D

@@ -1,0 +1,18 @@
+POST /x/web-frontend/data/collector HTTP/1.1
+Host: api.bilibili.com
+Content-Length: 1006
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/video/BV1gV4y1k7N1/?spm_id_from=333.999.0.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"eventId":"web.main.webimage","appInfo":{"appId":21,"buvid":"54F00853-746D-49F1-B499-6192F46FDB16138373infoc"},"mid":"503647489","eventCategory":5,"ctime":1688375171750,"runtimeInfo":{"network":"2"},"extendedFields":{"business":"main","app_key":"web_main","real_request_url":"https://www.bilibili.com/video/BV1gV4y1k7N1/?spm_id_from=333.999.0.0","referer":"https://space.bilibili.com/3493279433755293","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","browser":"Chrome","x_cache_webcdn":"HW","command":"https://i0.hdslb.com/bfs/test/ce1cf20203c303963e78c811b01100667c960bba.png","start_request_ts":"1688375171","dns_time":"0","hit_cache":"","server_ip":"","idc":"","connect_time":"0","request_time":"0","response_time":"590","total_time":"1","request_args":"","initiator_type":"xmlhttprequest","exception_msg":"","http_code":200,"href":"https://www.bilibili.com/video/BV1gV4y1k7N1/?spm_id_from=333.999.0.0","negotiated_protocol":""}}]

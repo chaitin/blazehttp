@@ -1,0 +1,10 @@
+POST /api/report?cat=bingcsp HTTP/1.1
+Host: aefd.nelreports.net
+Content-Length: 1497
+Content-Type: application/reports+json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+[{"age":41681,"body":{"blockedURL":"inline","disposition":"report","documentURL":"https://cn.bing.com/search?q=infoq&form=QBLHCN&sp=-1&lq=0&pq=info&sc=10-4&qs=n&sk=&cvid=423A0E82B87B4EA48D27B9FCF42AAFBD&ghsh=0&ghacc=0&ghpl=","effectiveDirective":"script-src-elem","lineNumber":1,"originalPolicy":"script-src https: 'strict-dynamic' 'report-sample' 'nonce-rCzzCqwx6KBTliTqEZGXtWtHJOPuohZt+mjhQ728YMc='; base-uri 'self';report-to csp-endpoint","referrer":"https://cn.bing.com/","sample":"javascript:void(0);","sourceFile":"https://cn.bing.com/search","statusCode":200},"type":"csp-violation","url":"https://cn.bing.com/search?q=infoq&form=QBLHCN&sp=-1&lq=0&pq=info&sc=10-4&qs=n&sk=&cvid=423A0E82B87B4EA48D27B9FCF42AAFBD&ghsh=0&ghacc=0&ghpl=","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},{"age":51693,"body":{"blockedURL":"https://r.bing.com/rp/ICf9X-WMafiZOnS_3M9RpM8994E.gz.js","disposition":"report","documentURL":"https://cn.bing.com/","effectiveDirective":"script-src-elem","lineNumber":1,"originalPolicy":"script-src https: 'strict-dynamic' 'report-sample' 'nonce-nPoaNDLLpAICDJE4wMkwbxnQTcYcspVKbps2fwWKpOU='; base-uri 'self';report-to csp-endpoint","referrer":"","sample":"","sourceFile":"https://cn.bing.com/","statusCode":200},"type":"csp-violation","url":"https://cn.bing.com/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}]

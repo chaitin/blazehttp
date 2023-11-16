@@ -1,0 +1,17 @@
+GET /beta/users/me/settings/storage/quota HTTP/1.1
+Host: graph.microsoft.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer EwBwA8l6BAAUAOyDv0l6PcCVu89kmzvqZmkWABkAAVYlDD1S1B9Vn6veNM028ppaic7T6P8Tua74cesV8lTGL1Uj//04IKRd25kLOTI743U8AhJhp+Wx1BSbN9P7YcMBLrMAg7FH6elm8LWlCHitjZNgh7qGdkgLw4gc6a2jRaZkxjTs5U1QXs2nTF296MOFjx6lEBW5w2AwVEKsTRMgRU+cIHtP2vLY+9CDi/OhNp0jgowT4oe3fSAzUi5jJcwZK0GT5k0knuWOZkwmxGfgINMN5DjhyutY5M7RTnPKiAKuGIIY6InuAhVPlDAA7Ds4+vnH5cBnPMu0kNh4PRCDBXTkV1WtxXuvRE4X209CF3ZclnGTrUjDT9NRez1CPjEDZgAACD7ZAKa7R6HKQAJJjanKauU8AVeCqwwjWapfVwSeM7y4kv1h0RqRny70iTbwr6qKewQA0WCskkNE483TsORVGiBoOCratDmAoxlwj0ZnXwkCViG3G+CvVi28xrkwBEOhUO970RvhWNEUB9RPidV31zREe+Ys7iFoIflh3x2HzKkD0JMGa7etJzAIwZYUO+QvkN/1MnrLKf6FH5VxH45ExJ6OtwC89ZJJmZ1h2jzMs2VGiVpFNf1P9CU+zesf3Xe3OjQgeYhG0A6OnmW9vfNmQvbZS1isRVRYUlbbpVZAIT8c03QJM485hpZ7J+ZLUcwQ/KldNAKaUh8uj9HZA3YqNI3rnISNrtxr6OlRJ42TV/LX/HcV3GoSBPQod/IHlcJ5eivZp3siyMtb77PfFEcB4rfwa6k4v2EJPharNXD8IHnw3YxiDEY54Yg9WOrX8oPx5bySOq/l7sqkjsYQ5VLYtkBCVzesbkG1V4ZEmh3C+dWQb+SxQkHb3d0BQO/wW7lO+CMN3Vacf52jIO9dvEJnvSs9qs9cLU/eONCFOy2swldvviD5Kn1vJia8NNnQVqupkpWt60NjuKVF0bLeZ8U+nA1vdmi7cYizzi1wbll8GpXaLXz08plDcbbqM2PSxwpLSKioyDj5W8fTRI3KiIVUQUtXIv9EGxBpuHOghWZeCNkJWuO2Vw654t1EwZ5xysU84VVDIhQqysLPKtUrmgfs402w6exS76V7khJmo9MKtNxroFolQMETsgWoItP5Dewk5zlTH+ezZcXz4g5pAg==
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.office.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

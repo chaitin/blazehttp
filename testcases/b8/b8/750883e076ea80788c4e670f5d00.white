@@ -1,0 +1,18 @@
+POST /bee/collect HTTP/1.1
+Host: s.c-ctrip.com
+Content-Length: 1139
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://trains.ctrip.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://trains.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"d":"f001688378234414!m1Legacy!ac=a&d=lFtbNCwibWF0cml4Il0sWzEwNjUwAwGeNTUyLCIxNjg4Mzc4MDExODQyLjRlamZmMCIsMSwxAy2DIiwiAwADAIYyLjguNDYDBpV0c21ieHEtMXQzbGxjZi1qajJnM2QDGwMbhDUyNzUDHwMfAx8DH4ZvbmxpbmUDJZkiLDYsIjA5MDMxMTIxNDEwNzg4ODg0NTg3Az6QaHR0cHM6Ly90cmFpbnMuYwN5hnAuY29tLwR6lHsibmFtZSI6ImFwcF91c2FnZV9wBAGIZHVyYXRpb24DcI50YWdzIjp7InByZXZfcAMYAyEDfoljdXJyZW50X3ADIQMqA4EHg25leAMDAyQDLQOBCodzdGFydF90AxsHgSaNMjI5NzU5LCJlbmRfdAMoB4EzhTIzNDQxA4E_iWxhdW5jaFR5cARPh2RlZmF1bHQDgTOFc291cmMEWwOBOIN1cmwDXhBtA4FmBmeIIn0sInZhbHUDZ4c0NjUzLCJ0A1QHgV8FJwMBg2NsaQNIg0NvZARzFIEShCJ9XV0~&mt=1688378234413&jv=2.8.46\r\nm1Legacy!ac=a&d=lFtbNCwibWF0cml4Il0sWzEwNjUwAwGeNTUyLCIxNjg4Mzc4MDExODQyLjRlamZmMCIsMSwxAy2DIiwiAwADAIYyLjguNDYDBpV0c21ieHEtMXQzbGxjZi1qajJnM2QDGwMbhDUyNzUDHwMfAx8DH4ZvbmxpbmUDJZkiLDYsIjA5MDMxMTIxNDEwNzg4ODg0NTg3Az6QaHR0cHM6Ly90cmFpbnMuYwN5hnAuY29tLwR6m3sibmFtZSI6ImFwcF91c2FnZV9kdXJhdGlvbgNvjnRhZ3MiOnsibGFzdF9wAxcDIAN9h2JpcnRoVGkEKAeBGY0yMjk3NTksImVuZFRpBDUHgSaFMjM0NDEDgTKJbGF1bmNoVHlwBEKHZGVmYXVsdAOBJoVzb3VyYwROA4Erg3VybANREGADgVkGWogifSwidmFsdQNahzQ2NTMsInQDSAeBUgUnAwGJY2xpZW50Q29kBGkUgQiEIn1dXQ~~&mt=1688378234414&jv=2.8.46\r\n"}

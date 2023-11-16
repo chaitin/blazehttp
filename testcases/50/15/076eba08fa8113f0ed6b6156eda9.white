@@ -1,0 +1,21 @@
+POST / HTTP/1.1
+Host: cognito-idp.us-east-2.amazonaws.com
+Content-Length: 2043
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-amz-json-1.1
+Cache-Control: no-store
+X-Amz-Target: AWSCognitoIdentityProviderService.RespondToAuthChallenge
+X-Amz-User-Agent: aws-amplify/5.0.4 js
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://minimals.cc
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://minimals.cc/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"ChallengeName":"PASSWORD_VERIFIER","ClientId":"5rlr9414shmclka7708f9v5fcp","ChallengeResponses":{"USERNAME":"214a9a0c-19c8-40f8-a80f-02b634135974","PASSWORD_CLAIM_SECRET_BLOCK":"8NVkzAfV7jCxina6bZyxvHUtdcBFj3zXB8xt8UEZl91vrz8hxKUD4jMy3Qhduox8R66+TsU9JZOD7opsIdEFVpEL92YWDgkAs/O0fnuaAV9NR9eJbr92hbzU2eStc7WOBS+nE68yTHT2WV0w1Owok9q4RIhOFFuMHJhExPhAx0Nq0/NTO8hEUI2aCuB1yQsn4CO4Oiscrm9VMvkl9airQcFPPg8lDjglXEBcWh8TtW11teOkZHLez3hqb/rG0dxYQOsGffIbQY1ad4+jKouEkKK4lViGDot0j036L7JStPugGAjZBeXn8KWNXGbfVUinRo5q0lVLNcjQdIOT27aBe2B4Z3Lf9+I/OVRno86AHy/AjSflr7ErYEBnPdSGF+5+DSR8EJc2tgyL/t5/KrtBWRn5PYt7QuIDnojzqYsNWncTCudSjFpMCkbz/fYouZ20Q0rl7t8YVHX59ZSTalqBjbO4ZkgtVHGw5mSt3H3afVKxDCe2cg4PueQXBxNYN55E6PQl7EiGaB9fQLzDj2zpEnHWOXsPwngtzfYjWxc5q3ievrY+ZiCIJFxTMyQ5GwpN4ergwj0PvSDMyYi0MGpPEq5B0x9spWIjR/VdY2vffeLqkqNGT+LAnjAh39ryxac6tF8zvcrUtT0w7Gt3tkweJ5Gi8J07IU1MZWa5v/ekE9SI0Lpo0D2xym9vBWPGTRtqUVDU0T7F7BCgw5tuqiyDHlyvYo9WbppvUMTJ66s6CyTjGA972bp5ZnmUQtBeG56MuI2JPPvJ/2qhCpatr2aE0FejtgcQfVYGYvwC0zx6vUnbItGJBeXPJJWXR3Ek7eOKkKRkQu+sbhhy2Q0Jsg4KUPbF97LWCeh5zu0W/LJB5k3nZ6Z/baU2shfG8Ax4ZhcrDi4U2hhu2xHiEFxz9WNZyDLqe2BpipBKek2XkKwofEFpI+UvLYhKtqgwMi2Sy4t45e9ZiVku0YTh3riA02Olo3xqbFFjVWOrBTpxs9XDuLa4mHciSZ0Gw9OwBIw9sbsSuqLTHTluaNeUJjN1B5IIDoGZPkC6ZVzOkgwRIzhdmTAC8+v35QrfRkzbeAh58N4RNQDJq/tRw+mno0iia0C5TTUNSgbBqkxN5+2fBnHi1ZveVdsKFJNUV3zMbNcCkOIZKOc5VCsy//GUyUqHhZyUv1AZnWGrlLIwaLf72auFhphY9IGFD0M2861xwjJn34Ig1sSJhJwJ6V/DLPDyy/bm5x1mMwSl5WDxGgM5YajOtwc+Kf7KNxLASit+9fdZf5iU/guxIzCSr8cz6vZlHbrdiLJptRW9HxzvFSlaXcSai14SrEUXB0caLJ1ApYfBfMHBoMttMNmggno1Vb9qzB7NeetRM/NWnhpAx5oMHc3lnEIPAlhNLxRRtHT+bcEjnaRMLrpI8llRTF6j08Xi/VEzN9nOGdC/wnGQicRgUYN/l5KCwYLMRxd4G1eZU4twxkpbCAYC0CJmdcDPvOxfCa3G0LzcniHZitCKytuA6E/dTfMvk4ye9Twiw9Jr+7WL/2oSfANxmc+RYGjjHi/uJ/+jDfu7mdcNtHzwuKNhSTNQbxG4rXedIcQcGMtAHRhH8JKBsbMF6Hl13ZVHgqq4PxaosQaHMTS8j+145vq+KDCHzMMjLGMdHCFFOtLUGuTk2RyT28qKuc/ZziO4oZkKcgo9/IW/FOwbAG2uj8NvgLE1Mryg9JXZQiB23jqwLw==","TIMESTAMP":"Mon Jul 3 10:33:59 UTC 2023","PASSWORD_CLAIM_SIGNATURE":"jWZpbVlYEg7PgmhW/l42e5iLw8FsOku+33tp38CTNgM="},"ClientMetadata":{}}

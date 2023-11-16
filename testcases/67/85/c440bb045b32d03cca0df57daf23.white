@@ -1,0 +1,21 @@
+GET /api/v4/creator/apply HTTP/1.1
+Host: www.zhihu.com
+X-Zse-93: 101_3_3.0
+X-Zst-81: 3_2.0VhnTj77m-qofgh3TxTnq2_Qq2LYuDhV80wSL7iUZQ6nxE_Y0m4fBJCHMiqHPD4S1hCS974e1DrNPAQLYlUefii7q26fp2L2ZKgSfnveCgrNOQwXTt_Fq6DQye8t9DGwT9RFZQAuTLbHP2GomybO1VhRTQ6kp-XxmxgNK-GNTjTkxkhkKh0PhHix_F0n9c_tqqUxB3q3BOhNX9h3Y1rxqacOLbgxL2wwGgGYL8UO1Ywg9phFMtJe0FH_z9h39rUYY4UVBPgLqkQx167VKQwH0TqOfQ_wpQQxMcGOGLge1WqgKiUgffcS8ZrHYkGoXSAXyJ9YG3wXGOwXYe0c9PqOZZgeLZBV9g9xGlCVGWgNL-rOs
+X-Ab-Param: 
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ab-Pb: CgY7AicH+AwSAwIAAA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Requested-With: fetch
+X-Zse-96: 2.0_oT0D6q/Iqd77ZgBkc=ox9aGvtbJOg47P=b6xurrl4gFozpGBA9tahAHTvyl=w7X6
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://zhuanlan.zhihu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://zhuanlan.zhihu.com/p/127922840
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

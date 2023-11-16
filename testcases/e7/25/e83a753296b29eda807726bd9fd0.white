@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-FYECCCS21D&gtm=45je36s0&_p=1634563644&gdid=dYmQxMT&cid=1853340856.1688382617&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=3&dl=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&dp=%2Fcn-zh%2Ftopics%2Fsaas&dt=SaaS%20-%20%E8%BD%AF%E4%BB%B6%E5%8D%B3%E6%9C%8D%E5%8A%A1%20%7C%20IBM&sid=1688382616&sct=1&seg=0&dr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a&uid=22264502-71e5-40a7-a7fd-f85599f94bcb&en=user_engagement&_et=4080 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

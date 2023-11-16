@@ -1,0 +1,18 @@
+POST /gol/postweb?013324,013324 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 1046
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://message.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://message.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+0133241688375164154https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.1007.0.0%23%2Freply|333.1296.main.message.PERFORMANCE.CLS||1688375164154|||1920x921|1|{"flink":1,"name":"CLS","rating":"good","value":0.049447527091686365,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}||https%3A%2F%2Fwww.bilibili.com%2F|8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN||10133241688375164155https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.1007.0.0%23%2Freply|333.1296.notification.page_use_time||1688375164155|||1920x921|1|{"counting_seconds":3,"is_login":true,"mid":503647489,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}||https%3A%2F%2Fwww.bilibili.com%2F|8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN||1

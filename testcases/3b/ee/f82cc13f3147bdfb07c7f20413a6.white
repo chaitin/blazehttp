@@ -1,0 +1,15 @@
+GET /pagead/sodar?id=sodar2&v=225&t=2&li=gda_r20230627&jk=2500358192200301&bg=!p6SlpPDNAAb90kgr3dI7ADkAdvg8WtU5TOnGFKcSh9IUgMSmjSYAR8vZVoFAJGyrj0lMKsTRmcAQwJWFCRt2D9gBdzh94YHky9ICAAAASVIAAAAFaAEHmQLraAMdrbAfyXwCotCCdr3QRwNP2vwwfDmeHDgwoHT8QlrAsmMdTx_2R51XWZKHXEpJyX97lf-CzfGyastc7T4F-qA0hogyM3cK9TGW4qzDMRd9zti0tNsZKN4R2a67s3FWUoNqEaHK-0Aqjk_k1ArcwppuAdJ4ImO312PQAaU0VSCWsk4qerd5yZs7pOoCEjq9fYW8KLk5l9HLrcAG1-5MqCM524GlB0Vj9fc0o80iZ27QQoN2-4r8_T7cR8j_sCgGpcmYXAnc4B7ZMxy77qTOixlnxVTDLY0Yf3WagPiA2N6yHbnFUSu_0CdIUASm8LMmJzLCq7PfaD_lH5EzUfT9uZBFK8tEfK72tmnuGDVDAoLWFdfe_7uof8thGhwyUxwoGgyaolv-aM6EDxVxIj-cr5miCer2KylZaruqKitB3Ym8dKYumbBmzGZ-KxEERqjoRylMVkjL02FUbKTuCKQhU6vNG91oNU21TdbJstiFr5go7ooOlRtFu7U_I6WlIsWURyueqTuI3TwUaTKyHcd-OgvtBGIGuzap2JNvoCeDGPXUYSc9eOH5NxxUtGpkbYCYy_Tr5TD_9HcnCpOxrbZEc8v8fjjc-kKU5XR0B0ki5wtffNor6JurQmdFcSmToCazct7UIemWzPk6N43t9TfR9rZqV_6HDkguE5ROAIuWszMkO3dWxY4sVhy_kf9ePEIvJ39WZ_kZ6EZQT7tULtx_L-u_7uWHhAjGTzyBGUcdSDUMsiRGm9e5rzJurqpFtwu6tLlEHtMVtTonKI9XCCJ73WwD6P_7yMph7SB29RnSM54qaPyhCPqVbq4MFkl53Wa2sprbvd380bnofnp71Zn64yViwCOzJdU4V0aAz6khn8_Cp1BA3K_1AbTs-XJBkZPLtgtCOsz3i6tlaC8q87I1FkdrrotgthDkHGQNgpespXnnz0ChZj2TfOVOLwu6GGCW5WMrnMSmK7xUFhNurYp41jlst_iT1J-35F7e HTTP/1.1
+Host: pagead2.googlesyndication.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQj6mM0BCIWgzQEIpL3NAQ==
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://segmentfault.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

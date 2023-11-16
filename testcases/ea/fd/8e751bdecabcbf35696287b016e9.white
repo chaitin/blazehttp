@@ -1,0 +1,18 @@
+POST /data/api.json?_fetcher_=resource-manager__ListResourceGroups HTTP/1.1
+Host: fecs.console.aliyun.com
+Content-Length: 942
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://smcnext.console.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smcnext.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=resource-manager&action=ListResourceGroups&params=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A100%2C%22Status%22%3A%22OK%22%7D&collina=140%23BP2x7qy0zzWFEzo2%2BiD%2BKtN8s77%2BPKLcWwg5QXhSWTat8%2BC2yvF56LD1BHG1g04aKzSElp1zzqeK1Ft4Wbzxvxk496h%2Fzzrb22U3l61DQPhablgZMzzx2oa3Vthq4F5%2FTHmijDapVrMD3G9MLXNEScByqWdICWSftBD2%2F%2BYJwXod00T7OzTsaz3BHh%2BEQ2FP9GP1fB9Rk4LRBiFXNMB8P9N4A3%2FS%2F3mlnP5iOV7NMun%2B%2FdvsvHjfVV561hOJNKTbkQhmRzNhQMgqfriddkvIbc60wnJSAHtV%2FqYfOVVdN10gabHMyYHsjR%2BBPvtbugxpu9OajUfrG7JOLodT6f%2BB%2F3rGPcgFyMTX%2Fvzs6qKzqDnso4NiXogKu2WW2HRbneAiByDClUP%2BzkuWvztjYS0tvYcTRc6H7m8YDk%2FGTyHvZY3ZzTF8MW6qUvw4cdoA5mN%2F6tXm1t2jdWaofvuQ9VYMM4OVzGT%2Fgam9hM3TDTZOHxfgFUPFqxR8DLKQGRF23c22Zi1W7VkkqqJhOQTaKgXec0sxzENivD28KLyj86yAwrE9Vd8YugHjMxRncWLm7pMI%2F9Pe6C7N4b6CTlt5G%2FdUhMoHXa60ZIG7ESmb2nClArfR0J51Gj04P05n9X3FNmgx6zcdWwqoQFF3wrK5obFLLJTim0RInAE0gXYGyeRQCIcqyWFDXF%3D%3D&umid=Yb0be488f063657f236012c0cb23ba3d0&sec_token=

@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-MPGDXDMY0F&gtm=45je36s0&_p=247225260&cid=264900682.1688381149&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=Ag&ngs=1&_s=58&sid=1688381149&sct=1&seg=1&dl=https%3A%2F%2Fce2.greensea.org%2F&dr=https%3A%2F%2Fweibo.cn%2F&dt=%E6%9C%88%E7%90%83%E5%9C%B0%E5%9B%BE%20-%20%E5%AB%A6%E5%A8%A5%E4%BA%8C%E5%8F%B77%E7%B1%B3%E5%88%86%E8%BE%A8%E7%8E%87%E5%85%A8%E6%9C%88%E5%9B%BE&en=map_move&_ee=1&_et=6132 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://ce2.greensea.org
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://ce2.greensea.org/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

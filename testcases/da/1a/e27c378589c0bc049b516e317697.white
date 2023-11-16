@@ -1,0 +1,18 @@
+POST /sdk/fcgi-bin/sdk.fcg HTTP/1.1
+Host: stat6.y.qq.com
+Content-Length: 1928
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"common":{"_appid":"qqmusic","_uid":"1152921504763685208","_platform":24,"_account_source":"2","_os_version":"","_app_version":"114.0.0.0","_channelid":"","_os":"windows","_app":"chrome","_opertime":"1688383876","_network_type":"unknown","adtag":"","fqm_id":"7642c64d-5680-42a8-b8be-b2a114021486"},"items":[{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-5","rate":1,"time":3},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-6","rate":1,"time":3},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-7","rate":1,"time":3},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-8","rate":1,"time":3},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-9","rate":1,"time":3},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-10","rate":1,"time":5},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-11","rate":1,"time":146},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-12","rate":1,"time":146},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-13","rate":1,"time":167},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-14","rate":1,"time":221},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-15","rate":1,"time":221},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-16","rate":1,"time":221},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-17","rate":1,"time":261},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-18","rate":1,"time":261},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-28","rate":1,"time":0},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-29","rate":1,"time":141},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-30","rate":1,"time":0},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-31","rate":1,"time":191},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-32","rate":1,"time":168},{"_key":"web_time","id":"1649-12-12","point":"1649-12-12-33","rate":1,"time":259}]}

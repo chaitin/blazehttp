@@ -1,0 +1,18 @@
+POST /faas/proto/json-to-proto-json-to-proto/proxy HTTP/1.1
+Host: fe.xiaohongshu.com
+Content-Length: 2448
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: text/plain
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"app":{"type":"App","value":{"nameTracker":{"type":"NameTracker","value":"wapT"},"platform":{"type":"Platform","value":"PC"},"appVersion":"discovery-undefined","artifactName":"xhs-pc-web","artifactVersion":"2.13.0","sessionId":"","trackerVersion":"0.1.33"}},"mob":{"type":"Mobile","value":{}},"dvc":{"type":"Device","value":{"dvceId":"927a82ae17ced391f1043c54d513d64d"}},"network":{"type":"Network","value":{"networkType":{"type":"NetworkType","value":"unknow"}}},"page":{"type":"Page","value":{"instanceId":""}},"browser":{"type":"Browser","value":{"matchedPath":"/explore","route":"https://www.xiaohongshu.com/explore?channel_id=homefeed.fashion_v3&m_source=baidusem","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","sessionId":"27434441-3d7a-44e6-b1cf-7a88d1b5cf21"}},"user":{"type":"User","value":{"userId":"648c586d000000001403d2f0"}},"browserApmTracker":{"type":"BrowserApmTracker","value":{"browserPaintTimes":{"type":"BrowserPaintTimes","value":{"firstPaint":253.39999997615814,"firstContentfulPaint":253.39999997615814}}}},"event":{"type":"Event","value":{"eventId":"b7ee1e45-7181-49c9-b01f-24ccb4036912","dvceMicroTs":1688377989239000}}},{"app":{"type":"App","value":{"nameTracker":{"type":"NameTracker","value":"wapT"},"platform":{"type":"Platform","value":"PC"},"appVersion":"discovery-undefined","artifactName":"xhs-pc-web","artifactVersion":"2.13.0","sessionId":"","trackerVersion":"0.1.33"}},"mob":{"type":"Mobile","value":{}},"dvc":{"type":"Device","value":{"dvceId":"927a82ae17ced391f1043c54d513d64d"}},"network":{"type":"Network","value":{"networkType":{"type":"NetworkType","value":"unknow"}}},"page":{"type":"Page","value":{"instanceId":""}},"browser":{"type":"Browser","value":{"matchedPath":"/explore","route":"https://www.xiaohongshu.com/explore?channel_id=homefeed.fashion_v3&m_source=baidusem","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","sessionId":"27434441-3d7a-44e6-b1cf-7a88d1b5cf21"}},"user":{"type":"User","value":{"userId":"648c586d000000001403d2f0"}},"browserApmTracker":{"type":"BrowserApmTracker","value":{"browserFmpTimes":{"type":"BrowserFmpTimes","value":{"fullyLoaded":5535,"firstMeaningfulPaint":3307,"firstScreenPaint":null}}}},"event":{"type":"Event","value":{"eventId":"24c5063c-f4fe-49a9-a8c9-fb4f0bf3f982","dvceMicroTs":1688377989239000}}}]

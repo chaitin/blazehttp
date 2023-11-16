@@ -1,0 +1,15 @@
+GET /abdr?data=%7B%22data%22%3A%22NQq8E133OprvfPfngpceFxjHhX7cKEhUaDduJAV1MB5ff39pX%2B%2ByRw6gwX9D9KhbILehz%2FZ5WoPk%2BHnqgaJO56xMBRxwAqmRxYeKTMPiqF%2BVJO9EjQmO2SBoGxwNpddRvjph7zdBvAVJ1O%2FHkvSufZS8nPyHLO9oNIyYDeDqsoaeqAWMcgDWwX3MXa4xfwpudqoR4pBtDHPUJ09Tj5Bs4NzXsIk%2FmcHIlVWP1wQL23fbe%2BC55Syu2DelX%2FXFO6cwNnKTe09gyvZ9ASipBBwZHSfiMErSAef%2FJgGhHRqwz4RE7TOLJglP9dFfTJ44duPN0omhKDGSp9kWj%2FSWWrFL14aLYf8shP5irkMnR3zBOhZZjdam8FlS6WZRJLZ0LboSTO%2BVmnggwnOqX2LQahGlSLmvLGwOwWaKbzo9YzxyiOa7sk7M9%2BZa6f7PJ3uwxWBaMDr3D0QoEiJ%2FSBW%2FuFuc%2FMcu82AaifrZNg4JHBc1la85ty9DdLyPRSUulzywPOyrpFQRaW9XePM%2BeQqhAPrJqeHKt%2B9biNDhMrtemEpNIswKrsslRkHf8%2Bn%2FomDL5iZwYqc%2F6yeac3fe%2FqpX2rB5sqMfyDf8HONZcoNFluCEgdjah1lP0jawFhxHoztp19qNOSlY3nm2jxKK0w4cKHZuuqlTZvJjLfCaHBUPgadT98iYUCDi1genopaRCZn%2FIOxGtyWSG7iWS2eDV6CzHC5RkrCSVKVNYIk99OcxxJGKWn6DN%2BlDigmDsM4LPP%2BuPAJyPFooJ%2FC42frDHwZaKnWxmmQ9agdIKHe5%2B3Ba4mkUeJmxBXILSpg3Qi3u%2Bu6bGgTSGHtbfeJrM1YSvkfi1Lp1MpCISh9B6BnLBRj%2Fmvtf3Mlbff9m7q9gZXb%2BJvSUf30RAkinvysUqrBaXoEAp48OnC8dWYyTdoB98m%2BuzPlpWpyM0n4NIOyHUKGjldtM8K3HNWH7jDMPx01yguL2gqm6Ag%3D%3D%22%2C%22key_id%22%3A%220e1fadea25fd4153%22%2C%22enc%22%3A2%7D&_=0.710741157760638 HTTP/1.1
+Host: miao.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://hotels.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

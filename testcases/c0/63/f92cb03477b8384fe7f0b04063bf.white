@@ -1,0 +1,18 @@
+POST /api/v1/events HTTP/1.1
+Host: analytics.cnblogs.com
+Content-Length: 830
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/json; charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.cnblogs.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cnblogs.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appId":"blog-web","browser":"Chrome","browserVersion":"114.0.0.0","clientEventTime":"2023-07-03T09:39:46.933Z","clientId":"d5d1ca4a-f515-4e4f-977f-f735905118b4","clientTimeZone":-480,"isMobilePhone":false,"isTablet":false,"operatingSystem":"Windows","operatingSystemName":"Windows10","pageTitle":"电影观后感 - 随笔分类 - 郑瀚Andrew - 博客园","referer":"https://www.cnblogs.com/LittleHann/p/17506649.html","refererDomain":"www.cnblogs.com","resolutionDepth":24,"resolutionHeight":1080,"resolutionWidth":1920,"url":"https://www.cnblogs.com/LittleHann/category/2103006.html","urlDomain":"www.cnblogs.com","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","windowClientHeight":921,"windowClientWidth":1903,"eventType":"visit","blogId":152568}

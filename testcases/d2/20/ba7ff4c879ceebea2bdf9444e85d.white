@@ -1,0 +1,14 @@
+GET /action/0?ti=4063247&tm=gtm002&Ver=2&mid=8dae22e6-3933-4148-8623-decac93603b1&sid=c180e320198b11eeb1faf7b23382b081&vid=c1810f60198b11ee8c3ee7874e8f1fd4&vids=0&msclkid=N&uach=pv%3D15.0.0&pi=918639831&lg=zh-CN&sw=1920&sh=1080&sc=24&tl=Jira%20%7C%20Issue%20%26%20Project%20Tracking%20Software%20%7C%20Atlassian&p=https%3A%2F%2Fwww.atlassian.com%2Fsoftware%2Fjira&r=https%3A%2F%2Fcn.bing.com%2F&lt=797&evt=pageLoad&sv=1&rn=51127 HTTP/1.1
+Host: bat.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

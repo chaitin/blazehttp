@@ -1,0 +1,18 @@
+POST /g/collect?v=2&tid=G-FYECCCS21D&gtm=45je36s0&_p=1634563644&gdid=dYmQxMT&cid=1853340856.1688382617&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&dl=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&dp=%2Fcn-zh%2Ftopics%2Fsaas&dt=SaaS%20-%20%E8%BD%AF%E4%BB%B6%E5%8D%B3%E6%9C%8D%E5%8A%A1%20%7C%20IBM&sid=1688382616&sct=1&seg=0&dr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 1567
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+en=page_view&_fv=1&_ss=1&_ee=1&ep.content_language_code_cd003=zh-CN&ep.event_type_cd057=page_view&ep.page_category_code_cd077=PC060&ep.page_load_epoch_timestamp_cd080=1688382610027&ep.site_id_cd089=IBMSEC&ep.universal_content_id_cd093=url-5537afbf75e8e4f6dae9cef77b574244c4ce162888fa8f819f49990429832535&ep.universal_pageview_id_cd095=904a4b9b-00ac-45c7-9d7d-c61394fbf53d&ep.ut10_code_cd097=10A00&ep.ut15_code_cd099=153QH&ep.ut17_code_cd101=17DVS&ep.page_complete_url_cd079=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&ep.page_url_id_cd084=www.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&ep.testing_flag_cd092=prod&ep.universal_event_id_cd094=003bfbc0-1ad1-78c8-5df0-fbc01ad15df0&ep.visitor_state_cd112=0&ep.content_source_cd006=Carbon%20for%20ibm.com%20v1.45.0%20DELIVERY%3AN%2FA%20AUTHORING%3AN%2FA&ep.cookie_consent_cd009=2%3A&ep.demandbase_audience_cd023=Wireless&ep.demandbase_audience_segment_cd024=Mobile%20Network&ep.demandbase_isp_check_cd028=true&ep.demandbase_service_provider_cd032=Chinanet&ep.p1_marketing_type_cd070=Osearch&ep.referrer_complete_url_cd086=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a&ep.referrer_url_id_cd087=www.baidu.com%2Flink&ep.dbdm_stats_cd022=%7CL%3A-1%7CIP%3Af%7CIPC%3ACN&epn.first_page_count_cm051=1&ep.first_page_flag_cd114=true&ep.marketing_channel_category_cd115=Organic&ep.marketing_channel_type_cd116=Organic%20Search&up.consent_behavior_cd001=expressed&up.ibmer_cd063=0&up.visitor_state_cd112=0

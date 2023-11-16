@@ -1,0 +1,15 @@
+OPTIONS /mcp/pc/pcsearch HTTP/1.1
+Host: ug.baidu.com
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: https://www.baidu.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=qq%E7%A9%BA%E9%97%B4&fenlei=256&rsv_pq=0xaff5209100001020&rsv_t=b6cfxTBVOUNtZPakN6BRVpS1QSKDo0NJFUTsYrzl0C8mlUd8%2FH5SaB7Fb46Q&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=8&rsv_sug1=6&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=qqkongj&rsp=0&inputT=2174&rsv_sug4=2174
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,18 @@
+POST /csp/report?type=header&enable=1 HTTP/1.1
+Host: h5.qzone.qq.com
+Content-Length: 1305
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/csp-report
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: report
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"csp-report":{"document-uri":"https://user.qzone.qq.com/389264167/main/custom/layout","referrer":"","violated-directive":"script-src-elem","effective-directive":"script-src-elem","original-policy":"img-src 'self' about: data: blob: jsbridge: http://*.gtimg.cn https://*.gtimg.cn http://*.qpic.cn https://*.qpic.cn http://*.qlogo.cn https://*.qlogo.cn http://*.myqcloud.com https://*.myqcloud.com http://*.tenpay.com https://*.tenpay.com http://*.soso.com https://*.soso.com http://*.weiyun.com https://*.weiyun.com http://*.qzone.com https://*.qzone.com http://*.qq.com https://*.qq.com;default-src 'self' about: 'unsafe-inline' 'unsafe-eval' data: blob: http://*.qpic.cn https://*.qpic.cn http://*.gtimg.cn https://*.gtimg.cn http://*.gtimg.com https://*.gtimg.com http://*.qq.com https://*.qq.com http://*.qq.com:8080 https://*.qq.com:8080 http://*.myqcloud.com https://*.myqcloud.com http://*.weiyun.com https://*.weiyun.com https://www.darryring.com https://*.res.meizu.com;report-uri https://h5.qzone.qq.com/csp/report?type=header&enable=1","disposition":"report","blocked-uri":"https://cdn-go.cn/vasdev/web_webpersistance_v2/v1.5.3/flog.core.min.js","line-number":65,"column-number":27533,"source-file":"https://user.qzone.qq.com/389264167/main/custom/layout","status-code":200,"script-sample":""}}

@@ -1,5 +1,0 @@
-# tag: black,ssrf
-GET /hello?content=hello&url=sftp://1.1.1.1:9999 HTTP/1.1
-Host: 1.2.3.4
-User-Agent: Chrome
-Referer: http://www.qq.com/abc.html

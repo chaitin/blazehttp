@@ -1,0 +1,15 @@
+OPTIONS /v1.0/me/drive/root:/%E3%80%90%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81%E5%B7%A5%E7%A8%8B%E5%B8%88_%E6%B7%B1%E5%9C%B3%E3%80%91deric%205%E5%B9%B4(1).pdf:/content?@microsoft.graph.conflictBehavior=rename&select=webDavUrl,* HTTP/1.1
+Host: graph.microsoft.com
+Accept: */*
+Access-Control-Request-Method: PUT
+Access-Control-Request-Headers: authorization,content-type,prefer
+Origin: https://www.office.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

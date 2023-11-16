@@ -1,0 +1,23 @@
+POST /cgi/capi?i=account/BatchCheckWhitelist&uin=100003290640 HTTP/1.1
+Host: capi.cloud.tencent.com
+Content-Length: 951
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Life: 1899
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+X-Csrfcode: 2093508630
+Accept: application/json, text/javascript, */*; q=0.01
+X-Seqid: f4bf2e20-e3c9-4574-9258-3c8b7429c1f3
+X-Referer: https://console.cloud.tencent.com/cls/hosts?region=ap-guangzhou
+X-Lid: HybWYz4eFh
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"serviceType":"account","action":"BatchCheckWhitelist","regionId":1,"data":{"Version":"2018-12-25","WhitelistKeyList":["cls_mutitopic_searchlog","LogService_dashboard","Deliveryfilter_Whitelist","CLS_SystemKeyhide","CLS_logtime_90","CLS_Batch_installation","CLS_Dashboard_New_Charts","CLS_Dashboard_Tencent_Map","Loglistener_rest","ipv6_vpc","CLS_K8S_QUWAN_WHITELIST","CLS_Query_AutoCorrect","CLS_TOPIC_STORAGE_TYPE_COLD_CHANGE","CLS_COS_parquet","CLS_realtime_consumer","CLS_COLD_STORAGE_KV_SEARCH","FASTANALYSIS_SURPORT_SQL","CLS_SYSLOG","CLS_DATA_TRANSFORM_TARGET_TOPIC_LIMIT","CLS_ SEDIMENT_WHITELIST","CLS_SEDIMENT_TIMELIMIT","CLS_Chart_Number","CLS_ACCESS_KMS","CLS_shipper_historydata","CLS_WEB_LOGLISTENER_JSON_STANDARD","CLS_KAFKA_RECHARGES_WHITELIST","CLS_MULTI_TOPIC_SEARCH","CLS_METRIC","CLS_DYNAMIC_TOPIC_WHITELIST","USER_DEFINED_METADATA","CLS_MULTI_TOPIC_SEARCH","CLS_INDEX_ALIAS","CLS_RESOURCE_PACK_WHITELIST"]},"clientTimeout":65000}

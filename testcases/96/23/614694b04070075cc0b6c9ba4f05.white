@@ -1,0 +1,18 @@
+POST /weapi/ad/power/mylike/list?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 408
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/st/ad-song
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=iE7dcO%2F6FKPCc8R651gEMHfBHSDJOEG%2B433C%2Fmg0LNjLYzDoQgm0y2Crub1j6PhD9iDNkPoRAmKJuj4gJ9bTRy7pwHMVH4wAfu89lWonAMvSbl42wbnDoRoQP1vRDda5&encSecKey=48dc1804d0dc9ba4ebbf628435f150f6ba47443269644e49665a4b87895b8b01239f1ed1e092af6386a06a6cc53529980d002cdc2d8d141ef4347917c480475a7a2b52517aad1a9fe061eae8f3458f45f86bc495a9f9abc5764b49394548fdd952eade3baa0313b9ae22db21f284931dc030a6fdb161c1e210c722eb0cc4165e

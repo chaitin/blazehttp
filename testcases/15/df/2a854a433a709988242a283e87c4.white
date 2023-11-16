@@ -1,0 +1,19 @@
+POST /weapi/copyright/workbench/agency/item/info/get?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 406
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/st/musician
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=an2NoBqAcFiswmtWxZwnqrm4Ltu8bvFn2Egw%2FrRJD4HPzOnnDPoJ64VAt1M58OVV24jQ1XWlUXeVFADakxVQqyNiWxu43Ev4BzRzPWbfmxSx7d%2BAQU4Mhj8Bbhnll4dw&encSecKey=2bfeb30c5dfc8264ae0b13753831a9015578601e4432b2d69181e5d74c20b8df436501d92486fec2911099af8e63f0bd92f9f824d5b35b2b3811059b2c9475ab6e0559b074513c08fa0fdc94e7b7a7aa647cde1fac107938b52c07d80b1a96146a144ccfc70c23f4ab387fb79d67dea61ebf60885bec309f7998ab844feb6b19

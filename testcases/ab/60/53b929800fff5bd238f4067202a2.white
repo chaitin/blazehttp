@@ -1,0 +1,22 @@
+POST /speed?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379274198&from=https%3A%2F%2Fuser.qzone.qq.com%2F183678453&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 2534
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryTabYn4E3s7xfmNNN
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryTabYn4E3s7xfmNNN
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[],"static":[{"url":"https://wspeed.qq.com/w.cgi","method":"get","duration":5.3,"status":200,"type":"static","isHttps":true,"urlQuery":"key=appid,releaseversion,stime,commandid,resultcode,touin,frequency&1_1=1000372&1_2=window_10_chrome_114&1_3=510&1_4=r/p/main_page_cgi&1_5=0&1_6=389264167&1_7=1","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0},{"url":"https://qzonestyle.gtimg.cn/qzone/friends/selector/pinyin.js","method":"get","duration":1.3,"status":200,"type":"static","isHttps":true,"urlQuery":"max_age=360000&v=_20130110_1","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0},{"url":"https://h5.qzone.qq.com/proxy/domain/pingfore.qq.com/pingd","method":"get","duration":75.3,"status":200,"type":"static","isHttps":true,"urlQuery":"cc=-&ct=-&java=1&lang=-&pf=-&scl=-&scr=-&tt=-&tz=-8&vs=3.3&dm=home.qzone.qq.com&url=v8index&rdm=-&rurl=/&flash=&pgv_pvid=7119704860&sds=0.33286543159567117&ex_dm=msg.qzone.qq.com:/msgboard_index_show:-:/;mall.qzone.qq.com:qzoneFlagShowCount:-:/","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0},{"url":"https://qzonestyle.gtimg.cn/qzone/hybrid/lib/pow/pow.js","method":"get","duration":1.3,"status":200,"type":"static","isHttps":true,"urlQuery":"","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0},{"url":"https://h5.qzone.qq.com/report/compass/dc01917","method":"get","duration":61.7,"status":200,"type":"static","isHttps":true,"urlQuery":"platform=pc&resulttype=1&resultcode=2&ctime=0&commandid=flash_detect_auto_report&qua=V1_Chrome_Chrome114&host=user.qzone.qq.com","x5ContentType":"","x5HttpStatusCode":-1,"x5ImgDecodeStatus":-1,"x5ErrorCode":-1,"x5LoadFromLocalCache":-1,"x5ContentLength":-1,"domainLookup":0,"connectTime":0}]},"id":"RiaWqsnTHOaqiNeiQn","uin":"o0389264167","version":"1.23.51","aid":"7d994c22-9157-4bfa-84fa-2628ba4bc8f4","platform":100,"x5Type":3,"netType":100,"sessionId":"session-1688379274198","from":"https%3A%2F%2Fuser.qzone.qq.com%2F183678453","referer":""}
+------WebKitFormBoundaryTabYn4E3s7xfmNNN--

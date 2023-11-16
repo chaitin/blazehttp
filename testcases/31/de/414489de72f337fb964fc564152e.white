@@ -1,0 +1,19 @@
+POST /v1/interface/inner/cloudim_324034 HTTP/1.1
+Host: gateway.qidian.qq.com
+Content-Length: 593
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/json;charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://webpage.qidian.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://webpage.qidian.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"uint64_kfuin":3009074401,"uint32_appid":6,"str_useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","bytes_custom_key":"NTI5Nzg4MDA2NDE5Mjg0","str_session_ticket":"BYw762nFCXjAHChzzaae6aQwuR9DU865923YaUk0I3v9+HE0+PvQDZjuv4inX9N3UR4eh2Jz1dfG5y6zZi3lZdfsGGSiHmwH4hepJ95yCrWwtx1CssB0gzGnuaXssL2qM64TX5NFnAx278uHrTnQEJksqSJ8hMjArKaOyAJUgWoWYBl4TMyd4mZGUo7fAvhkY41Df1outrNtxFoW6jnWjfdtRt+fbDtdGxFM38nMUFt7dZlvxSinqodAVR/DjGP5waVYjEj/2YF2R+eOSCHdUEYEiKCgdK1Rt1A6OsFyPstpBLktWDWWc2RuCWLcq1HhtTGWSpo17hc=","str_client_uuid":""}

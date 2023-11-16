@@ -1,0 +1,18 @@
+POST /weapi/feedback/weblog?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: interface.music.163.com
+Content-Length: 708
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://music.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=ZpenGZqQwIQXlI324S4X6AfAxh2P%2B633fQa7uAYQyAHiJeKYddJdsw%2FjVtGZYuwO2gz6hWolX%2BMJiTN%2BVlXWIPaFkywqZJHYx9UtSZWJUUz86BNUhnAzHwhcPPdnEOfHdYiD2Mr9zjA6PrP2psiAMyLIBAPJYet3H8LJHlNx1dUeZJxfYfnPBiKBEsv9NwS0iEmw903oumbI2mr6P84E%2Boy9%2BUEhFumZrMtqFbAZDqU911kF0S5cVAjt1dlQSDqmDPV8y4Hej5fxraY3s44OjgErfeTyVTnrr6ocojWQRCGeeEjVaKNL62D%2FoffTpQEFN%2BaB2cg41ZukYb11vR1T19a64BO%2Be%2Brg7V%2Be8f0HqHRhEfwOnCbexI3tREvEVweIpQ8McXkB3sxWxTPh2aCC3A%3D%3D&encSecKey=a4cf3dad7225a08a10918f6a57f3c30fde751265971f43a7b70a1af14500d7f933ca6a82aaa708c0473496d947484d55ff978d0f61b332cb6b469fcd70d71d096c6269394014cf7ee0f1cc9fb43943d976e730006cb78883cd13b863ce31c7ef49acae1bb7d7e17b1a92c3fb846e6fc0fb5e9cf95a76c161b1577dfa77b63897

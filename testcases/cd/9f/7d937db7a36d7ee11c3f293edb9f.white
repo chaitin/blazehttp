@@ -1,0 +1,16 @@
+GET /ptlogin/loginFrame.do?postLoginHandler=refreshParent&redirectUrl=&css=%2F%2Fimga.5054399.com%2Fupload_pic%2Fzzpl%2Flogin_comment_20200107_1.css&appId=www_pl&gameId=112&layout=horizontal&displayMode=embed&layoutSelfAdapting=true&externalLogin=qq&username=&mainDivId=embed_login_div&autoLogin=true&includeFcmInfo=false&qrLogin=true&userNameLabel=4399%E7%94%A8%E6%88%B7%E5%90%8D&userNameTip=%E8%AF%B7%E8%BE%93%E5%85%A54399%E7%94%A8%E6%88%B7%E5%90%8D&welcomeTip=%E6%AC%A2%E8%BF%8E%E5%9B%9E%E5%88%B04399&showCaptcha=false&level=0&regLevel=0&bizId= HTTP/1.1
+Host: ptlogin.4399.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.4399.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

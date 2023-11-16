@@ -1,0 +1,18 @@
+POST /xhr1?pvid=42dc7f3e-c90b-4e58-8c96-e8bacf070775&ref=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dsangfor_databases%3Aindex&referrer=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dinfo%3Aindex&key=2MsHntswCUw&v=1.8.3&av=1.8.3&did=85c8767c-12a9-4478-9bd7-c543ed39b64e&sid=7a60dee7-b663-43f3-80f5-413741dc521d&__r=1688379638425 HTTP/1.1
+Host: beacon.tingyun.com
+Content-Length: 405
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"xhr":[{"id":16,"req":"POST sf.php?mod=search","start":1688379632007,"du":0,"cb":0,"status":0,"err":905,"rec":0,"send":68,"type":"XHR"},{"id":17,"req":"POST sf.php?mod=search","start":1688379637115,"du":303,"cb":0,"status":200,"err":0,"rec":497,"send":95,"type":"XHR"},{"id":18,"req":"POST sf.php?mod=search","start":1688379637422,"du":150,"cb":0,"status":200,"err":0,"rec":100,"send":107,"type":"XHR"}]}

@@ -1,0 +1,18 @@
+POST /collect?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=3796abc6-099b-4e8f-9c76-9cffe6c882f7&platform=100&x5Type=3&netType=100&sessionId=session-1688379314969&from=https%3A%2F%2Frc.qzone.qq.com%2Fmyhome%2Ffriends%2Fcenter%3FloginFromAppcenter%3D1688379313943&referer=https://game.qzone.qq.com/ HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 300
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://rc.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://rc.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+msg[0]=req%20url%3A%20https%3A%2F%2Fh5.qzone.qq.com%2Fiframe%2Freport%20%0Ares%20time%3A%2044%20%0Areq%20param%3A%20%7B%5Curl%5C%3A%5Chttp%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv6%2Fprofile%2Fprofile.html%3Fqz_width%3D760%5C%7D%20%0Ares%20data%3A%20%7B%22ret%22%3A0%2C%22msg%22%3A%22%22%7D&level[0]=1&&count=1

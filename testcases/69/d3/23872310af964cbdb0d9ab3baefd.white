@@ -1,0 +1,19 @@
+POST /data/call.json?_action=one-console-app-workbench-scene%3ARecordSceneAccess HTTP/1.1
+Host: home.console.aliyun.com
+Content-Length: 981
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/home/dashboard/ProductAndService
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=one-console-app-workbench-scene&action=RecordSceneAccess&params=%7B%22channel%22%3A%22%22%2C%22sceneName%22%3A%22ProductAndService%22%7D&collina=140%23wgXxaXfmzzWuoQo2%2Bi%2BbKtN8s77%2BPKdJLlGYOK2C46D%2BOY87kTaX7pqptHk6K20Y25xulp1zzqeKYUIMpFzxd2PDaph%2Fzzrb22U3l61nEIPPIC%2FBKbW0L2c2ItgqzHOb228%2B4FXYUHmijDapVrMDXEPBqH1uTpfHo6TUSmrGWqiDv9OkYx4KLaVp19RT7Q3EjmrEQ2FP9GP1fB9R2rxEmay9vFoMW%2BQUf8JLghu1H39XTX4INfS2MpfQu9qaAFzMnpd3yuS2jL6rXqlK9oSvFgMG3%2BWUf3LTP3rqHCp6WG9Hsm%2Brdeel3oTubBAdGdO0N3Jzq5nTLmIJulTxqhtfZTn1%2Bj%2BliP8x%2BWnv673kWJcDcrg8hPMVKBKM%2FfPXdlXnC8XnR7OaDpkgcs0IXsuzPY663JEuqcTbQWKetmsZ1n3%2FmQ0QYpd0T6TvTF7bMrNaWEU3H2u90CDVKXw0tFtcgXC2PEjtTt%2BS5n0ksrtekI1bmmyMVx65FqaFNYyEiEWCJ5%2B5butp6QfUv4J%2BZJVXBKT6jrY27670lt%2Fn6RWkpDJKtuyxGBb7rj%2BRTZGdU%2FJaIKhHRg2%2Bc%2B86qJ1gL%2BhphXZbGFFA1z%2FAXaaIVEy4oIRcKWNxXLSgtCsiU4glmEq7euSSQi%2Fhn4cd1ccDOs5Z1L9oCyeefOi2qm51yiZeBSwiDslRVzxqi1u%3D&umid=Ya2e9ad212a7420c01f8a345505a4557a&sec_token=d5mraaH0uvLd9OQlTDzyz7

@@ -1,0 +1,21 @@
+POST /data/api.json?action=DescribeEcsScenarioFacade HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 1401
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json, text/plain, */*
+Arms-Traceid: 33ecb4d5cfea8f669ede9f38f465883d
+Arms-Userdata: traceId=33ecb4d5cfea8f669ede9f38f465883d&domain=ecs-core&page=server%2Flist&session=NDF_wr62u1eZWaBIKSsBd&biz=server_list_20220621&__biz_id=server_list_20220621&bizId=server_list_20220621&actionId=e0262239eb25cdffdff96d9da90cc773&actionType=%40%40container%28%23upgradeActivity-instance%29%5Bv2Odzm0D3_wpfOw6f-tNF%5D%2FDescribeEcsScenarioFacade
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=DescribeEcsScenarioFacade&collina=140%23RgTob6w3zzPQLzo2HZGQZ6S7DKXOQzW8JBmyvpOSNe48lXle1FadGEnVqoBZO5AUNw5BM1BTU56HajmXZNQjc9j7iEo4f7pYI3pzdfEqlbzxhfh7ARaBzzczhO0il3MzzPzbVXl%2Flb8T21Yro1r2jjDP2Awelym9zqXdVOgBUFrzKID%2BV3h%2FMJOi2uTxnI4gOSvZrI7Zbs5TRZBMKHFb7Yx4g%2BXEwE%2BkOWxeyHYeyHUJqpLE4QmbsmiXGCAMTCJOQaVdTWdE6iYkFVT0ca5gXHE5MmcxIarlaRdAcvAwxt8INlV3xY0glYt4W1I9sYXmfpZnOBB8LpPlBtnvkAr%2FtmYLCRHTIBt05EcskmyTuizswJrCVrGEGFLNDKzeQ2FP9GP1fB9Rk4LRBiFXNMB8P9pMX9o2BEQCrAMFPrkMi%2FEQ5AqCAN99C4CaE00%2BfsOPU3ADrzNhMKyAF%2B8vZ8pQ09%2BviY6pDqduk1qgUPtlBqrd7hUcgU9Zg3pLVR2b3AFzb81de4hilPLkgYhroBtwTXflyiYdpHY6eBHwYKx1HhCRNBzbvS9rKBtwUsNqD79gk0Nv8bpdHdz8jJt585YTln5q1ACWNM3dw7wMnZR3f%2Byo9X7rROsZS82oUc0s2BYzGeqBo4vFKNrRi%2BfUaBIKXr4LT1wNNIM6RE0n0rwKGjkGqoGgcnoExEhBf1zHpMaUh8uo9dmrYldeNdhwXyICAhApUqyLSRhKt4qng9tXSfmnitulpBEV06kTxj8hivHKdSuImdQMI4SRzaYw6u07CrNj3M5qsP6KCxIoIb%2FK%2BYA7LlXOJOyMPSIaSuD5RYTseuK%2FSRdwN0VNNVHenYGMydRkmu6bO%2Fbyd8ziFdw%2F%2FtGV19Lwn5bMUCNF1MhtjBe2yv7RkpGVYtlCX4ws2o0U3bKcQkvabZqmCu7%2Bt41VIbgltvuuLlf1VTgkLOpHob%3D%3D&params=%7B%22RegionId%22%3A%22cn-hangzhou%22%2C%22ScenarioList.1.Scenario%22%3A%22ecs_instance_recommend_list%22%2C%22ExtParam%22%3A%22%7B%5C%22ecsConsole%5C%22%3A%5C%22new%5C%22%2C%5C%22aliyunLang%5C%22%3A%5C%22zh%5C%22%7D%22%7D&product=Ecs&region=cn-hangzhou&secToken=d5mraaH0uvLd9OQlTDzyz7&token=Y5d9e0a380443c7194dc0c2c552bf5de2&version=2016-03-14

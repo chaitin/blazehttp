@@ -1,0 +1,18 @@
+POST /service/um.json?_bx-v=2.2.3 HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 780
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://login.taobao.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.taobao.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!f0RMWxlSfQ6f5tzqWPmNTF8G9UNu4SrRoMF7J%2F%2FxAT00az5SAT%2BUAy00CxxVJQUcaSYJ9QUpNtrX8dBvslTVku6q8nOErIwLffxu1C4lr2ioB3AxfQ7%2BwB%2Fs1wN0zR2AAS0EY4g5PlN23%2BMGQ%2FupPffXYVs6eUQffSou2DyLe%2FXfXCqltUmPfaP23Pjlwwb3PIS6WSYn58PYdIGxWP4pzMfFdPsY5bnkfVCfPqOfff%2Bkog%2BKZwKMqnpBelbC75ZcYHEkhWx4Wp9eZ0ZBcwfPl2pflOg%2BOqPvdcA5IvYrMDxhwysOzOkcC7b%2Fe5nGKkEF7ZuZTf3i7KJoCfCPJ6iR%2B6PelpqTZBE66Kq9U%2BUiMtOK8QD8XCsOQ8jDn3vuIhomJIF5qUzsmK5BaAAys5OpjSiwc17bO%2BfkYP1fCNzegoSctTybHKtz4QmHbTHUi4FYlPSB1KyPfFnE6zE%2B6jJc953GiaTTN86bYcxLvm1mFOr8%2FRW%2F3grgEYqab3QJ0uoKLqLlAB0dXJ7uVZhcx9ZYnYvauQHoe%2BhsULnbvxJlTYYNeLBedMqIE5IPaGuDyLVeUE135m%2FiXwgCe2OwstE%2BVeWvu9uLI2joJ4S80ZJWHA%2B3Mw6DdQtUsCZ%2FeCrMUvJlsN9UEucw5ih4zU2CJI%2F5axYlfzezeNWx60jplxnvK4a9YStoGujg&xa=CF_APP_TBLogin_PC&xt=&efy=1

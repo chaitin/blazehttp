@@ -1,0 +1,14 @@
+GET /nocaptcha/initialize.jsonp?a=FFFF0N0000000000AF9A&t=FFFF0N0000000000AF9A%3Anc_login%3A1688376345326%3A0.3140787877479083&scene=nc_login&lang=cn&v=v1.3.21&href=https%3A%2F%2Flogin.cnki.net%2Flogin%2F&comm={}&callback=initializeJsonp_023066953563580395 HTTP/1.1
+Host: cf.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://login.cnki.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

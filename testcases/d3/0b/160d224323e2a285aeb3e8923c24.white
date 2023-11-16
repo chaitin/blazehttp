@@ -1,0 +1,18 @@
+POST /cm/api/fees/pc HTTP/1.1
+Host: cm.bilibili.com
+Content-Length: 1634
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"uploads":[{"src_id":4696,"ad_server":"bilibili","is_ad":1,"area":1,"ad_cb":"CAAQABiA4Imvsv7W5AogACgAMB042CRCIDE2ODgzNzUxMjM0MzFxMTcyYTI1YTIxNGE1MXEyMDI2SOe7/9eRMVIG5p2t5beeWgbmtZnmsZ9iBuS4reWbvWgCcAB4gICAgMAhgAEAiAGTuwKSAQ4xODMuMTU5LjEyNS45MJoBAKABALIBILdODUbqCYz6MxDppNVMEKWRxE9YHTRWBhjP45ekfzADugE8aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL2JsYWNrYm9hcmQvYWN0aXZpdHktTnRocUxKc2JqRy5odG1swgEA0gEA2AGMAuABAOgBAPABAIACAogCALgCAMACANACANgCAOoCAPAC2dwa+AIAiAMBkgMAqAMAsAMAuAMAwgMAyAMX0gOYAXsiMTYiOiI1NTk2MjBfMCIsIjE3IjoiNDY5NCIsIjEiOiI3NzcyNTM1MTA1Njg4OTg1NjAiLCIyIjoiMjkiLCIzIjoiMjkiLCI0IjoiNjMiLCI1IjoiMTA3IiwiNiI6IjE1NDRfMCIsIjEyIjoiNDY5NiIsIjEzIjoiNTU5NjIwIiwiMTQiOiI0NzYiLCIxNSI6IjQ4NiJ94AMA6AMC8AMA+gMFb3RoZXKCBAludWxsOm51bGyYBACgBACqBAQIABAEsAQA4gSjATU2LnsicHNJZCI6MTEzNDAsInYyIjoiQVNxSWVKVDZYRFJnT0pEaXVSRklSU0RDMFBZckFJRXhCanZWMTBkdmR0Ri01VjY0UnlzcFF1ZEt0X0tJck1RTjFkNno0R01sU3I0b0hfR2pkNEFUM3E5SnQ5SVFES1Jjc3dqZGlUbWpPSzczdHcifTs2My57InBzSWQiOjEwNTYyLCJ2MiI6IlFBIn2QBYAEkAWBBJAFggOQBYQBkAWFApAFhgGQBYYDkAWIAZAFiQGQBYoDkAUPkAWSA5AFlAOQBZUDkAWaApAFogOQBaQDkAWlA5AFJpAFpwOQBagDkAWrBJAFrAGQBa8EkAWwA5AFsASQBbEBkAWxA5AFsQSQBTKQBbIEkAUzkAWzApAFtAGQBbQEkAU1kAW3ApAFuASQBbsCkAXAApAFwgKQBUOQBcMCkAVIkAXIAZAFzAKQBc0DkAXOApAF0AGQBdEBkAXTApAF0wOQBdYCkAXXApAF1wOQBdgBkAXYApAF2gKQBdwCkAXfApAFYpAF5QOQBeUEkAXoAZAF6AOQBeoCkAXqA5AF6wOQBe8CkAXwApAF8QGQBXKQBfIDkAX1ApAF9QOQBfcDkAX4A5AF/AKQBf0CkAX+ApAF/wKQBf8DoAUAyAUE","event":"strict_show","is_visible":1,"idx":2,"mid":"503647489","client_version":"","ts":1688375131688,"resource_id":4694,"load_ts":1688375127302,"server_type":1,"id":0,"event_from":"","request_id":"1688375123431q172a25a214a51q2026"}]}

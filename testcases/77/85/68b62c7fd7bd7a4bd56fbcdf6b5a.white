@@ -1,0 +1,18 @@
+POST /event HTTP/1.1
+Host: collect.tealiumiq.com
+Content-Length: 227
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.blackbaud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.blackbaud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"tealium_account":"blackbaud","tealium_profile":"main","tealium_event":"grant_full_consent","consent_categories":"analytics, display_ads","policy":"gdpr", "tealium_visitor_id" : "01891b809f80001eea9514376a760506f001a06700bd0"}

@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.snssdk.com
+Content-Length: 2709
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"item_display","params":"{\"_staging_flag\":0,\"event_page\":1,\"req_id\":\"20230703173225DFDA146791990ED8A69E\",\"rank\":4,\"item_id\":\"7245584147456278589\",\"item_type\":2,\"item_author_id\":\"2330620350708823\",\"recommend_time\":1687027259,\"current_time\":1688376749,\"item_age\":16,\"category_id\":\"2\",\"tag_id\":\"1\",\"sort\":1,\"event_index\":1688377303501}","local_time_ms":1688376749495,"is_bav":1,"ab_sdk_version":"90083871","session_id":"c1421564-6ced-4432-80f4-3cd46fc0fd45"},{"event":"item_display","params":"{\"_staging_flag\":0,\"event_page\":1,\"req_id\":\"20230703173225DFDA146791990ED8A69E\",\"rank\":3,\"item_id\":\"7209648356530896953\",\"item_type\":2,\"item_author_id\":\"325111170756279\",\"recommend_time\":1678663856,\"current_time\":1688376749,\"item_age\":113,\"category_id\":\"2\",\"tag_id\":\"1\",\"sort\":1,\"event_index\":1688377303500}","local_time_ms":1688376749495,"is_bav":1,"ab_sdk_version":"90083871","session_id":"c1421564-6ced-4432-80f4-3cd46fc0fd45"},{"event":"item_display","params":"{\"_staging_flag\":0,\"event_page\":1,\"req_id\":\"20230703173225DFDA146791990ED8A69E\",\"rank\":1,\"item_id\":\"7246304095375097915\",\"item_type\":2,\"item_author_id\":\"4037829890684061\",\"recommend_time\":1687226519,\"current_time\":1688376749,\"item_age\":14,\"category_id\":\"2\",\"tag_id\":\"1\",\"sort\":1,\"event_index\":1688377303498}","local_time_ms":1688376749494,"is_bav":1,"ab_sdk_version":"90083871","session_id":"c1421564-6ced-4432-80f4-3cd46fc0fd45"},{"event":"item_display","params":"{\"_staging_flag\":0,\"event_page\":1,\"req_id\":\"20230703173225DFDA146791990ED8A69E\",\"rank\":2,\"item_id\":\"7244810003576193085\",\"item_type\":2,\"item_author_id\":\"4371313963828055\",\"recommend_time\":1686910409,\"current_time\":1688376749,\"item_age\":17,\"category_id\":\"2\",\"tag_id\":\"1\",\"sort\":1,\"event_index\":1688377303497}","local_time_ms":1688376749494,"is_bav":1,"ab_sdk_version":"90083871","session_id":"c1421564-6ced-4432-80f4-3cd46fc0fd45"}],"user":{"user_unique_id":"6922073775576761864","user_is_login":false,"web_id":"6922073775576761864"},"header":{"app_id":2608,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","ab_sdk_version":"90083871","language":"zh-CN","creative_id":null,"ad_id":null,"campaign_id":null,"platform":"Web","sdk_version":"4.2.9","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://juejin.cn/post/7126456742409568269","referrer_host":"juejin.cn","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"custom":"{\"profile_id\":\"6922073775576761864\"}"},"local_time":1688376749}]

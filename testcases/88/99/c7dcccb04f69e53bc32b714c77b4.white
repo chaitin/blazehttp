@@ -1,0 +1,19 @@
+POST /0 HTTP/1.1
+Host: r.stripe.com
+Content-Length: 2744
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.stripe.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.stripe.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+event_name=elements.init_timings&client_id=stripe-js&created=1688380969234&event_count=19&os=Windows&browserFamily=Chrome&version=e788aede38&browserClassification=modern&event_id=05c8bd6f-a198-4e12-a084-be0de118a6cb&deploy_status=main&key=pk_live_51HG2NqEkNJHWF29kIRFXLA6zm5kEpZoj5gK3mR69yC8n6CCQX6TnACGPXS6XqQTU1a207KG9EseoU7XfJqCLiL6D00HoiGrdyj&key_mode=live&referrer=https%3A%2F%2Freviewgpt.lemonsqueezy.com&stripe_js_id=187e1b79-6252-485c-befc-469c66e02ebd&controller_load_time=1688380969034&wrapper=unknown&es_module=true&es_module_version=1.47.0&deploy_status_time_to_fetch_ms=197&deploy_status_fetch_failed=false&frame_width=1903&element=outer&match_frame=true&until_first_create=74305&until_first_load=75772&stripe_create_duration=1458&stripe_js_init_duration=14&stripe_js_load_duration=2491&resource_timings-stripe.js-raw_size=516440&resource_timings-stripe.js-transfer_size=516740&resource_timings-stripe.js-duration=1019&resource_timings-m-outer.html-raw_size=200&resource_timings-m-outer.html-transfer_size=500&resource_timings-m-outer.html-duration=180&resource_timings-controller.html-raw_size=325&resource_timings-controller.html-transfer_size=625&resource_timings-controller.html-duration=679&resource_timings-elements-inner-loader-ui.html-raw_size=474&resource_timings-elements-inner-loader-ui.html-transfer_size=774&resource_timings-elements-inner-loader-ui.html-duration=676&resource_timings-payment-request-inner-google-pay.html-raw_size=408&resource_timings-payment-request-inner-google-pay.html-transfer_size=708&resource_timings-payment-request-inner-google-pay.html-duration=670&resource_timings-elements-inner-payment.html-raw_size=559&resource_timings-elements-inner-payment.html-transfer_size=859&resource_timings-elements-inner-payment.html-duration=670&controller-resource_timings-shared.js-raw_size=519188&controller-resource_timings-shared.js-transfer_size=0&controller-resource_timings-shared.js-duration=408&controller-resource_timings-controller.js-raw_size=494910&controller-resource_timings-controller.js-transfer_size=495210&controller-resource_timings-controller.js-duration=720&controller-resource_timings-controller.js-tcp_handshake_duration=0&controller-resource_timings-controller.js-dns_lookup_duration=0&controller-resource_timings-controller.js-request_duration=706&controller-resource_timings-controller.js-response_duration=2&controller-resource_timings-controller.js-tls_negotiation_duration=12&controller-resource_timings-controller.js-fetch_duration=720&controller-resource_timings-controller.js-compressed=true&controller-resource_timings-controller.js-cached_locally=false&controller-resource_timings-controller.js-next_hop_protocol=h2&controller-resource_timings-controller.js-is_http3=false

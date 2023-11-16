@@ -1,0 +1,22 @@
+POST /international/search/api/notify/getSearchPageHornContent?v=0.3776447691396041 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 82
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-ahwa8Wm6e0TRpqj8UiABwDgwBsEany7ojBMwolYbkEASis0RpgJq7j8by7PwmhE1dYs5vBqvfcYzPiOnEUlvPoYSay9NJ7bwZqyncJXpwhEpgRHpwgYPlKonvdOWsXRzUw3mjTMj3Ni8Uy4kj5DRp1RnliS3EsQwmlJT7IqheoNj3Yphr4jN0WSzKAHjnTj51EaBysEs4iH5YgE9BY4nyHEZ8YsSyapvBZWb1eHLxgkKDNjOByMZImFwpPjkawoLehPEdQIF8wb8iNtR4E9dYU3ydAiBaY3HWoQeUDYmNjoElpYgQydpWQgeDXyacjLEZbYfUyD7ifZYk7jU1KoUEGcI6he98KQnx5sKnse0FKdGvGZKHE31iTDy81y0Fj9mENayG7EDFjtMj4EXNi5zJh4YnDW4XYfHi7TePdWA8ykHeP1W5XEQEPaY8QwXsw7aEtAJhLeBtYgEOoiMaJaHIgMYkUydHYNcwU5YTpvgEP3YQgwfUEZny4PvtZWANjBEBzi8QJ6mR9EHFYQDwO4wBSKktecSWo4yzEakil9JL3W9ESUYFAwPfegNYBHvZdELhYzkjUETpifkJFHW7hYsfKAHvsY39xA7rBQRmtR37wObj9cjUBi10yn0jtHWBtRoLRMfjq0EtUYaSIBcEM5j9hItovsZv3PWAQrBtw6yBYd5xBaJH5iLoEm6wknvf1RbTy5NW1hih4y7keNhJ1hYszEtXvq7e4tEHcvlUygfvgSekSjQowXPjMpWnUe47iXkYdnvlaw7mWL3vo0vXOEZmJ6pE9nEM9W68Edoj4DIZYovzMw5zjHpYLnwf4Yqaw7fEzgjpmY79wMMKNcRFhehYcXyDFWQOjH1YDhEZ7YGAxHzRBYdojMprBUJoQvSGeNhYzOik6YhSWXavM1jpYUvSHWnkvkZeqQEZhj0OW9gr1tIa4wUYm9EN5vgkE8TrPXK03e31EgGWtNWbQJ3kYlY1MvXUjHMYNFRLqvXSY7PWbkeqfRZ0WTPjMlWDHKAXwA9i4YPUwt8jn4RhkRF6vksY04WHAelSRphWQ7ibfYtpvh5Wgd
+Transactionid: 77200db4db554b9d95f60cd1e1c0123d
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"departureCityCode":"HGH","departureDate":"2023-07-04","arrivalCityCode":"WUH"}]

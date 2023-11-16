@@ -1,0 +1,20 @@
+POST /checkout/email?cart=b6e74579-fc91-4ffd-9897-dcf82f955333 HTTP/1.1
+Host: reviewgpt.lemonsqueezy.com
+Content-Length: 26
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Xsrf-Token: eyJpdiI6Imgxa1d5ZHQ4eHhYdHpzVU9HMzk3YVE9PSIsInZhbHVlIjoiOE1kU3VVVDVRbTlYVDZMVEc5QVl1TG5rQ2FEMjltVlBlL2R0eTRmSXM4Ti9ueUs5RGFJN0hiem50TlhRN3pYVVFkdlVpaDZYcWZucGhpem9DWmsvS2VzL2cwN0p2L0lSMnh6WTFsUmFpdXM0OHlCK2FlNHRUMm13SnpEWVp2NkQiLCJtYWMiOiI0YzNhMjA5OTE0YmQ2YzYzMmNjNjlmMGI2MzY4N2ZmYjZjZjdiZGRhMmE3YTUyMjY5OTYyYmYxMDJhODc4ZWEzIiwidGFnIjoiIn0=
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://reviewgpt.lemonsqueezy.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reviewgpt.lemonsqueezy.com/checkout?cart=b6e74579-fc91-4ffd-9897-dcf82f955333
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"email":"luke@gmail.com"}

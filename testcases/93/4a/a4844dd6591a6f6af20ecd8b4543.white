@@ -1,0 +1,22 @@
+POST /speed?id=5JeqGKMr5aEJNlbkXa&uin=&version=1.35.26&aid=9f77cd42-08ce-4d1b-9d16-42d90e1f7792&env=production&platform=3&netType=4&vp=0%20*%200&sr=1920%20*%201080&sessionId=session-1688375789231&from=https%3A%2F%2Fwebpage.qidian.qq.com%2F2%2Fchat%2Fpc%2Findex.html&referer=https%3A%2F%2Fjs.design%2F HTTP/1.1
+Host: rumt-zh.com
+Content-Length: 3378
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarywqADVOzj8AJTJCv2
+Accept: */*
+Origin: https://webpage.qidian.qq.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://webpage.qidian.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundarywqADVOzj8AJTJCv2
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[],"static":[{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/pc/css/chat-aea2ee219.css","method":"get","duration":73.8,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://bqq.gtimg.com/qidian-monitor/qidianMonitor.umd.min.js","method":"get","duration":61.7,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/recorder-core.js","method":"get","duration":71.4,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/beta-amr.js","method":"get","duration":69.6,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/trtc_4.14.4.js","method":"get","duration":72.2,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/emoji.js","method":"get","duration":71.8,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/i18n.js","method":"get","duration":70.7,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/pc/js/chat-59d38752f.js","method":"get","duration":70.8,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/socket.io.js","method":"get","duration":103.8,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/js/lib/jquery-1.12.4-fixed.min.js","method":"get","duration":102,"status":200,"type":"static","isHttps":true,"urlQuery":"","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/media/dida.mp3","method":"get","duration":75.5,"status":200,"type":"static","isHttps":true,"urlQuery":"_t=220428","domainLookup":0,"connectTime":0},{"url":"https://webpage.qidian.qq.com/qidian/chatClient/release/comp/media/ring.mp3","method":"get","duration":92.4,"status":200,"type":"static","isHttps":true,"urlQuery":"_t=220428","domainLookup":0,"connectTime":0},{"url":"https://fereport.qidian.qq.com/report/webim","method":"get","duration":200.5,"status":200,"type":"static","isHttps":true,"urlQuery":"type=1&subType=1&requestConsumTime=298&addon=%7B%22domLoad%22%3A288%7D&visitorid=137688375665035&kfuin=3009123750&tid=1000001&count=1&1688375790244","domainLookup":0,"connectTime":0}]},"id":"5JeqGKMr5aEJNlbkXa","uin":"","version":"1.35.26","aid":"9f77cd42-08ce-4d1b-9d16-42d90e1f7792","env":"production","platform":3,"netType":4,"vp":"0 * 0","sr":"1920 * 1080","sessionId":"session-1688375789231","from":"https%3A%2F%2Fwebpage.qidian.qq.com%2F2%2Fchat%2Fpc%2Findex.html","referer":"https%3A%2F%2Fjs.design%2F"}
+------WebKitFormBoundarywqADVOzj8AJTJCv2--

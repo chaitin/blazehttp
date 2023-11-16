@@ -1,0 +1,19 @@
+POST /dwcookie?biztype=common&eventid=pageMonitor&productid=PC&spmAPos=a528 HTTP/1.1
+Host: collect.alipay.com
+Content-Length: 921
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.antgroup.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.antgroup.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+data=DW-COOKIE%2C9cf5607c-b12c-418e-93c4-be870602f8d4_1688376855748%2C%2CpageMonitor%2Ca528.%2F%2C%2Chttps%3A%2F%2Fwww.antgroup.com%2F%2C%2Ccityid%3Dundefined%5EframePageTitle%3D%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%AE%98%E7%BD%91%5EcombineType%3Dmix%5EmBizScenario%3D%5EmPageState%3D%5Erole_id%3D%5EfullURL%3Dhttps%3A%2F%2Fwww.antgroup.com%2F%5Eref%3D%5EclientID%3D752b5e07-a2ab-493a-9998-f92bd2472e47_1688376855748%5EpageSpm%3Da528.%252F%5E_autoLog%3Dtrue%5EsdkVersion%3D4.5.4%5E__tracert_sequence_id%3Dbedcd90d-3b47-4fd8-ad8f-58b59b68ad14%5E__tracert_sequence%3D1%5E__tracert_event_sequence%3D1%2C%2C%2Ca528.%2F_29eb3a77-f4b7-420a-84f6-708f542fbf65_1688376855748%2CMozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%252C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36%2CPC%2C%2F%7Cchrome%2F114.0.0.0%7Cna%2F-1%2C%2C%2Ccommon%2C%2C1920%2C921%2C1%2C%2C&time=1688376855834

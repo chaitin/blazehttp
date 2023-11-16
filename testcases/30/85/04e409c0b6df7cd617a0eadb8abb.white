@@ -1,0 +1,15 @@
+GET /i/adsct?bci=3&eci=2&event_id=1c5eca23-ba0b-4d27-a515-59d4b3b5bb6d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=17c42126-290a-47d4-ba29-5a2990d173f1&tw_document_href=https%3A%2F%2Fwww.blackbaud.com%2Fproducts%2Fblackbaud-yourcause-csrconnect&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=nw9in&type=javascript&version=2.3.29 HTTP/1.1
+Host: analytics.twitter.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.blackbaud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

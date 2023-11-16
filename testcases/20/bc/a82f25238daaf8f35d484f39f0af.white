@@ -1,0 +1,18 @@
+POST /rec/bundle/v2?OrgId=B9193&UserId=4b2b7c84-aa5f-44aa-b927-6f55e6eb3095&SessionId=e8bba38b-760e-41cc-af00-249c1b5fba76&PageId=7363af52-9970-43e3-ae47-504fea0736a2&Seq=5&PageStart=1688380334368&PrevBundleTime=1688380352141&LastActivity=30854&IsNewSession=true HTTP/1.1
+Host: rs.fullstory.com
+Content-Length: 1310
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://builder.io
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://builder.io/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"Seq":5,"When":24245,"Evts":[{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle/v2?OrgId=B9193&UserId=4b2b7c84-aa5f-44aa-b927-6f55e6eb3095&SessionId=e8bba38b-760e-41cc-af00-249c1b5fba76&PageId=7363af52-9970-43e3-ae47-504fea0736a2&Seq=4&PageStart=1688380334368&PrevBundleTime=1688380347126&LastActivity=20856&IsNewSession=true",225,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1688380355243,1663,29,null,null,1,1],"When":24245},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle/v2?OrgId=B9193&UserId=4b2b7c84-aa5f-44aa-b927-6f55e6eb3095&SessionId=e8bba38b-760e-41cc-af00-249c1b5fba76&PageId=7363af52-9970-43e3-ae47-504fea0736a2&Seq=4&PageStart=1688380334368&PrevBundleTime=1688380347126&LastActivity=20856&IsNewSession=true",27086.399999976158,224.10000002384186,"xmlhttprequest",0,0,27086.399999976158,0,0,0,0,0,0,0,27310.5,0,0,0],"When":25486},{"Kind":54,"Args":[30854],"When":33247},{"Kind":99,"Args":["https://builder.io/signup","https://builder.io/signup",1920,921,1920,1080,"1.3.0","https://www.builder.io/","<!DOCTYPE html>",3837,"",1688380334368,"zh-CN,en-US,en,zh","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","33f1f2b422a096",true],"When":33247}]}

@@ -1,0 +1,18 @@
+POST /primus-v8/?sessionId=8d40be1e-afd4-422c-89d5-5542c0045bd7&_primuscb=OaR0YCk&EIO=4&transport=polling&t=OaR0YU3&b64=1&sid=46_8Hd8GfYHNCEF2AI5i HTTP/1.1
+Host: msgstore.www.notion.so
+Content-Length: 530
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+4{"type":"/api/v1/registerOnDisconnect","requestId":"e886d535-1085-4349-8384-747ca6e0d2e0","disconnectId":"presenceActions/presence/fc15ee8d-2bbf-410b-8215-55ebb62e0f23","operations":[{"operation":"updateField","key":"presence/fc15ee8d-2bbf-410b-8215-55ebb62e0f23","field":"44c83b11-0dec-4a79-a165-c5997ba51eca","updates":{"present":false},"ttl":3600000},{"operation":"logPageExit","userId":"44c83b11-0dec-4a79-a165-c5997ba51eca","blockId":"fc15ee8d-2bbf-410b-8215-55ebb62e0f23","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"}]}

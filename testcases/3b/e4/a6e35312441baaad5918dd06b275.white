@@ -1,0 +1,15 @@
+GET /api/v2/check?referer=https%3A%2F%2Fdl.reg.163.com%2Fwebzj%2Fv1.0.1%2Fpub%2Findex_dl2_new.html&zoneId=CN31&id=7ef4da58447919badeea0a8b20ac7e54&token=41165eb07ecc43049466fef31fed323d&acToken=9ca17ae2e6ffcda170e2e6ee8aeb7492998394c552b7ac8aa2c54e969f8a83d864f3bfafb6ef4eb8b796d8cf2af0feaec3b92ab0ebfe82fc4eb19eaea6c95b828b8fa3d44e898aa589e55c8b9fa1d6f939a38eee9e&data=%7B%22d%22%3A%22PQutClyjbpR%5C%5CXVao0fMynoX1yQiPotL5CxRTvP%5C%5CdRyEyWZoSl0u2Ew%2FgcOLBPbjAueGwl2PC0u8%5C%5CucCiKgq9BaY5tZiMslaxI1E5jq0lpv%5C%5Cq7XDAFMZ%2BDvP0HJHeqMzOdO2ZR9zOqEd%2F%2FSgjK9p5WGpkSabjtQKjkilods5kGIda7FWfDbCNY1%2BV1rblw5S0QjFoCnGSJgXuahwHOJJIPNUVmRpkKQkYlz9NdPhbaw%5C%5C1QbFCHUC8nPJYM7%2BHHI%2B2tbMVZ%2BZXaQZbAdpVN%2Bht8X2XPk%5C%5C%2FVGEIDnnULOmbQg%5C%5C1orT%5C%5CAKHgjHDpVErGng%2BAEgm%2FZ%2BYCvXvRtSSU88Td%5C%5CZ4240XAwih7Ol5t91wXUkBjySJ8Sclg%2FFCfNUJmrXgfZc%2BlYzXapLGs9tal%5C%5CIAowxMJJ0tbabEVsDS5eE2Vp%5C%5CnjCwQBf8TKpxc1yX%5C%5CWDVFDI4%2F%2FXk0FPcsQkI%2B7cQCV%2FA0lsPInwY8GpX%5C%5CqHM%2FunN4Xu8EIlN61DuMK0HLQiyBnAK9NeKOpo5x81FophGFTp%2BX11rrnqFqUwQO7yQBgof0rV9SvAnnZ2ow6aB6jww58VHGdTQnly5aPGXXpwVelxoah1%5C%5C8bo2gvu0sw4VZNue0KAI4LXz%5C%5CkQIiVCfaAKof0OXmo9lDbH%2FTjE%2F2pf0Yq2lI1n8OZofM6Z67rWqXLDbhsJE%2B9F1tqBlKq294ZFdgjsvWf0ymynPipelHGp%2BCC811staWXcpNDa6nT6L2fAJvos%2BwBlp%2Bz6em8w98wpLJvsoCbv%5C%5Czfr5%2FOqflpQkt9j2Zn6ujEwzzOd%5C%5CTeNZmWzf0AcKOHOWJriFUViyyLHk8mqjlixoVP6rZCiIwckisgVDhfmu5WrNsrBUVNx5skOn4rpd0PNtdw4IxPSwXn58XowDQK9MSUMLCreGVnAHI19yIZ6khmmzptoCdwn2z106idxyJ5vsHMT6PDGqcikLhJgcsnBB8s2%5C%5Ci3%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22MxWNzOdqd4XDIHIIyOtw05T40rr3%22%2C%22ext%22%3A%22vrlq9RSv8FSVoDJ82HDHyfDp0AXXhhhq%22%7D&width=300&type=2&version=2.15.2&cb=UVDoBi1g1qBrX8gj6wI1C8xbxZcimReLFBsPjR6AsAhhSWED1Q05rX%5ClQpJr5Pbo&extraData=222%40163.com&runEnv=10&callback=__JSONP_klr1p1g_1 HTTP/1.1
+Host: webzjcaptcha.reg.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://dl.reg.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,18 @@
+POST /cgi-bin/musics.fcg?_=1688383844798&sign=zzbfc31742feoef1iany9fmarhw1v088adeacc099 HTTP/1.1
+Host: u.y.qq.com
+Content-Length: 708
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"comm":{"cv":4747474,"ct":24,"format":"json","inCharset":"utf-8","outCharset":"utf-8","notice":0,"platform":"yqq.json","needNewCode":1,"uin":"1152921504763685208","g_tk_new_20200303":317648113,"g_tk":317648113},"req_1":{"module":"music.musicsearch.HotkeyService","method":"GetHotkeyForQQMusicMobile","param":{"searchid":"21016486230350257","remoteplace":"txt.yqq.top","from":"yqqweb"}},"req_2":{"module":"MessageCenter.MessageCenterServer","method":"GetMessage","param":{"uin":"1152921504763685208","red_dot":[{"msg_type":1}]}},"req_3":{"module":"GlobalComment.GlobalCommentMessageReadServer","method":"GetMessage","param":{"uin":"1152921504763685208","page_num":0,"page_size":1,"last_msg_id":"","type":0}}}

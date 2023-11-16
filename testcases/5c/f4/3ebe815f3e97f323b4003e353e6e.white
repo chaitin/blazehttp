@@ -1,0 +1,19 @@
+POST /locate/v2/sdk/loc?ci=mars-webloc&uuid=1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8&userid= HTTP/1.1
+Host: apimobile.meituan.com
+Content-Length: 1494
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json, application/json
+Accept: */*
+Origin: https://i.meituan.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"model":"h5","reqid":1,"lastloc":{"accu":-1,"age":"","lat":30.248208,"lon":120.025765,"altitude":-1,"coordtype":0},"version":"2.1.0","address_language":"","appname":"mars-webloc","request_address":true,"auth_key":"mQMvWzZ31G1woVJ9Wx17SBkOyhDoIZA3","osver":"","nettype":"Mobile","deviceid":null,"refer":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","loc_status":200,"loc_track":{"process":{"url":{"scheme":"url","status":500,"duration":0,"error":"No matched params."},"cache":{"scheme":"cache","status":200,"duration":0},"all":{"scheme":"all","status":200,"duration":0},"city":{"scheme":"city","status":200,"duration":186,"error":null}},"result":{"geo":{"latitude":30.248208,"longitude":120.025765,"geotype":"wgs84","accuracy":-1,"source":"cache"},"city":{"name":"杭州","type":"meituan","id":50,"city":"杭州","pinyin":"hangzhou","adcode":"330110","areaId":17529,"areaName":"西溪印象城","province":"浙江省","district":"余杭区","address":"期望铭座","country":"中国"},"detail":[7000]}},"loc_duration":187,"webloc_config":{"version":"0.7.9","project":"group","debug":false,"timeout":20000,"htmlTimeout":10000,"enableHighAccuracy":true,"maximumAge":0,"geotype":"wgs84","city":true,"cityType":"meituan","disable":[],"enable":[],"urlMatchGroup":["lat","lng","geotype"],"uuid":"1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8","env":"prod","key":"com.sankuai.mtnode.imeituan","container_type":"other"}}

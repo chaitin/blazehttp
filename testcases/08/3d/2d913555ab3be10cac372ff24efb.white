@@ -1,0 +1,19 @@
+POST /log/ocpcagl?type=validation&emd=euc HTTP/1.1
+Host: fclog.baidu.com
+Content-Length: 1151
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://pingcode.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://pingcode.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+N4IgLgziBcCMBsAORBmRAmArPFtaIBpwAvGQkAGwHsBzASwBMYQBDAYzYCNYB2TgUwC0nTGyEAWeAAZYwxAE4AZoP49+8NlM7jxbeDxBEADgCcqDAK5swdKgDtmAfUU8AMugAaAdwDiHgFYAnhDE2gyw-OhUAB4ACoGcNAAihiBiJmDMqRD8EBC2dozM6CxIPFI8yvCYivCC4opYwpycyorisA3yLAwcPJipFkXQIOhoUopSDHU8s2z1LjyCLJiYsis9iA2KKIoYqVRGNkwjqSb8ivwm5ybMABZgYEYQ0AD0r0Z0djRs5vwAdL8ALYfMyWaygqj+fjWAD8FjAQMcECoFhMYgAvJwWIwLLAAGQIpFA-gMOgWIEYozzT7fX4MfiExGONgsIFGHE0OwYgCkAFF5DyAIKwHkAIUFfJ4PPkYuFfP50qFCpFiplUh5iHgTKRvzsYH4+t5AuFoolatl8rVytNFo1WsE-Mw4qVzr5zsQzrFPB1jgNJkpEBYLAg1pVoql6s18H5iHFSWFADF+eJxXKxdr+I4gSwwGwHoEjPwMeh8Vm2Odc3QAG7FzA8eQIeRoBRSMuOHpGKj5Gz2DFsCilrMcmiGikYglZgDW-ECXioJjJDAx8DGPGQKFWWu1nAYjmrjAn6Hg4lmuC16GQCFwp-kqWorN7DmgoFMVDAVF+FHuj2eIyIdzdmAdhsvwzC0j8fyAlQQKpF2GRZMYuZ3CBJLMK8+RchYRjZPwLDonciEgHcIaEacAC+RBgIWYEjAIigLvwFh2NQPSpCwMAANqgH6LA0MwXhfAwVBeCA5EALrGN2dBPjAoDRDAUhEIEimUSA-DRJkL4gPuxT-FI-woKkjh0BAigwIoLAUDkRDREK3z8BQdAsK4tDDCAUhblIuDNmMq7yFI8jiJgUipJwA7ubAx6njw56rleOCdA2YUMGZ6IHicxEoI4ADyABS-AAMKroVsAQEKdwACqKIVtiOAAqnQPDoGK-BSGA0TEHllUABLwCwVCYEKQoAI5sEYACySSJowHiOGKABqrh8j4UixAAkhNiA0FIADSFgTVI9VAgAyrQu0XTQOW9ethWJo46AWNEOX+P4NCIPVYALQVxUrWtYB7DtigDEQyLMIorI0N+RCma17D2DAsDkeRQA

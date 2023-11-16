@@ -1,0 +1,20 @@
+POST /logstores/prod/track HTTP/1.1
+Host: console-base.log-global.aliyuncs.com
+Content-Length: 2830
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Log-Bodyrawsize: 2782
+X-Log-Apiversion: 0.6.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"__topic__":"@alicloud/logger-sls/merged","__logs__":[{"__topic__":"message_broadcast_by_app","GROUP":"LOG","TIME":"1688382990785","OS":"Windows","OS_VERSION":"10","BROWSER":"Chrome","BROWSER_VERSION":"114.0.0.0","LOCATION_HOST":"ecs.console.aliyun.com","LOCATION_PATHNAME":"/home","RESOLUTION_SCREEN":"1920x1080","RESOLUTION_BROWSER":"1920x921","SPM_A":"5176","SPM_B":"2020520101","IN_IFRAME":"false","REFERRER":"https://ecs.console.aliyun.com/?spm=5176.12818093.top-nav.3.2c9616d0N2zpa0","channel":"OFFICIAL","locale":"zh-CN","uid":"1845102322007694","uidMain":"1845102322007694","product":"ecs","versionOfLoader":"NONE","versionOfConsoleBase":"NONE","name":"console_base:side_panel__item_set","value":"{\"key\":\"HelpDoc/SidePanelTrigger\",\"title\":\"帮助文档\",\"tooltip\":\"快速查看ECS产品帮助文档，查看更多操作指南。\",\"icon\":\"\\n<svg t=\\\"1682594285904\\\" class=\\\"icon\\\" viewBox=\\\"0 0 1024 1024\\\" version=\\\"1.1\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" p-id=\\\"5738\\\" width=\\\"200\\\" height=\\\"200\\\">\\n  <path d=\\\"M512 1024A512 512 0 1 1 512 0a512 512 0 0 1 0 1024z m3.008-92.992a416 416 0 1 0 0-832 416 416 0 0 0 0 832zM457.792 684.8h130.56v128.128h-130.56V684.8zM320 397.44c0.576-29.952 5.696-57.408 15.36-82.368 9.728-24.96 23.296-46.592 40...length=1451","beforeReady":"true","TOPIC":"message_broadcast_by_app"},{"__topic__":"message_subscribe_by_app","GROUP":"LOG","TIME":"1688382990798","OS":"Windows","OS_VERSION":"10","BROWSER":"Chrome","BROWSER_VERSION":"114.0.0.0","LOCATION_HOST":"ecs.console.aliyun.com","LOCATION_PATHNAME":"/home","RESOLUTION_SCREEN":"1920x1080","RESOLUTION_BROWSER":"1920x921","SPM_A":"5176","SPM_B":"2020520101","IN_IFRAME":"false","REFERRER":"https://ecs.console.aliyun.com/?spm=5176.12818093.top-nav.3.2c9616d0N2zpa0","channel":"OFFICIAL","locale":"zh-CN","uid":"1845102322007694","uidMain":"1845102322007694","product":"ecs","versionOfLoader":"NONE","versionOfConsoleBase":"NONE","name":"console_base:side_panel__item_click","value":"function(t){e(t)}","TOPIC":"message_subscribe_by_app"},{"__topic__":"message_subscribe_by_app","GROUP":"LOG","TIME":"1688382990799","OS":"Windows","OS_VERSION":"10","BROWSER":"Chrome","BROWSER_VERSION":"114.0.0.0","LOCATION_HOST":"ecs.console.aliyun.com","LOCATION_PATHNAME":"/home","RESOLUTION_SCREEN":"1920x1080","RESOLUTION_BROWSER":"1920x921","SPM_A":"5176","SPM_B":"2020520101","IN_IFRAME":"false","REFERRER":"https://ecs.console.aliyun.com/?spm=5176.12818093.top-nav.3.2c9616d0N2zpa0","channel":"OFFICIAL","locale":"zh-CN","uid":"1845102322007694","uidMain":"1845102322007694","product":"ecs","versionOfLoader":"NONE","versionOfConsoleBase":"NONE","name":"console_base:side_panel__item_active_change","value":"function(t){e.apply(void 0,Object(te.a)(t))}","TOPIC":"message_subscribe_by_app"}]}

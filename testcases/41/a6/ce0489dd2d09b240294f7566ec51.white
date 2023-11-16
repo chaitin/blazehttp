@@ -1,0 +1,15 @@
+GET /o/assets%2FYJIGb4i01jvw0SRdL5Bt%2Faf07a8efdaea488a950d9adedd8bd97d?alt=media&apiKey=YJIGb4i01jvw0SRdL5Bt&token=1dbd62b3-fea9-4952-9de4-8216dc59a4d4 HTTP/1.1
+Host: cdn.builder.io
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://builder.io
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://cdn.builder.io/static/css/main.52bceaea.chunk.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

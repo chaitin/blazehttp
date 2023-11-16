@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 3290
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E5%9C%A8%E7%BA%BFps&form=QBLH&sp=-1&lq=0&pq=%E5%9C%A8%E7%BA%BFps&sc=10-4&qs=n&sk=&cvid=335C756C2C564987B8E22400D9368CFC&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>0206C473340C4CF9A932CE8F8D5F7ED0</IG><TS>1688376014820</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":4,"N":3,"I":"4m2","S":"V+MT+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":361634,"K":"7px4+IMG.cico siteicon rms_img+15s+7r1b+1e0+2v2+7r1d+8li+8oi+8pa+8pc+8sz+clickbacklog+8t7+7px3+7q02+7py1+7px5+7px8+7q22+7q24+7px6+7q43+7q6v+7qb1+7qdq+7qhy+7qko+7qox+7qrn+7px7+7qzk","F":1},"V":"7pws/////////visible/+@37//////////pagehide","L":"@34/1t/@35/@8/5c/zp/g/g/d/T/-1+@34/1u/@35/@8/b1/zp/g/g/d/T/-1+@34/1v/IMG#emb1D24293/@8/gf/uo/5h/35/c/T/2+@34/1w/@35/@8/gr/zp/g/g/d/T/-1+@34/1x/IMG#emb100B9B7AC/@8/50/10r/5h/35/c/T/2+@34/1y/@35/@8/5c/@36/g/g/d/T/-1+@34/1z/@35/@8/b1/@36/g/g/d/T/-1+@34/20/@35/@8/gr/@36/g/g/d/T/-1+@34/21/DIV.scs_child_rpr pagereco_anim/SERP.5478,5005.1/50/t8/gw/0/5/MT/-1+@3z/22/BODY.b_respl b_sbText/SERP,5035.1/0/0/@3/@39/0/K/-1+@37/8//////i8//R/+@37/9////18e////R/+@37/a////1bo////R/+@37/b////1j9////R/+@37/c////1mj////R/+@37/d////1pt//4d//R/+@37/e////1ua//49//R/+@37/f////1yn//49//R/+@37/g////230//49//R/+@37/h////27d//aj//R/+@37/i////@l//8k//R/+@37/j////2qk////R/+@37/k////2rp////R/+@37/o////@38////R/+@37/p////@38////R/+@37/q////@38////R/+@37/r////@38////R/+@37/s////@38////R/+@37/t////@39////R/+@37/16////18z////R/+@37/17////1c9////R/+@37/18////1ju////R/+@37/19////1n4////R/+@37/1a////1qe////R/+@37/1b////1uv////R/+@37/1c////1z8////R/+@37/1d////23l////R/+@37/1e////27u////R/+@37/1f////2cw////R/+@37/1g////2dm////R/+@37/1n////@39////R/+@37/1q////27o//4w//R/+@37/1r////2cq//5c//R/+@37/21//////ei//R/","M":"x7+pg+-1+7r1d+4u+1l+0+7+we+43m+1","E":"@3a/2/X/1o/+@3a/6/X/1o/+@3a/7/X/1o/+@3a/8/X/1o/+@3a/9/X/1o/+@3a/a/X/1o/+@3a/b/X/1o/+@3a/c/X/1o/+@3a/d/X/1o/+@3a/e/X/1o/+@3a/f/X/1o/+@3a/g/X/1o/+@3a/h/X/1o/+@3a/i/X/1o/+@3a/j/X/1o/+@3a/k/X/1o/+@3a/l/X/2s/+@3a/m/X/4y/+@3a/n/X/4y/","N":"@3b/4b//@o/ls%2FGLinkPingPost.aspx/@2p/30/@n/@3b/@3b/@3b/8lj/@3c/@3c+@3d/4c//@o/@2s/@2p/2w/@n/@3d/@3d/@3d/@3e/8s6/8s7+@3e/4d//@o/relatedPageRecommendations/@q/3n/@n/@3e/@3e/@3e/8pd/@3f/@3f+@3e/4e//@o/@3g/@p/46/@n/@3e/@3e/@3e/8pg/8tg/8ti+@3e/4f//@o/@3g/@p/3l/@n/@3e/@3e/@3e/8ph/8sx/8sy+@3h/4g//@o/@3g/@p/39/@n/@3h/@3h/@3h/8te/8w7/8wh+@3i/4h//@o/@3g/@p/2z/@n/@3i/@3i/@3i/@3m/@3j/@3j+@3l/4i/1v/@t/th/@p/3x/@n/@3y/7pxu/@3k/@3k/7q11/7q12+@3l/4j/1x/@t/th/@p/41/@n/@3l/@3l/@3l/@3k/7q15/7q17+@3l/4k//@o/clickbackanimstarted/@p/4y/@n/@3l/@3l/@3l/@3m/@3n/@3o+@3l/4l//@o/clickbackadded/@p/4x/@n/@3l/@3l/@3l/@3m/@3n/@3n+@3l/4m//@o/@3g/@p/4x/@n/@3l/@3l/@3l/@3m/@3n/7q23+@3l/4n//@o/tabfocuschanged/@p/4z/@n/@3l/@3l/@3l/@3m/@3n/@3o+@3p/4o//@o/returntop15/@p/4y/@n/@3p/@3p/@3p/7pxa/@3n/@3o+@3m/4p//@o/display/@p/4x/@n/@3m/@3m/@3m/7pxb/@3o/7q25+@3q/4q//@o/@3g/@p/2s/@n/@3q/@3q/@3q/7q44/@3r/@3r+@3s/4r//@o/@3g/@p/2p/@n/@3s/@3s/@3s/7qb2/@3t/@3t+@3u/4s//@o/@3g/@p/2q/@n/@3u/@3u/@3u/7qhz/@3v/@3v+@3w/4t//@o/@3g/@p/2q/@n/@3w/@3w/@3w/@3w/@3x/@3x","C":"@3y/m/@2k///x9/52//7pwz+7qfh/////10c/4z//7qff+7qge/////13r/52//7qga+7qgv/////15d/5c//7qgr+7qhb/////16r/5n//7qh6+7qi9/////18n/66//7qi3+7qq6/////17a/5j//7qpx+7qsn/////15q/3u//7qsm+7qte/////14b/24//7qtd+7qvd//mousedown///143/1u/1/7qvc+7qxu//mouseup/////0/7qxt+//click//////+7r1a//@2k///14k///7r15","K":"@3z/22/keydown/1ekk/7qzj"}]]]></D></E></Events><STS>1688376014820</STS></ClientInstRequest>

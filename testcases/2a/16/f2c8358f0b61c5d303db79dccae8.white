@@ -1,0 +1,22 @@
+POST /international/search/api/lowprice/calendar/getCalendarDetailList?v=0.4534408863371415 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 138
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-p0ArlMYq7vHnJ45ehkYn0RtDwnsW5pyaBRmzYAhiP3vBkjdBvdPjo3wphRa3in7ykqEqawDZvtOwnDjmAwQBjQhjtHjlLJ1biDLjoZiUSypqiskKTBIAYf1e9LWGSEnMRgZwosjnhjgqikgyP6joSRkbRbnizqETMR9tj5gxXvn3roYZ0Kt0JzzxbhK5Sek8jQFE5ZySEZBinqYTElgYzty0Eg3Y4NyDUvFaWg4eLXxNZKZ8jszy34ItNwdojklw9le4OEslIGNwkDiSGRNEmaYdkyHcikbYFaW9leBnYHmjbED1Y1Ny3zWqge9oyhBjpEkpYlMynUimaYDNjhOKaOEdPIMkeabKsLxcAK9meNUKgSvqbKpETpiMTyZQyspj3NE4syghEOSjzGj6EmzifoJHQYd4WNOYb4ifqesZWXSyQqespWfNEbEf6YNMws4wG0E31JhbeBAY0EkLi9cJ41IfbYDaybgYTFwSXYB8vFEXdYtkwmnElUy4SvB4WAgjkEBtifSJmlR9EDOYMswOnwXUKZXehqWN7y5Ekqi6dJpoW0E3PYmkw4teq0Yn5v6DE80YkgjoE7AifNJ0QWhaiQGr9DYAYBQiMoEmsK9MRLmwpmjcfjX5iqHyogjSZWMdRckRqBjO5Em4YszIPSEGUjNbI58vHzvPMWttx1Dw1ORDYtkj0vXAxbcRsqi4cEltjFBRLNyLBwhzj83eAdj35RnlEOMycneZ6E3QvNnJDci4geFQE58EMfjLHYFde1pwtAyZ1JLkj8syzPy3gjoTJcHv63ya5Eg5RlUYhgE7gEPYDJt6jSBizQY0DwtnYBHwQtEfhjDdYftwQ7K80Wo4xdYtSWb4iqGvm0YTGE5aiAgvqoJfY0myfqwQfx0lvoheDMY7Ui8UYFaJ0bKGoRUYX6Rcw98Y30e5XEAfjtqWhSvfE1bKpYQmjpPrPdEa1r1OKadeAsEgPWdj4kIn8KAYcqrG1J70yTqRUNv9lYlpWkXemHRGfWH3j85WkTvOSWXbyzYbGWf6YkoIt5R67vGUYqZWbHestRlMWSgic0YzMws8YtZ
+Transactionid: 77200db4db554b9d95f60cd1e1c0123d
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"cabin":"Y_S_C_F","flightWay":"S","flightSegmentList":[{"arrivalCityCode":"WUH","departureCityCode":"HGH","departureDate":"2023-07-04"}]}

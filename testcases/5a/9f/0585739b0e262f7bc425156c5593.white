@@ -1,0 +1,15 @@
+GET /openapi?cb=jQuery1102017583143077879781_1688377967080&query=%E6%9C%BA%E7%A5%A8%E9%A2%84%E8%AE%A2&pageNo=0&pageSize=100&srcId=150266&tn=baidu&relation=src&src=online&baiduid=D036BBD98CD2638F76C82F9B35B06C21%3AFG%3D1&format=jsonp&dtime=1688378092&urlMultiArg=%7B%22ctrip%22%3A%7B%22link%22%3A%22%2Fitinerary%2Foneway%2Fhgh-bjs%3Fdate%3D2023-07-04%26allianceid%3D863417%26sid%3D3328345%26ouid%3D%22%7D%7D&_=1688377967107 HTTP/1.1
+Host: carp.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%A3%9E%E6%9C%BA%E7%A5%A8&fenlei=256&oq=%25E7%25BE%258E%25E5%259B%25A2&rsv_pq=b2f2f87300015d78&rsv_t=4699oNnkMuiSCCXLZdjfzUoycby%2B0%2BZ0yEB%2BdToTRUrw23NQVR2nLxAEn3c&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=1984&rsv_sug3=18&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2023
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

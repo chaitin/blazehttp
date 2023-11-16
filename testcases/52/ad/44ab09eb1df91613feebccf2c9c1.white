@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2981
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E9%A3%9E%E4%B9%A6%E6%96%87%E6%A1%A3&qs=n&form=QBRE&sp=-1&lq=0&pq=%E9%A3%9E%E4%B9%A6%E6%96%87%E6%A1%A3&sc=10-4&sk=&cvid=74DE6607048D4003BE235415E17C8BDE&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>9C42009CFC884B20B295D1BE71CC6B97</IG><TS>1688376006974</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":3,"N":3,"I":"4lz","S":"V+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":153802,"K":"visible+3ao8+2bu+3ao9+a8g+aau+beacon+ab6+adp+ls%2Flsp.aspx+ab7+afx+ab8+abe+clickbacklog+afw+afy+aid+36vh+371u+36ut+36uu+371t+36uv+37tg+display+37wm+38ee+38h9+37cq+37k2+37ue+37ut+37v9+mousedown+mouseup+3ajq+click+3aku","F":1},"V":"36us/////////@4j/+37rz//m///////hidden/scroll+37sg//1e////////+37sx//2h////////+@57//3y////////+37tv//5x////////+@5e//88////////+@5f//ag////////+@5g//ch////////+37vq//e5////////+37w5//fc////////+@59//g3////////+37y2//go////////+@4k//0///////@4j/pagehide","L":"@5l/1p/BODY.b_respl b_sbText/SERP,5035.1/0/0/@4/@4l/0/K/-1+@4k/i//////7u//R/+@4k/j////28h////R/+@4k/m////@4l////R/+@4k/1f////@4l////R/","M":"12c+1mk+-1+3ao9+4a+1f+0+a+1dx+6ix+1","E":"@4m/2/X/1o/+@4m/6/X/1o/+@4m/7/X/1o/+@4m/8/X/1o/+@4m/9/X/1o/+@4m/a/X/1o/+@4m/b/X/1o/+@4m/c/X/1o/+@4m/d/X/1o/+@4m/e/X/1o/+@4m/f/X/1o/+@4m/g/X/1o/+@4m/h/X/1o/+@4m/i/X/1o/+@4m/j/X/1o/+@4m/k/X/2s/+@4m/l/X/4y/","N":"a8f/3w//@r/pointerdown//o/@o/-1/-1/-1/-1/-1/-1+@4n/3x//@r/ls%2FGLinkPingPost.aspx/@4p/2e/@o/@4n/@4n/@4n/a8i/@4o/@4o+@4q/3y//@r/@4s/@4p/2j/@o/@4q/@4q/@4q/aba/@4r/@4r+@4t/3z//@r/@4s/@t/4q/@o/@4t/@4t/@4t/abd/@4u/@4u+@4v/40//@r/relatedPageRecommendations/@t/4p/@o/@4v/@4v/@4v/@4w/@4y/@4u+@4v/41//@r/@4x/@q/4p/@o/@4v/@4v/@4v/@4w/@4u/@4z+@4v/42//@r/@4x/@q/4p/@o/@4v/@4v/@4v/abf/@4y/@4u+@4z/43//@r/@4x/@q/2f/@o/@4z/@4z/@4z/afz/@50/@50+@53/44//@r/@4x/@q/71/@o/36uz/36vf/@51/@51/@52/@52+@53/45//@r/tabfocuschanged/@q/70/@o/@53/@53/@53/@51/@55/@52+@54/46//@r/returntop15/@q/6z/@o/@54/@54/@54/@51/@55/@55+@56/47//@r/@58/@q/6z/@o/@56/@56/@56/@51/@55/@52+@57/48//@r/@58/@q/35/@o/@57/@57/@57/37tm/37wl/@59+@5a/49//@r/@19/@q/2v/@o/@5a/@5a/@5a/38ef/@5b/@5b","C":"36v3//@4b///14v/10//36uy+37ba/////14j/2i//37au+37bs/////147/4i//37bk+@5c/////142/6a//@5c+37gq//@5h///149/7d/1/37gp+@5d//@5i/////0/@5d+//@5k//////+37q5//@4b///134/89//37q2+37rk/l////@3a/95//37re+37sw/////@2n/bg//37si+37tf/////116/cx//37t7+37tu/////@2i/ew//37to+@5e/////112/h7//37u4+@5f/////110/jf//37uk+@5g/////@2f/lg//37us+37vp/////10x/n3//37vo+@59/////@2d/p1//37wc+381r/////zj/pi//381p+382n/////x7///382l+3833/////v0///3831+383l/////sb///383h+3841/////q4///383x+384i/////o3///384d+384z/7////md///384s+385w/////k6///385o+386u/////h9///386t+3887/////ez/q5//3883+389l/8////d0/qw//389k+38cu/////cc/s5//38co+390i/////dv/sc//390g+399r/////c7/t0//399k+39bl/////ag///39bk+39p2/////bh/s0//39ow+39rd/////cz/rs//39rc+39u7/////ee/rq//39u6+3a13/////ft/ru//3a0v+3aau/////gx/sz//3aat+3abs/9////ic/tl//3abr+3ac8/////kf/u1//3ac4+3aco/////n8/u4//3ack+3ad6/////q0///3ad0+3adm/////t8/tp//3adg+3ae2/////w9/t3//3adx+3aej/////yv/sg//3aec+3afg/////10f/ry//3af8+3agl//@5h///@20/rx/1/3agk+@5j//@5i/////0/@5j+//@5k//////","K":"@5l/1p/keydown/1ekk/3akt"}]]]></D></E></Events><STS>1688376006974</STS></ClientInstRequest>

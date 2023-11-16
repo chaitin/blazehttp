@@ -1,0 +1,19 @@
+GET /v2/feature-flags/proxy?sessionId=13040542&appName=hub-ui&environment=production&properties%5Bversion%5D=v2830.0.0 HTTP/1.1
+Host: hub.docker.com
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Authorization: changeme
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json
+If-None-Match: W/"98b-u8JHHepxtkz8qzl6CM2CxCY/lKw"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://hub.docker.com/u/chaitin
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

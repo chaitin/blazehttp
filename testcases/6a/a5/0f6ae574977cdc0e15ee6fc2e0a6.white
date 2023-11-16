@@ -1,0 +1,17 @@
+GET /common/search/resources.json?__preventCache=1688383037901.71.02642120035576&regionId=cn-hangzhou&regionNo=cn-hangzhou&global=false&product=Ecs&resourceType=Instance&maxItems=10&keyword=1 HTTP/1.1
+Host: ecs.console.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Arms-Traceid: 92dd90f928fdc3815765d1d438e04acc
+Arms-Userdata: traceId=92dd90f928fdc3815765d1d438e04acc&domain=ecs-core&page=server%2Flist&session=NDF_wr62u1eZWaBIKSsBd&biz=server_list_20220621&__biz_id=server_list_20220621&bizId=server_list_20220621&actionId=1402c8e81be147122002e97248c44e90&actionType=%40%40dynamic%28%23instance-search%29%5BtxdtM4MrrttkiCN9yrlp_%5D%2FDESCRIBE_RESOURCES
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

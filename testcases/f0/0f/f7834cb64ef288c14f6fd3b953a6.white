@@ -1,0 +1,19 @@
+POST /data/api.json?action=DescribeNetworkInterfaces HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 1490
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/legacy?hideTopbar=true&hideSidebar=true&hideAppNav=true&hideVersionController=true&master=next
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=DescribeNetworkInterfaces&collina=140%237NODqpxfzzPaSzo2miMbP6Szj92mlpbO%2Bl3sBFWBw9CF%2FX7gVaacl4oz19v8Z44PdYlMK2ytI7hKL4mZPLrPnxQAeIqW7l2jZZdBlp1zzqeK1ufE%2BbrxdDky96hqzFzb22U3lpocxx%2BvRUyFrLtWc%2BMUFItBbC8agyjQlpTrxDrbL8%2Fqlbro1kP%2BVQ2Wz1FxcOXo9SvZrI7ZbVfyuwdi88C9%2BTLRr%2Bo%2F1VeCR%2B%2FWJUrmx9ainsMdzMboKVf%2FoZFpAbtq%2F%2FSdtykjUeBaKOAt7t%2F%2BmGvdVFGugBQ4RnuUMIbfBem6DI4i11%2BgOjv0fydPP%2FrT12JaoMzDkc4Abg1XwR0h9h4CeZYaYK0uptCWeDAPbw1xeokTdNEHZDEhM1Aw4xfk%2FqiDcbYSMoyk%2FsHKG3WWZAH69LPgUKmjozbhHuaADhSjTD9%2FcuPOaQYIW1FCH5uEk4fr81Dn3%2BDrraqfN3ZU5cAwFE4RA66NzHxXn7pLqrImNwT05wSC%2Bj0IPECqSVjWcEH4MpEHO%2FREOAVwNYC3YI1%2BzV89ZFOIf7J%2BO5XVHl%2FF0v2ZC2ZZycGxO4gpE5zcyvwVEg25JYgCC36kiWuhySPbI%2Bvk1EiUfapMmPzXA%2FLMJhHPbTkwxLCI2XbuXinlxpna2aJQMUENZ69FI5nk3KDf%2FNJ6Bqf%2B86tBkJ%2FsEoPXx5Xltiho0%2FRCIIEOoJSYFFXcmjgDcDT2%2FZH5%2FCZLSdDudfe68pF%2Bou1TJaqBDCCA8z7tgFoP0YAMhgZIWtzi6sSOdRfZX3btcUp6mCzrj7VoXyEycLTH3CAX6ocxfozcO%2B%2BRdNQvhL%2FpIHm9DrvVBZpRor9bayMzS%2FDNFmB2DMEB4ePUQrD0Ts%2B8AVTNarkQoZ0qp3GsWVhJippVyg%2FrUNBnwS%2FmRpZ2F9JOqD1o%2FZDIy7RMv8SxoTBK0JkhVCtQGW31RM%2F7paMgWUakvzxCQhaHioqk80DYiZbXTWHy0yL3WcBj2JBzSBF8uVQnKSN7%2FfF3dHoV9We5XQeR14g%2F9taKx6dBXyNT%2F9FZXzkUtwbGvD%2B%2F0maCZ0q8aa8sBqxOgypHLK2wjSYdzDokJbWfanXtS3LyhK5seYBvyS1BiU9xqtV3ikRvusaGij0zziFnJ9XkTrOLz14qsFWNKQcDHZZWDf4BaAXQfjtIYl%2BfQzjSR401rWFz&params=%7B%22RegionId%22%3A%22cn-hangzhou%22%7D&product=ecs&region=cn-hangzhou&secToken=d5mraaH0uvLd9OQlTDzyz7&token=Ybc1d57879a3d426a9515f7ea803ff363

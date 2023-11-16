@@ -1,0 +1,18 @@
+POST /csp_report HTTP/1.1
+Host: security.bilibili.com
+Content-Length: 1226
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/csp-report
+Accept: */*
+Origin: https://search.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: report
+Referer: https://search.bilibili.com/all?keyword=passwd%20%E6%98%AF%E4%BB%80%E4%B9%88&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"csp-report":{"document-uri":"https://search.bilibili.com/all?keyword=passwd%20%E6%98%AF%E4%BB%80%E4%B9%88&from_source=webtop_search&spm_id_from=333.1007&search_source=5","referrer":"https://www.bilibili.com/","violated-directive":"worker-src","effective-directive":"worker-src","original-policy":"default-src 'self' data: *.bilibili.com *.hdslb.com; style-src 'self' 'unsafe-inline' *.hdslb.com static.geetest.com; img-src 'self' data: blob: *.bilibili.com *.hdslb.com http://*.hdslb.com static.geetest.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.bilibili.com *.hdslb.com api.geetest.com static.geetest.com; object-src 'self' *.hdslb.com; media-src 'self' *.acgvideo.com http://*.acgvideo.com *.ksyungslb.com; connect-src 'self' data: wss://*.bilibili.com:* *.bilibili.com *.hdslb.com *.biliapi.net *.biliapi.com; frame-ancestors 'self' *.bilibili.com *.biligame.com; report-uri https://security.bilibili.com/csp_report","disposition":"report","blocked-uri":"blob","line-number":82,"column-number":2917,"source-file":"https://s1.hdslb.com/bfs/static/player/main/widgets/npd.vendors~bangumi-helper~classroom-helper~community-helper~creator-helper~homepage-helper.0da773be.js","status-code":200,"script-sample":""}}

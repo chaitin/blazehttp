@@ -1,0 +1,19 @@
+POST /g/collect?v=2&tid=G-GNQGXB0WGR&gtm=45je36s0&_p=1927915588&cid=378988853.1677070750&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&ngs=1&sid=1688375444&sct=13&seg=1&dl=https%3A%2F%2Flordicon.com%2Ficons%2Fsystem%2Foutline&dr=https%3A%2F%2Flordicon.com%2Ficons&dt=Icons%20-%20Lordicon&_s=3 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 648
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://lordicon.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://lordicon.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+en=scroll
+en=view_item_list&pr1=id17648~nm117-bolt~casystem~c2outline&pr2=id17666~nm126-verified~casystem~c2outline&pr3=id17694~nm140-help-center~casystem~c2outline&pr4=id17730~nm158-support~casystem~c2outline&pr5=id17792~nm189-domain-verification~casystem~c2outline&pr6=id17470~nm28-info~casystem~c2outline&pr7=id17506~nm46-notification-bell~casystem~c2outline&pr8=id17524~nm55-error~casystem~c2outline&pr9=id17526~nm56-warning~casystem~c2outline&pr10=id17528~nm57-help-question~casystem~c2outline&pr11=id17546~nm66-privacy-shield~casystem~c2outline&pr12=id17428~nm7-alarm~casystem~c2outline&pr13=id17580~nm83-exit-room~casystem~c2outline&_et=338

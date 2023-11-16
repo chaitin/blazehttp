@@ -1,0 +1,17 @@
+POST /webevents/visitWebPage?_mchNc=1688383564433&_mchCn=&_mchId=053-MXJ-131&_mchTk=_mch-blackbaud.com-1688383564432-99669&_mchHo=www.blackbaud.com&_mchPo=&_mchRu=%2F&_mchPc=https%3A&_mchVr=163&_mchEcid=&_mchHa=&_mchRe=https%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%3A%2F%2Fwww.blackbaud.com%2F&_mchQp= HTTP/1.1
+Host: 053-mxj-131.mktoresp.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.blackbaud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.blackbaud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

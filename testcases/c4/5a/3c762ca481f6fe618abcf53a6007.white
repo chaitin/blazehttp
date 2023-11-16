@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.zijieapi.com
+Content-Length: 2111
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://docs.feishu.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://docs.feishu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"passport_login_view","params":"{\"_staging_flag\":0,\"passport_appid\":\"18\",\"tracking_code\":\"7010o0000024cQ8AAI\",\"template_id\":\"6882649779491307521\",\"utm_from\":\"360sem_keyword_pc_office_pinpai_pinpai_feishu\",\"flow_type\":\"none\",\"env\":\"web\",\"pa_id\":\"\",\"general_from\":\"\",\"event_index\":1688376245589}","local_time_ms":1688376000844,"is_bav":0,"session_id":"ee4a7624-aa58-48bd-8259-bf1a9b543f22"},{"event":"passport_v2","params":"{\"_staging_flag\":0,\"api_type\":\"/accounts/config\",\"env\":\"web\",\"time_consuming\":54,\"pa_id\":\"\",\"template_id\":\"6882649779491307521\",\"general_from\":\"\",\"event_index\":1688376245588}","local_time_ms":1688376000834,"is_bav":0,"session_id":"ee4a7624-aa58-48bd-8259-bf1a9b543f22"},{"event":"passport","params":"{\"_staging_flag\":0,\"type\":\"/accounts/config\",\"env\":\"web\",\"time\":54,\"pa_id\":\"\",\"template_id\":\"6882649779491307521\",\"general_from\":\"\",\"event_index\":1688376245587}","local_time_ms":1688376000834,"is_bav":0,"session_id":"ee4a7624-aa58-48bd-8259-bf1a9b543f22"},{"event":"passport_team_create_page_view","params":"{\"_staging_flag\":0,\"passport_appid\":\"18\",\"tracking_code\":\"7010o0000024cQ8AAI\",\"template_id\":\"6882649779491307521\",\"utm_from\":\"360sem_keyword_pc_office_pinpai_pinpai_feishu\",\"flow_type\":\"register\",\"env\":\"web\",\"pa_id\":\"\",\"general_from\":\"\",\"event_index\":1688376245586}","local_time_ms":1688376000773,"is_bav":0,"session_id":"ee4a7624-aa58-48bd-8259-bf1a9b543f22"}],"user":{"user_unique_id":"8611841688375803725","web_id":"7251519617537459724"},"header":{"app_id":1658,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","language":"zh-CN","platform":"web","sdk_version":"5.0.27","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://docs.feishu.cn/docs","referrer_host":"docs.feishu.cn","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"tracer_data":"{\"$utm_from_url\":1}","custom":"{}"},"local_time":1688376000}]

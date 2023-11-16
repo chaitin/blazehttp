@@ -1,0 +1,15 @@
+GET /pagead/sodar?id=sodar2&v=225&t=2&li=gda_r20230627&jk=2931499738684867&bg=!trWlteHNAAb90kgr3dI7ADkAdvg8Wg0W-COlrWu1PsV4XWRef4w55Nul3IYzgNOB0_8yGBVTTA3jHpa-f6_LQxkePGiEibigUxECAAAAR1IAAAADaAEHmQLvTNPL6TOgxMpRKibkr93LeYUXDfmXWtJbJ0TOTbdbXig4Ss-X034PvCvGSxUzNSGOiwohkoa40jQAvKdop0JShWoXoBaSJERtaZdveQ83JyGRcSC0M5XXCLKUU65d5sSVtRb5OAK_xxJEC_UhU_U5S6TpSkVZmveiF64tO6mBMfs4wTInfz4hSnbmgXsuvXkQUuqI7LFwaJq1aXnUAiBqwnkCvtpOJAmRGSaDRBPInvhTAKKZHh4cHyzTfwU8E6_BN5GG7jefmRexN_MgUXWVcyYuSHD-SHRRTozTbtZgtLCwaPqdWdzYqrYfXUVZlvPGutGolqMVVIdHCO38hSEyIcEwXEGg5HlTwYi9IMpx5ycmKRTRS9EMp5Fbk-v-968Opd5A8cZ2v9UUcMVhjB-M_DNgl1LPGoEo3GwJ_ajJvCfzeSURYfDRHRU2h2hEoKNVI3vHKZqMpndSO8uM4BUQGW8ZI-PPdeVTelxI_RVz_-LMdo9oVeWUN36ZBXw7FyKXSfmJlvfVwHpd-WxNWokJIucBJwN1H8Uofd2CsJlelK2dlHl6HLL4MhDTchNpsjrLjTlkXklASf9ZBPUFZVLKiejguwZWN9D0tUwyn56d_Ifb14wNkoXV9QkztVXbODR45ThgwVyf0ynrhVDCxz99s8fpm3YE_uTjy4zQUZoapkRiZCMvI3AL3Q4mZLhCiOSlITFgsiqvUKDD4nLZGFw-7DMSIK91XPfabgqkG3Eh6FAd9XWHr5grk-bQsGep_hJhF3bwz1TAfOeiqM6OizAK9T7--KtPdEtv9gHa4zVB4Ld6ZBzxrzeQEpEqF5YHxNKsoFW4J8qhsw7GWGV91qdX8kV0W3AZO4wafKHBHJYFJOn0bF-YgVvD25yRlsEaOoc736Aln6F1KC8RGlfrOT1N3RPjjnn4Vub5wFEA_8NWSo5M0SuqifsPnwgGhtM8j4lB98stBdiRIiL06FDSa_Uo_0tyNYrd9Gc18BpyyXqsQw HTTP/1.1
+Host: pagead2.googlesyndication.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQj6mM0BCIWgzQEIpL3NAQ==
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://segmentfault.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

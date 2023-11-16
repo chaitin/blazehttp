@@ -1,0 +1,18 @@
+POST /monitoring/metrics/event3/bulk HTTP/1.1
+Host: metrics.api.drift.com
+Content-Length: 988
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.driftt.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.driftt.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+metric_payload=%7B%22id%22%3A%228ddf847e-37ad-493d-9f4a-793c7cbd1011%22%2C%22events%22%3A%5B%7B%22eventName%22%3A%22%5BV2%5D%20-%20enduser_bootstrap%22%2C%22orgId%22%3A5067909%2C%22embedId%22%3A%22dyinuggv5ige%22%2C%22sessionId%22%3A%22dd8e4557-a71d-4baf-a775-cf309731bf13%22%2C%22instanceId%22%3A%22b5a9e701-fa3a-48a5-9852-19c3ae7e3c32%22%2C%22attributes%22%3A%7B%22duration%22%3A379.10000002384186%2C%22isMobile%22%3Afalse%7D%7D%2C%7B%22eventName%22%3A%22%5BV2%5D%20-%20loaded%22%2C%22orgId%22%3A5067909%2C%22embedId%22%3A%22dyinuggv5ige%22%2C%22sessionId%22%3A%22dd8e4557-a71d-4baf-a775-cf309731bf13%22%2C%22instanceId%22%3A%22b5a9e701-fa3a-48a5-9852-19c3ae7e3c32%22%2C%22attributes%22%3A%7B%22duration%22%3A4731.099999904633%2C%22isMobile%22%3Afalse%2C%22loadSizeInBytes%22%3A22898%7D%7D%5D%2C%22timestamp%22%3A1688381048267%2C%22context%22%3A%7B%22country%22%3A%22CN%22%2C%22locale%22%3A%22zh-CN%22%2C%22timezone%22%3A%22Asia%2FShanghai%22%2C%22url%22%3A%22cloudflare-cn.com%22%7D%7D

@@ -1,0 +1,14 @@
+GET /portal/shortcut.html?dest=%23%21%2Flogin&appUrl=https%3A%2F%2Ftskb.atrust.sangfor.com%2Fdata%2Fattachment%2Fthread%2F1686210827.png&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnYiOnsiYXBwbGljYXRpb24iOnsicnVudGltZSI6eyJvcyI6eyJmYW1pbHkiOiJXaW5kb3dzIn0sImdhdGV3YXlfaXAiOiIyMDAuMjAwLjEuMTQ4IiwiYnJvd3NlciI6eyJ2ZXJzaW9uIjoiMTE0LjAuMC4wIiwibmFtZSI6IkNocm9tZSJ9LCJjbGllbnRfaXAiOiIxODMuMTU5LjEyNS45MCJ9fX0sImlhdCI6MTY4ODM3OTY1NywidGltZW91dCI6NjAwLCJyZXR1cm5VUkwiOiJodHRwczovL3Rza2IuYXRydXN0LnNhbmdmb3IuY29tL2RhdGEvYXR0YWNobWVudC90aHJlYWQvMTY4NjIxMDgyNy5wbmciLCJwcm9jSGFzaCI6Ik5BIn0.z8MxJLY_1hvvQVQE7E0e3OTxncljjogUauneWN9F7Js HTTP/1.1
+Host: sdpc.sangfor.com:6440
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

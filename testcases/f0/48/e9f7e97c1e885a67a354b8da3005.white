@@ -1,0 +1,18 @@
+POST /v3/analytics/logs HTTP/1.1
+Host: prod2.clientlogger.cn-northwest-1.marketplace.aws.a2z.org.cn
+Content-Length: 2152
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.amazonaws.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.amazonaws.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"context":{"AccountId":"NOT_AVAILABLE","ClientLogNamespace":"prod","HostEnvironment":{"applicationId":"ACTS-Search","region":"cn-northwest-1"},"PageType":"search","SessionId":"e1d758e0-8071-42ae-8c8c-ec469112fece","TenantId":"704aa025"},"logs":[],"metrics":[{"additionalInfo":[{"name":"SearchQuery","value":"%7B%22searchText%22%3A%22To%20export%20data%20from%20the%20Aurora%20table%20to%20the%20S3%20bucket%2C%20use%20the%20SELECT%20INTO%20OUTFILE%20S3%20The%20following%20statement%20exports%20the%20entire%22%2C%22size%22%3A25%2C%22start%22%3A0%2C%22lang%22%3A%22zh_CN%22%7D"},{"name":"SearchText","value":"To%20export%20data%20from%20the%20Aurora%20table%20to%20the%20S3%20bucket%2C%20use%20the%20SELECT%20INTO%20OUTFILE%20S3%20The%20following%20statement%20exports%20the%20entire"}],"dimensions":[],"metricName":"DiscoveryLatency","type":"service","unit":"Milliseconds","value":190.79999995231628},{"additionalInfo":[{"name":"SearchQuery","value":"%7B%22searchText%22%3A%22To%20export%20data%20from%20the%20Aurora%20table%20to%20the%20S3%20bucket%2C%20use%20the%20SELECT%20INTO%20OUTFILE%20S3%20The%20following%20statement%20exports%20the%20entire%22%2C%22size%22%3A25%2C%22start%22%3A0%2C%22lang%22%3A%22zh_CN%22%7D"},{"name":"SearchText","value":"To%20export%20data%20from%20the%20Aurora%20table%20to%20the%20S3%20bucket%2C%20use%20the%20SELECT%20INTO%20OUTFILE%20S3%20The%20following%20statement%20exports%20the%20entire"}],"dimensions":[],"metricName":"DiscoveryClientError","type":"service","unit":"Count","value":0},{"additionalInfo":[{"name":"SearchQuery","value":"%7B%22searchText%22%3A%22To%20export%20data%20from%20the%20Aurora%20table%20to%20the%20S3%20bucket%2C%20use%20the%20SELECT%20INTO%20OUTFILE%20S3%20The%20following%20statement%20exports%20the%20entire%22%2C%22size%22%3A25%2C%22start%22%3A0%2C%22lang%22%3A%22zh_CN%22%7D"},{"name":"SearchText","value":"To%20export%20data%20from%20the%20Aurora%20table%20to%20the%20S3%20bucket%2C%20use%20the%20SELECT%20INTO%20OUTFILE%20S3%20The%20following%20statement%20exports%20the%20entire"}],"dimensions":[],"metricName":"DiscoveryServerError","type":"service","unit":"Count","value":0}]}

@@ -1,0 +1,19 @@
+POST /cgi/v2/transactions/getListV2?t=1688384134834&uin=100003290640&csrfCode=2093508630&lifeId=UpwubVzRp&_pn=%2Fexpense%2Ftransactions&reqSeqId=93f034c9-0e90-51f5-9db1-0249875e3dd3&regionId=9 HTTP/1.1
+Host: buy.cloud.tencent.com
+Content-Length: 633
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+startTime=2023-06-01+00%3A00%3A00&endTime=2023-06-30+23%3A59%3A59&payType%5B%5D=all&subPayType%5Bdeduct%5D%5B%5D=other&subPayType%5Bdeduct%5D%5B%5D=earnest&subPayType%5Bdeduct%5D%5B%5D=panshi&subPayType%5Bdeduct%5D%5B%5D=trade&subPayType%5Bdeduct%5D%5B%5D=hour&subPayType%5Bdeduct%5D%5B%5D=month&subPayType%5Bdeduct%5D%5B%5D=decompensate&subPayType%5Bdeduct%5D%5B%5D=offline&subPayType%5Bdeduct%5D%5B%5D=&subPayType%5Breturn%5D%5B%5D=compensate&subPayType%5Breturn%5D%5B%5D=trade&subPayType%5Breturn%5D%5B%5D=&page=0&pageSize=20&orderField=operationTime&orderType=DESC&currentUin=&currentUinName=&monthSegmentValue=2&withZeroAmount=0

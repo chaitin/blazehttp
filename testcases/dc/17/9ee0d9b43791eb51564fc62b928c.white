@@ -1,0 +1,18 @@
+GET /international/search/api/flightlist//oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0&v=0.267789781813232 HTTP/1.1
+Host: flights.ctrip.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-Lo8ymayAlehFEO4vLmYHbYosv9qJXziLOW04xfDJbtRa0v0oEc9JNawhSR8lEqgJghyqHJbpY1gEthJ8UwktEFHRZOJzAv7fxm0wkAYALWpfKnFetZImY9jH8JaoJTbRLHwsqj4Mj37iTdy1pjkZRQSRL1i76Y08EbXwdMwgoetDELYBMenhWgZe8aK0ZYdFjNzEopyQEU8iqAYFEB5YpByAEZfYkpytnv41WzFe1AxF6KUtjg3yGfIM9wP8jL3wF4egQEntIdswDQi8TR7EFXYM8y69i7HY6QWpbeXqYZGj3EX3YfNy7fWhaetFy6bjmEDFYgDy3SiGZYkHjUNK1mEHaIB8ek0KdzxXaKFneobKT3vSfKgEo4ichyThyo6jSHEtqyHOEtBjSAjQEASip3JqHYnaWdhY7pi4Fe5ZWXZyAtemFWSqEzEdcY0bwTBwkZES1JT8eAzYqEamimnJ7tIGOYzsyZ5YogwG7Yk5vqE68YhQwdpEbUyXcvnXWmajDEfsiX1JlpRHEAXYfpwNHw8tK6peDpWkNylEh0iFPJ97WTEaMYl3wGPebGYDqvz6Et3Y4tjgEoZibXJXMW40Wf4v33KaYPkJP3e9Twh9RQOw7sjmbjfZia9yH4jq5WOZRnLRt0jLBEMnY8sIQ8EBmj4UI9DvlXvl8WMyzUWm0KQYPvLNYN9Y0oRPTEo9J7Dw4mw14J3pi8bJ0oekOwMSvdFvqbYOSeU8EBsvk8jGmE7geGUvTaYfqvpGvD4e93vDcJfhEZ3w65RU9j3zwnbEXHEplJfcvkDvP4I8UvS3YUYbniMorUhKkbYQTwHcYAOwqPENajnNY6HwDdrl6YdtYzY5vl0Js9vQLYDUEp4w03w1fvGY5TeB0iqqxtLvDke8sYT3i3mYtkJ34jHqimYS8v63jM1ya7eX6EDMjz3WZ5RXaENjgYQcYF8v9DYBTr0tKLGe9GEDTWM7yUNJmgIsY1oRHLeB8xUbRX4vtnYO6Wdbe4tRbkWHajm0W9bEsnK43INY43imOILtKUhRlhvZMY1gWXHeTcR7ZW0qiXtYbGIpmWkA
+Transactionid: 14df44056144400a9e6079166ea184fe
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

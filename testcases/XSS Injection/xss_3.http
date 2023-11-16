@@ -1,6 +1,0 @@
-# tag: black,xss
-POST / HTTP/1.1
-Host: 1.2.3.4
-Content-Length: 50
-
-a=<img src=x:alert(alt) onerror=eval(src) alt=xss>

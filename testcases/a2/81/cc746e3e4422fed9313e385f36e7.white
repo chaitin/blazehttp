@@ -1,0 +1,19 @@
+POST /Ajax/AjaxHandler_AHXXGW.ashx HTTP/1.1
+Host: www.dbappsecurity.com.cn
+Content-Length: 540
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.dbappsecurity.com.cn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.dbappsecurity.com.cn/product/cloud1704.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+cmd=sourcefirstvisit&ref=0iFBbqlVS+KJlrefQGMWYj4ip3FweWMJPzyvV6BLJFTah5c0xjYeOvdbxVo+vJ9uCLZUMyWzRgqn+6ldo3gIK8n0XYYDySuBVJggGtrC3BxQokVe/9OgDQvJzkSLkFpmi29SjUAL4RP0/J6lBURLiQcVEys7v0T642FGoqR7pr1GZN00SEH6EPF+feYctwARHS0RSRnSZG91v1hQnsoBrSi8b57jZGkQbPJSaHQcH/B/YVkPt8NtFmj24gFJ/sgvbpsWfGoPvcmhoVmCli1OfqU27g48SYj1&url=0iFBbqlVS+IyCnAAFBeUqbPsID1VaLzbniRVfjsMoyNDQLbaqeCYoUtea8yrkwn+A7SmXpsqGrHUFZACusoXFDafpdqZ2vT4jkwka14NQQehza0ZI4Hj8X8CWCTaeSf1&host=EPnijkgG5/4fvbPjRMDetIiwlwfPkoyeSo5T9B7WVGEUWgLWQNdblpa1R39or70ZETzmSsly3w+PP8GNRTRKUw==

@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1490
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/academic/search?q=icon+anime&FORM=HDRSC4
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>E3D087AB82E94E9DBC778BB234B3B013</IG><TS>1688376727935</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":1,"N":3,"I":"7l3","S":"C+V+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":13552,"K":"agg+63c+65x+97n+9s9+9tn+a4s+a65+adn","F":1},"V":"9p0//1////////scroll+9qd//r////////+9rb//23////////+9rs//3e////////+@1a//52////////+9sp//6u////////+9t6//8p////////+@1b//ak////////+9u3//cc////////+9ul//dx////////+9v0//f6////////+9vh//g0////////+9wf//gn////////+a2v//hc////////+a3t//i7////////+@1c//jc////////+a59//jy////////+@1d//kw////////+agf//0////////pagehide","L":"@1e/t/BODY.b_respl b_sbText/SERP,5081.1/0/0/@2/@1/0/K/-1","M":"k5+29y+-1+agg+1t+16+0+5+15r+1zr+1","E":"@16/2/X/1o/+@16/4/X/1w/+@16/5/X/1w/+@16/6/X/1w/+@16/7/X/1w/+@16/8/X/1w/+@16/9/X/1w/+@16/a/X/1w/+@16/b/X/1w/+@16/c/X/1w/+@16/d/X/1w/+@16/e/X/1w/+@16/f/X/1w/+@16/g/X/1c/","N":"@17/1r//@7/@12/@b/2l/@8/@17/@17/@17/63d/@18/@18+@19/1s//@7/academic%2Fpointerdown//8/@8/-1/-1/-1/-1/-1/-1","C":"8xk/////1gp/lm//8xj+8xr/////1c0/ke//8xq+8y3/////19x/k1//8xy+8yk/////15j/j0//8yf+8z1/////11c/hy//8yu+8zh/////x7/gi//8zb+8zy/////vj/fx//8zr+90f/////rq/eb//907+91d/////pq/cp//918+937/////qm/b3//92y+955/////rr/90//954+97p//mousedown///rv/8u/1/@19+99l//mouseup/////0/99k+//click//////+9f9//@15///te/9k//9ey+@1a/////st/f1//9s2+@1b/////su/ki//9tg+@1c/////sv/t7//a4l+@1d/////sw/uk//a5x","K":"@1e/t/keydown/1ekk/@1e"}]]]></D></E></Events><STS>1688376727935</STS></ClientInstRequest>

@@ -1,0 +1,22 @@
+POST /mp-action/interact/wrapper/pc/like/v1/api/batchGetLikeAndTreadNumAndCheck HTTP/1.1
+Host: bizapi.csdn.net
+Content-Length: 329
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ca-Signature-Headers: x-ca-key,x-ca-nonce
+X-Ca-Signature: c2+zcIxOZZsPT66gT2zW3OcFUNjGTK2m45JgydPkaPU=
+X-Ca-Nonce: 7751feab-ab8a-41a9-9afc-6db438bb6b78
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Accept: application/json, text/plain, */*
+X-Ca-Key: 203930474
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.csdn.net/?spm=1011.2266.3001.4476
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"appId":"1547458038","itemIds":"131472495,131499371,131341636,131499265,131427517,131506983,131448563,131390739,131495380,131506502,131482685,131485780,131502141,131407552,131409611,131501714,131457134,131464867,131404191,","username":"weixin_46708016"},{"appId":"1547458033","itemIds":"7969379,","username":"weixin_46708016"}]

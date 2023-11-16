@@ -1,0 +1,16 @@
+POST /gingame/report/click?sid=s1522664285&pvid=7119704860&qq=&dm=world.qq.com&url=%2F&hottag=newstaytime_3680_%E5%81%9C%E7%95%99%E6%97%B6%E9%95%BF&rand=68391&pttplat=dcv_pc&pttproject=base&pttpagetype=pc&pttsitetype=os&pttosact=pc&pttpagename=%E9%A6%96%E9%A1%B5&pttrefer=adtag_pvp_nav_hokpc&game=world&acctype=0&platid=&openid=&game_openid=&game_appid=&reserved2=&reserved3=newstaytime&partition=&roleid=&pageid=https%3A%2F%2Fworld.qq.com%2F&business=dmpnew&action=timeline&title=&targetid=&targettype=&tag=&from=&dt=1688379806529&staytime=3680&path=&recid=&channelid=&top=&fortest1=&fortest2=&fortest3=&fortest4=&fortest5=&sourceid=index.0.0.0.page&adtag=pvp.nav.hokpc&rtype=btn HTTP/1.1
+Host: dmplog.qq.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://world.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://world.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

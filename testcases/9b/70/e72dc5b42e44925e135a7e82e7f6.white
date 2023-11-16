@@ -1,0 +1,20 @@
+POST /web?env=tcb-prod-c81f76 HTTP/1.1
+Host: tcb-api.tencentcloudapi.com
+Content-Length: 576
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json;charset=UTF-8
+X-Sdk-Version: @cloudbase/js-sdk/1.3.3
+X-Seqid: 612a7b71249f5
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"action":"auth.signInWithTicket","dataVersion":"2020-01-10","env":"tcb-prod-c81f76","ticket":"fb611259-a9ac-41f4-81aa-6e76daaabd3a/@@/eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGciOiJSUzI1NiIsImVudiI6InRjYi1wcm9kLWM4MWY3NiIsImlhdCI6MTY4ODM4Mzc1NzY0NiwiZXhwIjoxNjg4Mzg0MzU3NjQ2LCJ1aWQiOiIxMDAwMDMyOTA2NDAiLCJyZWZyZXNoIjo2MDAwMDAsImV4cGlyZSI6MTY4ODk4ODU1NzY0Nn0.iIPsfZG80qY21m91n35dZaCWEbfnfFfqwMo0lqsA09PkJuwGjuC5BUitqfVdR0sPXezCZkq1bFebjwCxsm7sWhypgC4GcxQlfO84hXPQJBLAMDqsoCBPosQdpcf_INnU2UapCJdqSCK6unLBtTeZ1ptQ_g1QWnsWuB3I6wPLKO0","refresh_token":"","seqId":"612a7b71249f5"}

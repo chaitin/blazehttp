@@ -1,0 +1,15 @@
+GET /ytf/fs?mt=100&yte=e7NWyl4SkrAqb3q0wjMK96mfPn40y2c21aTroq9VEKb6LlGTWk1XfYA0cA86EO47nY2Pqza1GMA1tvOud0e3vVAthkhxd3WlM2VyuqC1IOxGK1iy6riCVz69ZQWogicpoTvJPycuR4mxk6VqLdOAbZQk1Guk2EfF6FqpcLpGmN8ZIphaGYlfPf4S61zZ8ukovKyT44o7njiHBJtO8DW8Yrf&ptc=1&cb=nteeaseadtrack202216 HTTP/1.1
+Host: yp.ws.126.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

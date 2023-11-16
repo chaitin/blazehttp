@@ -1,0 +1,16 @@
+GET /registerui/rest/cbc/cbccustomerregservice/v1/id/sdk-base-info?flow_type=unionPhoneRegister&service=https:%2F%2Fauth.huaweicloud.com%2Fauthui%2FcasLogin%3Fservice%3Dat%25253Dpromotion%252526rt%25253Dall%252526channelFrom%25253DNzk5%252526sdk_url%25253Dhttps%25253A%25252F%25252Factivity.huaweicloud.com%25252Fdiscount_area_v5%25252Findex.html&login_url=https%253A%252F%252Fauth.huaweicloud.com%252Fauthui%252Flogin.html%253Flocale%253Dzh-cn%2526service%253Dhttps%25253A%25252F%25252Factivity.huaweicloud.com%25252Fdiscount_area_v5%25252Findex.html%2523%252FhwIDLogin HTTP/1.1
+Host: reg.huaweicloud.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+X-Reg-Site-Type: CN
+X-Language: zh-cn
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reg.huaweicloud.com/registerui/cn/hwid/register.html?locale=zh-cn&at=promotion&rt=all&channelFrom=Nzk5&service=https%3A%2F%2Factivity.huaweicloud.com%2Fdiscount_area_v5%2Findex.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,15 @@
+GET /log/web?00111116883797588521688379758421|Homepage:Ugc:0|3.27.2-d0bc6222|media_canplay|{%22canplaySpeed%22:1235.96,%22context%22:{%22initial%22:1,%22visible%22:1,%22renewal%22:0,%22initErr%22:0,%22playurlRetries%22:0,%22streamRetries%22:0,%22totalRetries%22:0},%22origin%22:{%22metadata%22:404.6,%22firstFrame%22:536.9,%22canplay%22:546.1},%22approx%22:{%22metadata%22:404.6,%22firstFrame%22:536.9,%22canplay%22:546.1},%22duration%22:{%22s1%22:0,%22s2%22:1426132.3,%22s3%22:0,%22s4%22:162.5,%22s5%22:216,%22s6%22:1426132.3},%22timing%22:{%22entryReqStart%22:0,%22entryResEnd%22:0,%22indexHead%22:1426101.7,%22instantiate%22:1426105.6,%22connectHead%22:1426106.2,%22storeTail%22:1426136.6,%22connectTail%22:1426645.8,%22streamGap%22:0,%22originStart%22:0,%22approxStart%22:1426106.2,%22reloadHead%22:null,%22viewHead%22:1426132.3,%22viewTail%22:1426132.3,%22playUrlHead%22:1426132.6,%22playUrlDone%22:1426294.8,%22loadStart%22:1426331,%22metadata%22:1426510.8,%22firstFrame%22:1426643.1,%22canplay%22:1426652.3},%22entry%22:{%22size%22:0,%22duration%22:0,%22speed%22:0}}|219e8af1ecdc8a35f59edfb1b9be4e1a|||230396854|1182648645|1|0|4|3|2|3|32|0|https://cn-sxxa-ct-03-03.bilivideo.com/upgcxcode/45/86/1182648645/1182648645-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1688386954&gen=playurlv2&os=bcache&oi=3080682842&trid=000014889c2365074771b5d26d3cb598a9f3u&mid=503647489&platform=pc&upsig=efb2d0f08d48e8f3e6a5b506e07bbb98&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=63303&bvc=vod&nettype=0&orderid=0,3&buvid=54F00853-746D-49F1-B499-6192F46FDB16138373infoc&build=0&agrr=1&bw=99486&logo=80000000,|||{%22playerIdle%22:%22eg%22,%22qn%22:32,%22aq%22:-1} HTTP/1.1
+Host: data.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

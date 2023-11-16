@@ -1,0 +1,15 @@
+GET /HDForumPortalCN/1.0.55/HuaweiSans-Medium.993884294623dbae8ece.woff2 HTTP/1.1
+Host: res.hc-cdn.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://bbs.huaweicloud.com
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://res.hc-cdn.com/HDForumPortalCN/1.0.55/styles.f05b5d1576858ed5dc3e.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

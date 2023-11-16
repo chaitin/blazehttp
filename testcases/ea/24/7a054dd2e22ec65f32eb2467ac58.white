@@ -1,0 +1,22 @@
+POST /international/search/api/lowprice/calendar/get45DaysCalendarDetailList?v=0.6898028656331712 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 219
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-dGJ1EP4r8TR3bEGqwQzKo8RlkwnLv9UW3DiSzW4litpj0LJUqW6LenFEBZyfNwZBjk9jPHEmSiSGEcqEG9YNUR6nipzyOoJ7ZyOXyQfvFoIAhYk3W3YUqEMdwsUjToRtBws8jZ1jMniL3y5SjUTRT6RXgiqgYmawh1JFgxDHIlpeqYD9yUXYq5r94KHPjNMj3tEFZyoE9hiNFYlEPzYl6y3EhSY9Qy81vqhWgqe1kxkpKM8jD5yZdISswhBj5owhFeaHEqUI7gwFni98R8EGhYlcysQiDoYa1WF8e3fY8kjQEgtYFSyZgWnLeOFyHpjSEO6YngypZiGAYmaj7sKPNEhdIpsekBKqAxzAK3debBKanvL9KOEgXiBnyt6yHhjNOEzSygUEckjSsjHENgiBXJX8YZsWa9YU5i6Pel4WFHyBZeOqWSUEAEGzYfawAbwDkEBbJH5eSgY7EDPiBAJ0mIcoYUFytcYHQwAbYhBvQEzBYg8w5aEmby1PvZPWAbjpEN0ifoJBcR4E3MYFSw8Pwq8KLBeghWdSyLE8mi4PJncWPEhaYDnwmbe8sYndvB5EXfYqMjkEn4izMJa9WsTj8NetqvPYBEt7igpJzBR5OwZGjG9j6oiS3y9tjtlWSkR13RPqj8pE31YtpI5gEndjm6I7bvPpvpBW5mKm4jFtwUYc7JQOY6Dy89vtlE1mvGSiDgJHFigsE3NiQZeNmvAoEg4j8lWHZeUdEP9yMnEzQwpNenFE4nJ87ykNYXse7cJkGJNnRzQyTUJlGjdaEpSEk0j08y63v6LYOgKGojcGeaYoneFqK6QWkFYDawnXYbgwQ4EUmjgnY9Mw0br4LKtEnYMOW63R8hrSBYAZEFdETNYpwFYLUjZ6j6wQcvtZefSYo9iFDYo7Y9oWqNwHY70E1OEOFi8zeplE4mjHcW0oKcBY4lEsYA6jMni16jafr4NKT3eL3EkHWThIS3YB4wXYH7wpSI0UJ5kR78vdzYSmWLSefaRq4Wlmjp3Wgow56ycOrpYsawpZw43ioMR0qvZdYlsWSle0XR3NWtUiFnYs7JBpwlc
+Transactionid: 14df44056144400a9e6079166ea184fe
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"flightSegmentList":[{"arrivalCityCode":"WUH","departureCityCode":"HGH","departureDate":"2023-07-03"},{"arrivalCityCode":"HGH","departureCityCode":"WUH","departureDate":"2023-08-03"}],"cabin":"Y_S_C_F","flightWay":"D"}

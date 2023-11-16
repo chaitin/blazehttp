@@ -1,0 +1,15 @@
+GET /tcbox?action=pblog&service=bdbox&data=%7B%22appid%22%3A%221%22%2C%22dataid%22%3A%222%22%2C%22cateid%22%3A%2299%22%2C%22actionid%22%3A%222%22%2C%22actionType%22%3A%220%22%2C%22actiondata%22%3A%7B%22id%22%3A10610%2C%22type%22%3A%220%22%2C%22idtype%22%3A%220%22%2C%22timestamp%22%3A1688379779388%2C%22content%22%3A%7B%22inBox%22%3A%220%22%2C%22swan_name%22%3A%22right_game_recommend%22%2C%22network%22%3A%22%22%2C%22from%22%3A%22Mini_Swan_game%22%2C%22source%22%3A%22%22%2C%22page%22%3A%22searchResCard%22%2C%22type%22%3A%22show%22%2C%22value%22%3A%22gameBangdan%22%2C%22ext%22%3A%7B%22item%22%3A%5B%7B%22id%22%3A%225771%22%2C%22ext%22%3A%7B%22isPc%22%3A%221%22%2C%22query%22%3A%22%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%22%2C%22qid%22%3A%22f864a1e60006a872%22%2C%22tags%22%3A%5B%5D%2C%22tagId%22%3A%2213868%2C15760%2C60774%22%2C%22tagName%22%3A%22android%2Cmoba%2C%E6%89%8B%E6%B8%B8%22%2C%22bdId%22%3A%221%22%2C%22bdName%22%3A%22%E7%83%AD%E9%97%A8%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90%22%2C%22list%22%3A%5B%7B%22gameId%22%3A%22131809256589819904%22%2C%22gamePos%22%3A%221%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22127827444991262720%22%2C%22gamePos%22%3A%222%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22127827445505220608%22%2C%22gamePos%22%3A%223%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22127827445740224512%22%2C%22gamePos%22%3A%224%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22127827445657165824%22%2C%22gamePos%22%3A%225%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22127792895744757760%22%2C%22gamePos%22%3A%226%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22131809256550731776%22%2C%22gamePos%22%3A%227%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%2C%7B%22gameId%22%3A%22127827445041569792%22%2C%22gamePos%22%3A%228%22%2C%22cmatch%22%3A%22%22%2C%22createId%22%3A%22%22%7D%5D%2C%22bdPos%22%3A%221%22%2C%22pageNum%22%3A%221%22%2C%22sid%22%3A%22%22%7D%2C%22pos%22%3A%221%22%7D%5D%7D%7D%7D%7D HTTP/1.1
+Host: mbd.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&fenlei=256&rsv_pq=0xbb1e754800063f1f&rsv_t=a3b5saBkfBPlUeymDAUIV%2BREVOZgVULnTBP3Muhs3dCeFFsyn5YLy1FQFAVi&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=11&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=wangzherong&rsp=0&inputT=1873&rsv_sug4=1874
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

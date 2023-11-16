@@ -1,0 +1,15 @@
+GET /service/getAllInsure?venderIds=10513850-12547905-12106177-11752152-13206409-12777015-12510714-11865471-13059891-12487938-12544321-12776228-13409960-12618111-13464668-12797743-13153456&callback=jQuery5473859&_=1688375748852 HTTP/1.1
+Host: baozhang.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://search.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

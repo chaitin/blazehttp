@@ -1,0 +1,14 @@
+OPTIONS /search/file?text=%E7%BE%8E%E5%A5%B3&sort=all&filter_ids[]=5342747,5342749,5342755&filter_ids[]=5342747,5342750,5342758&filter_ids[]=5342747,5342751,5342766&filter_ids[]=5342747,5342752,5342773&limit=20&page=1&position=search_pin HTTP/1.1
+Host: api.huaban.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: guest-token,x-abtest-tags,x-guest-token
+Origin: https://huaban.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://huaban.com/search?q=%E7%BE%8E%E5%A5%B3&sort=all&type=pin&filter_ids=is_material-5342747.5342749.5342755%7Efile_type-5342747.5342750.5342758%7Ecolors-5342747.5342751.5342766%7Eratio-5342747.5342752.5342773
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

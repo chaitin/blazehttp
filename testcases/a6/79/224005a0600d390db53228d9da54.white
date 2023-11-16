@@ -1,0 +1,18 @@
+POST /getinfo HTTP/1.1
+Host: blackhole-m.m.jd.com
+Content-Length: 1050
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://search.jd.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://search.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+body={"appname":"jdwebm_pv","jdkey":"","isJdApp":false,"jmafinger":"","whwswswws":"whbSBH2y/5w8JLK/M+QVOog==","businness":"pcSearch","body":{"sid":"385e10ad7f3f1a7df7308872affb57c5","squence":"1","create_time":"1688375748817","shshshfpa":"fd867741-a4d2-b886-cfd4-d2e5fd2e90d3-1589446651","ecflag":"e","whwswswws":"whbSBH2y/5w8JLK/M+QVOog==","jdkey":"","isJdApp":false,"jmafinger":"","browser_info":"0ced479a225e0e8c871ffae1f7568188","page_name":"https://search.jd.com/search","page_param":"keyword=开源项目周边&qrst=1&wq=开源项目周边&stock=1&ev=2342_80397^","cookie_pin":"","msdk_version":"2.5.0","wid":"","pv_referer":"https://search.jd.com/Search?keyword=%25E5%25BC%2580%25E6%25BA%2590%25E9%25A1%25B9%25E7%259B%25AE%25E5%2591%25A8%25E8%25BE%25B9&enc=utf-8&wq=%25E5%25BC%2580%25E6%25BA%2590%25E9%25A1%25B9%25E7%259B%25AEzhou%2527b&pvid=982f7d037b5943e3948404732db36cc6","lan":"zh-CN","scrh":1080,"scrah":1032,"scrw":1920,"scaw":1920,"oscpu":"","platf":"Win32","pros":"20030107","temp":33,"hll":false,"hlr":false,"hlo":false,"hlb":false}}

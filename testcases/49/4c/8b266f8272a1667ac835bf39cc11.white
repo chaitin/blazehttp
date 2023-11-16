@@ -1,0 +1,19 @@
+POST /log/ocpcagl?type=behavior&emd=euc HTTP/1.1
+Host: fclog.baidu.com
+Content-Length: 1071
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain; charset=UTF-8
+Accept: */*
+Origin: https://reg.huaweicloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reg.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+N4IgLgziBcCMBsAORBmV8UHYUoAwBpwAvGRQgGwHsBzASwBMYQAjAFlgGMOBTWATgC0fXIm4DWAQwCsrAROYAmWAPqIp3KbAXNmKWBJCEADgCdK9AK4cwtSgDsmAfQBmmADIKAGgHcA4p4ArAE8IIjZ6WG4FSgAPAAUg5moAEUMQHhMwJjSIbggIWzsGJglnKXpcXCkJAWqUZ3EoqTkOCXgVbRFK7glECRQ0i2LoEEwIlAlYembWeGcxWcwxCXp4dvlneG5KlFYUHrTKIxtGEbSTbnmTC5MmAAswMCMIaAB6V4vqADo7iwlvbi0DhUCz0L4cSgAWw+3DoEDA3BMQ1eHDsrzu3gYMLhCJMPzAkPIAH4qK1yNwALxEO4CVEAMgkYAppihlBs9jpmQpEnI5DpGI4jjMFgRjgsJnIFIg9AA1kLYXTciYAG5AykPJ4QACkKAAglqFAAxA2GnQQH5-AFAkFgiGQk1pUmMwowUAssCUCHke6PZ4jQh3SjwuwSSHcJifC3-QHAyig8FQtJGSiZbLGRl3ENhpjY2jwxHI1HozH0XP5vEPQk5HomDh3Jgkz08ynU2l2BlMlmQtmFTlMnl8pWqngUjXPHX6o0ms1Rq2x+N2h0BiQQesjADEr2lcs+IAAvoQwEEjOGRqqCsxaORaEe6xI7NRw4QDNAANqgRxgCTUJj0T0WMM7CyAMGHobgHGgMAkW4PcAF1jCDG8XWgUAYhgAgQCCdCDxAbgYiyFCQEcZUmAUL5cC+AZCEcPNnBgKCLG4QgYl1B9uGvCQ3BoYYQAQBR4D4fjcFgXBMEqRBMGQKREDSZhgR42AcEQeA9jEqT+FwWZWFwKiWHoCBnFrVVTiIgAJGUAHkACk8LMXxcAJIhlWcABhAAtExaAAVVoTAFAAIW4ABpILlQANRQAAVZIAE03AAUQs7xPDiCAjBQNxfCstwwo4NzpXi+y4jARwADlDUhNygoEWJIVMmgQqC6gLMi0yAEkXMNRwFAsGILICAJqEQLywDCmyXPgQrcGK5xEGoXAAFkpDSRwoBGZxWmob1CDzQKJAhCDYD3PcgA

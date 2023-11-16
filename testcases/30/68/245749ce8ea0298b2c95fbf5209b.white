@@ -1,0 +1,18 @@
+POST /web/spans HTTP/1.1
+Host: apm.you.163.com
+Content-Length: 1350
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://you.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"meta":{"app":"web-monitor","tid":"1#web-monitor#1688379467232#g2cds33d","page":"https://you.163.com/","os":"Windows","bws":"Chrome-114","sdk":"2.2.14","type":1980,"dpi":"1920x1080","sign":"507cf12a9537ae78857a8b902f658b70"},"list":[{"st":1688379534696,"sid":"79467235","spn":"ajax","type":1980,"psid":"79467229","url":"/xhr/login/checkPrivacyPolicy.json","et":16,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379534193,"sid":"79467234","spn":"ajax","type":1980,"psid":"79467229","url":"/xhr/login/getQRState.json","et":21,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379534169,"sid":"79467233","spn":"ajax","type":1980,"psid":"79467229","url":"/xhr/common/checklogin.json","et":22,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379534132,"sid":"79467232","spn":"ajax","type":1980,"psid":"79467229","url":"/xhr/accountRelate/relateMobileCheck.json","et":36,"err":0,"fds":{"httpCode":"200","method":"POST","msg":""}},{"st":1688379532200,"sid":"79467230","spn":"ajax","type":1980,"psid":"79467229","url":"/xhr/cart/getMiniCart.json","et":22,"err":0,"fds":{"httpCode":"200","method":"POST","msg":""}},{"st":1688379532200,"sid":"79467231","spn":"ajax","type":1980,"psid":"79467229","url":"/xhr/cart/getMiniCartNum.json","et":21,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}}]}

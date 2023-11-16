@@ -1,0 +1,20 @@
+POST /api/5881803/envelope/?sentry_key=3ce68c63823641db95d7bd65d08db5d8&sentry_version=7 HTTP/1.1
+Host: o932861.ingest.sentry.io
+Content-Length: 491
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.3blue1brown.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.3blue1brown.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"sent_at":"2023-07-03T09:51:57.838Z","sdk":{"name":"sentry.javascript.nextjs","version":"6.19.7"}}
+{"type":"session"}
+{"sid":"28c882d814584b6c81919c6512e0248c","init":true,"started":"2023-07-03T09:51:57.837Z","timestamp":"2023-07-03T09:51:57.837Z","status":"ok","errors":0,"attrs":{"release":"865f43eca41b5842ac2bb3a4fc7f1709458e454d","environment":"production","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}}

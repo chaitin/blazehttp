@@ -1,0 +1,15 @@
+GET /speed/webvitals?FCP=220.60000002384186&LCP=-1&FID=-1&CLS=-1&id=RiaWqsnT3403yXTgVY&uin=d7c17f0000014516-d31eb79f7d5aee97-1390&version=v1.45.1&aid=672b59c1-a9df-4e0d-b647-2ad7773f9c48&platform=3&netType=4&sessionId=session-1688379228356&from=https%3A%2F%2Fxui.ptlogin2.qq.com%2Fcgi-bin%2Fxlogin%3Fproxy_url%3Dhttps%253A%2F%2Fqzs.qq.com%2Fqzone%2Fv6%2Fportal%2Fproxy.html%26daid%3D5%26%26hide_title_bar%3D1%26low_login%3D0%26qlogin_auto_login%3D1%26no_verifyimg%3D1%26link_target%3Dblank%26appid%3D549000912%26style%3D22%26target%3Dself%26s_url%3Dhttps%253A%252F%252Fqzs.qq.com%252Fqzone%252Fv5%252Floginsucc.html%253Fpara%253Dizone%26pt_qr_app%3D%25E6%2589%258B%25E6%259C%25BAQQ%25E7%25A9%25BA%25E9%2597%25B4%26pt_qr_link%3Dhttps%253A%2F%2Fz.qzone.com%2Fdownload.html%26self_regurl%3Dhttps%253A%2F%2Fqzs.qq.com%2Fqzone%2Fv6%2Freg%2Findex.html%26pt_qr_help_link%3Dhttps%253A%2F%2Fz.qzone.com%2Fdownload.html%26pt_no_auth%3D0&referer=https%3A%2F%2Fqzone.qq.com%2F HTTP/1.1
+Host: aegis.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://xui.ptlogin2.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://xui.ptlogin2.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,23 @@
+POST /cgi/whitelist HTTP/1.1
+Host: iaas.cloud.tencent.com
+Content-Length: 174
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Life: 334639
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+X-Csrfcode: 2093508630
+Accept: application/json, text/javascript, */*; q=0.01
+X-Seqid: f006f039-cb90-40e3-d575-f8ed9cb3bc62
+X-Referer: https://console.cloud.tencent.com/vpc/conn?rid=9
+X-Lid: r1tAeNgKn
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"whitelistKeys":["VPC-Peering-charged-bytop95","VPC_peer_financial_public","NGW_PEER_WHITELIST","PEER_PP_NGW_UIN","nanjing-peer","CROSS_REGION_WHITELIST"],"type":"owneruin"}

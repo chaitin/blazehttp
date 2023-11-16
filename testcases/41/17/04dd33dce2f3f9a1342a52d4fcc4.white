@@ -1,0 +1,18 @@
+POST /collect?id=DtVvKLnscpgeAJkxUn&uin=100003290640&version=1.35.26&aid=818cec06-54c8-44f7-8f37-7b76ca250efc&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688384157589&from=https%3A%2F%2Fconsole.cloud.tencent.com%2Fbeian%2Fmanage%2Fwelcome&referer=https%3A%2F%2Fconsole.cloud.tencent.com%2Fbeian%2Fmanage%2Fwelcome&ext1=https%3A%2F%2Fconsole.cloud.tencent.com%2Fbeian%2Fauthcode&ext2=100003290640 HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 855
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"level":["2","2"],"msg":["[\"[Capi Success]\",{\"body\":{\"serviceType\":\"ba\",\"regionId\":1,\"data\":{\"Version\":\"2020-07-20\",\"RequestClient\":\"PC\",\"Limit\":10,\"Offset\":0,\"Keyword\":\"\",\"Type\":1,\"Status\":1},\"cmd\":\"DescribeLicenseKeys\"},\"options\":{\"version\":3,\"tipErr\":false}},{\"code\":0,\"cgwerrorCode\":0,\"data\":{\"Response\":{\"Total\":0,\"LicenseKeys\":[],\"RequestId\":\"79b61552-d70a-40db-a5dd-117e81a16a86\"}}}]","[\"[Capi Success]\",{\"body\":{\"serviceType\":\"ba\",\"regionId\":1,\"data\":{\"Version\":\"2020-07-20\",\"RequestClient\":\"PC\"},\"cmd\":\"DescribeGetAuthInfo\"},\"options\":{\"version\":3,\"tipErr\":false}},{\"code\":0,\"cgwerrorCode\":0,\"data\":{\"Response\":{\"IsTenPayMasked\":\"0\",\"IsAuthenticated\":\"1\",\"Type\":\"0\",\"RequestId\":\"8ccceafb-d991-4fd1-9679-2b48bf42b16c\"}}}]"],"count":2}

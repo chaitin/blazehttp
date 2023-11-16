@@ -1,0 +1,19 @@
+POST /proxyhttp HTTP/1.1
+Host: vd6.l.qq.com
+Content-Length: 2097
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"buid":"vinfoad","vinfoparam":"charge=0&otype=ojson&defnpayver=0&spau=1&spaudio=0&spwm=1&sphls=2&host=www.qq.com&refer=https%3A%2F%2Fwww.qq.com%2F&ehost=https%3A%2F%2Fwww.qq.com%2F&sphttps=1&encryptVer=8.1&cKey=879F1FB110A829222AD6181FB34D040F72E289F99557D9237AF1C2EACB0BDDBE32FC9AAF8230C9D7C42B7BB20D459A84AA93762DD7F15908E17773014CE473AD7C52B01343F79CA41479C65FDC0BC8C0EC41C2F46DEC3ACDD49D699D3E1678AA104C41BF5373986481241A98792578F0826265792DF349A2FBDB6D0DF0A6404FB9A601C26F45C429C7883719879A7965DD3DEEB3A8A5C3EE96B9D299502D8F2D7DC0827B586BC4C08520CADFC0CB738C40A96543A72713C6CD777E46CED78D29&clip=4&guid=c8c808585fce8a621e14ee3544b798f3&flowid=ad32f8ff087e5ba262eeeb5e46ee4fd8&platform=70901&sdtfrom=v1104&appVer=3.5.57&unid=&auth_from=&auth_ext=&vid=l1471mbbtjz&defn=&fhdswitch=0&dtype=3&spsrt=2&tm=1688379215&lang_code=0&logintoken=&spvvpay=1&spadseg=3&spav1=15&spsfrhdr=0&spvideo=0&spm3u8tag=67&spmasterm3u8=3&autoplay=true&autoPlayInMute=true&flashWmode=transparent&flashvar=%5Bobject%20Object%5D&Onetriggerplay=false&width=100%25&height=100%25&drm=40","sspAdParam":"{\"ad_scene\":1,\"pre_ad_params\":{\"ad_scene\":1,\"user_type\":-1,\"video\":{\"base\":{\"vid\":\"l1471mbbtjz\"},\"is_live\":false,\"type_id\":0,\"referer\":\"\",\"url\":\"https://www.qq.com/\",\"flow_id\":\"ad32f8ff087e5ba262eeeb5e46ee4fd8\",\"refresh_id\":\"\"},\"platform\":{\"guid\":\"c8c808585fce8a621e14ee3544b798f3\",\"channel_id\":2020,\"site\":\"web\",\"platform\":\"out\",\"from\":0,\"device\":\"pc\",\"play_platform\":70901,\"pv_tag\":\"\"},\"player\":{\"version\":\"1.15.22\",\"plugin\":\"1.16.1\",\"switch\":1,\"play_type\":\"0\"},\"token\":{\"type\":0,\"vuid\":0,\"vuser_session\":\"\",\"app_id\":\"\",\"open_id\":\"\",\"access_token\":\"\"}}}","adparam":"pf=out&pf_ex=pc&pu=-1&pt=0&platform=70901&from=0&flowid=ad32f8ff087e5ba262eeeb5e46ee4fd8&guid=c8c808585fce8a621e14ee3544b798f3&coverid=&vid=l1471mbbtjz&chid=2020&tpid=&refer=&url=https%3A%2F%2Fwww.qq.com%2F&lt=&opid=&atkn=&appid=&uid=&tkn=&rfid=&v=1.15.22&vptag=&ad_type=LD%7CKB%7CPVL&live=0&appversion=3.2.30&ty=web&adaptor=1&dtype=1&resp_type=json"}

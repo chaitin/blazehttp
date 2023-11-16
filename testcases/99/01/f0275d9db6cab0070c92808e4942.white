@@ -1,0 +1,22 @@
+POST /international/search/api/notify/getSearchPageHornContent?v=0.761745039904312 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 82
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-6mFjT5YZ9ra1R17WdLJ5MyHXEB1xBUwsSwAgw01EHsKoGYqUwZ6vb3jGcRQ0JZ0ynSymbwlSwfGjkHEOpwgkwL3Y1pWQdiSMi0OJq6vPajBJDpvnzWQYdcy7PKpTYQ3RN6wc4jbqjgMiHly3Fjt3R6cWG8YADyg9i1lyhQrP9wf4J0YlDym7r3Mr3fKlfjzhj4gEkfy9EhNic5YqEOHYU4yoEPGYsAy57vc1WkLeUGx4tK5HjQGyM3It4w6ojSlw9zekSEOUIhowLOi7gR1E08Yzby48ih3YaNWNFeBkYQDj0EPQYLqyogWcZeXOyO7jAE0tY9BymsiFPYqFjsaKl6E76IFXeaAK07xTsKAPemhJU8Ic7yZE5LiSQyLGYcE3Tib6JdLRaEHdYhnwOhyMkjn6EPqy7pEmNjPBjUEfqi3MJlTYzZWP4YgPif4eqnW5HyzGeTHWZ4EGEchY61wFnEgqW1PWkSe35EqkYH0wmojcoepoyoE3Tia7JQgjsGwHhiObEXzR8fyqE6XY03w69yhOenzyzEZTi4dJbNiOaibhYG6jXciOHEpnJB6vtor7ENY5J4hYmfwbHRoNwT3j5AjbgiPsy3pjPlWQzR7tRoFjHAEsNYTUI5pEF6jqFI3mvlQvMSWzoe3XySGJzY6dEl7Ynaxt4wcAwzOvZAjbDEPdiAfiaqvL1ebGEpSv5DjGoRsdeQsESPYk3YzaYG0eGNEc8itNRFUjP5ezAJpDvFAE6FvGLJFSJkMJ5fysDEN0E3sj7Av5lEn6I53ItYkMRtNRS9iQNYZAw0BYZ3wfAE5tjs3YmpwtpytdIfnE7YQPxZpIPbJzDY4PEXZwQOe5zI8YbUvohjlzR6kvXQekHYZGic8YZNWgXRUoxnYMnvM6rgXyN8eLOE9BjtZWm5KBQKc3WNY3kvsGRGow3Fr71KA6eMHEZmWmDxDw1TxzYFgJlORTbEklRXovfGYF4W47eAgR4dWFQjm9WqwMhYNjqY86RA4EOZx1GRhpvl9YTMWA3eoBRZtWd0iP0YOavXAI5
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"departureCityCode":"HGH","departureDate":"2023-07-04","arrivalCityCode":"BJS"}]

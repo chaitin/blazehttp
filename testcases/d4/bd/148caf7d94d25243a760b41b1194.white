@@ -1,0 +1,15 @@
+GET /log/web?00111116883797732661688379773033|Homepage:Ugc:0|3.27.2-d0bc6222|load_dash_warning|{%22code%22:-4,%22msg%22:%22[Dash]%20Start%20offset%20time%20is%20less%20than%20buffer.start(0),%200.023%20%3C%200.123%22}|c30048029f33249e37cdde41c34865bb|||272094854|1158207274|1|NaN||3|2|||||||{%22playerIdle%22:%22cg%22,%22qn%22:32,%22aq%22:-1} HTTP/1.1
+Host: data.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

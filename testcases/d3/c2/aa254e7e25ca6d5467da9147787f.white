@@ -1,0 +1,17 @@
+GET /common/product/checkApplicationHealth.json?__preventCache=1688383112231.45.405453226191426 HTTP/1.1
+Host: ecs.console.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+Arms-Traceid: 5aeed48f3b13e626d4b2d567892e2260
+Arms-Userdata: traceId=5aeed48f3b13e626d4b2d567892e2260&domain=ecs-core&session=NDF_wr62u1eZWaBIKSsBd&actionId=041117ff8e723cb1ae1c02b3c392b8e3&actionType=application-health%2FCHECK
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou?instanceName=1&page=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

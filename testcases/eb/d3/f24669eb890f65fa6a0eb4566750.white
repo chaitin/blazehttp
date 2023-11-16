@@ -1,0 +1,22 @@
+POST /collect/ux-api/v1/app/batch-trace HTTP/1.1
+Host: t.cnki.net
+Content-Length: 691
+Unitoken: 
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Uniplatform: NZKPT
+Language: 
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.cnki.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cnki.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"data":[{"m":"M22","f":"M2202","a":"M220201","d":"知识元检索","r":"","t":1688376287105},{"m":"M22","f":"M2203","a":"M220301","d":"引文检索","r":"","t":1688376287876},{"m":"M22","f":"M2201","a":"M220108","d":"文献检索","r":"","t":1688376288573},{"m":"M22","f":"M2202","a":"M220201","d":"知识元检索","r":"","t":1688376289251},{"m":"M22","f":"M2203","a":"M220301","d":"引文检索","r":"","t":1688376289695},{"m":"M22","f":"M2201","a":"M220108","d":"文献检索","r":"","t":1688376290206},{"m":"M22","f":"M2202","a":"M220201","d":"知识元检索","r":"","t":1688376290664},{"m":"M22","f":"M2203","a":"M220301","d":"引文检索","r":"","t":1688376291084}],"appId":"NZKPT"}

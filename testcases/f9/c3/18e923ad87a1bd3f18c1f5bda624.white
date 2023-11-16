@@ -1,0 +1,15 @@
+GET /?qt=business_accredit&ak=w5F31CmuNTuhzbUYMFEaxcuxBVYTmP14&callback=BMap._rd._cbk52956&v=3.0&seckey=vxSs8Wp90GkUpXAE7osVunA4BjUaJWgDmqnblmPpEpg%3D%2CS2IWk0nA_rCA3QfeF8kykKELHOFKnRStrBFDDfVOKTzhmly1mO7w13HEsEujYTaO0vR3J1DBfMIDsJoHBeSXXZeUco5WcXYFftkw-6vn4nu8CBc1gh3C5XzsHsgqJgtexz3SPM5yQ9o4_Ptvkjd9nBK8bCIkfppevH1na5FMGGs5ycY_dyD5DiAqN-Yyld_C&timeStamp=1688378102387&sign=ccd45425c510 HTTP/1.1
+Host: api.map.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://flights.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

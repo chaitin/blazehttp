@@ -1,0 +1,19 @@
+POST /data/api.json?action=CreateAccessToken HTTP/1.1
+Host: smcnext.console.aliyun.com
+Content-Length: 1344
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://smcnext.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smcnext.console.aliyun.com/sourceServers/importMigrationSource?spm=5176.smc-next_welcome.welAction.IMPORT_MIGRATION_SOURCE.1cc318e6FwhWxT&sourceServerType=SMT
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=CreateAccessToken&collina=140%23p32Dni8czzPkWQo2LZC%2BC6SdvIvkeGIPYtobW3tbq1Po3e2z4cyBXovdc7KP4bvU69iK5Jys383ISwR5K1aymL8B2FJBlp1zzqeK1fjwyQzxrokK9pJjzzrb22U3l61dkDrqVx7uLF8NRDcLV3hqabzb2Xl4zZlevYLLMZ2aMXm1kiuoMrLw8qYqOfH1DgqZOe54iM2KGNOEGUwqDQk%2FKeiyU0R9EixEJWukpGvr4%2BSbAdRG2i%2FxupjUvtBDextoPHCLUzlWBW2BXjcKlyiEkbBOb4AXeuVjbU6wrHS%2FbyjRCLvrfvL5BJ7DG97KEl3gfvo6Ir1HCKvE3gAjfm7dj4fr8j4I3%2BDrraqfNdcYw%2FV8ww1fcmpcTSaB2GheqPWAzku5bnu%2FEuPhDSFyI8Nr8VntpMLelvruZQnxecPFMujS%2BLRc2lX%2FikXcwpsGERRJ80%2BbZXmKKl5eMC5wIN34fICCypKEjSqTdyht3zJyIJUqEQWVBJGm7uvXBNVaCPMaYyiYmUPWA0l9BzoOhcS0GKTEX%2FWCevb%2B8chtRoYcP59oqFmc%2F0UchZzO9i%2BZDA%2B21Zs1vfILzYM83KGgJU1hwbARJOKqEAIGf09GbhlFqCVllgTzVz4cFd7pqxL9fpSK5pgMGU2T27c5jeFfxbRXlK5QhsfGP8cfhXgJKPmPpcZ6ljxEGZpG2yYO4NBZl%2BiyyI1StNnONlrG7obVmRdQyV8oD62tc3vVLfX0fXpzg4WJ9MZhFCJ4DkLkye0vkOsf7%2BGfvdODP3bGfUxeGg03waaB7tS1IofghqFc8ozJsoS3SiEWE%2BQmBMRhKZNs7l%2FmsT2CRoNCnratOF60wv1MEFJeZ9MP%2BdYozPos25UxH%2FKtmRwsM7O5ON%2FDogz2NYWumUB9AbdSvXWgk4udL6LID6em0Aq2gtX7naWTvQmMqI1PJNm7KOcoewJAkAVQ%2BMSTQH4j3jtSlnarJjqaOD40HpXQw%2BkO9DLvx8fKUckEcAW3LuyDZL75wFh5YBYu4pXf%2Bfl2paikWoaL0zrO12ARtasAteUDvK%2F6mMdaoO9BQRFZBsFBpqfu&params=%7B%22Count%22%3A%2210%22%2C%22TimeToLiveInDays%22%3A%2230%22%7D&product=smc&region=cn-hangzhou&sec_token=d5mraaH0uvLd9OQlTDzyz7&umid=Ya7fc04269a847f0d255e2bba70d2d2a5

@@ -1,0 +1,18 @@
+POST /sdk/fcgi-bin/sdk.fcg HTTP/1.1
+Host: stat.y.qq.com
+Content-Length: 359
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"common":{"_uid":"1152921504763685208","_platform":"Windows","_appid":"qqmusic","_account_source":"2"},"items":[{"report_type":1,"page_url":"https://y.qq.com/artists/kol.html#/organization/user/createorgan","domain":"y.qq.com","page_key":"/artists/kol/organization","page_hash":"#/organization/user/createorgan","_key":"kol_login","_opertime":"1688383897"}]}

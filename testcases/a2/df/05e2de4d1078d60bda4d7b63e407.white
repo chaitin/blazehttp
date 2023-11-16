@@ -1,0 +1,15 @@
+GET /livemsg?oid=11347523629&cid=11347523738&ping_data=EAAoAEAbWhBFMkUwMjUyMDIwNUYzNDIw_viewid_0xlMxF1KfDHVZ09sMR9zcCb6yMtISnLH7YT4GK6rIndXybj!NbJKqgF4qXaqhsw2gwrPv7zLk9aETcMeAlv8v!RPBSfWDclKyuu_tD_rXHeqdbhYitTr61UXUFpjaQczT!TwHaWiQNoSzcnN7_MnyVfLPrPBfyUn&adtype=LD&appversion=0&contract=1&i=1&os=0&datatype=jsonp&etype=1001&ch=800010016&seq=1&aseq=1&tailroll=1&xp=3&reporttime=0&tl=1&uniquetimestamp=1688379217026 HTTP/1.1
+Host: livep.l.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

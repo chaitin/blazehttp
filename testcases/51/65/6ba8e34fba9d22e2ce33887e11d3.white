@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1334
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E5%9C%A8%E7%BA%BF%E7%94%BB%E5%9B%BE&form=QBLH&sp=-1&lq=0&pq=%E5%9C%A8%E7%BA%BF%E7%94%BB%E5%9B%BE&sc=10-4&qs=n&sk=&cvid=FA00727A27424BB9894C74EAFA7F2A21&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>660B07C6CB034B0CB7D277910B4070C7</IG><TS>1688375347413</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":2,"N":6,"I":"35y","S":"C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":31323,"K":"o63+lu9+lx5","F":0},"M":"119+nd+-1+837+4p+30+0+5+go+642+1","E":"@4h/2/X/1o/+@4h/6/X/1o/+@4h/7/X/1o/+@4h/8/X/1o/+@4h/9/X/1o/+@4h/a/X/1o/+@4h/b/X/1o/+@4h/c/X/1o/+@4h/d/X/1o/+@4h/e/X/1o/+@4h/f/X/1o/+@4h/g/X/1o/+@4h/h/X/1o/+@4h/i/X/1o/+@4h/j/X/1o/+@4h/k/X/1o/+@4h/l/X/2s/+@4h/m/X/4y/","N":"@4i/4o//@l/ls%2Flsp.aspx/@n/2w/@m/@4i/@4i/@4i/lua/@4j/@4j","C":"lxd/////17k///lxc+m14/////15z/7p//m13+m3f/////14k/74//m3b+m5r/////13u/5d//m5q+m75/////12o/3u//m73+m82/0////@2l/32//m7z+m90/////y4/2x//m8v+m9i/////vv///m9b+mae/////qa/3o//ma7+mav/////mw/4n//mau+mbc/1g////l4/5b//mba+mbt/////jb/65//mbr+mc9/////hj/76//mc7+md6/1h////ea/9v//md2+me3/////dg/bb//mds+mek/1i////db/cr//mec+mht/////cu/e9//mhr+mpo/7////de/fn//mpg+mrj/////ep/gj//mrc+mw6/////fm/hm//mvy+n60/////gt/gw//n5z+n6u/////ig/g6//n6n+n7b/////ka/fe//n73+n7r/////mv/e9//n7q+n89/m////pr/cu//n86+n96/////vx/9q//n8x+n9m/////@24/76//n9l+na3/////@3h/5t//na1+naj/////14o/44//nai+nb1/0////16a/39//nax+ndv/////17l/2p//ndu+ngk/////18m/1q//ngf+njt/////19b/e//njs+nl7/////19n/1//nl2"}]]]></D></E></Events><STS>1688375347413</STS></ClientInstRequest>

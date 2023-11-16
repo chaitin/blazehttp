@@ -1,0 +1,18 @@
+POST /api/v2/ip.json?referrer=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a&page=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&page_title=SaaS%20-%20%E8%BD%AF%E4%BB%B6%E5%8D%B3%E6%9C%8D%E5%8A%A1%20%7C%20IBM HTTP/1.1
+Host: api.company-target.com
+Content-Length: 63
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"src":"tag","auth":"3bBgqVBte1TTf45vQSDHciEuWvwlaJSrT1DMWtRI"}

@@ -1,0 +1,22 @@
+POST /international/search/api/lowprice/calendar/getCalendarDetailList?v=0.9666026176086413 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 134
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-A0gRZZKO7ekzwXOwn1y7niq9JonwDSwSpwzDikcwO6yl4W1hE6Mx3GR6DKqOEgURhOwB9YzBiGBYBpEMSwsByOpRLDEZ8JmMvaOYAqjb9J1HrBBxhDWkYODjkNr7zicmR40w0ljoNjgti4HyL1jZzRMSWnGE6UyHmJPOWhgvg6Rdki6YbHrgcYZ7Ks7Ko5jZUjflEatyTENMimaYSEhBYt6yoE64YLmynsvodW0HeLXx5NK3njTGy6sImFwMgjgQwFdepaEsnIS9wtBifPRlEagYZ1y6SipfY64WAOelAYnzjfENlYGAypoWkMefZybHjtEbNYcAyALiTDYlBjT9K3mEdNI9TedsKGSxA1KS0eNgJazIO1y0EXUigtylkY0EN7iOhJFcRaEscYkZwSHy9gjBSEoqyUaE0OjbQj8EHziNUJGqY35WLbY96ihUeFoWNlysZekZWdHEAE6SYh9wOtEfZW86WXneU9E1cYh1wqAjG1eF9y3EO8iALJqDjk0wQ0iUFEtfRknyFE35Y1OwSNy4qemhyNE7PiGsJNfi6pi48YQPj91iDBE7bJoGrFpil6EPYFHYfJ3ArNBRfbwZXjf3jHoiXny4DjPzWThRFzR7BjfoEUOYh8IdXEXaj4sInLvclvzaWpEczr1PigYpsrlkRQbjASYcqiagwAgWOzwLdWS3Elsjc7eHOE4UyBbRhaiZMeomE5cv1ziGzy6TeAQJqpJbXJn4yTdefMJZzjBlvA3vB1RDLyc7WP9wbojBbiDqvnFw8Fr3sEHNR8YlTYDSJNDJSqY7UwHqYf5w13Ek7jBdYTHw5DKTjhXEkYzQraDEFUJBbYfsEGqxF4xGZxDYZ1rOsiBbiOav5pen7YFNiTzYc3R40I9jHYb1RgbYQdeTge4PEkbj8pWq8JlsepLeHYtsI6nepHRa7rO0Kdae9LEd0WcLK54RnnxbY69RXcwmoYANR3QvmqYXoWlBe8FRmXWA8jg8Wd8Kk0xzBjcYqQxcPiQOic7Raov4LYPsWP1eSPR3SWLqiDpYUFe54K4G
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"cabin":"Y_S","flightWay":"S","flightSegmentList":[{"arrivalCityCode":"BJS","departureCityCode":"HGH","departureDate":"2023-07-04"}]}

@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.alipay.com
+Content-Length: 1086
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://common-buy.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://common-buy.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=ENCODE~~V01~~eyJ4diI6IjMuMy43IiwieHQiOiJjYXJ0LWFsaXl1bi1jb206NzE4NTcxYTY0YzBiYTc1NGM5NGFhMzgwMmVhYWMyMTAiLCJldGYiOiJiIiwieGEiOiJjYXJ0LWFsaXl1bi1jb20iLCJzaXRlSWQiOiIiLCJ1aWQiOiIiLCJlbWwiOiJBQSIsImV0aWQiOiIiLCJlc2lkIjoiIiwidHlwZSI6InBjIiwibmNlIjp0cnVlLCJwbGF0IjoiV2luMzIiLCJuYWNuIjoiTW96aWxsYSIsIm5hbiI6Ik5ldHNjYXBlIiwibmxnIjoiemgtQ04iLCJzdyI6MTkyMCwic2giOjEwODAsInNhdyI6MTkyMCwic2FoIjoxMDMyLCJic3ciOjE5MjAsImJzaCI6NjMwLCJlbG9jIjoiaHR0cHMlM0ElMkYlMkZjb21tb24tYnV5LmFsaXl1bi5jb20lMkYiLCJldHoiOjQ4MCwiZXR0IjoxNjg4MzgzMTgyMjMxLCJlY24iOiIwNWZjZGFiMTc0NTgwNjY3Yjg2YTc2MjcxM2FlYTIwYjU5NmIzMTAxIiwiZWNhIjoiNHV0U0cgdGJtbmdDQVhQR1hKeVNOeU5MIiwiZXN0IjoyLCJ4cyI6IkczMzE2NkIxNEU5RUJENjEwNzI3OTVFMjE5MzEyRDE5QTFEMzEwNyIsIm1zIjoiMTI4OCIsImVyZCI6IiwsIiwiaXBzIjoiIiwiZXBsIjo1LCJlcCI6IjdiNjA2MmQyNzY4ZTFjYmU0M2YyOGVkYjc5N2QwY2ExYTliNmQ1NDIiLCJlcGxzIjoiUDIyNmM4ZTA2ZThmM2YzYzNiZWVkNmVkMTE0NTkyN2NlZjU5NjVhYWEsQzdmNjcyMDRlOTI1NjIzZTQ4MjBmZTBkMjg4ZGFhYWQ3ZTRjMzdhZTgsTWFkNzAwMjRkYTE3YzYzYTQ4MmIxYjU4ZTY1YWY3YjE2NDU1MTkzMDIsVzIyMTAwMzY1ZGU3NTBjZmIxOTc0NmYyOWY3MDVlMDNjM2U1Y2Q0ZWUiLCJlc2wiOmZhbHNlfQ%3D%3D

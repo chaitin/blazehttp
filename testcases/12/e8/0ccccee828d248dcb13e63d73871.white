@@ -1,0 +1,18 @@
+POST /analytics/v2_upload?appkey=0AND0F8T5N4N7QT0 HTTP/1.1
+Host: otheve.beacon.qq.com
+Content-Length: 1478
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=utf-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://new.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://new.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appVersion":"","sdkId":"js","sdkVersion":"4.5.16-web","mainAppKey":"0AND0F8T5N4N7QT0","platformId":3,"common":{"A2":"XdYP7EdHsrHzMmfeNtpGmzw2zyPX4Gn7","A8":"","A12":"zh-CN","A17":"1920*1080*1","A23":"","A50":"","A76":"0AND0F8T5N4N7QT0_1688379217490","A101":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","A102":"https://new.qq.com/rain/a/20230703A05KBL00","A104":"https://www.qq.com/","A119":"","A153":""},"events":[{"eventCode":"boss_cmd_player_quality_feitian","eventTime":"1688379218784","mapValue":{"hc_main_login":"","hc_vuserid":"","hc_openid":"","hc_appid":"","guid":"0ca9f6e33c3abddd3b46d46bbc9a2cde","p2p":"","resolution":"1920*1080*1","testid":"","osver":"windows 10.0","playerver":"1.15.22","playertype":"","uip":"","confid":"","cdnip":"","cdnid":"","cdnuip":"","device":"","appver":"3.5.57","p2pver":"","flowid":"e7d4f2071f5d55d41b6f1138455a6969","platform":"70901","vid":"k3368t3d7ym","bizid":"","url":"https://new.qq.com/rain/a/20230703A05KBL00","refer":"https://www.qq.com/","cid":"","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\\, like Gecko) Chrome/114.0.0.0 Safari/537.36","ptag":"","loginid":"","loginex":"","logintype":"0","vip":"0","downloadkit":"1","seq":"0","stepname":"boss_cmd_player_quality_feitian","step":"5","data":"{\"stime\":1688379218647\\,\"etime\":1688379218669\\,\"code\":\"0\"}","A99":"Y","A100":"5","A72":"4.5.16-web","A88":"1688379218745"}}]}

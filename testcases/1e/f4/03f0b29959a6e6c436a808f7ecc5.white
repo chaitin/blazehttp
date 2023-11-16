@@ -1,0 +1,19 @@
+POST /s.gif?lts=1 HTTP/1.1
+Host: s.union.360.cn
+Content-Length: 1006
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.kingdee.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.kingdee.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+et=3&ep=0&url=https%3A%2F%2Fwww.kingdee.com%2Fsemrln%3Futm_source%3Dbaidu%26utm_medium%3DPC-%25E9%2580%259A%25E7%2594%25A8%25E8%25AF%258D-%25E7%25AE%25A1%25E7%2590%2586%25E7%25B1%25BB%25E8%25AF%258D-oCPC%26utm_content%3Dsaas%25E8%25BD%25AF%25E4%25BB%25B6%26utm_term%3D%25E4%25BC%2581%25E4%25B8%259A%25E7%25AE%25A1%25E7%2590%2586%25E8%25BD%25AF%25E4%25BB%25B6saas%26bd_vid%3D11821703596171007653&si=445695&su=https%3A%2F%2Fwww.kingdee.com%2Fsemcyn%3Futm_source%3Dbaidu%26utm_medium%3DPC-%25E9%2580%259A%25E7%2594%25A8%25E8%25AF%258D-%25E7%25AE%25A1%25E7%2590%2586%25E7%25B1%25BB%25E8%25AF%258D-oCPC%26utm_content%3Dsaas%25E8%25BD%25AF%25E4%25BB%25B6%26utm_term%3D%25E4%25BC%2581%25E4%25B8%259A%25E7%25AE%25A1%25E7%2590%2586%25E8%25BD%25AF%25E4%25BB%25B6saas%26bd_vid%3D11821703596171007653&flt=1688382552&lt=1688382546&pt=2808620226844528000&guid=128334933.3164569255549799936.1688382543001.3254&huid=11C3XJVIkcvVBDkA1a540GfJZuSRsanKWdabl01dmrMSE%253D&v=3.2.0&pt2=3910057728180575700&t=1688382552967&_mtd=bc

@@ -1,0 +1,18 @@
+POST /wapm/api/sdk/collect HTTP/1.1
+Host: sentry.music.163.com
+Content-Length: 1062
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appKey":"2b4e9f0e-c28e-4465-8ac6-181be65c0015","dataType":"webVitals","data":[{"DETAIL":{},"FCP":385.39999997615814,"EXTRA":{"navTiming":{"navigationStart":1688383911787,"unloadEventStart":0,"unloadEventEnd":0,"redirectStart":1688383911794,"redirectEnd":1688383911888,"fetchStart":1688383911888,"domainLookupStart":1688383911888,"domainLookupEnd":1688383911888,"connectStart":1688383911888,"connectEnd":1688383911888,"secureConnectionStart":0,"requestStart":1688383911889,"responseStart":1688383911908,"responseEnd":1688383911909,"domLoading":1688383911913,"domInteractive":1688383912188,"domContentLoadedEventStart":1688383912188,"domContentLoadedEventEnd":1688383912188,"domComplete":1688383912274,"loadEventStart":1688383912274,"loadEventEnd":0}},"LCP":446.2000000476837,"FID":0.2999999523162842,"CLS":0}],"uid":"b2b99e483f6f4253ab14cbc3fc44cfe3","pid":"00208d43ddb94efca54da06fcc5a5fa1","href":"https://music.163.com/st/musician","url":"music.163.com/st/musician","sampleRate":1,"version":"1.6.8","network":{"effectiveType":"4g","rtt":100},"hashSpa":false}

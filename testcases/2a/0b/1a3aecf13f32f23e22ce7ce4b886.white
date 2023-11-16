@@ -1,0 +1,15 @@
+GET /lview?c=www&loc=QQcom_all_Width1,QQcom_all_Rectangle&ad_cnt=2,3&callback=crystal.callbackarea&rot=1&ri=l.&chl=politics&page_type=2&k=%E6%88%90%E9%83%BD%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%BD%E5%B0%8F%E7%90%B3%E5%B1%A5%E6%96%B0%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%EF%BC%8C%E6%9B%BE%E6%98%AF%E6%9C%80%E5%B9%B4%E8%BD%BB%E7%9A%84%E7%9C%81%E4%BC%9A%E5%9F%8E%E5%B8%82%E4%B8%80%E6%8A%8A%E6%89%8B%2C&t=%E6%88%90%E9%83%BD%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%BD%E5%B0%8F%E7%90%B3%E5%B1%A5%E6%96%B0%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%EF%BC%8C&r=&s= HTTP/1.1
+Host: l.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://new.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

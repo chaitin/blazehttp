@@ -1,0 +1,16 @@
+GET //phoenix/web/v2/skill-tree-info?articleId=131511459 HTTP/1.1
+Host: blog.csdn.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://blog.csdn.net/Byeweiyang/article/details/131511459?spm=1000.2115.3001.6382&utm_medium=distribute.pc_feed_v2.none-task-blog-his_today-5-131511459-null-null.pc_personrec&depth_1-utm_source=distribute.pc_feed_v2.none-task-blog-his_today-5-131511459-null-null.pc_personrec
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,22 @@
+POST /mp-action/interact/wrapper/pc/like/v1/api/batchGetLikeAndTreadNumAndCheck HTTP/1.1
+Host: bizapi.csdn.net
+Content-Length: 237
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ca-Signature-Headers: x-ca-key,x-ca-nonce
+X-Ca-Signature: Ca5oDW0Ih3fbxFlOwekeETuMX/DbPCvWwMVKRjvcRJo=
+X-Ca-Nonce: 90fc506e-5c22-4405-8926-0634bd2c13d4
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Accept: application/json, text/plain, */*
+X-Ca-Key: 203930474
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://blog.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://blog.csdn.net/nav/algo
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"appId":"1547458038","itemIds":"125111016,131263755,131258890,131426953,129629485,126820338,131371561,130863080,129784142,125904800,130312476,127834057,127727565,128072473,130429015,131361029,131034408,126624319,128920323,128168257,"}]

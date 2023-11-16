@@ -1,0 +1,17 @@
+GET /other.php?sc.0s0000agNEWVCqwHvRtBkkD3RD_Sks86nYHAJlbFa0gWzoRH60kRBmNDduQZy77ud-cqmDBFLbehIhzdrcNHLRRrAiZy6kyc0pPgKqUsq2X7HNjGdYKfiWJnzGGX8dLhb4fqBj40v4TIRtihyCqUbnSTDfojsp3_40YgOu3PpYqiuJW_Unq8YZ8xsMFtZQxj7tR7hXb60j5vf8Qc6_q_sJUrYu72.7D_NR2Ar5Od66u9C5S9qjw4NmAXKQ3pQ_7zcQMks8swRrNhuQ5QqAljU1e32AM-WI6h9ikX1BsIT7jHzlRL5spyQ4hmo88a9G4myIrP-SJFB8z1Wkl32AM-9I7fH7fml32AM-CFhY_IT7jHz_LmlQn2y5UISpB1ah1FvXPXwi_nYQAHFk3e0.TLFWgv-b5HDkrfK1ThPGujYknHb0THY0IAYq8lorJVHA0ZN1ugFxIZ-suHYs0A7bgLw4TARqnsKLULFb5U8J1JoRk6KzmLmqn0KdThkxpyfqnHRdnj0YrjDsr0KVINqGujYkPHf4n1m4nsKVgv-b5HDzPH6YPWD40AdYTAkxpyfqnHc3nWm0TZuxpyfqn0KGuAnqHbG2RsKspyfqn1c0mv-b5Hc3n0KWThnqnWRYPf&dt=1688383596&wd=%E5%8D%8E%E4%B8%BA%E4%BA%91&tpl=tpl_12826_31784_0&l=1550048108&ai=0_60666198_1_1&us=linkVersion%3D1%26compPath%3D10036.0-10022.1-10036.0-10029.0%26label%3D%25E5%259B%25BE%25E7%2589%2587%25E9%2593%25BE%25E6%258E%25A5%26linkType%3D%26linkText%3D HTTP/1.1
+Host: www.baidu.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%8D%8E%E4%B8%BA%E4%BA%91&fenlei=256&rsv_pq=0xb1174fdd000b6a53&rsv_t=97bdI7JB5U2zGmpZ%2BqEIZtuZ2Jt3VWLEWjtnAQLhrPR3nsDefi5v4ZzGT7hB&rqlang=en&rsv_dl=ts_1&rsv_enter=1&rsv_sug3=7&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=huaweiy&rsp=1&inputT=1858&rsv_sug4=1859
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

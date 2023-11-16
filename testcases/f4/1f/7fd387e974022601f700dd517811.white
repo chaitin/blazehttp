@@ -1,0 +1,18 @@
+GET /rpc/v2/notices?sceneType=USER_HOMEPAGE&_=1688382659428 HTTP/1.1
+Host: qiye.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+Authorization: bearer eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiItLS0tLUgtLS0tLkxnODdzbTowOi0tLS1QbS0tLS0tR05IaDJXIiwiZXhwIjoxNjg4NTYyNjU1LCJpYXQiOjE2ODgzODI2NTUsImFwcCI6InNtYXJ0bWFpbCIsImFjY2Vzc1R5cGUiOiJkZWxlZ2F0ZWQiLCJkbWkiOiItLS0tLUgtLS0tLkxnODdzbToxIiwiYWN0IjoiY2hhbmd6aGkubGlAY2hhaXRpbi5jb20iLCJ2IjoxLCJwbXMiOiIqLioiLCJtYWlsQm94SWQiOiItLS0tUG0tLS0tLUdOSGgyVyJ9.bSmaVVf7BxdAwNBLMVE-lfC5YgB52i1BwsVWMUY-nq3_yJd4OQC1osLw0-sfwOze-CzQDUlwqD85r25kcClLk9eeJ9E2E06vA1kNdgctayQD_Hs-CQ5LD0RYg1eny4WwIrgqknHY0jkYgPUNyc10SuqTVU97y41_4Lui1wmfNLujIOh3CVhM9dpgKLiDeFNfqH7y8qXXpyjsTIrmPu5nLxbipKGOo459nSer6MeYHzuQaA_Zh8PO-qj_qsnj3ufh-ma2cFlPwstJ9P13QHchqTxBlEBdWyenMRgw3WUoMLci06LmXiLXDXw_s4MXdyCJmRPHXhwJ1g9FyyEI9DE1gA
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qiye.aliyun.com/alimail/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

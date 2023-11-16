@@ -1,0 +1,19 @@
+POST /weapi/user/playlist?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 478
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Nm-Gcore-Status: 1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/my/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=RawbrcZvS8XX7eMuv%2FEYa4Pms2RtnerqSU7crHILAvubAPbon7iUd7hoUt%2Bz1DG5g%2FcvD3FyMQan6hQhspAQw0%2FoFQFO3vO3jlS3BOH38oJJoqQL9EFxFZoWTtmOQLXS7CUcVuaTFCUTJ094auMHEODPF2D3a%2FIAgVgVzCxmC788%2FfQqi1VHjE73hALgppqd&encSecKey=3db6f45b452e6e81df63a89c3a3b55cabd50f3fa3c248fac2ff26a8f33fb3bd1ce760baede554d7b4bb091a4f58d5db817bb73b68485d1a19e4c9e9b23071e3df6d499221c78e3fc0688c849ffd46821f90096b57ca03a308f1415010dec8d9eccc9e121fcc9da579ca6a8d997f4d5b78bcb71d3be23e593a02063d0009cce22

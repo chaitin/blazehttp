@@ -1,0 +1,22 @@
+POST /blog/phoenix/console/v1/tag/get-recommend-tags HTTP/1.1
+Host: bizapi.csdn.net
+Content-Length: 4393
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ca-Signature-Headers: x-ca-key,x-ca-nonce
+X-Ca-Signature: HgqP4Us3U+qMxoK3lHv93EXhIkW/ugu0f7z+eztDtaI=
+X-Ca-Nonce: bb467ab7-1b3d-4f48-9971-a668b0b32c63
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;
+Accept: application/json, text/plain, */*
+X-Ca-Key: 203803574
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://mp.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.csdn.net/mp_blog/creation/editor?spm=1001.2014.3001.5352
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"title":"雷池社区版6月更新汇总","content":"<h2 id=\"雷池社区版简介\">雷池社区版简介</h2>\n\n<p>雷池社区版是一款足够简单、足够好用、足够强的免费 WAF。功能简单好用，专为社区而生。核心检测能力由业界领先的智能语义分析算法驱动，基于反向代理接入，保护网站不受黑客攻击。</p>\n\n<h2 id=\"主要更新\">主要更新</h2>\n\n<p>6 月内，雷池社区版发布了 1.7.0 ~ 2.0.1 共 9 个版本，主要更新内容如下。</p>\n\n<h2 id=\"「新增」\">「新增」</h2>\n\n<ul>\n\t<li>\n\t<p>数据统计内容升级，增加访问来源地区、流量统计，更好把控网站运营情况。页面适配 1920*1080 比例的屏幕，可以充当大屏：</p>\n\n\t<p class=\"img-center\"><img alt=\"\" isbindedload=\"true\" src=\"https://img-blog.csdnimg.cn/img_convert/cfea548a4505ddf25de380477957d142.png\" /></p>\n\t</li>\n\t<li>\n\t<p>新增人机验证功能，智能算法识别出正常用户的操作，保护网站不受扫描：<br />\n\t&nbsp;</p>\n\n\t<p class=\"img-center\"><img alt=\"\" isbindedload=\"true\" src=\"https://img-blog.csdnimg.cn/img_convert/3e71c46a89f6ab794e4d026be764692e.png\" /></p>\n\t</li>\n\t<li>\n\t<p>防护站点新增 &ldquo;运行模式&rdquo;，可以一键将站点设为&ldquo;观察&rdquo;或&ldquo;维护&rdquo;模式。维护模式下，站点将直接返回 &ldquo;网站维护中&rdquo; 信息：</p>\n\t</li>\n</ul>\n\n<p class=\"img-center\"><img alt=\"\" isbindedload=\"true\" src=\"https://img-blog.csdnimg.cn/img_convert/269db65811f31df6356320adc48452aa.png\" /></p>\n\n<div class=\"img-center\"><img alt=\"\" isbindedload=\"true\" src=\"https://img-blog.csdnimg.cn/img_convert/bace6c67ce4a3143b7a36598b5a28169.png\" /></div>\n\n<ul>\n\t<li>新增 &ldquo;IP 组&rdquo; 功能，可以配置大量 IP 或网段，然后在黑白名单中添加 &ldquo;源 IP 属于 IP 组&rdquo; &ldquo;源 IP 不属于 IP 组&rdquo; 的条件。</li>\n\t<li>支持嵌入式部署，可以通过 t1k 协议 直接把流量转发到雷池进行检测。详细方法可参考：<a data-link-desc=\"CT Stack 安全社区\" data-link-icon=\"https://stack.chaitin.com/favicon.ico\" data-link-title=\"CT Stack 安全社区\" href=\"https://stack.chaitin.com/techblog/detail?id=120\" title=\"CT Stack 安全社区\">CT Stack 安全社区</a></li>\n\t<li>通用防护策略增加 &ldquo;仅观察&rdquo; 选项，模块切换成改选项后，不会进行拦截，只记录检测日志。</li>\n</ul>\n\n<h2 id=\"「优化」\">「优化」</h2>\n\n<ul>\n\t<li>整体 UI 大改造，信息层级更清晰。</li>\n\t<li>更新语义引擎版本，优化了一大批检测逻辑，降低误报。</li>\n\t<li>优化规则生效顺序，现在会优先执行完所有白名单，再执行黑名单。</li>\n\t<li>把日志详情中的源 IP 加入到 IP 组时，支持调整 IP 为任意 IP 或网段。</li>\n\t<li>通用防护策略增加 &ldquo;批量配置为&rdquo; 按钮，可以快速切换所有模块的防护策略。</li>\n\t<li>转发流量时，自动设置请求头 X-Forwarded-Proto，适配更多代理场景。</li>\n\t<li>优化了界面的交互、文字提示，修复已知问题。</li>\n</ul>\n\n<h2 id=\"结束语\">结束语</h2>\n\n<p>6 月雷池社区版正式从 1.x 系列迈入了 2.x 系列，标志着 WAF 的基础防护能力已经基本完善。2.x 系列中，雷池社区版将持续着眼于 人机验证、数据统计 等高级防护能力，打造业内最好用的免费 WAF。</p>\n\n<p>官网：<a data-link-desc=\"长亭雷池 Web 应用防火墙 | 长亭雷池 WAF\" data-link-icon=\"https://waf-ce.chaitin.cn/images/safeline.png\" data-link-title=\"长亭雷池 WAF 社区版\" href=\"https://waf-ce.chaitin.cn/\" title=\"长亭雷池 WAF 社区版\">长亭雷池 WAF 社区版</a></p>\n\n<p>Github 需求池：<a data-link-desc=\"一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 - Issues · chaitin/safeline\" data-link-icon=\"https://github.com/fluidicon.png\" data-link-title=\"Issues · chaitin/safeline · GitHub\" href=\"https://github.com/chaitin/safeline/issues\" title=\"Issues · chaitin/safeline · GitHub\">Issues &middot; chaitin/safeline &middot; GitHub</a></p>","type":"1"}

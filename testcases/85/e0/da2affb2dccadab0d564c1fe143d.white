@@ -1,0 +1,18 @@
+POST /bee/collect HTTP/1.1
+Host: s.c-ctrip.com
+Content-Length: 1586
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"d":"f001688378108495!m1Legacy!ac=ntl&d=xXsidHlwZSI6InRpbGVkX3RsIiwiY29tbW9uIjpbMTAzMjA2NzMzMDIsIjE2ODgzNzgwMTE4NDIuNGVqZmYwIiwxLDksIgMxAzEDMYYyLjguNDYDN5V0c21ieHEtMXQzbGxjZi1qajJnM2QDTIgiLG51bGwsIgNUA1QDVIZvbmxpbmUDWgMtA0SUMDkwMzExMjE0MTA3ODg4ODQ1ODcDbpZodHRwczovL2ZsaWdodHMuY3RyaXAuA4EBgS8GK78vbGlzdC9vbmV3YXktaGdoLWJqcz9fPTEmZGVwZGF0ZT0yMDIzLTA3LTA0JmFsbGlhbmNlaWQ9ODYzNDE3JnMDCIszMzI4MzQ1Il0sIgMrgWEDgUeFeyJrZXkDgWCGMTEzNTQ4A4FbiXZhbCI6eyJ2XwOBWIY5ODEiOjQDKIEsAwcDgV-FODEzIjoHgVONMTA1ODY5fSwiZHVpZAOCCIQifV19&c=1&mt=1688378107377&jv=2.8.46\r\nm1Legacy!ac=a&d=uFtbNCwibWF0cml4Il0sWzEwMzIwNjczMzAyLCIxNjg4Mzc4MDExODQyLjRlamZmMCIsMSw5LCIiAwADAIgsIjIuOC40NgMGlXRzbWJ4cS0xdDNsbGNmLWpqMmczZAMbhiIsbnVsbAUhAyEDIYZvbmxpbmUDJwMuA0WUMDkwMzExMjE0MTA3ODg4ODQ1ODcDO5FodHRwczovL2ZsaWdodHMuYwN8hnAuY29tLwYrvy9saXN0L29uZXdheS1oZ2gtYmpzP189MSZkZXBkYXRlPTIwMjMtMDctMDQmYWxsaWFuY2VpZD04NjM0MTcmcwMIhzMzMjgzNDUEgUOJeyJuYW1lIjoiA4FJgzk3OQOBJJF0YWdzIjpmYWxzZSwidmFsdQMVhjcxOCwidAMRB4FSA4EIjjM3NywiY2xpZW50Q29kBCgUgQ6EIn1dXQ~~&mt=1688378107377&jv=2.8.46\r\nm1Legacy!ac=ntl&d=xXsidHlwZSI6InRpbGVkX3RsIiwiY29tbW9uIjpbMTAzMjA2NzMzMDIsIjE2ODgzNzgwMTE4NDIuNGVqZmYwIiwxLDksIgMxAzEDMYYyLjguNDYDN5V0c21ieHEtMXQzbGxjZi1qajJnM2QDTIgiLG51bGwsIgNUA1QDVIZvbmxpbmUDWgMtA0SUMDkwMzExMjE0MTA3ODg4ODQ1ODcDbpZodHRwczovL2ZsaWdodHMuY3RyaXAuA4EBgS8GK78vbGlzdC9vbmV3YXktaGdoLWJqcz9fPTEmZGVwZGF0ZT0yMDIzLTA3LTA0JmFsbGlhbmNlaWQ9ODYzNDE3JnMDCIszMzI4MzQ1Il0sIgMrgWEDgUeFeyJrZXkDgWCGMTEzNTQ3A4FbiXZhbCI6eyJ2XwOBWIk5ODIiOjU1OCwDCQOBYYc5ODMiOjAsAxADgWiDOTg0BAMDEwOBa4M5ODADB4d9LCJkdWlkA4IMhCJ9XX0~&c=1&mt=1688378107376&jv=2.8.46\r\n"}

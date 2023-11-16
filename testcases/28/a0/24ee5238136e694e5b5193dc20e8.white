@@ -1,0 +1,19 @@
+POST /content_api/v1/article/detail_version?aid=2608&uuid=6922073775576761864&spider=0&verifyFp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&fp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&msToken=yuOi2BZGsCeF6Q-j1Zzd1sXDDRvGMAB8SfI--CjN7P5kHqkAzyfzKIIC_NX9kAJwBxtww0f514-0jq4RLYBObKuuz_BXsJ5Q5nKAzLjDy0JHnlLSXwgZr87sDlOhHoEy&a_bogus=OvlEhO2pMsm1oxW6A7kz9aUyx4L0YW-sgZEzy6Q8FULL HTTP/1.1
+Host: api.juejin.cn
+Content-Length: 48
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Secsdk-Csrf-Token: 000100000001458204776f365cc3ccccd7bcfe77c79d9fcca617d1848491359a11a077c64af6176e51b4f5c7e509
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"article_id":"7250375753597943863","version":1}

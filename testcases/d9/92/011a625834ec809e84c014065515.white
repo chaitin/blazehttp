@@ -1,0 +1,19 @@
+POST /restapi/soa2/21881/json/HotelSearch?testab=a45a6d0eb0ecc8e72c3aeff524f116579c0decd9dc029c7e43d366078bcb83cf HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 2820
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json;charset=UTF-8
+P: 3826857740
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://hotels.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://hotels.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"searchCondition":{"sortType":"","adult":1,"child":0,"age":"","pageNo":1,"optionType":"City","optionId":2,"lat":0,"destination":"上海","keyword":"","cityName":"上海","lng":0,"cityId":2,"checkIn":"2023-07-03","checkOut":"2023-07-04","roomNum":1,"mapType":"","travelPurpose":0,"countryId":1,"url":"http://hotels.ctrip.com/hotels/list?countryId=1&city=2&checkin=2023/07/03&checkout=2023/07/04&optionId=2&optionType=City&directSearch=0&display=%E4%B8%8A%E6%B5%B7&crn=1&adult=1&children=0&searchBoxArg=t&travelPurpose=0&ctm_ref=ix_sb_dl&domestic=1&","pageSize":10,"timeOffset":28800,"radius":0,"directSearch":0,"signInHotelId":0,"signInType":0},"filterCondition":{"star":[],"rate":0,"breakfast":[],"bookable":[],"zone":[],"landmark":[],"metro":[],"airportTrainstation":[],"location":[],"brand":[],"feature":[],"category":[],"amenty":[],"discount":[],"cityId":[],"payType":[],"bookPolicy":[],"bedType":[],"priceRange":{"highPrice":-1,"lowPrice":0,"curr":"CNY"},"priceType":"","promotion":[],"rateCount":[],"hotArea":[],"hotPoi":[],"covid":[]},"ssr":false,"genk":true,"genKeyParam":{"a":0,"b":"2023-07-03","c":"2023-07-04","d":"zh-cn","e":2},"pageTraceId":"bf740fc0-f98b-430c-a4a5-3dddf38369de","head":{"Locale":"zh-CN","Currency":"CNY","Device":"PC","UserIP":"183.159.125.90","Group":"ctrip","ReferenceID":"","UserRegion":"CN","AID":"4897","SID":"155952","Ticket":"","UID":"","IsQuickBooking":"","ClientID":"09031121410788884587","OUID":"logo","TimeZone":"8","P":3826857740,"PageID":"102002","Version":"","HotelExtension":{"WebpSupport":true,"group":"CTRIP","Qid":"580646778549","hasAidInUrl":false,"hotelUuidKey":"BMzIp6WSnJTnYnqKfOelBEM0WNoIGGJAHElY8NeZOecoRaMY0FEODK3OigHvoYQaW0PJscJP9e6QE3ljnMW17RbNE5MWTYaXylZwoUEX5jG9E5fvs7joJScj6OR7bYhdjOJF8Is6wbTvHkjXJ7hvL0vSAYAHwgzjZ7eqbipHY4krfHvUdvTY5ovAEshWUmy1BjTtvQTEfQvZOWG5j0SxA8jk6JnYcBWdHK7oxfTYLGiSnws5RqzEc5WNHwbUEn8rtY4JLhJ1AJ41RFzJf5e1YHXi7y3GvOpy8ZWm6wDYbtIPnjGOJH3vgXY5DygTjUFvBNe79Yf9j3HyMJqsvZQYPoykgjpGvnDelXYnhj7oyBJX7Y96vlcWpLWUZwF7vTpJNYtAIgPEbXEMQvoNefZY6fiNqYlor0XE1nWzY5dK6dRlsrs9vn9y1LePYMDWflK3qKpQKNQxTzy5YXQi85YqPxXDY9gicZiFSihUjaoWhoIHqRgYsMJ4Ti99Kp1Yzlwk5YfmwMXEdZjmHYAOwzUIPDwHSIZYl8rLhrSTYkXR1Dw9Pj46j8aimBy6UjAQWLTRPdvaOv7OY0XizPvU6YMaRBY19R8nybfYzpRmUjTfJ5YPOykPRB0IA8RhMw1fjQ3jUTikAytmjX5WobRU8RNtjQ3EB3YaQe8lyfPrHYXZWhTW8mEp4jBAwMovtbjZ1wDw7HvUY6qItqv1oJs9RzUvB7Y8PWbBeg5R39WTXjdPWkQItbwOoyZYg9jnwhSI65R9mvDLYPtWgDegzRpcWfFim3YAljg6ibTemY1hEMZJNkIsZRU7w4hjbDjm8idMy6nj49WUhRM7vBavaFYU9RgAwoDKcvTY7oellxppKT6EGkjqHWAOWT3WlsYoPYTaYqTRoMY8GWDTYbkYOZYQXjFfe54ESQWtoeAqwFkehljXNYlayPzEgZjUAETmra1jmOw75ysXWPtv8qEzY6oRZGW3XWp0WaAWk7YhYX9K3lxS1isXvMPE6BWP4y9qjPJ8qv63EhSWt7ygbjfDeHUehtRnYfv8ZvFHy86E78EBtEPmR65E7zeF4W0OvqYpnJPhYcBIM6EpOE4qE1TYmfYS0Y6GYhgeDTIoc"},"Frontend":{"vid":"1688378011842.4ejff0","sessionID":"1","pvid":"2"}},"ServerData":""}

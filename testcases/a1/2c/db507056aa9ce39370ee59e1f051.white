@@ -1,0 +1,19 @@
+POST /v3/d HTTP/1.1
+Host: ac.dun.163.com
+Content-Length: 1126
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+d=5c8BNkYKQYzeCm4JZQ.HFHACJp2KNk%2B%2F14ZDUV2mZNjGvdvBS1kh7NyZkGJEEQNNrkHYGogxgvUmMQC5Wq6ywDNSKHRqG1IN7XgMo8%2BYEZ3yR7haVrf%2B8cE.%2B6SIxGRM2OWRt98sku2rzN7qxO38jbNckSLt1d%2BonMCDNjL6orOx3Ogq2wHErCQKEfy0vPkOkYCWbwtHt1xvD7jSGZruSwDz2d81RvMK4J4zF3yeNjaPcG9A18RgDgtiJjLRxkkMtMZds%2FDTF0rScDajI0tbsA0Wro%2B2UENdFKgX%2Btx1vCdDGMe%2FtRJTAOdqg4zQrkyNq0gNSqyg9sPSaoghWzkZ.s1LeO5befD4z1QQo%2Bgj23%2FVQc17r2FCsdvp8naaTZk9Wc0Mhk5Gtbb2zAo5D7W97QKmjo4aWKoopIeTfrYX1Be.cCJ%2BSoIxUhDmzdbNr3crsKf6gwQ0FekHrKGpB6CreDTinppxCGH1ay6J8Sp6wGeZ5w.dMDpoWJ6WYfsSZ1iJk12.XGHjbLqq85YI.EMFs6XbSE8BuziXV10%2BR%2F3MOqP7J0RsbQfCBfu2ZMaQLyxAxUN.8uKZbUkI5eUFQNBG7BhOSqFik7G7wpFCf7CkN0wZMO7UU%2Be9xzrn52LeV%2BsYXCOhqzrkxsYUSw0HKD2xdTcdSPZNJFa%2FAx7oV95OnzOFnTjTPtXN%2Fh%2Bi%2FwgfoyH3Dfm%2BmK0qNFXvOBAOubHvr3twIxMa7JE35qoRI20Q9hnCzSWAnPO6rUhgom02DSwDqn9noQirw0Ev9ywOW6hKSYwcNhtGtH8619t93IRQIGTsNGWdH9nA%2BDoV2HjRzwZ%2ByiT7Fg1eGR%2F.G2QgD.%2Bky4CWeIZifw.WAenp.xc7D%2BOgmpU16byYVPLoHixFHgOpWxB1Ew%2FvMgpHadjFCDawpCnzms4e8Z%2FCqPegENsNa6DwBLTDcFJdDRqiR4ceWeTkyc7qaiLpZ%2FT2NzJntmpBoUUB36A7CVHaGUazy3yg9oxqCR8u7CRYd6i5ONMEzrtNU.v6y2ll&v=e2891084&cb=__wmjsonp_2d1af96

@@ -1,0 +1,16 @@
+POST /log/web?0000161688375145300https%3A%2F%2Fwww.bilibili.com%2Fmatch%2Fhome%2F%3Fspm_id_from%3D333.1007.0.0|333.1111.mvvm-app.performance|1688375145300|1920x921|1|{%22created%22:190,%22mounted%22:200,%22TTFB%22:33,%22LCP%22:599,%22FP%22:294,%22FCP%22:294,%22slowestResource%22:[{%22name%22:%22https://i0.hdslb.com/bfs/live/0e34ebb4a689767abadacfab08a3b6ac98638bda.jpg@1365w_750h_1c.webp%22,%22duration%22:746},{%22name%22:%22https://i0.hdslb.com/bfs/legacy/b84e9089e75747a9ae203da111a5b6ee1fd49631.png@168w_168h_1c.webp%22,%22duration%22:716},{%22name%22:%22https://i0.hdslb.com/bfs/archive/a878dde48b4cdf9addeb19655e2091f93eed7e26.jpg@702w_396h_1c.webp%22,%22duration%22:657},{%22name%22:%22https://i0.hdslb.com/bfs/archive/7009f0555cd51d90c516382f1e6de6ad3496d45b.jpg@702w_396h_1c.webp%22,%22duration%22:654},{%22name%22:%22https://i1.hdslb.com/bfs/archive/f055d818db2a9a861314a2612905abd2dfe9668b.jpg@702w_396h_1c.webp%22,%22duration%22:647},{%22name%22:%22https://i2.hdslb.com/bfs/archive/1092dd832b2bbe584936f2d3bff372dcb28bb480.jpg@702w_396h_1c.webp%22,%22duration%22:643},{%22name%22:%22https://i0.hdslb.com/bfs/archive/fa54ce267840f1e0d877821b1a8e3839faca654b.png@180w_180h_1c.webp%22,%22duration%22:643},{%22name%22:%22https://i0.hdslb.com/bfs/legacy/8b9459412dab158c8779741373af0973b06ae3b1.png@180w_180h_1c.webp%22,%22duration%22:638},{%22name%22:%22https://i0.hdslb.com/bfs/feed-admin/7a7630499aacd44a8b8c4890442fc931d42bbd74.png@180w_180h_1c.webp%22,%22duration%22:633},{%22name%22:%22https://i0.hdslb.com/bfs/legacy/d2c8e3e7628e119d5f186db741b98d16903627b2.png@1437w_522h_1c.webp%22,%22duration%22:629}],%22FID%22:1}||{}|1 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

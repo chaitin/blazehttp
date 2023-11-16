@@ -1,0 +1,14 @@
+GET /ac_portal/share/res/js/fp2.js HTTP/1.1
+Host: idtrust.epass.sangfor.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://idtrust.epass.sangfor.com/ac_portal/default/pc.html?authWay=14&appToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiIyOTY4MDE5NjMyIiwicmVkaXJlY3RfdXJpIjoiaHR0cHM6Ly9wcm0uZXBhc3Muc2FuZ2Zvci5jb20vY2FsbGJhY2suaHRtbCIsInJlc3BvbnNlX3R5cGUiOiJjb2RlIn0.5-rfDoqtiwoUo28A8VFtBlkuH6B1-2yD-QsOE-jaLJU&auth=oauth&authToken=85B3E4BB958A9CD8485F14553324D85650E6&template=default
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

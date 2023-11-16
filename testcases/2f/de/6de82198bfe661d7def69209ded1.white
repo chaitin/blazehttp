@@ -1,0 +1,18 @@
+POST /monitor_browser/collect/batch/?biz_id=2608 HTTP/1.1
+Host: mon.zijieapi.com
+Content-Length: 2898
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"ev_type":"batch","list":[{"ev_type":"http","payload":{"api":"xhr","request":{"url":"https://juejin.cn/passport/web/get_qrcode/?next=https%3A%2F%2Fjuejin.cn%2F&aid=2608&account_sdk_source=web&sdk_version=2.2.5&verifyFp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&fp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&sign=f4eda1757efaf673922e64e41489d0eb76c177114fdc935ed4afb86da969311f&qs=6466666a706b715a76616e5a766a7077666029646c612963752976616e5a736077766c6a6b297360776c637c4375","method":"get","headers":{"accept":"application/json, text/javascript","x-tt-passport-csrf-token":""},"timestamp":1688381435558},"response":{"status":200,"is_custom_error":false,"timestamp":1688381435737,"headers":{"bd-tt-error-code":"0","content-length":"2349","content-type":"application/json","date":"Mon, 03 Jul 2023 10:50:32 GMT","eagleid":"968bf04616883814324361255e","server":"Tengine","server-timing":"inner; dur=40","timing-allow-origin":"*","vary":"Accept-Encoding,Origin","via":"cache50.cn3622[57,0]","x-tt-logid":"20230703185032E864AA9DF2308A508D95","x-tt-timestamp":"1688381432.487","x-tt-trace-host":"01198482a27cced39bdec288347886b7cf32dd78f84b954bbce8e4d702e10fa7d6efe6fe1efac14c1f2e4560960d036b1cf84843921a0754dbc8564c157a861dfa224300f0f667d0a173336fc996ded27754ef25e904c1673849deb6d9429578d0af8aad8cf55e621c8af1afcdedb7f3bf","x-tt-trace-tag":"id=3;cdn-cache=miss"},"timing":{"name":"https://juejin.cn/passport/web/get_qrcode/?next=https%3A%2F%2Fjuejin.cn%2F&aid=2608&account_sdk_source=web&sdk_version=2.2.5&verifyFp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&fp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&sign=f4eda1757efaf673922e64e41489d0eb76c177114fdc935ed4afb86da969311f&qs=6466666a706b715a76616e5a766a7077666029646c612963752976616e5a736077766c6a6b297360776c637c4375","entryType":"resource","startTime":4688278.299999952,"duration":177.30000007152557,"initiatorType":"xmlhttprequest","nextHopProtocol":"h2","renderBlockingStatus":"non-blocking","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":4688278.299999952,"domainLookupStart":4688278.299999952,"domainLookupEnd":4688278.299999952,"connectStart":4688279.399999976,"secureConnectionStart":4688294.299999952,"connectEnd":4688297.799999952,"requestStart":4688298,"responseStart":4688454.899999976,"responseEnd":4688455.600000024,"transferSize":2649,"encodedBodySize":2349,"decodedBodySize":2349,"responseStatus":200,"serverTiming":[{"name":"inner","duration":40,"description":""}]}},"duration":179},"common":{"bid":"2608","pid":"index","view_id":"index_1688376748753","user_id":"6922073775576761864","device_id":"3e175914-aa5a-4f6e-ac9a-1c6cdbc38eef","session_id":"8338b686-4ac2-467c-a667-5a6983313fd4","release":"1.0.0.7460","env":"production","url":"https://juejin.cn/","timestamp":1688381435558,"sdk_version":"1.7.0","sdk_name":"SDK_SLARDAR_WEB","context":{},"network_type":"4g","sample_rate":1}}]}

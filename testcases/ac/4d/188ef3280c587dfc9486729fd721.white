@@ -1,0 +1,16 @@
+POST /gingame/report/click?sid=s3610448934&pvid=4600417016&qq=&dm=game.qq.com&url=%2Fimages%2Fjs%2Ftitle%2Ftitle_game_rank.html&hottag=newstaytime_5457_%E5%81%9C%E7%95%99%E6%97%B6%E9%95%BF&rand=48729&pttplat=dcv_pc&pttproject=other&pttpagetype=rankinglist&pttsitetype=navigation&pttosact=pc&pttpagename=%E6%B8%B8%E6%88%8F%E6%8E%92%E8%A1%8C%E6%A6%9C&pttrefer=other_pvp_qq_com&game=game&acctype=0&platid=&openid=&game_openid=&game_appid=&reserved2=&reserved3=newstaytime&partition=&roleid=&pageid=https%3A%2F%2Fgame.gtimg.cn%2Fimages%2Fjs%2Ftitle%2Ftitle_game_rank.html&business=dmpnew&action=timeline&title=&targetid=&targettype=&tag=&from=&dt=1688379805901&staytime=5457&path=&recid=&channelid=&top=&fortest1=&fortest2=&fortest3=&fortest4=&fortest5=&sourceid=index.0.0.0.page&adtag=&rtype=btn HTTP/1.1
+Host: dmplog.qq.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://game.gtimg.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://game.gtimg.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

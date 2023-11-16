@@ -1,0 +1,18 @@
+POST /sdk/download/1.png HTTP/1.1
+Host: uba.huaweicloud.com
+Content-Length: 1181
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://auth.huaweicloud.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://auth.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+type=2&screenResolution=1920x1080&screenColors=24-bit&browserSize=1920x921&browserLang=zh-cn&VisitKey=1eaa4ed0-67c7-47b8-8602-a9eb8a3b56f9&AccessTime=1688383621697&UserAccount=host&AppKey=c9770c4dac06fe3b76ec9c7ad47273d0&EventName=pageview&PageName=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2Flogin.html%3Flocale%3Dzh-cn%26service%3Dhttps%253A%252F%252Factivity.huaweicloud.com%252Fdiscount_area_v5%252Findex.html%253Futm_source%253Dbaidu%2526utm_medium%253Dbrand%2526utm_campaign%253D10033%2526utm_content%253D%2526utm_term%253D%2526utm_adplace%253DAdPlace024712%23%2Flogin&PageViewID=3fba4c93-4216-422d-8cdf-0cdf63f0148f&EventMode=0&FromPageName=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2Flogin%3Flocale%3Dzh-cn%26service%3Dhttps%253A%252F%252Factivity.huaweicloud.com%252Fdiscount_area_v5%252Findex.html%253Futm_source%253Dbaidu%2526utm_medium%253Dbrand%2526utm_campaign%253D10033%2526utm_content%253D%2526utm_term%253D%2526utm_adplace%253DAdPlace024712&Zone=%2B0800&AdSource=baidu&ChannelFrom=baidu&AdMedium=brand&AdCampaign=10033&AdPlace=AdPlace024712&Appkey=c9770c4dac06fe3b76ec9c7ad47273d0&C1=IAM-Login&plt=177&loadEventStart=1688383620632&navigationStart=1688383620455

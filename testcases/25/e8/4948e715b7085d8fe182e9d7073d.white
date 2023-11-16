@@ -1,0 +1,18 @@
+POST /v1/list HTTP/1.1
+Host: mcs.snssdk.com
+Content-Length: 1697
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://activity.feishu.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://activity.feishu.cn/landing/free_trial?tracking_code=7010o0000024cQ8AAI&utm_from=360sem_keyword_pc_office_pinpai_pinpai_feishu&source=360&device=pc&e_keywordid=36828965252
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"predefine_pageview","params":"{\"local_time_ms\":1688375803726,\"VID\":\"\",\"url_path\":\"/landing/free_trial\",\"is_from_web\":true,\"title\":\"飞书——先进企业协作与管理平台，一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人。先进团队，先用飞书。\",\"url\":\"https://activity.feishu.cn/landing/free_trial?tracking_code=7010o0000024cQ8AAI&utm_from=360sem_keyword_pc_office_pinpai_pinpai_feishu&source=360&device=pc&e_keywordid=36828965252\",\"time\":1688375804081,\"referrer\":\"https://cn.bing.com/\",\"$is_first_time\":\"true\",\"event_index\":1688376678468}","local_time_ms":1688375804081,"is_bav":0,"session_id":"aef15028-3d98-4120-8bb3-de7e18afb159"}],"user":{"user_unique_id":"8611841688375803725","web_id":"7251518767427536395","ssid":"ad989c24-e3f6-4d4e-8c89-7c8e9eb597ad"},"header":{"app_id":1658,"app_name":"lark","app_version":"none","os_name":"windows","os_version":"10","device_model":"Android","ab_version":"","language":"zh-CN","app_language":"zh","platform":"web","sdk_version":"4.1.63","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://cn.bing.com/","referrer_host":"cn.bing.com","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"custom":"{\"app_full_version\":\"none\",\"tenant_id\":\"none\",\"sub_platform\":\"pc_web\",\"refer_url\":\"https://cn.bing.com/\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"is_login\":false,\"lark_user_id\":\"\",\"dark_mode\":\"light\"}"},"local_time":1688375804}]

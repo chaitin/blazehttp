@@ -1,0 +1,21 @@
+POST /alimail/ajax/notification/getVersionUpdateNotificationList.txt?_timestamp_=1688382665345 HTTP/1.1
+Host: qiye.aliyun.com
+Content-Length: 241
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+X-Csrf-Token: QXltVG9rZW4tMTM4ODY0MjAtcE8xUDZrSFRVYlJ0dnNZd1FTdzY5U0Y0ZjNBcWVNVjFDYzlWajFMQ2lOWFNES1QyTVU
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://qiye.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qiye.aliyun.com/alimail/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+_csrf_token_=QXltVG9rZW4tMTM4ODY0MjAtcE8xUDZrSFRVYlJ0dnNZd1FTdzY5U0Y0ZjNBcWVNVjFDYzlWajFMQ2lOWFNES1QyTVU&_root_token_=dC0yNTQxNjMta1ZNMzBh5546&_refer_hash_=h%3DWyJmbV8yIixbIjIiLCIiLHsidElkIjoiMTEifSx7ImxhYmVsIjoi6YKu5Lu2In1dXQ%3D%3D&_tpl_=v5

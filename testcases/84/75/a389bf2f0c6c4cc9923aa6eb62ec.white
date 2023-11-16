@@ -1,0 +1,18 @@
+POST /price/getPrice.json HTTP/1.1
+Host: buy-api.aliyun.com
+Content-Length: 2709
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://common-buy.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://common-buy.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"configuration":{"commodityCode":"datav","specCode":"datav","commodityName":"DataV数据可视化","chargeType":"PREPAY","chargeTypeTitle":"预付费","autoRenew":false,"orderType":"BUY","quantity":1,"orderParams":{"order_created_by":"commonbuy_version_2","cna":"4utSG+tbmngCAXPGXJySNyNL","bigdipper_source":"{\"actionSource\":\"0zdQP06X4\"}","queryGetCouponActivity":true},"pricingCycle":"Month","duration":"1","pricingCycleTitle":"个月","config":{"orderType":"BUY","supportAutoRenew":true,"order_time":[{"unit":"month","min":1,"max":9,"step":1},{"unit":"year","min":1,"max":3,"step":1},{"unit":"day","min":15,"max":15,"step":1}],"product_code":{"value":"datav"},"aliyunProduceCode":{"value":"datav"},"per_user_max_num":{"value":"1"},"isNeedOrderTime":true,"pipCode":{"value":"datav"},"price_expression":{"value":"false"},"product_id":{"value":"10368803"},"development_mode":{"value":"self_developed"},"alreadyHaveInstanceCount":0,"aliyun_agreement":{"value":"https://help.aliyun.com/document_detail/150446.html"},"isEnableCommonBuyFunction":{"value":"true"},"product_name":{"value":"DataV数据可视化"},"commonbuy_group":{"value":"[{\r\n  \"basicGroup\": {\r\n    \"name\": \"基本配置\",\r\n     \"sortId\":\"1\"\r\n  },\r\n \"orderGroup\": {\r\n    \"name\": \"购买量\",\r\n     \"sortId\":\"2\"\r\n  }\r\n}]"},"is_need_cart":{"value":"false"},"timeStamp":[],"aliyunRegionUnit":[{"unitRegionName":"华东 1","unitRegionCode":"cn-hangzhou","unitRegionDomain":"-","unitComponentCode":"region","unitAttributionType":"center"}],"articleProductCode":{"value":"datav"},"aliyun_renzheng":{"value":"true"},"order_num":null,"aliyun_chargetype":{"value":"PREPAY"},"aliyun_commercial_mode":{"value":"pre_period"},"with_recommendCode":{"value":"false"},"protocal":[{"uuid":"protocal_1","prefix":"我已阅读并同意","checked":false,"text":"DataV数据可视化服务协议","value":"https://help.aliyun.com/document_detail/150446.html","href":"https://help.aliyun.com/document_detail/150446.html"}],"regionCode":"region"},"components":[{"componentCode":"region","componentName":"地域","instanceProperty":[{"code":"region","name":"华东1（杭州）","value":"cn-hangzhou"}]},{"componentCode":"com_type","componentName":"商品类型","instanceProperty":[{"code":"com_type","name":"公共云版本","value":"com_type_public"}]},{"componentCode":"versionType","componentName":"版本","instanceProperty":[{"code":"versionType","name":"企业版","value":"compVersion"}]},{"componentCode":"ord_time","componentName":"时长","instanceProperty":[{"code":"ord_time","name":"1个月","value":"1:Month"}]}],"couponNum":"default"},"withCreateOrderValidation":true,"channel":"commonbuy","withAgreement":true}

@@ -1,0 +1,21 @@
+GET /AS/Suggestions?pt=page.serp&bq=%E9%A3%9E%E4%B9%A6&mkt=zh-cn&ds=mobileweb&qry=%E9%A3%9E%E4%B9%A6we&cp=4&msbqf=false&cvid=74DE6607048D4003BE235415E17C8BDE HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+X-Autosuggest-Contentwidth: 650
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E9%A3%9E%E4%B9%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E9%A3%9E%E4%B9%A6&sc=10-2&sk=&cvid=C3D1A9B791554F76AFC3009F57548750&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

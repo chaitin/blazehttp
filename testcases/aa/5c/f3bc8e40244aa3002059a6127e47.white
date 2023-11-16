@@ -1,0 +1,19 @@
+POST /furiondataserver/fr?appId=51D7385A7D2B4937BB45DC755E82C48C&pid=533117b5-f2c4-4a14-b623-2fb7de1f40cb&pvid=aabab67f17d94dc69e20d7afc3a5622d&uid=&uuid=ebd0abeeffa04669af616b9f84fa968c&url=https%3A%2F%2Factivity.huaweicloud.com%2Fdiscount_area_v5%2Findex.html%3Futm_source%3Dbaidu%26utm_medium%3Dbrand%26utm_campaign%3D10033%26utm_content%3D%26utm_term%3D%26utm_adplace%3DAdPlace024712&brt=Chrome&brv=114.0.0.0&os=Windows&sr=1920*1080&v=3.5.6&ssid=2e60843ee0564a2183de3d2dd87b5147&effTy=4g&eno=null HTTP/1.1
+Host: furiondata.myhuaweicloud.com
+Content-Length: 108
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://activity.huaweicloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://activity.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+[{"t":"pv","ts":1688383604238,"val":"ld","tt":"特惠专区_云服务器_云主机_企业上云-华为云"}]

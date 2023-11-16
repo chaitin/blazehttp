@@ -1,0 +1,19 @@
+GET /ajax/message/unreadHint?group_ids=3669830266237864,3669830354079725,3783336784824682,3981846192103667,4003454734592470,4025350998166031,4067837385781054,4232673696774321,4413330972005937,4535958344832095,4716176444490948,4724456348192382,100051890258081,3667824080300236,100091890258081 HTTP/1.1
+Host: www.weibo.com
+Server-Version: v2023.07.03.2
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Xsrf-Token: Y_xfLL2iJ1xD_1h5xGmy3Utk
+Traceparent: 00-e2b5c64a378049669c0b42bfff8cef94-36c6f809c34fdfee-00
+Sec-Ch-Ua-Mobile: ?0
+Client-Version: v2.40.79
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.weibo.com/tsinghua?tabtype=article
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,15 @@
+GET /x/web-interface/wbi/index/top/feed/rcmd?web_location=1430650&y_num=4&fresh_type=4&feed_version=V8&fresh_idx_1h=2&fetch_row=7&fresh_idx=2&brush=2&homepage_ver=1&ps=12&last_y_num=5&screen=1920-921&outside_trigger=&last_showlist=av_784886244,av_402931071,av_572348699,av_357843131,ad_5614,av_954803229,av_402863542,av_955345709,av_954494583,av_955351230%3Bav_402512253,av_529766182,av_529461346,av_615390368,av_445016853,ad_5637,av_827748976,av_230101068,av_912970007,av_572581417,av_614620546,live_n_3589915&last_clicklist=av_954803229&uniq_id=1488202303296&w_rid=ff2abb3c37716c260a19dd423a9973a5&wts=1688375139 HTTP/1.1
+Host: api.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

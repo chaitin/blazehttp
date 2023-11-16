@@ -1,0 +1,19 @@
+POST /weapi/v1/comment/like?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 886
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Nm-Gcore-Status: 1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/song?id=1842025914
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=mxjf2JTxDCzOlk2kUaio6uQNKy6ohdYOoafUXNUWtOE0yP0z1zvCp2E%2FbrInKn5UGGQLyIp%2Fbor9eHyyqBEHsftOfw8doD%2FjhOepl6OKYiAKINHDMk6TwyXYG481XyshlCOlCBF%2BW2%2FzDGinCG16lPc6%2FymTkF%2B2R9Eb7c2U47GHUnhA58dEzL22QfKNBhY%2FqjV8U5UaqfQ2n6AI6jDCzZNVeCaXGpPGFrs%2FOqP%2FKS8pEVqxN%2BcQMQLklqF1BCGTPx0IPv0oGKwyHZjHqJ3x7GUWbOhqC9n056mvf45Bq8sc45yHw1qHWliP7ioMDrVA%2FRaqlT4yVRfi5HOdRyNZapAr8TgHkp5QjzhcsBe9CksjXhLQnYQIGzYL4O6B%2BYbN%2Fd%2BIBSTgHuJuCN6ab0DDUV7iYrUNutnf%2BKMrb7k03p6jiHREq7FV9yYJkhW7WpOZoBR1vgeNnYIFlZvwB0yIpjCYY9ATVgZGR0ESycTrPYyS3JDcrWbCj0M9evOapmaw9Dn0geQiRE2rFr4QcqxhL5%2Bz6Ozzv2bSkI9PsCfyE1sJet%2FaA7h19gvJQhmeyEuD&encSecKey=470504c115f4400651abc3d7c06529c154771a78b86ef960c5822ffacf117514e9e0dd63f57febd78f902546861275fbfca1e5d8a329306fa7ef73ae92e8cdc90f8889f1250274c5cffa8ecad75fdfc23ec43dba5f56a39faa7632faf3fa46064513332a18454a3ca88e2069c8ec33fdbb0e9c368cf726d26ee9b256c1c3a9ba

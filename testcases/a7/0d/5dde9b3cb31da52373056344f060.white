@@ -1,0 +1,18 @@
+POST /gol/postweb?013324 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 1165
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+0133241688378333387https%3A%2F%2Fwww.bilibili.com%2F|333.1007.main.home-page.DATA.downgrade-modern-info||1688378333387|||1920x921|1|{"flink":1,"is_modern":"is-modern","is_downgrade":"ssr","buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|{"b_ut":"5","home_version":"V8","i-wanna-go-back":"-1","in_new_ab":true,"ab_version":{"for_ai_home_version":"V8","tianma_banner_inline":"CONTROL","login_dialog_version":"V_TIANMA_LOGIN","h5_read_awaken_app":"B","home_pop_window":"V1","channel_show_back_btn":"HIDDEN","nano_pcdn_version":"V_PCDN","in_theme_version":"CLOSE","storage_back_btn":"HIDE","web_homepage_video_continuation":"CLOSE","clean_version_old":"KEEP"},"ab_split_num":{"for_ai_home_version":56,"tianma_banner_inline":56,"login_dialog_version":72,"h5_read_awaken_app":4,"home_pop_window":36,"channel_show_back_btn":90,"nano_pcdn_version":99,"in_theme_version":14,"storage_back_btn":13,"web_homepage_video_continuation":92,"clean_version_old":14}}||8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN||1

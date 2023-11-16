@@ -1,0 +1,15 @@
+GET /view.fcg?adposcount=1&posid=1729383361539855567&count=1&ext=%7B%22req%22%3A%7B%22rst%22%3A%221920*1080%22%2C%22yellow%22%3A0%7D%2C%22pos%22%3A%7B%220%22%3A%7B%7D%7D%7D&qz_caller=qzfl_jg&_r=567171&charset=utf8&datafmt=jsonp&g_tk=1000952582 HTTP/1.1
+Host: i.gdt.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,20 @@
+POST /OneCollector/1.0/?cors=true&content-type=application/x-json-stream&client-id=NO_AUTH&client-version=1DS-Web-JS-3.1.10&apikey=673ee842cde4489fb173dbf4ea476040-5275e586-243e-4af8-a802-6e7799f82bac-7502&upload-time=1688381497983&time-delta-to-apply-millis=use-collector-delta&w=0 HTTP/1.1
+Host: browser.events.data.microsoft.com
+Content-Length: 2297
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://privacynotice.account.microsoft.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://privacynotice.account.microsoft.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"name":"Ms.Web.PageView","time":"2023-07-03T10:51:36.978Z","ver":"4.0","iKey":"o:673ee842cde4489fb173dbf4ea476040","ext":{"web":{"isManual":false,"domain":"privacynotice.account.microsoft.com","userConsent":false},"sdk":{"ver":"1DS-Web-JS-3.1.10","seq":1,"epoch":"1187260750","installId":"e73c88bf-2799-4315-9e7c-7a640770d52b"},"app":{"locale":"en","sesId":"u6X/epQxEztKmLOfgQ5x4U"},"user":{"localId":"t:2EE9FC0608EC635A147FF32B0993620D","locale":"zh-CN"},"os":{"name":"Windows","ver":"10"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"mscv":{"cV":"lLyAYThnJz/hJr2lIXFt4N.0"},"metadata":{"f":{"behavior":{"t":6}}}},"data":{"baseType":"PageviewData","baseData":{"ver":"1.0","id":"62cedaf6-1296-4754-86e0-d7fd805be4ae","name":"notice","uri":"https://privacynotice.account.microsoft.com/notice","properties":{"pageTags":{"metaTags":{}},"version":"PostChannel=3.1.10;SystemPropertiesCollector=3.1.10;WebAnalyticsPlugin=3.1.10"},"isLoggedIn":false,"refUri":"https://login.live.com/"},"cookieEnabled":true,"behavior":0}}
+{"name":"Ms.Web.ContentUpdate","time":"2023-07-03T10:51:37.197Z","ver":"4.0","iKey":"o:673ee842cde4489fb173dbf4ea476040","ext":{"web":{"isManual":false,"domain":"privacynotice.account.microsoft.com","userConsent":false},"sdk":{"ver":"1DS-Web-JS-3.1.10","seq":5,"epoch":"1187260750","installId":"e73c88bf-2799-4315-9e7c-7a640770d52b"},"app":{"locale":"en","sesId":"u6X/epQxEztKmLOfgQ5x4U"},"user":{"localId":"t:2EE9FC0608EC635A147FF32B0993620D","locale":"zh-CN"},"os":{"name":"Windows","ver":"10"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"mscv":{"cV":"lLyAYThnJz/hJr2lIXFt4N.0"},"metadata":{"f":{"baseData":{"f":{"behavior":{"t":6},"pageHeight":{"t":6},"vpHeight":{"t":6},"vpWidth":{"t":6},"vScrollOffset":{"t":6},"hScrollOffset":{"t":6}}}}}},"data":{"baseType":"ContentUpdateData","baseData":{"name":"notice","uri":"https://privacynotice.account.microsoft.com/notice","isLoggedIn":false,"id":"62cedaf6-1296-4754-86e0-d7fd805be4ae","properties":{"pageTags":{"metaTags":{}},"version":"PostChannel=3.1.10;SystemPropertiesCollector=3.1.10;WebAnalyticsPlugin=3.1.10"},"ver":"1.0","behavior":0,"pageHeight":921,"content":"[]","contentVer":"2.0","vpHeight":921,"vpWidth":1920,"vScrollOffset":0,"hScrollOffset":0},"cookieEnabled":true,"isDomComplete":true}}

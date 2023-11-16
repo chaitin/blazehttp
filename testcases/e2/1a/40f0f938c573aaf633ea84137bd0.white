@@ -1,0 +1,18 @@
+POST /xhr1?pvid=4eed207d-6ad1-4d6b-8d7b-16855e507b4d&ref=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dcommon_plug%3Aonline%26ref%3D%25E7%25A4%25BE%25E5%258C%25BA&referrer=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dinfo%3Aindex&key=2MsHntswCUw&v=1.8.3&av=1.8.3&did=85c8767c-12a9-4478-9bd7-c543ed39b64e&sid=7a60dee7-b663-43f3-80f5-413741dc521d&__r=1688379691610 HTTP/1.1
+Host: beacon.tingyun.com
+Content-Length: 1956
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"xhr":[{"id":6,"req":"POST https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1658497056&t=pageview&_s=1&dl=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dcommon_plug%3Aonline%26ref%3D%25E7%25A4%25BE%25E5%258C%25BA&dp=%2Fplugin.php%3Fid%3Dcommon_plug%3Aonline%26ref%3D%25E7%25A4%25BE%25E5%258C%25BA&ul=zh-cn&de=UTF-8&dt=%E6%B7%B1%E4%BF%A1%E6%9C%8D%E7%A4%BE%E5%8C%BA&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&_u=QACAAQABAAAAACAAAAB~&jid=&gjid=&cid=515135196.1688025924&tid=UA-128987720-2&_gid=2105667621.1688379612&_slc=1&gtm=45He36s0n81WLS3NNN&z=1498425144","start":1688379689873,"du":51,"cb":1,"status":200,"err":0,"rec":15,"send":0,"type":"XHR"},{"id":1,"req":"GET /sf.php?mod=dynamic_module&module=&action=header_user","start":1688379689839,"du":133,"cb":0,"status":200,"err":0,"rec":419,"send":0,"type":"XHR"},{"id":2,"req":"GET webapp/common/page/view/globalSearch.html?v=20230701pyE","start":1688379689839,"du":135,"cb":0,"status":200,"err":0,"rec":6725,"send":0,"type":"XHR"},{"id":4,"req":"GET home.php?mod=spacecp&ac=ordinary&op=reward&isclick=undefined","start":1688379689840,"du":151,"cb":0,"status":200,"err":0,"rec":11,"send":0,"type":"XHR"},{"id":5,"req":"GET /sf.php?mod=dynamic_module&module=&action=growth","start":1688379689841,"du":151,"cb":0,"status":200,"err":0,"rec":12,"send":0,"type":"XHR"},{"id":3,"req":"GET /sf.php?mod=dynamic_module&module=&action=topbar_post","start":1688379689840,"du":153,"cb":0,"status":200,"err":0,"rec":1147,"send":0,"type":"XHR"},{"id":0,"req":"GET /sf.php?mod=dynamic_module&module=&action=header_forum","start":1688379689838,"du":167,"cb":0,"status":200,"err":0,"rec":7083,"send":0,"type":"XHR"},{"id":7,"req":"GET webapp/common/ui/view/avatar.html?v=20230701pyE","start":1688379689981,"du":113,"cb":0,"status":200,"err":0,"rec":7741,"send":0,"type":"XHR"},{"id":8,"req":"POST sf.php?mod=search","start":1688379689981,"du":134,"cb":0,"status":200,"err":0,"rec":1633,"send":20,"type":"XHR"}]}

@@ -1,0 +1,18 @@
+GET /authui/qrcode?_=1688383620564 HTTP/1.1
+Host: auth.huaweicloud.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Pragma: no-store
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Cache-Control: no-store
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://auth.huaweicloud.com/authui/login.html?locale=zh-cn&service=https%3A%2F%2Factivity.huaweicloud.com%2Fdiscount_area_v5%2Findex.html%3Futm_source%3Dbaidu%26utm_medium%3Dbrand%26utm_campaign%3D10033%26utm_content%3D%26utm_term%3D%26utm_adplace%3DAdPlace024712
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

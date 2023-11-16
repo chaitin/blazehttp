@@ -1,0 +1,19 @@
+POST /weapi/pl/count?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 404
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/st/musician
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=x%2Beel6ioI1ifEjvnMU2vqwqTO12XZBZcl9whnmIbXf4PFk87yEURC6fdvoTfmnkHcQSgwD41fkJ02uhmcsNlo2bTLyr4wpse05qK7XDQkf6xbMAgKpmAsLEq3pD1Dh21&encSecKey=06b969d1c8e6bd3d5252dad1a6e5a24e84abc68a234b2f47227441939b727e4210b63ac3cdc52420e855db66b9ba0eb3712b3f83b57eec6d4974f03e0bb8ef8516814017fdf59051e3dad29c52cf349151f8154cffc82fa85d437bef36a17f56f5e6ff8225fefd6c75443eca608d0f60d53a8452f642f96a6f329c667fa2211e

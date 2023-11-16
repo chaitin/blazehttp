@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 759
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://login.dingtalk.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.dingtalk.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!f0Q3ta%2FgfQ6f5ztuWPQ8TF8G9UN0Bt4tloXBJ%2F%2FgGnlUFys1Gn5SZwLUnlPW0UdKF%2FYml41s7%2BF%2F4YjlLL8n5Ivx0zOErIwLffxu1sfe9RVAUp3F3T53vbfroZUTHGhxSofKub3%2Bnwsmcd%2F7X4l8XKfffCl0t3gxPYfXYEWB6Puf5flz2NSPfteXmuGutzAY8D%2FfdI4qWPGQfPfFdPY%2FtKeffX0%2FWSoefVpSlg5sq8El%2BpbrwVmwciE555ons8f8uXCwFil5JcxEr50nJy5KORw3X%2FJzVS%2BhyudTm7SnceDacN1gszm3f9L7eMwKXLmkNybGjTHCiY2Wrw%2BNRL4O9%2BNiQBxRfbs6V0KPLn8BMFxlvkzIPh7GVo7eoEr9y2TNiD8FX1ER0Tui70gEIwrPpaw1w2zZ6e91A48HwmyqUnRYwhyHrGYkzplqhIHOvnAoQ5CzIQPZmJjTihUM6r3iXxmxEE7A8lAXX7GWcLvYqTQTRe%2Fmfx8r6B3DrZ4ZFjzhN9Ztc2zhfTwwB5byE7TI8iBPYhBqI%2BFpDi1%2Fp%2F1RAbaMUOL%2B2F2w9XFjd3kyQh97%2Fi6oE1ILLH%2FdlzfCWVYbaxQplkOod5sGcr30fr2LdYTMgSKmbIQDjMqB%2FxFd%2FOT0wdz3LVjgPyz%2BfKpRN9xoiwdoYDyhYkTqFL3kEug%3D&xa=dingding&xt=

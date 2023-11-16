@@ -1,0 +1,15 @@
+GET /api/v3/get?referer=https%3A%2F%2Freg.163.com%2Fnaq%2FfindPassword&zoneId=CN31&acToken=9ca17ae2e6ffcda170e2e6eeabe880b1b7aaa9d7679ce78ea7d15f869b8a82c864b094afabd440e9ec87b1d62af0feaec3b92a88efaea2ee638af0bcbae25f929b9fa7d45a949ba5d1e45c9a9ebba6eb7df28eee9e&id=17c07e34e0384612bb239568b6b37643&fp=60G064NNjO6AYGZH2GqaLxckG5LGEndO6oeLimpY1X84gMxAXQ6WWkH2%2FIOgGScOtutSE0w8h0WOprT%2B4oa%5CVqCCv6KZpq45b%2FdkYXIyICUM9%2FIe8%5CMEr4ExT6eKebyqAjrs%2FnJNDQAfl9%2FGY8%5COcwVTdYXlQIk%2FEK0yv9HDwI6b7Q62%3A1688380457934&https=true&type=undefined&version=2.21.5&dpr=1&dev=1&cb=sXd0wl%5Ct1vkKuMU98%2FK8RLhaSbkWxiJeQth1MDwvxAvFTfIgUIcG%2FXTTV8yWGSDB&ipv6=false&runEnv=10&group=&scene=&lang=zh-CN&sdkVersion=undefined&width=420&audio=false&sizeType=10&smsVersion=v3&token=&callback=__JSONP_hhomweo_0 HTTP/1.1
+Host: c.dun.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://reg.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

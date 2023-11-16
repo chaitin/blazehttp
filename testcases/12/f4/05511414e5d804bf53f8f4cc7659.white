@@ -1,0 +1,18 @@
+POST /analytics/v2_upload?appkey=0AND0F8T5N4N7QT0 HTTP/1.1
+Host: otheve.beacon.qq.com
+Content-Length: 2165
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=utf-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appVersion":"","sdkId":"js","sdkVersion":"4.5.16-web","mainAppKey":"0AND0F8T5N4N7QT0","platformId":3,"common":{"A2":"DZZRCpr6z5r59pE7yfiHNaeiEkEhP3Wn","A8":"","A12":"zh-CN","A17":"1920*1080*1","A23":"","A50":"","A76":"0AND0F8T5N4N7QT0_1688379215244","A101":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","A102":"https://www.qq.com/","A104":"","A119":"","A153":""},"events":[{"eventCode":"boss_cmd_player_quality_feitian","eventTime":"1688379219237","mapValue":{"hc_main_login":"","hc_vuserid":"","hc_openid":"","hc_appid":"","guid":"c8c808585fce8a621e14ee3544b798f3","p2p":"0","resolution":"1920*1080*1","testid":"","osver":"windows 10.0","playerver":"1.15.22","playertype":"0","uip":"183.159.125.90","confid":"","cdnip":"","cdnid":"","cdnuip":"183.159.125.90","device":"","appver":"3.5.57","p2pver":"","flowid":"ad32f8ff087e5ba262eeeb5e46ee4fd8","platform":"70901","vid":"l1471mbbtjz","bizid":"401","url":"https://www.qq.com/","refer":"","cid":"","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\\, like Gecko) Chrome/114.0.0.0 Safari/537.36","ptag":"","dltype":"1","duration":"102.00","type":"5176","clip":"0","status":"2","fmt":"2","rate":"61","loginid":"","loginex":"","logintype":"0","vip":"0","downloadkit":"1","seq":"2","stepname":"boss_cmd_player_quality_feitian","step":"30","data":"{\"stime\":1688379216954\\,\"etime\":1688379219237\\,\"vt\":0\\,\"urlindex\":0\\,\"reason\":\"\"\\,\"code\":\"0.0\"\\,\"url\":\"https://dd32167878e131ecc19420d6f4dd6497.v.smtcdns.com/video.dispatch.tc.qq.com/ARxbNaXUOkmhai7FeyErPf3mPmTHgXKjXWSx96gAHA4s/B_9LhzPzw8agpeEeKUHV_JXjDyUOOH1EJ9pvWM2Oc4BVw/svp_50001/szg_8146_50001_0bc3nqaayaaan4ae2efcrnsfc3gdbrwaadca.f622.mp4?sdtfrom%3Dv1104%26guid%3Dc8c808585fce8a621e14ee3544b798f3%26vkey%3D84D1AE875492F09641034E61DBBE8441D20B486B7DE699E8B1A0E8B58A6200C62CA6766D3CFA98189A0E9B3B8D4B170764BB5D9BFAE98B246FB65DE0EEDB617C0C47F1F1878CEB9A225AFB38D795CE29288F446B3734D183EE188775211C784026D4C5425DB8D40C57C97CEDF43BB058AB570FD12B9E8C659AA43A03122BBF9EC4AF70D5D18A349D\"}","A99":"Y","A100":"5","A72":"4.5.16-web","A88":"1660892935938"}}]}

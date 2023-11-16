@@ -1,0 +1,19 @@
+POST /data/api.json?action=VerifyUser HTTP/1.1
+Host: smcnext.console.aliyun.com
+Content-Length: 920
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://smcnext.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smcnext.console.aliyun.com/welcome
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=VerifyUser&collina=140%23RbMx7NyHzzWWTQo2%2BiD%2BKtN8s77%2BPKLcWwg5QXhSWTat8%2BC2yvF56LD1BHG1g04a4zUFlp1zzqeK1Ft4WbzxcxId7th%2Fzzrb22U3l61xQP1iVXE%2FtFzz2Pz6odgQONdOHaU%2BWF2l0vFyIhKFRNAG%2BwLtKZZes2iTEa6Rb%2BwjB8Nbo8Eozv4opW4zixHvymiZNyv1TyyNdxIhZJLH016fekZTMJutmccIKNhZQu5Twq8u99PK4nlVNIk1YxaLg8zgsBprOiA9%2F0vE%2FoSBVnUMJ57zSP11JwqmNLbtO%2FdL4kzI4jV47sVfxmsdCXahQ%2FaKZVzjuMV3fB6F0vLzINvjFkwlCyUx1MUmO37V6p4hfiSw1pM69InDci0dXf1C7BlfdQpFcl8H%2BKV%2FGW%2Fu%2F0xTltM3fc7KBwH6tHlygbzcx%2FrHuidaVZM8C487Lgw2YyC0reQcHkcWrGYV%2F0yY%2Fr%2BXcVP3nH3XXcnPd8jAxHQp8l2Q0TQKcE8xHNdOd0PEXKcVB34KLIeIDn%2Bebc%2FrehBmQGKG%2FRro1vh6ADmUzvz1bEAauEmzjrNKJu9KdFBi77Gfa6YQckLZnn9yyq76DD%2BgcRF%2FGDndrVQPMR5Rz5tnIuMIJYAftFySNF24KcdsYOLKLBBdsESRm24yHNA9FuH78K0VRU%2BR4o29Zpy%2FYncq5hWLNe7wAwfe&params=%7B%22OnCheckSlr%22%3Atrue%7D&product=smc&region=cn-hangzhou&sec_token=d5mraaH0uvLd9OQlTDzyz7&umid=Yb0be488f063657f236012c0cb23ba3d0

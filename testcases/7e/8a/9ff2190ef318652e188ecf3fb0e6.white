@@ -1,0 +1,14 @@
+GET /js/signin/weibologin.js?v=20181220 HTTP/1.1
+Host: passport.weibo.cn
+Sec-Ch-Ua: "Not:A-Brand";v="99", "Chromium";v="112"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.50 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://passport.weibo.cn/signin/login?entry=mweibo&r=https%3A%2F%2Fweibo.cn&_T_WM=1f18351311c3ef6542ef46f2bbb95e7e
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+

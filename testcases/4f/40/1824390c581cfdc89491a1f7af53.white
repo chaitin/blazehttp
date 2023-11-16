@@ -1,0 +1,18 @@
+POST /api/5988886/store/?sentry_key=1c1d742244454a16842f0bf5a72c06a2&sentry_version=7 HTTP/1.1
+Host: o55978.ingest.sentry.io
+Content-Length: 787
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"message":"Uncaught error event from \"IMG\", source: https://bat.bing.com/action/0","level":"error","event_id":"c3f86976d9df4069a22a3cc9ff5d187c","platform":"javascript","timestamp":1688379929.49,"environment":"production","release":"master-5158","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","UserAgent"],"name":"sentry.javascript.browser","version":"6.19.7","packages":[{"name":"npm:@sentry/browser","version":"6.19.7"}]},"request":{"url":"https://www.atlassian.com/software/jira/free","headers":{"Referer":"https://www.atlassian.com/software/jira/demo","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}},"tags":{},"extra":{}}

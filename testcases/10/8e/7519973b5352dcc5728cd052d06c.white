@@ -1,0 +1,19 @@
+POST /mp/getappmsgad?f=json&mockid=&rtx=&uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzU0NTcyMzg5Mg%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 471
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s/pVzcplX7Y2RNQxeYS0nPGA
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+r=0.11030313983406681&appmsg_type=9&mid=2247484114&sn=36700c12e941a697879ca3307f8bbe16&idx=1&scene=&title=OnlyOffice%2520Community%2520Server%25E6%2596%2587%25E4%25BB%25B6%25E4%25B8%258A%25E4%25BC%25A0%25E6%25BC%258F%25E6%25B4%259E&ct=1688374804&abtest_cookie=&devicetype=&version=&is_need_ad=0&both_ad=0&send_time=&msg_daily_idx=1&pass_ticket=&is_temp_url=0&item_show_type=0&tmp_version=1&pos_type_list=&vid_list=%5B%5D&exportkey=&waid=&is_care_mode=0&is_teenager_mode=0

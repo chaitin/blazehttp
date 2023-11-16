@@ -1,0 +1,16 @@
+GET /user_api/v1/user/get?aid=2608&uuid=6922073775576761864&spider=0&user_id=1442202996186093&not_self=1&need_badge=0&verifyFp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&fp=f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f&msToken=Lyr9sGl1r2hlcARsbV4gxAg8tuvI3kt1x1OEVvN2SsTqpGjXqfB0EL86UYEEM6531zKSww2NUviBjJnPEBJSXuvVSzk0X3V8M_VgLC5DmZFvi3SoUsyv0h06oz4I9TPWlg%3D%3D&a_bogus=DXlEhc2pMsm1df3L2hkz9rsmJsE0YWRigZENyV20XUoA HTTP/1.1
+Host: api.juejin.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

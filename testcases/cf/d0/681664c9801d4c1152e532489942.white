@@ -1,0 +1,17 @@
+GET /static/master/5158/assets/build/fonts/charlie-sans/charlie-text/Charlie_Text-Bold.woff2 HTTP/1.1
+Host: wac-cdn.atlassian.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://www.atlassian.com
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: "cea56906f1c28c0630dd984d4bfad569"
+If-Modified-Since: Tue, 27 Jun 2023 18:19:09 GMT
+

@@ -1,0 +1,21 @@
+POST /cgi/capi?cmd=CreateServiceLinkedRole&action=delegate&serviceType=cam&secure=1&version=3&dictId=2163&sts=1&t=1688384153129&uin=100003290640&ownerUin=100003290640&csrfCode=2093508630 HTTP/1.1
+Host: console.cloud.tencent.com
+Content-Length: 443
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Life: 28211
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Lid: HybWYz4eFh
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/beian/manage/welcome
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"serviceType":"cam","cmd":"CreateServiceLinkedRole","data":{"Version":"2019-01-16","QCSServiceName":["describebeianresource.beian.cloud.tencent.com"],"Description":"网站备案时需要查询您账号下的云服务资源情况，用于域名备案，根据合规标准需要先获得您的授权。请您同意授权，否则无法进行备案流程。授权后对您的账号没有任何不良影响，请您放心操作。"},"regionId":1}

@@ -1,0 +1,13 @@
+POST /cbe/track?tid=2950744787608099153&X-Clab-Os=web HTTP/1.1
+Host: cbe.huiju.cool
+Content-Length: 994
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: http://www.authing.co
+Referer: http://www.authing.co/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"type":"events","data":[{"libVersion":"4.1.8","targetId":"2440595470","targetName":"Authing身份云开创者—快速实现单点登录SSO、多因素认证MFA","pageId":"2440595470","pageOpenId":"05ab1e11-dc5a-4cd5-a51a-4703c76f8634-1688382329804","url":"http://www.authing.co/","hosting":"web","screenHeight":1080,"screenWidth":1920,"device":"web-3c309126-af8e-4fa0-bcac-8bb0c1a78284","browserName":"","browserVersion":"","os":"Windows","osVersion":"10","pageType":"web","viewDuration":23296,"externalId":"05ab1e11-dc5a-4cd5-a51a-4703c76f8634-1688382329804","emitEvent":"onbeforeunload","reportFlag":"sdk","eventId":"bf4ca069-cd64-4ddd-926a-184740d2365a-1688382369820","date":"2023-07-03T11:06:06.182Z","oldExitPageDate":"2023-07-03T11:05:29.643Z","refDomain":"www.baidu.com","event":"exit_page","utma":"962341069.2054086979.2950744787608099153.1688382328.1688382328.1","utmb":"962341069.2054086979.1688382328.1688382328.1","token":"962341069.2054086979","tenantId":"2950744787608099153"}]}

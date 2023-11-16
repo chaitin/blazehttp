@@ -1,0 +1,15 @@
+OPTIONS /sdk/1/environments/2HKBN1wgCwHr/config HTTP/1.1
+Host: api.sprig.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: authorization,content-type,userleap-platform,x-ul-environment-id,x-ul-installation-method,x-ul-sdk-version,x-ul-user-id,x-ul-visitor-id
+Origin: https://www.notion.so
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

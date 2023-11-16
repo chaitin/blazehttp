@@ -1,0 +1,18 @@
+POST /data/api.json?_fetcher_=resource-manager__ListResourceGroups HTTP/1.1
+Host: fecs.console.aliyun.com
+Content-Length: 1450
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=resource-manager&action=ListResourceGroups&params=%7B%22PageNumber%22%3A1%2C%22PageSize%22%3A100%2C%22Status%22%3A%22OK%22%7D&collina=140%23PoXDwpxkzzFZxQo2miMbP6Szj92mlpbO%2Bl3sBFWBw9CF%2FX7gVaacl4oz19v8Z44PdYlMK2ytI7hKL4mZPLrPnxQAeIqW7l2jWZuulp1zzqeK1ufE%2BbrxGzPoa6luzzrb22U3l6125IFWI0oZCSDCQ5VFjYpW%2F2nuaN%2B1KWVvGIriIXlqlaOz2PD%2BV5EXzFK3FXYrzZaczYRLMZ2aMX2eLCdiXusyYW4DwZozlk26AUWnMh6iDQjjOZh3xF32zEOenQMfmAXnCvlGxCR%2F0ppwYVadCjlCEDkR5XMKC4UToUZl3p2Odc6PgFOV1qKo4Yc9GyLZfSv54KDmYb6zzJiVeX4kcd0RNYqEe6fqaNV9vmCAM6FyfOdNztFgJxBs8SFsk6KdAVQA4vlOFiOK93zG%2FvhDVNWfMMAPJjPfJ6VIUbQ2K8vHyFNGcJzaC5vraHsKOSkrd8sC%2BgVZx3hEToWzixHvymVftsZyAS%2BEUA%2F%2FBbDbwxYhPCi2IhyJLsA9dEc9OSsel92US5s8V6mu8anUuYdHf%2BykiGVqgJby8KBrcQb7lKo0pJd2uM1%2BEwvIupntUra7P7XvKjqz2kvye3%2BZYyG%2BfknYoqMCBq%2FkTJ2j5gLslrYtpv8nDjteJYT396orOdlaqXE%2BA3elSUgANvICga7hUba%2F4ILPWuc%2Bmfseg8HBiccFMt%2BmFEc3NDviH3k7kscvpWFM2rISRCu%2BMEsjZSQZyHGkz4rQjgBuUPL1WAm%2FhUp1jAMva9GP%2FJAiajCdhboiXNtafYcSL2JgbZSDbBqIIkk7Q06ZWCoTPW3fknfvaum0h6BaiZY8XGqCVLIhSgagRxxyRKwaE8mc6hGSP%2Bt28rrG3Xzv2yeAdhcoYvw3oqOA5YSxWHjZn5Bm6Lh79fA7nRJp6hVwoukli0HJHWFKDSVMlyZoYjOFe3VX09YsonsE1qHRYbhMFVJHgYnfwOE4pHY%2BfqurhQCO6D97Ez9%2B%2B2zyiKnCda%2B3RrdF8%2BU2bUQMOTExFnnD%2BueJTMJe%2B4kdfuwo8TwPIQiJS%2FzbYTeb%2F9JRSb2EE5xue6mqW4iWCKiUJGSFdlffSgLGIxcPJvlubZ4B0%2B1Y%2BQJAhcD4DfLo02yJl4zswkeMQNU4wBGcjX1jirhF4sIwiNAhDNRokcXZih47G%2B5xPaf%3D&umid=C1688382990936902701681431688383011455395&sec_token=

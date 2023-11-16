@@ -1,0 +1,31 @@
+POST /webv3 HTTP/1.1
+Host: ev.csdn.net
+Content-Length: 2640
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Device-Type: web
+App-Ver: 1.0
+X-Hasdk-Productid: 3629892982708167306
+App-Id: 243650030996486022
+Servicetag: _openness_log_tag
+Request-Id: c2708e1d661f444b85005ca96ba7865d
+X-Hasdk-Log-Region: cn-north-4
+Sec-Ch-Ua-Platform: "Windows"
+Sdk-Name: hianalytics
+X-Hasdk-Resourceid: p1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+X-Hasdk-Clientid: 616369439914343296
+Package-Name: 243650030996486022
+X-Hasdk-Token: eyJraWQiOiJWR0pFNlFXTDZjOHZQVjQ0M0NDaUZWQ3JMNWNPaEx2TyIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiI2MTYzNjk0Mzk5MTQzNDMyOTYiLCJjbGllbnRfdHlwZSI6MCwiZXhwIjoxNjg4Mzg4MjMwLCJpYXQiOjE2ODgzNzM4MzB9.ej3CcYFzyye1kw0cP-niBveKUMTmRo8p4d0_7ZxS-hc
+Accept: */*
+Origin: https://www.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"header":{"protocol_version":"1","serviceid":"hmshimaintqrt","appid":"243650030996486022","timestamp":1688374713142,"servicetag":"_openness_log_tag","requestid":"c2708e1d661f444b85005ca96ba7865d","productid":"3629892982708167306"},"event":[{"events_common":{"projectId":"06981375190026432f77c01bfca33e32","groupId":"dadde766-b087-42da-8e67-d2499a520ee7","streamId":"f5e1a97a-cfee-4925-aca4-63a2a882f03b","tags":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","cid":"10_18754282740-1597979518688-247971","uid":"weixin_46708016","sid":"10_1688373755682.232667","dc_sid":"19fcc2011398eb220c6133b5b2e7c48e","did":"10_18754282740-1597979518688-247971","un":"weixin_46708016"}},"events":[{"eventtime":"1688374713139","event":"$WriteLog","properties":{"$PrevActivityId":"","$CurActivityId":"https://www.csdn.net/","$Content":"{\"pid\":\"www\",\"ref\":\"\",\"curl\":\"https://www.csdn.net/\",\"spm\":\"1000.2115\",\"tos\":59,\"adb\":0,\"cCookie\":\"c_hasSub=true;c_session_id=10_1688373755682.232667;c_page_id=default;c_sid=19fcc2011398eb220c6133b5b2e7c48e;c_pref=default;c_ref=default;c_first_ref=default;c_first_page=https%3A//www.csdn.net/;c_segment=3;c_dsid=11_1688374712759.688308;\",\"t\":1688374713,\"screen\":\"1920*1080\",\"urn\":\"1688374712761-9d7b21bf-46c2-4994-a1c2-d554aee3663b\",\"vType\":\"U010000\",\"log_id\":\"1259\",\"sign\":\"d92a337b9ea7abf021a4e371d273ca31\"}"}}]},{"events_common":{"projectId":"06981375190026432f77c01bfca33e32","groupId":"dadde766-b087-42da-8e67-d2499a520ee7","streamId":"f8e601e5-6b79-4d4d-8022-5b7c0650aa24","tags":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","cid":"10_18754282740-1597979518688-247971","uid":"weixin_46708016","sid":"10_1688373755682.232667","dc_sid":"19fcc2011398eb220c6133b5b2e7c48e","did":"10_18754282740-1597979518688-247971","platform":"PC"}},"events":[{"eventtime":"1688374713139","event":"$WriteLog","properties":{"$PrevActivityId":"","$CurActivityId":"https://www.csdn.net/","$Content":"{\"pid\":\"www\",\"ref\":\"\",\"curl\":\"https://www.csdn.net/\",\"dest\":\"\",\"spm\":\"1000.2115.3001.7765\",\"t\":\"1688374713\",\"eleTop\":\"\",\"cCookie\":\"c_hasSub=true;c_session_id=10_1688373755682.232667;c_page_id=default;c_sid=19fcc2011398eb220c6133b5b2e7c48e;c_pref=default;c_ref=default;c_first_ref=default;c_first_page=https%3A//www.csdn.net/;c_segment=3;c_dsid=11_1688374712759.688308;c_tos=rx7q9k;\",\"__time__\":1688374713,\"urn\":\"1688374712877-da0b654b-3d9e-4c61-9ca6-2bb99fd470f6\",\"log_id\":\"4141\"}"}}]}]}

@@ -1,0 +1,14 @@
+GET /icgm?di=u5996948&uuid=7e4e56f746a1a1f2&dri=0&dis=0&dai=77&ps=7262x1251&enu=encoding&exps=110011&ant=0&psi=7e041c77c24f30ae&dcb=___adblockplus_&dtm=SSP_JSONP&dvi=0.0&dci=-1&dpt=none&tpr=1688379372322&ti=%E7%BD%91%E6%98%93&ari=2&ver=0609&dbv=2&drs=4&pcs=1903x921&pss=1903x11605&cfv=0&cpl=3&chi=2&cce=true&cec=UTF-8&tlm=1688379373&prot=2&rw=921&ltu=https%3A%2F%2Fwww.163.com%2F&ecd=1&dft=0&uc=1920x1032&pis=-1x-1&sr=1920x1080&tcn=1688379374 HTTP/1.1
+Host: pos.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

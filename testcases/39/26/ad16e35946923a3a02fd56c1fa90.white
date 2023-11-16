@@ -1,0 +1,9 @@
+GET /fcgi-bin/get_guid_http_to_jce?callback=txplayerJsonpCallBack_get_guid_442511&otype=json&market_id=1&platform=2&unix_time=1688379825922&ip=183.159.125.90&user_agent=Mozilla%2F5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F114.0.0.0+Safari%2F537.36&qq=&wx_openid=&refer=&url=http%3A%2F%2Fspeed.qq.com%2F%3FADTAG%3Dmedia.free.gamepaihangbang&_1688379825922= HTTP/1.1
+Host: ncgi.video.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: */*
+Referer: http://speed.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

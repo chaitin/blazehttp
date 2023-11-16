@@ -1,0 +1,16 @@
+POST /pf?pvid=f0148e88-2347-4d58-9b1d-1431fc188324&ref=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dforum_plug%3Aindex%26mod%3Dquestion&referrer=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dservice%3Adownload&key=2MsHntswCUw&v=1.8.3&av=1.8.3&did=85c8767c-12a9-4478-9bd7-c543ed39b64e&sid=7a60dee7-b663-43f3-80f5-413741dc521d&f=5&qs=8&rs=359&re=361&os=893&oe=939&oi=893&oc=1005&ls=1005&le=1006&tus=370&tue=370&fp=873&je=0&sh=1080&sw=1920&ressize=true&dr=893&fs=873&trflag=0000&__r=1688379643771 HTTP/1.1
+Host: beacon.tingyun.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

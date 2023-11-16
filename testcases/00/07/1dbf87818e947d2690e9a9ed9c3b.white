@@ -1,0 +1,14 @@
+POST /i/14029/da/?type=multi&wid=695672&sid=CC44727D8E38AE81538BAA13BD4D0A2545&pvid=1688382620847&dnt=1&dc=4&dv=1&dl=337&retryCode=socketNotConnected HTTP/1.1
+Host: collection.decibelinsight.net
+Content-Length: 337
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"type":"proxyUrls","data":{"prefix":"https://proxy.decibelinsight.net/v2-us-east-1/695672/2023-07-03/www.ibm.com/","items":["https/collector-12553.tvsquared.com/tv2track.php?idsite=TV-8172454563-1&rec=1&rand=%3CRANDOMNUMBER","https/collector-12553.tvsquared.com/tv2track.php?idsite=TV-8172454563-1&rec=1&rand=9167618174"]},"offset":0}]

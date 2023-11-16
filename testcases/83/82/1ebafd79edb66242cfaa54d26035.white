@@ -1,0 +1,18 @@
+POST /api/5988886/store/?sentry_key=1c1d742244454a16842f0bf5a72c06a2&sentry_version=7 HTTP/1.1
+Host: o55978.ingest.sentry.io
+Content-Length: 1868
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"message":"Uncaught error event from \"IMG\", source: https://bat.bing.com/action/0","level":"error","event_id":"1f2bf5a840f44fbbb9620b80bc3baf02","platform":"javascript","timestamp":1688379914.176,"environment":"production","release":"master-5158","sdk":{"integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","Dedupe","UserAgent"],"name":"sentry.javascript.browser","version":"6.19.7","packages":[{"name":"npm:@sentry/browser","version":"6.19.7"}]},"breadcrumbs":[{"timestamp":1688379913.957,"category":"xhr","data":{"method":"HEAD","url":"https://atl-global.atlassian.com/js/2.202.0/atl-global-2.202.0.min.js","status_code":200},"type":"http"},{"timestamp":1688379914.035,"category":"console","data":{"arguments":["Munchkin.init(\"%s\") options:","594-ATC-127",{"asyncOnly":true}],"logger":"console"},"level":"debug","message":"Munchkin.init(\"%s\") options: 594-ATC-127 [object Object]"},{"timestamp":1688379914.088,"category":"xhr","data":{"method":"POST","url":"https://www.google-analytics.com/j/collect?v=1&_v=j101&a=204101796&t=pageview&_s=1&dl=https%3A%2F%2Fwww.atlassian.com%2Ftry%2Fcloud%2Fsignup%3Fbundle%3Djira-software-jira-service-management%26edition%3Dfree&ul=zh-cn&de=UTF-8&dt=Sign%20up%20-%20Try%20Atlassian%20Cloud%20%7C%20Atlassian&sd=24-bit&sr=1920x1080&vp=1920x921&je=0&_u=QACAAEABAAAAACAAI~&jid=&gjid=&cid=1510953980.1688379840&tid=UA-6032469-23&_gid=741223307.1688379840&_slc=1&gtm=45He36s0n715RJSBR&z=1939118864","status_code":200},"type":"http"}],"request":{"url":"https://www.atlassian.com/try/cloud/signup?bundle=jira-software-jira-service-management&edition=free","headers":{"Referer":"https://www.atlassian.com/software/jira/free","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}},"tags":{},"extra":{}}

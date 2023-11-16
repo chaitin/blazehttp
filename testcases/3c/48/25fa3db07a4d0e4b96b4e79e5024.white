@@ -1,0 +1,18 @@
+POST /img-convert/external/storage HTTP/1.1
+Host: imgservice.csdn.net
+Content-Length: 215
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://mp.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.csdn.net/mp_blog/creation/editor?spm=1001.2014.3001.5352
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"art_id":"","uuid":"0SMT3dM2","imgUrl":"https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a22ef48d484f417b9eeca6d25f5804da~tplv-k3u1fbpfcp-watermark.image","type":"blog","rtype":"article","isCrawler":0,"nocache":2}

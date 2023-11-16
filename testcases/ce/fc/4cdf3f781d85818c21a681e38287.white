@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2084
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E5%9C%A8%E7%BA%BFps&form=QBLH&sp=-1&lq=0&pq=%E5%9C%A8%E7%BA%BFps&sc=10-4&qs=n&sk=&cvid=335C756C2C564987B8E22400D9368CFC&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>0206C473340C4CF9A932CE8F8D5F7ED0</IG><TS>1688375664463</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":8,"N":2,"I":"4m2","S":"V+C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":11275,"K":"8p3+2ak+8p6+2eq+beacon+2i7+2n3+ls%2Flsp.aspx+2i8+2i9+57r+5ar+7dk+5j3+67s+7e0+7eg+7ff+86g","F":1},"V":"57q/////////visible/+7c4//15///////hidden/scroll+7cl//21////////+7d1//37////////+7dl//4k////////+@30//63////////+@31//7n////////+7ew//91////////+@32//a3////////+7fu//as////////+7w3//bh////////+7wz//c4////////+7xw//cx////////+7yu//dq////////+7zr//em////////+80o//fi////////+81m//g7////////+8p2//0////////visibilitychange","L":"@2l/h//////a9//R/+@2l/i////1y4//7u//R/+@2l/j////262////R/+@2l/k////277////R/+@2l/t////@2m////R/+@2l/1n////@2m////R/+@2l/1r//////54//R/","M":"x7+pg+-1+8p6+4b+12+0+7+we+2pq+1","E":"@2n/2/X/1o/+@2n/6/X/1o/+@2n/7/X/1o/+@2n/8/X/1o/+@2n/9/X/1o/+@2n/a/X/1o/+@2n/b/X/1o/+@2n/c/X/1o/+@2n/d/X/1o/+@2n/e/X/1o/+@2n/f/X/1o/+@2n/g/X/1o/+@2n/h/X/1o/+@2n/i/X/1o/+@2n/j/X/1o/+@2n/k/X/1o/+@2n/l/X/2s/+@2n/m/X/4y/+@2n/n/X/4y/","N":"2eo/45//@o/pointerdown//8/@n/-1/-1/-1/-1/-1/-1+@2o/46//@o/ls%2FGLinkPingPost.aspx/@2p/30/@n/@2o/@2o/@2o/2er/2hp/2hq+@2q/47//@o/@2s/@2p/4w/@n/@2q/@2q/@2q/@2u/@2r/@2r+@2t/48//@o/@2s/@q/2q/@n/@2t/@2t/@2t/@2u/2ky/2kz+@2v/49//@o/tabfocuschanged/@p/30/@n/@2v/@2v/@2v/582/@2w/@2w+@2x/4a//@o/display/@p/2y/@n/@2x/@2x/@2x/7do/7gi/7gj","C":"@2y//@2k///xg/3//5il+5ja/////vy/h//@2y+5k6/////rz/1c//5k3+5l3/////pm/1n//5l1+5m1/////o5/1s//5lw+5nf/////mj/24//5n9+5ou/2////l5/2f//5ol+5qn/0////jo/2u//5ql+5sz/////hr/2s//5ss+5tw/////fz/2k//5tr+5va/2////ee/2a//5v4+65c/0////dx/3p//65b+66f/1o////dt/5f//669+@2z/////e8/7c//@2z+697/////eg/9j//694+6a4/1p////eq/bd//6a1+6b1/////f2/d9//6ax+6cx/////f9/en//6cp+6hj/////du/ew//6hc+6je/////bx/ee//6jc+6s7/////ap/dq//6rs+7dj/7////an/i3//7d9+@30//////jl//7dp+@31/////al/l4//7ec+@32//////ni//7fb+@33/9////af/ts//@33+89y/8////bf/sp//89x+8li//mousedown///bp/s2/1/8lh+8o5//mouseup/////0/8o4+8o6//click//////"}]]]></D></E></Events><STS>1688375664463</STS></ClientInstRequest>

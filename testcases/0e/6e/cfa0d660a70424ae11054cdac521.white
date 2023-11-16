@@ -1,0 +1,21 @@
+POST / HTTP/1.1
+Host: cognito-idp.us-east-2.amazonaws.com
+Content-Length: 1090
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-amz-json-1.1
+Cache-Control: no-store
+X-Amz-Target: AWSCognitoIdentityProviderService.GetUser
+X-Amz-User-Agent: aws-amplify/5.0.4 js
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://minimals.cc
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://minimals.cc/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"AccessToken":"eyJraWQiOiJHV1BkMnJGdnFlRHVrSEZYU3dhQm5ybVRnTjE2NnB0QlhBTVwvbkhTUVplST0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyMTRhOWEwYy0xOWM4LTQwZjgtYTgwZi0wMmI2MzQxMzU5NzQiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtZWFzdC0yLmFtYXpvbmF3cy5jb21cL3VzLWVhc3QtMl9sejdmRjRubE4iLCJjbGllbnRfaWQiOiI1cmxyOTQxNHNobWNsa2E3NzA4Zjl2NWZjcCIsIm9yaWdpbl9qdGkiOiJhM2FmYjJlMS1lZjU0LTRkODMtYTdkMS01NzhlNmIwMDIxOGIiLCJldmVudF9pZCI6IjE3ODVmNTI5LWFjNmQtNDgxNi04OWEyLWNhYWRlZTcxYWU4MCIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE2ODgzODA0MzcsImV4cCI6MTY4ODM4NDAzNywiaWF0IjoxNjg4MzgwNDM3LCJqdGkiOiIzYjAwZDMyOS1jY2JkLTQ2NjItYjkyMC1jZjU2MTVmN2M1NTciLCJ1c2VybmFtZSI6IjIxNGE5YTBjLTE5YzgtNDBmOC1hODBmLTAyYjYzNDEzNTk3NCJ9.c7eXI4BpKbrjC4jX4_SB0xGfk5hRNsrfI8FaMTmi7zf0DBQkUc08ym41lj-zWh7jx0tOviyUWrWfNt-MuM_KtE2mBGJtOHa9Excibv1QCrnYttG2jJDpm6oN8GC8HorOulKgjFhhDB1SLJw7Z_Hwo_T0yQbDhRHOoYbmTwsKcWQjOZ5RuMx6BIaBYGLs3oJcJlaYw7mm-N3vYb1enFGEMwxy7U3Znc-r7p127ZslICrWCGl2OmVM7hp2NR5l5hlo2zft4lMXCS-M7VJzngPqC_1skgmFykynZhbG5Cf1yZb5InCSQu2IrCZAXCLtQ7LgQPEydc82p7rAvQU1Y4lcSg"}
