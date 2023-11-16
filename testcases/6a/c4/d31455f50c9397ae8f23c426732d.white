@@ -1,0 +1,22 @@
+POST /international/search/api/flight/comfort/getFlightComfort?v=0.2070557140313063 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 195
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-fZLxMqrkwGtyqpysTvq8yOsvGZYO1vAlwL1RU9rPdyZaJFSWd0E5DyLFigDRBhxDSWlSYkDJ8cRLFJnZi9SeDlYANJ6XypAj5tr71W4mWtFIQBjomxnYqsWm9y97KmMRPMw1Pj3ZjtmidTyPGjlTRPhWXhwgdRpMwBLE3XwMnWaqYLY4dKLbwhhKcQKM9j9ojg6EnOyFEGaiO1YXEQnYUfyMEHTY96yb5vktWcaeGhxoLKB6jadyQdIBXw4qjcgwZ5eGaEOUIMlwkTih4R3ES9Y9lyXcifSY9gWNOekFYnXjhEMAY4NyMLWfAeSpyskjlE5XYpcy1ziGhY9qjqfKOHE9mIZ5epaKacxZFKUBen3JkGIt7ycE4pin1yonYpE9midHJOtRZEqfYLnwBLytmjSzEGsyOgEP3j3gjfE9kihQJ1BYNTWT7Y3NiTNebzW95ycPesUWosEpETaYp1wbgE1SWmzWL1elQE1oY7pwFNj3Oe5cyME0ZipqJcdjN0wndimpEkFRmBy6EolYk3wUaya9e3ZycEFbi1UJtFi9zi7dYd1jgFiaGEzTJc8IodRT4JNYQ3yF1e3FYs1RMlwzDjaLjUTisqycXj96Wm5RGhRPfjahEPXYo5IzfEMFjl7Is3vNZv14W5MIzkRkXEMYOawD8RSPv6GWhlvmqRNcJm0W7mEZ1wfMJhMebnwTnWB6vNHEDzeH7EzOEgBEMFJ1cenMvUqyMGYhFym1ehPvU4RlGwqTJSgJs4yPmEptWkqjsMyloJ4DjsoWtarcPKgYQfjqnJsqYzAYBUwDZY06w16EQ9jq5Yp1wtoJbaEZ9xoY0fra6r37EkqY9kE7srNvANx6YUnKmBIPNR40vzUec8YzLif4Y9wkoYQlYmYcdy93wkBW9NeSFEMfjXsWZ5iqLWU7rLY77xGJS0JTMrhdKp1eaAEsAW1PWA0jffK1Yt1J5diq0RmfRTkvDHYQFWSBet5RAgWlzj6DWXoi9MEkLyfYM4e4zjDmxBcR9HvPaYDnWFBehbROcWBHibUYFSvDZRZc
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"airlineCode":"HU","arrivalDate":"2023-07-04","cabinList":["Y","C"],"departureCityCode":"HGH","arrivalCityCode":"BJS","departureDate":"2023-07-04","flightNoList":["HU7678"],"aircraftCode":"789"}

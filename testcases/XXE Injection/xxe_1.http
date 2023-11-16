@@ -1,9 +1,0 @@
-# tag: black,xxe
-POST / HTTP/1.1
-
-<?xml version="1.0"?>
-<!DOCTYPE data [
-<!ELEMENT data (#ANY)>
-<!ENTITY file SYSTEM "file:///etc/passwd">
-]>
-<data>&file;</data>

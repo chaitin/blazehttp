@@ -1,0 +1,17 @@
+GET /solutions/kanban-manage HTTP/1.1
+Host: pingcode.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://pingcode.com/product/project?utm_source=baidu1&utm_medium=pc-pingcode&utm_campaign=%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86&utm_content=%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86-%E5%B7%A5%E5%85%B7&utm_term=saas%E7%AE%A1%E7%90%86%E8%BD%AF%E4%BB%B6&e_matchtype=2&e_creative=57916938890&e_adposition=cl2&e_pagenum=1&e_keywordid=623788355866&bd_vid=12647731862881631479
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

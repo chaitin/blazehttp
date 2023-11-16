@@ -1,0 +1,19 @@
+POST / HTTP/1.1
+Host: dreport.meituan.net
+Content-Length: 1028
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://i.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+[{"category":"fe_perf_web","logs":[{"ts":"1688378053450","type":"browser.ajax.responseTime","value":"250","tags":{"url":"//i.meituan.com/lvyou/volga/api/v1/trip/poi/select/count/eachgeo","method":"GET"}},{"ts":"1688378053450","type":"browser.ajax.requestSize","value":"90","tags":{"url":"//i.meituan.com/lvyou/volga/api/v1/trip/poi/select/count/eachgeo","method":"GET"}},{"ts":"1688378053450","type":"browser.ajax.responseSize","value":"4095","tags":{"url":"//i.meituan.com/lvyou/volga/api/v1/trip/poi/select/count/eachgeo","method":"GET"}}],"env":{"token":"563afcb1c79722d5683dce06","sdkVersion":"1.1.9","sr":"1920x1080","vp":"1903x921","csz":638,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","uuid":"19159687","url":"https://i.meituan.com/trip/lvyou/triplist/poi/","region":"","operator":"","network":"","container":"","os":"","visit_id":"f8b05360-41d9-4776-be6b-4a07c1f32f87","other_uuid":"1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8"}}]

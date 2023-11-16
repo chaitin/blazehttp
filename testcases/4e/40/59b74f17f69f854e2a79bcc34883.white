@@ -1,0 +1,18 @@
+POST /monitor_browser/collect/batch/?biz_id=passport_account_api HTTP/1.1
+Host: mon.zijieapi.com
+Content-Length: 553
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"ev_type":"batch","list":[{"ev_type":"custom","payload":{"name":"passport_account_api","type":"event"},"common":{"bid":"passport_account_api","pid":"2608","view_id":"__1688376758479","user_id":"fc0103c2-4111-5d95-f82f-12970ab38538","device_id":"d4fd9e0b-1d20-4a73-be2c-ca4737f947af","session_id":"4352fb5b-51b8-4496-b267-6514babbdb5f","release":"2.2.5","env":"production","url":"https://juejin.cn/post/7248180884766015546","timestamp":1688376758481,"sdk_version":"1.1.6","sdk_name":"SDK_SLARDAR_WEB","context":{},"network_type":"4g","sample_rate":1}}]}

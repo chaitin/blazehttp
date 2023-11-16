@@ -1,0 +1,20 @@
+POST /api/5988886/envelope/?sentry_key=1c1d742244454a16842f0bf5a72c06a2&sentry_version=7 HTTP/1.1
+Host: o55978.ingest.sentry.io
+Content-Length: 138
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{}
+{"type":"client_report"}
+{"timestamp":1688379928.985,"discarded_events":[{"reason":"event_processor","category":"error","quantity":1}]}

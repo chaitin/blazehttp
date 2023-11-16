@@ -1,0 +1,18 @@
+POST /cdn-cgi/rum? HTTP/1.1
+Host: ce2.greensea.org
+Content-Length: 1467
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://ce2.greensea.org
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ce2.greensea.org/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"memory":{"totalJSHeapSize":17158486,"usedJSHeapSize":8726558,"jsHeapSizeLimit":4294705152},"resources":[],"referrer":"https://weibo.cn/","eventType":1,"firstPaint":4839.299999952316,"firstContentfulPaint":4839.299999952316,"startTime":1688381146963.8,"versions":{"fl":"2023.4.0","js":"2023.4.2","timings":2},"pageloadId":"5d42b537-198c-4657-9003-4207ae5f3b6e","location":"https://ce2.greensea.org/","wd":false,"b":1,"timingsV2":{"unloadEventStart":0,"unloadEventEnd":0,"domInteractive":1766.3999999761581,"domContentLoadedEventStart":2728,"domContentLoadedEventEnd":2728.100000023842,"domComplete":6161.5,"loadEventStart":6161.5,"loadEventEnd":6161.700000047684,"type":"navigate","redirectCount":0,"activationStart":0,"initiatorType":"navigation","nextHopProtocol":"h2","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":5.700000047683716,"domainLookupStart":5.700000047683716,"domainLookupEnd":5.700000047683716,"connectStart":5.700000047683716,"connectEnd":5.700000047683716,"secureConnectionStart":5.700000047683716,"requestStart":9.5,"responseStart":1063.1000000238419,"responseEnd":1063.7000000476837,"transferSize":2886,"encodedBodySize":2586,"decodedBodySize":2586,"serverTiming":[],"renderBlockingStatus":"non-blocking","responseStatus":200,"name":"https://ce2.greensea.org/?continueFlag=ed33b44512f3232a855bab2a5a1e7cff","entryType":"navigation","startTime":0,"duration":6161.700000047684},"siteToken":"e9c1068c7ea6473a84552b9b72f3bcb1","st":2}

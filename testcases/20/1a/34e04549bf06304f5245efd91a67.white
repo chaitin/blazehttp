@@ -1,0 +1,17 @@
+POST /api/pv?v=1&sdk=1.9.5&project=canary&pageurl=https%3A%2F%2Fm.maoyan.com%2Fimeituan%2F&pageId=owl-f6838bb0-6bc4-2bba-e470-f334-1688378048062&timestamp=1688378048066&region=&operator=&network=4g&container=&os=&unionid= HTTP/1.1
+Host: catfront.dianping.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://m.maoyan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://m.maoyan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

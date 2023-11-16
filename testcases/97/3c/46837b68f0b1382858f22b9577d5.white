@@ -1,0 +1,19 @@
+POST /monitoring/metrics/widget/init/v3 HTTP/1.1
+Host: metrics.api.drift.com
+Content-Length: 572
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.driftt.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.driftt.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+init_event=%7B%22eventName%22%3A%22%5BV2%5D%20-%20init%22%2C%22embedId%22%3A%22dyinuggv5ige%22%2C%22sessionId%22%3A%22dd8e4557-a71d-4baf-a775-cf309731bf13%22%2C%22instanceId%22%3A%22b5a9e701-fa3a-48a5-9852-19c3ae7e3c32%22%2C%22context%22%3A%7B%22url%22%3A%22cloudflare-cn.com%22%2C%22hostname%22%3A%22www.cloudflare-cn.com%22%2C%22timezone%22%3A%22Asia%2FShanghai%22%2C%22userAgent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36%22%2C%22timeToInit%22%3A7718%7D%7D

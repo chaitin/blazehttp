@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=43818836CEAC4ED5A7EEFF69918430A8&TYPE=Event.ClientInst&DATA=%5B%7B%22Meta%22%3A%22q%3Ashen%27xin%27fu%2Ci%3A9%22%2C%22Latency%22%3A%220%22%2C%22T%22%3A%22CI.Change%22%2C%22TS%22%3A1688379160248%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3Ashen%27xin%27fu%2Ci%3A8%22%2C%22Latency%22%3A%2223%22%2C%22T%22%3A%22CI.Request%22%2C%22TS%22%3A1688379160271%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3Ashen%27xin%27f%2Ci%3A7%22%2C%22Latency%22%3A%2222%22%2C%22T%22%3A%22CI.Load%22%2C%22TS%22%3A1688379160293%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3Ashen%27xin%27fu%2Ci%3A7%2Cig%3A9ECACDFDEEB047419CB5AA92EFB6AB4E%22%2C%22Latency%22%3A%223%22%2C%22T%22%3A%22CI.Show%22%2C%22TS%22%3A1688379160296%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3A%E6%B7%B1%E4%BF%A1%E6%9C%8D%2Ci%3A10%22%2C%22Latency%22%3A%220%22%2C%22T%22%3A%22CI.Change%22%2C%22TS%22%3A1688379160367%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3Ashen%27xin%27fu%2Ci%3A8%22%2C%22Latency%22%3A%2228%22%2C%22T%22%3A%22CI.Load%22%2C%22TS%22%3A1688379160395%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3Ashen%27xin%27fu%2Ci%3A8%2Cig%3AFF0966D6228B44A59BC6E45850CDE598%22%2C%22Latency%22%3A%222%22%2C%22T%22%3A%22CI.Show%22%2C%22TS%22%3A1688379160397%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22Meta%22%3A%22q%3A%E6%B7%B1%E4%BF%A1%E6%9C%8D%2Ci%3A9%22%2C%22Latency%22%3A%221%22%2C%22T%22%3A%22CI.Request%22%2C%22TS%22%3A1688379160398%2C%22Name%22%3A%22PerfInst%22%2C%22FID%22%3A%22AS%22%7D%2C%7B%22nodeName%22%3A%22Searchform%22%2C%22parentNodeName%22%3A%22Searchbox%22%2C%22click_type%22%3A%22form%22%2C%22T%22%3A%22CI.Click%22%2C%22TS%22%3A1688379160499%2C%22Name%22%3A%22Searchform%22%2C%22FID%22%3A%22HP%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

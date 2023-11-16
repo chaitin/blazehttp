@@ -1,0 +1,16 @@
+GET /sw.js HTTP/1.1
+Host: blog.csdn.net
+Cache-Control: max-age=0
+Accept: */*
+Service-Worker: script
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: serviceworker
+Referer: https://blog.csdn.net/sw.js
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: W/"6423f18c-8f0"
+If-Modified-Since: Wed, 29 Mar 2023 08:06:36 GMT
+Connection: close
+

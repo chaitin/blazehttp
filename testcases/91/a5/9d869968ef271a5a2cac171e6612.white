@@ -1,0 +1,16 @@
+GET /api/store/abtest/v3 HTTP/1.1
+Host: www.xiaohongshu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+X-B3-Traceid: 92562a5c72b4f2fc
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://agree.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://agree.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

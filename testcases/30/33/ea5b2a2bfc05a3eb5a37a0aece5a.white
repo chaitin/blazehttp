@@ -1,0 +1,16 @@
+GET /connect/oauth2/sns_authorize?appid=dingoatzh7mf40opchbcqk&response_type=code&scope=snsapi_login&state=STATE&redirect_uri=http%3a%2f%2fdemo.erp321.com%2fapi%2fdingding%2fcallback.aspx&loginTmpCode=42874e9bd0bf304e87d344a318b8e97f HTTP/1.1
+Host: oapi.dingtalk.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: https://daili.jushuitan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

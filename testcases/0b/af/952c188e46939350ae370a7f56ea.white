@@ -1,0 +1,18 @@
+POST / HTTP/1.1
+Host: data.js.design
+Content-Length: 740
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.design
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"theme":"arrive","action":"userPath","distinct_id":"9RbpChvP57Fx5uk9zbvjx","time":1688375667236,"user_id":null,"hrefUrl":"https://js.design/login?by=phone","properties":{"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","device_type":"web","os":"Win10","browser_window_size":"1920x921","screen_resolution":"1920x1080","screen_magnification":2,"currentTime":1688375667236,"preUrl":"/?xl=a3273390191.k47347947756.c12683318635.g3740306725.p1791092700.m1.d1.t1&source=360&plan=ps&qhclickid=a9ea00ad11984d7c","preTitle":"登录 - 即时设计","currentUrl":"https://js.design/login?by=phone","FirstLoad":false,"source":null,"plan":null,"eqId":"https://cn.bing.com/"}}

@@ -1,0 +1,15 @@
+GET /v2/speed/event?k4=carouselOrignalImage&v4=96.30000007152557&s4=carouselOrignalImage&k3=secKillAVIFImage&v3=46.800000071525574&s3=secKillAVIFImageLoadTime&flag=197&sid=6734bfec-2891-4d07-aff5-b1af9f0a7fa5&libVer=3.7.3&url=https%3A%2F%2Fwww.jd.com%2F&rts=1688375740863&title=%E4%BA%AC%E4%B8%9C(JD.COM)-%E6%AD%A3%E5%93%81%E4%BD%8E%E4%BB%B7%E3%80%81%E5%93%81%E8%B4%A8%E4%BF%9D%E9%9A%9C%E3%80%81%E9%85%8D%E9%80%81%E5%8F%8A%E6%97%B6%E3%80%81%E8%BD%BB%E6%9D%BE%E8%B4%AD%E7%89%A9%EF%BC%81&network=4g HTTP/1.1
+Host: h5speed.m.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

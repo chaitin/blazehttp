@@ -1,0 +1,14 @@
+GET /subpage?itemId=724795035651&apiVersion=2.0&dmChannel=pc@damai_pc&bizCode=ali.china.damai&scenario=itemsku&dataType=&dataId=&privilegeActId=&callback=__jp0 HTTP/1.1
+Host: detail.damai.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.4dce3810dpBT1h&id=724795035651&clicktitle=2023%E5%B9%B4%E7%BB%8F%E5%85%B8%E7%89%88%E3%80%8A%E6%9A%97%E6%81%8B%E6%A1%83%E8%8A%B1%E6%BA%90%E3%80%8B
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

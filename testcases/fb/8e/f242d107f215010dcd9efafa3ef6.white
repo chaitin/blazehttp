@@ -1,0 +1,19 @@
+POST /g/v2/3.json HTTP/1.1
+Host: id5-sync.com
+Content-Length: 1088
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"partner":3,"v":"1.0.36","o":"api","tml":"https://www.ibm.com/cn-zh/topics/saas","ref":"https://www.baidu.com/link?url=S_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_&wd=&eqid=8708c0100003171e0000000464a2ac4a","cu":"https://www.ibm.com/cn-zh/topics/saas","u":"https://www.ibm.com/cn-zh/topics/saas","top":1,"localStorage":1,"nbPage":1,"id5cdn":true,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","gdpr":0,"s":"ID5_AmEzAh5a_hGMd0N_DQiT6Gczh5uao35uyB1mRBICMqHsoX772PCC_Luh_7c5v0lWnSR28K2k__E2OsxzpRJwTh7CfKH2zF6dmqBcLnz-B1l0yEBlfbF8btan","ua_hints":{"architecture":"x86","brands":[{"brand":"Chromium","version":"114"},{"brand":"Google Chrome","version":"114"}],"fullVersionList":[{"brand":"Chromium","version":"114.0.5735.199"},{"brand":"Google Chrome","version":"114.0.5735.199"}],"mobile":false,"model":"","platform":"Windows","platformVersion":"15.0.0"},"provided_options":{},"used_refresh_in_seconds":7200,"extensions":{"lbCDN":"%%LB_CDN%%","lb":"+Wkk5wYRR/G7uEaYwK60YA=="}}

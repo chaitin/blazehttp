@@ -1,0 +1,15 @@
+GET /log/web?0009531688379773553https%3A%2F%2Fwww.bilibili.com%2F|444.64.0.0|1920x1032|1688378331768|||||1688378331775|1688378331775|1688378331775|1688378331775|1688378331775||1688378331806|1688378332677|1688378332678|1688378332680|1688378333002|1688378333104|1688378333104|1688378333503|1688378333503|1688378333513|1688379772909|1||1|| HTTP/1.1
+Host: data.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

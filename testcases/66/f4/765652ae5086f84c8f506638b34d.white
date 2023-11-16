@@ -1,0 +1,19 @@
+POST /ping/view HTTP/1.1
+Host: mastermind.dev
+Content-Length: 529
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sentry-Trace: d98bdbf649644074b8b680eaa9645078-9008e47d94fa57a3-0
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://mastermind.dev
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mastermind.dev/indexes-in-postgresql?continueFlag=ed33b44512f3232a855bab2a5a1e7cff
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"data":{"userId":null,"publicationId":"641f1b8f05c482464c90cd55","postId":"6463c5e98808b504370fee4e","seriesId":null,"timestamp":1688380834259,"url":"https://mastermind.dev/indexes-in-postgresql?continueFlag=ed33b44512f3232a855bab2a5a1e7cff","referrer":"https://weibo.cn/","title":"Understanding database Indexes in PostgreSQL","charset":"UTF-8","lang":"zh-CN","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","historyLength":2,"timezoneOffset":-480}}

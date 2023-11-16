@@ -1,0 +1,22 @@
+POST /speed?id=VuHQaelDdVHJhsuUwp&uin=NaN&version=1.40.9&aid=9876a12c-057d-4175-afdf-0538f2d4cb4e&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688379283688&from=https%3A%2F%2Fgame.qzone.qq.com%2F%3Fvia%3Dqzoneframetop_nored&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 3602
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryFT8WVUCBjj3ODFkB
+Accept: */*
+Origin: https://game.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://game.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryFT8WVUCBjj3ODFkB
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":260,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0},{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":265,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0},{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":267,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0},{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":272,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0},{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":272,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0},{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":273,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0},{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":288,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0}],"static":[{"url":"https://appcenter.qzone.qq.com/services/apptrace?appid_via=1111989517_QZSTORE.V6.JUMBOTRON&platform=1&action=100&r=0.7862528502227621","method":"get","duration":65.5,"status":200,"type":"static","isHttps":true,"nextHopProtocol":"","urlQuery":"appid_via=1111989517_QZSTORE.V6.JUMBOTRON&platform=1&action=100&r=0.7862528502227621","domainLookup":0,"connectTime":0,"transferSize":-1},{"url":"https://h5.qzone.qq.com/proxy/domain/r.qzone.qq.com/cgi-bin/apptrace?appid_via=1111989517_QZSTORE.V6.JUMBOTRON&platform=1&action=100&r=0.7862528502227621","method":"get","duration":94.7,"status":200,"type":"static","isHttps":true,"nextHopProtocol":"","urlQuery":"appid_via=1111989517_QZSTORE.V6.JUMBOTRON&platform=1&action=100&r=0.7862528502227621","domainLookup":0,"connectTime":0,"transferSize":-1},{"url":"https://h5.qzone.qq.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_multiple_strategy?bosstrace=2501_1930221_789_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A31.3%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8930778%2C%22prc%5Fsize%22%3A4%2C%22rc%5Fsize%22%3A4%2C%22tianshu%5Ffootageid%22%3A0%7D&uin=389264167&qboper=1&from=1","method":"get","duration":144.6,"status":200,"type":"static","isHttps":true,"nextHopProtocol":"","urlQuery":"bosstrace=2501_1930221_789_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A31.3%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8930778%2C%22prc%5Fsize%22%3A4%2C%22rc%5Fsize%22%3A4%2C%22tianshu%5Ffootageid%22%3A0%7D&uin=389264167&qboper=1&from=1","domainLookup":0,"connectTime":0,"transferSize":-1}],"bridge":[]},"id":"VuHQaelDdVHJhsuUwp","uin":"NaN","version":"1.40.9","aid":"9876a12c-057d-4175-afdf-0538f2d4cb4e","env":"production","platform":3,"netType":4,"vp":"1920 * 921","sr":"1920 * 1080","sessionId":"session-1688379283688","from":"https%3A%2F%2Fgame.qzone.qq.com%2F%3Fvia%3Dqzoneframetop_nored","referer":""}
+------WebKitFormBoundaryFT8WVUCBjj3ODFkB--

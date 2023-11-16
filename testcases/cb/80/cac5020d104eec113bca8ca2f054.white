@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.snssdk.com
+Content-Length: 2275
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"main_site_stay","params":"{\"_staging_flag\":0,\"user_id\":\"unknown\",\"page_link\":\"https://juejin.cn/post/7248180884766015546\",\"stay_time\":2204,\"event_index\":1688377324430}","local_time_ms":1688376760856,"is_bav":1,"ab_sdk_version":"90083871","session_id":"26a5890d-7668-48d6-b20f-ff50c0d94162"},{"event":"item_detail_stay_time","params":"{\"_staging_flag\":0,\"event_page\":4,\"req_id\":\"20230703173235A6063602465B67D55DA9\",\"from_page\":1,\"from_page_type\":1,\"item_id\":\"7248180884766015546\",\"item_type\":2,\"item_author_id\":\"1591748568294120\",\"active_stay_time\":2,\"rec_attached_info\":\"20230703173225DFDA146791990ED8A69E\",\"event_index\":1688377324428}","local_time_ms":1688376760855,"is_bav":1,"ab_sdk_version":"90083871","session_id":"26a5890d-7668-48d6-b20f-ff50c0d94162"},{"event":"article_detail_leave","params":"{\"_staging_flag\":0,\"article_id\":\"7248180884766015546\",\"read_time\":2.204,\"event_index\":1688377324427}","local_time_ms":1688376760854,"is_bav":1,"ab_sdk_version":"90083871","session_id":"26a5890d-7668-48d6-b20f-ff50c0d94162"},{"event":"__bav_page_statistics","params":"{\"_staging_flag\":0,\"is_html\":1,\"page_key\":\"https://juejin.cn/post/7248180884766015546\",\"refer_page_key\":\"https://juejin.cn/\",\"page_title\":\"在高德地图中实现降雨图层 - 掘金\",\"page_manual_key\":\"\",\"refer_page_manual_key\":\"\",\"page_init_cost_ms\":355,\"page_start_ms\":1688376757920,\"event_index\":1688377324426}","local_time_ms":1688376760854,"is_bav":1,"ab_sdk_version":"90083871","session_id":"26a5890d-7668-48d6-b20f-ff50c0d94162"}],"user":{"user_unique_id":"6922073775576761864","user_is_login":false,"web_id":"6922073775576761864"},"header":{"app_id":2608,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","ab_sdk_version":"90083871","language":"zh-CN","creative_id":null,"ad_id":null,"campaign_id":null,"platform":"Web","sdk_version":"4.2.9","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://juejin.cn/","referrer_host":"juejin.cn","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"custom":"{\"profile_id\":\"6922073775576761864\"}"},"local_time":1688376760}]

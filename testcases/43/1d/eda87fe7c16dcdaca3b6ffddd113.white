@@ -1,0 +1,19 @@
+POST /sdk/download/1.png HTTP/1.1
+Host: uba.huaweicloud.com
+Content-Length: 1883
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://activity.huaweicloud.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://activity.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+type=2&screenResolution=1920x1080&screenColors=24-bit&browserSize=1920x921&browserLang=zh-cn&VisitKey=1eaa4ed0-67c7-47b8-8602-a9eb8a3b56f9&AccessTime=1688383602791&UserAccount=host&AppKey=c9770c4dac06fe3b76ec9c7ad47273d0&EventName=pageview&PageName=https%3A%2F%2Factivity.huaweicloud.com%2Fdiscount_area_v5%2Findex.html%3Futm_source%3Dbaidu%26utm_medium%3Dbrand%26utm_campaign%3D10033%26utm_content%3D%26utm_term%3D%26utm_adplace%3DAdPlace024712&PageViewID=bdc4d1d8-b187-431d-b113-4ed4a119303a&EventMode=0&FromPageName=https%3A%2F%2Fwww.baidu.com%2Fother.php%3Fsc.0s0000agNEWVCqwHvRtBkkD3RD_Sks86nYHAJlbFa0gWzoRH60kRBmNDduQZy77ud-cqmDBFLbehIhzdrcNHLRRrAiZy6kyc0pPgKqUsq2X7HNjGdYKfiWJnzGGX8dLhb4fqBj40v4TIRtihyCqUbnSTDfojsp3_40YgOu3PpYqiuJW_Unq8YZ8xsMFtZQxj7tR7hXb60j5vf8Qc6_q_sJUrYu72.7D_NR2Ar5Od66u9C5S9qjw4NmAXKQ3pQ_7zcQMks8swRrNhuQ5QqAljU1e32AM-WI6h9ikX1BsIT7jHzlRL5spyQ4hmo88a9G4myIrP-SJFB8z1Wkl32AM-9I7fH7fml32AM-CFhY_IT7jHz_LmlQn2y5UISpB1ah1FvXPXwi_nYQAHFk3e0.TLFWgv-b5HDkrfK1ThPGujYknHb0THY0IAYq8lorJVHA0ZN1ugFxIZ-suHYs0A7bgLw4TARqnsKLULFb5U8J1JoRk6KzmLmqn0KdThkxpyfqnHRdnj0YrjDsr0KVINqGujYkPHf4n1m4nsKVgv-b5HDzPH6YPWD40AdYTAkxpyfqnHc3nWm0TZuxpyfqn0KGuAnqHbG2RsKspyfqn1c0mv-b5Hc3n0KWThnqnWRYPf%26dt%3D1688383596%26wd%3D%25E5%258D%258E%25E4%25B8%25BA%25E4%25BA%2591%26tpl%3Dtpl_12826_31784_0%26l%3D1550048108%26ai%3D0_60666198_1_1%26us%3DlinkVersion%253D1%2526compPath%253D10036.0-10022.1-10036.0-10029.0%2526label%253D%2525E5%25259B%2525BE%2525E7%252589%252587%2525E9%252593%2525BE%2525E6%25258E%2525A5%2526linkType%253D%2526linkText%253D&Zone=%2B0800&AdSource=baidu&ChannelFrom=baidu&AdMedium=brand&AdCampaign=10033&AdPlace=AdPlace024712&D17=799&C1=%E7%89%B9%E6%83%A0%E4%B8%93%E5%8C%BA_%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8_%E4%BA%91%E4%B8%BB%E6%9C%BA_%E4%BC%81%E4%B8%9A%E4%B8%8A%E4%BA%91-%E5%8D%8E%E4%B8%BA%E4%BA%91&D15=HC&plt=0&loadEventStart=0&navigationStart=1688383601628

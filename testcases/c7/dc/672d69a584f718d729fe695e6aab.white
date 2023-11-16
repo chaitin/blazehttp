@@ -1,0 +1,22 @@
+POST /international/search/api/log/writeLog?v=0.9711661898020709 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 271
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-8OAr0cEPLKTmy7tjm4Jg3JfTR97wk8wz1EcHWS1r0DRdsEOLJB4ytdvd1vQzyQ6Ep9wd3jFNEp6yh3Yg3W8nRNQEaQJLNjSAyFSWndyA7jg4wMJfNEpYL0et5WBaYbqR9nwofjnGjqLiZtybcj3TRMaRGqYF4RqfE6ki9EhkRPXWdYGaW9vDFIgDKOXj3OISMEh4ytEcdiQ3YkEA8YzFyhEOcYp9ycov76WZXeMmxqoKtsj56yq7IXmwoUjkLw01e3BEcAIfDwXdiOtR3EABYnLyFtif3YhkWkle9GYfPjtE9GYSNyFNWXlebMysljXEkfYd7yl4imgYpoj8cKNBE1sIqBe67K87xLBKBZeFPJdZI7Ty9EGfi0fy1UY0EBmitaJfhRZE0pYBowT0ydDjQtEtMy81EgZjBmjUEgfi9SJ3qYtMWMZYS1iQgekBWcQylPeMHWLTEQESmYlnwQ0E45Wl9WqNeb1EgdYHhwonjQGeslyBEfOiM7Jf3jUbwHpinQEkpR96ybEXFY65w49yq3e8qylEUmiBhJfmidPiMgYX5j3PiH0Eg6JMAIHnwFkYUYXNWsow0HvzbRLhwp3jQUjp6ilSySHjGOWTHRMnRL7j6ZEkGYLUIaQEFBj8oIUXvdHv1kWaZyfliTEUYDaWNSvf0WcZwG4R6gvHzyX1YH9R84wLFW0ses7vTZES8jpAjNteMFEAUvbfWF1ElGe4GjHhEhPJqdi3Be3cv7zJ3bjd7wpcJTMvdDjqzEb9ElZyo0jTlvfAeAteHfvoY4SyZMrnOK8SYZgwP5YXNw8MEPXjhqYcOwp6KF9x3BINYOpKkbWbXiXfYM9Ek9w8Mvf8rzYmsiLze4HxSLvmSeSMYPHiX9Y03ILnE7PITYHBI3vZheGXeFcEGgj5NWQsrL1iO6i4YhfEhMiky87rOUKgleMgEs8WmSKMtxt6xbYhGiU3I33Kq4Rh5vfGY5bWZSe7TRHPWAlj46WfdyF1Razw9YGnY3pvsbY6fRBdvmFYnXWsbe3hRhmWqHidaY81WTSwkX
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"title":"ubt","content":"{\"url\":\"https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345\",\"data\":{\"seq\":1,\"key\":\"poi_input\",\"remark\":\"点击POI输入框[owACity]\",\"time\":\"2023-07-03T09:55:12.142Z\"}}"}

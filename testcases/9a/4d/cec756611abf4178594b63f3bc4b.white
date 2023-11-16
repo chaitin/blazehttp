@@ -1,0 +1,18 @@
+POST /event?e=hottag HTTP/1.1
+Host: insight.cloud.tencent.com
+Content-Length: 775
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"app":"qcconsole","event":"hottag","lid":"HybWYz4eFh","born":1688384121397,"at":1688384134761,"path":"/expense/transactions","href":"https://console.cloud.tencent.com/expense/transactions","uin":100003290640,"ownerUin":100003290640,"quid":"d25addea5c3c4ce19e1bcc9f0a430ff0@devS","nickname":"100003290640","idcDomains":"cloud.tencent.com; cloudcache.tencent-cloud.com; cloudcache.tencentcs.com; iaas.cloud.tencent.com","idcDomainCount":4,"userArea":1,"userAppId":1255718784,"userLang":"zh","cookieLang":"zh","authType":0,"platformVersion":"platform.f6e3d49078.js","insightClientVersion":"insight-client.3714a9ce2.js","level":0,"hottag":"sidebar.expense.transactions","lifeRegion":"ap-guangzhou","consoleEnv":"production","productBlame":"path2","productId":1162,"dictId":2343}

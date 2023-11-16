@@ -1,0 +1,25 @@
+POST /OneCollector/1.0/?cors=true&content-type=application/x-json-stream&w=0 HTTP/1.1
+Host: browser.events.data.microsoft.com
+Content-Length: 2484
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Upload-Time: 1688381490201
+Sec-Ch-Ua-Mobile: ?0
+Client-Version: 1DS-Web-JS-3.2.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-json-stream
+Cache-Control: no-cache, no-store
+Apikey: aa86c364bc9e4a5a94a6b232c110af26-72da2ec9-498a-44df-8cca-7fd88cf654c1-7527
+Client-Id: NO_AUTH
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.office.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"name":"Ms.Web.PageAction","time":"2023-07-03T10:51:28.199Z","ver":"4.0","iKey":"o:aa86c364bc9e4a5a94a6b232c110af26","ext":{"web":{"isManual":false,"domain":"www.office.com","userConsent":false},"sdk":{"ver":"1DS-Web-JS-3.2.8","seq":6,"installId":"c80c003f-bf50-49a1-a466-67f75ff101cd","epoch":"199844250"},"app":{"locale":"zh-CN","env":"PROD","sesId":"fF+q5oPbVnhQh5iepPMuE5"},"user":{"locale":"zh-CN","localId":"t:138FACD315B6699812B1BF9014CE6864"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"baseData":{"f":{"behavior":{"t":6}}},"timeToAction":{"t":6}}}},"data":{"baseType":"PageActionData","baseData":{"name":"UnauthOhp","uri":"https://www.office.com/","market":"zh-CN","isLoggedIn":false,"id":"1090412d-ab08-408c-9af7-e0ee65fe682e","properties":{"pageTags":{"metaTags":{"expengine":"office.com","expstatus":"prod","ver":"5","env":"PROD"}},"version":"PostChannel=3.2.8;SystemPropertiesCollector=3.2.8;WebAnalyticsPlugin=3.2.8"},"ver":"1.0","actionType":"CL","behavior":0,"clickCoordinates":"1068X1149","content":"[{\"id\":\"unauth-tab-commercial\",\"cN\":\"你的组织\",\"lineage\":\"\",\"lineageById\":\"\"}]","contentVer":"2.0"},"cookieEnabled":true,"timeToAction":11812,"refUri":"https://cn.bing.com/"}}
+{"name":"Ms.Web.PageAction","time":"2023-07-03T10:51:28.846Z","ver":"4.0","iKey":"o:aa86c364bc9e4a5a94a6b232c110af26","ext":{"web":{"isManual":false,"domain":"www.office.com","userConsent":false},"sdk":{"ver":"1DS-Web-JS-3.2.8","seq":7,"installId":"c80c003f-bf50-49a1-a466-67f75ff101cd","epoch":"199844250"},"app":{"locale":"zh-CN","env":"PROD","sesId":"fF+q5oPbVnhQh5iepPMuE5"},"user":{"locale":"zh-CN","localId":"t:138FACD315B6699812B1BF9014CE6864"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"baseData":{"f":{"behavior":{"t":6}}},"timeToAction":{"t":6}}}},"data":{"baseType":"PageActionData","baseData":{"name":"UnauthOhp","uri":"https://www.office.com/","market":"zh-CN","isLoggedIn":false,"id":"1090412d-ab08-408c-9af7-e0ee65fe682e","properties":{"pageTags":{"metaTags":{"expengine":"office.com","expstatus":"prod","ver":"5","env":"PROD"}},"version":"PostChannel=3.2.8;SystemPropertiesCollector=3.2.8;WebAnalyticsPlugin=3.2.8"},"ver":"1.0","actionType":"CL","behavior":0,"clickCoordinates":"1449X1125","content":"[{\"id\":\"unauth-tab-edu\",\"cN\":\"对于教师\",\"lineage\":\"\",\"lineageById\":\"\"}]","contentVer":"2.0"},"cookieEnabled":true,"timeToAction":12459,"refUri":"https://cn.bing.com/"}}

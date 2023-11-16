@@ -1,0 +1,18 @@
+POST /sdk/download/1.png?EventCategory=activity_china_zh-cn_activity_discount_area_v5_index_navigation&EventAction=click&EventLabel=navigation_%E7%99%BB%E5%BD%95&Value=1 HTTP/1.1
+Host: uba.huaweicloud.com
+Content-Length: 930
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://activity.huaweicloud.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://activity.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+type=2&screenResolution=1920x1080&screenColors=24-bit&browserSize=1920x921&browserLang=zh-cn&VisitKey=1eaa4ed0-67c7-47b8-8602-a9eb8a3b56f9&AccessTime=1688383609021&UserAccount=host&AppKey=c9770c4dac06fe3b76ec9c7ad47273d0&EventName=activity_china_zh-cn_activity_discount_area_v5_index_navigation_click&PageName=https%3A%2F%2Factivity.huaweicloud.com%2Fdiscount_area_v5%2Findex.html%3Futm_source%3Dbaidu%26utm_medium%3Dbrand%26utm_campaign%3D10033%26utm_content%3D%26utm_term%3D%26utm_adplace%3DAdPlace024712&EventCategory=activity_china_zh-cn_activity_discount_area_v5_index_navigation&EventAction=click&EventLabel=navigation_%E7%99%BB%E5%BD%95&Value=1&Zone=%2B0800&AdSource=baidu&ChannelFrom=baidu&AdMedium=brand&AdCampaign=10033&AdPlace=AdPlace024712&plt=1418&C1=%E7%89%B9%E6%83%A0%E4%B8%93%E5%8C%BA_%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8_%E4%BA%91%E4%B8%BB%E6%9C%BA_%E4%BC%81%E4%B8%9A%E4%B8%8A%E4%BA%91-%E5%8D%8E%E4%B8%BA%E4%BA%91

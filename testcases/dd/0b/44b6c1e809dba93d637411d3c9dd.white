@@ -1,0 +1,18 @@
+POST /v1/p HTTP/1.1
+Host: api.segment.io
+Content-Length: 1563
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.deeplearning.ai
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.deeplearning.ai/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"timestamp":"2023-07-03T10:42:08.129Z","integrations":{},"anonymousId":"e3b745d0-7f0e-4a7d-9794-44c675adc36c","type":"page","properties":{"path":"/short-courses/chatgpt-prompt-engineering-for-developers/","referrer":"https://weibo.cn/","search":"?continueFlag=ed33b44512f3232a855bab2a5a1e7cff","title":"ChatGPT Prompt Engineering for Developers - DeepLearning.AI","url":"https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?continueFlag=ed33b44512f3232a855bab2a5a1e7cff"},"context":{"page":{"path":"/short-courses/chatgpt-prompt-engineering-for-developers/","referrer":"https://weibo.cn/","search":"?continueFlag=ed33b44512f3232a855bab2a5a1e7cff","title":"ChatGPT Prompt Engineering for Developers - DeepLearning.AI","url":"https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/?continueFlag=ed33b44512f3232a855bab2a5a1e7cff"},"userAgentData":{"brands":[{"brand":"Not.A/Brand","version":"8"},{"brand":"Chromium","version":"114"},{"brand":"Google Chrome","version":"114"}],"mobile":false,"platform":"Windows"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","locale":"zh-CN","library":{"name":"analytics.js","version":"next-1.53.0"},"campaign":{}},"messageId":"ajs-next-3c74b6463f02f675f9ae7cb8ee6b0f59","writeKey":"fXhkcm9NBycZIzNyxyb1cebC9Uw32JYQ","userId":null,"sentAt":"2023-07-03T10:42:08.133Z","_metadata":{"bundled":["Segment.io","Sentry"],"unbundled":["Google Analytics"],"bundledIds":["6104df33ff257ec8e1f63084"]}}

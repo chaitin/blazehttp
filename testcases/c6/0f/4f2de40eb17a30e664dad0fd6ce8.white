@@ -1,0 +1,16 @@
+POST /rest/fastbuyAB.fastbuySls?slsConfigs=%7B%22slsEndPoint%22:%22http:%2F%2Fcn-hangzhou.log.aliyuncs.com%22,%22projectName%22:%22fe-aliyun-account%22,%22logStoreName%22:%22account-login%22%7D&data=%7B%22loc%22:%22https:%2F%2Faccount.aliyun.com%2Flogin%2Flogin.htm%22,%22href%22:%22https:%2F%2Faccount.aliyun.com%2Flogin%2Flogin.htm%3Fspm%3D5176.28055625.J_3207526240.13.e939154amQhcuc%26oauth_callback%3Dhttps%253A%252F%252Fwww.aliyun.com%252F%22,%22bs%22:%22Chrome%2F114%22,%22ts%22:%221688382932471%22,%22os%22:%22Windows%22,%22os_version%22:%2210%22,%22bs_version%22:%22114.0.0.0%22,%22location_host%22:%22account.aliyun.com%22,%22location_pathname%22:%22%2Flogin%2Flogin.htm%22,%22location_search%22:%22oauth_callback%3Dhttps%253A%252F%252Fwww.aliyun.com%252F%22,%22location_hash%22:%22%22,%22IN_IFRAME%22:%22false%22,%22REFERRER%22:%22https:%2F%2Fwww.aliyun.com%2F%22,%22biz%22:%22account%22,%22action%22:%22GET_URL%22,%22data%22:%22%7B%5C%22pageType%5C%22:%5C%22LOGIN%5C%22,%5C%22evtType%5C%22:%5C%22GET_URL%5C%22,%5C%22clientType%5C%22:%5C%22pc%5C%22,%5C%22v2%5C%22:true,%5C%22captchaLogin%5C%22:%5C%22true%5C%22,%5C%22yst%5C%22:%5C%22oIBGF5VMeiBcaUvVm2K14rotOtYNxq1M%5C%22,%5C%22stLoginUrl%5C%22:%5C%22https:%2F%2Faccount.aliyun.com%2Flogin%2Fst_login.htm%3Fyst%3DoIBGF5VMeiBcaUvVm2K14rotOtYNxq1M%26oauth_callback%3Dhttps%253A%252F%252Fwww.aliyun.com%252F%5C%22%7D%22,%22type%22:%22log%22%7D HTTP/1.1
+Host: query.aliyun.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://account.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://account.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

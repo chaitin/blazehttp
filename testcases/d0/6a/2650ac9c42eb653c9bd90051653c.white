@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2254
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E5%9C%A8%E7%BA%BF%E7%94%BB%E5%9B%BE&form=QBLH&sp=-1&lq=0&pq=%E5%9C%A8%E7%BA%BF%E7%94%BB%E5%9B%BE&sc=10-4&qs=n&sk=&cvid=FA00727A27424BB9894C74EAFA7F2A21&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>660B07C6CB034B0CB7D277910B4070C7</IG><TS>1688376613758</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":3,"N":10,"I":"35y","S":"V+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":1297668,"K":"visible+rtaa+2dw+rtab+1f39+1f3a+1fae+1faf+1f9s+1fcu+rrgn+tabfocuschanged+rrha+returntop15+rrgp+rs64+rs9d+rs2v+rs5n+rs7k+rsv5+rt1c+rt4w+rt6f","F":1},"V":"@54/////////@4u/+rs56//l///////hidden/scroll+@5c//1u////////+@59//49////////+rs6k//7c////////+rs73//an////////+@5d//dr////////+rs7z//gd////////+rs8g//i5////////+rs8w//j3////////+rsqh//jv////////+rsrf//l2////////+rsrw//md////////+rssd//og////////+rssw//r9////////+rsta//uk////////+rstq//xz////////+rsu7//@32////////+rsun//13b////////+@5e//14s////////+rsvm//15g////////+@4v//0///////@4u/pagehide","L":"@5h/1o/BODY.b_respl b_sbText/SERP,5035.1/0/0/@4/@4w/0/K/-1+@4v/j//////7u//R/+@4v/k////2aj////R/+@4v/n////@4w////R/+@4v/1d////@4w////R/","M":"119+nd+-1+rtab+50+50+0+5+2rk+92s+1","E":"@4x/2/X/1o/+@4x/6/X/1o/+@4x/7/X/1o/+@4x/8/X/1o/+@4x/9/X/1o/+@4x/a/X/1o/+@4x/b/X/1o/+@4x/c/X/1o/+@4x/d/X/1o/+@4x/e/X/1o/+@4x/f/X/1o/+@4x/g/X/1o/+@4x/h/X/1o/+@4x/i/X/1o/+@4x/j/X/1o/+@4x/k/X/1o/+@4x/l/X/2s/+@4x/m/X/4y/","N":"@4y/4u//@l/@55/@p/75/@m/@4y/@4y/@4y/1f3g/@50/@51+@4z/4v//@l/@57/@p/75/@m/@4z/@4z/@4z/1f3k/@50/@51+@52/4w//@l/@4m/@3q/31/@m/@52/@52/@52/1f9z/@53/@53+@54/4x//@l/@55/@p/55/@m/rrgt/rrh8/@56/@56/rrls/rrlt+@58/4y//@l/@57/@p/7d/@m/@58/@58/@58/@56/rro2/rro3+@59/4z//@l/display/@p/39/@m/@59/@59/@59/rs6l/@5a/@5a","C":"rru1/////l6/b//rrty+rruj/2////jq/1w//rrud+rruz/0////hu/3m//rrut+rrvi/1g////fk/5d//rrvh+rrvx/////dc/73//rrvq+rrwe/1h////be/8s//rrw6+rrxa/6////7f/c4//rrx9+rrxs/1i////69/d3//rrxq+rryo/////5a/e9//rryl+rs1h/7////5t/fl//rs19+@5b/////7g/g8//@5b+rs49/////91/g9//rs45+@5c/////9r/hu//rs5h+rs63/////a2/k2//rs5x+rs72/8////ak/q7//rs6n+@5d/9////an/t8//rs79+rsar/b////ao/yw//rsae+rssu/d////ap/16s//rssn+@5e/1j/////1ka//rsv1+rsxg/////cm/1kw//rsxc+rsyd/////ec/1km//rsy7+rsyu/////h0/1k3//rsyo+rszd/////j6/1jj//rszc+rszr/h////lp/1ix//rszj+rt08/////n7/1ii//rt01+rt16/////ol/1i4//rt0y+@5f//mousedown/////1/@5f+@5g//mouseup/////0/@5g+rt4x//click//////","K":"@5h/1o/keydown/1ekk/rt6e"}]]]></D></E></Events><STS>1688376613758</STS></ClientInstRequest>

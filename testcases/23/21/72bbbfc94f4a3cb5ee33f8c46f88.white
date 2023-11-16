@@ -1,0 +1,20 @@
+POST /news/g HTTP/1.1
+Host: h5.analytics.126.net
+Content-Length: 1779
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=utf-8
+Accept: */*
+Origin: https://www.163.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+["%7B%22val_nm%22%3A%2214%22%2C%22val_act%22%3A%22exposure_yw%22%2C%22channel%22%3A%22%22%2C%22projectid%22%3A%22NTM-KFGT6I8U-30%22%2C%22info%22%3A%7B%22spstitle%22%3A%22%3Ca%20href%3D%5C%22https%3A%2F%2Fwww.163.com%2Fnews%2Farticle%2FI8NTJL3600018AOR.html%3Fclickfrom%3Dw_yw%5C%22%20data-c%3D%5C%22%E6%96%B0%E9%97%BB%5C%22%3E%E5%B4%94%E5%A4%A9%E5%87%AF%5C%22%E9%9A%94%E7%A9%BA%E5%9B%9E%E5%91%9B%5C%22%E5%B8%83%E6%9E%97%E8%82%AF%3A%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%B2%A1%E6%83%B3%E8%BF%87%E5%81%9A%E4%BA%8B%E8%A6%81%E8%AE%A9%E7%BE%8E%E5%96%9C%E6%AC%A2%3C%2Fa%3E%22%2C%22spssid%22%3A%22%22%2C%22spsw%22%3A0%2C%22ptime%22%3A%22%22%7D%2C%22sdk_ver%22%3A%222.2.0%22%2C%22session_id%22%3A%221688377859041%22%2C%22ct%22%3A%22%22%2C%22source%22%3A%22other%22%2C%22uuid%22%3A%221bcb316ed9eb6ef6c00ea61decf90c33%22%2C%22val_url%22%3A%22https%3A%2F%2Fwww.163.com%2F%22%2C%22uid%22%3A%22%22%2C%22uname%22%3A%22%22%2C%22val_ref%22%3A%22%22%2C%22val_ref_from%22%3A%22%22%2C%22sc%22%3A%221920*1080%22%2C%22type%22%3A%22exposure%22%7D","%7B%22val_nm%22%3A%22w_yw%22%2C%22val_act%22%3A%22exposure%22%2C%22projectid%22%3A%22NTM-KFGT6I8U-30%22%2C%22info%22%3A%7B%22exposure_url%22%3A%22https%3A%2F%2Fwww.163.com%2Fnews%2Farticle%2FI8NTJL3600018AOR.html%3Fclickfrom%3Dw_yw%22%2C%22spstitle%22%3A%22%E7%BD%91%E6%98%93%22%2C%22spssid%22%3A%22%22%2C%22spsw%22%3A0%2C%22ptime%22%3A%22%22%7D%2C%22sdk_ver%22%3A%222.2.0%22%2C%22session_id%22%3A%221688377859041%22%2C%22ct%22%3A%22%22%2C%22source%22%3A%22other%22%2C%22uuid%22%3A%221bcb316ed9eb6ef6c00ea61decf90c33%22%2C%22channel%22%3A%22%22%2C%22val_url%22%3A%22https%3A%2F%2Fwww.163.com%2F%22%2C%22uid%22%3A%22%22%2C%22uname%22%3A%22%22%2C%22val_ref%22%3A%22%22%2C%22val_ref_from%22%3A%22%22%2C%22sc%22%3A%221920*1080%22%2C%22type%22%3A%22exposure%22%7D"]

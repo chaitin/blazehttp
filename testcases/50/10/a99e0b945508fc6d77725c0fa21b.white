@@ -1,0 +1,18 @@
+POST /gol/postweb?000014,000014,000014 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 1638
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://message.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://message.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+0000141688375205161https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Flove|https%3A%2F%2Fspace.bilibili.com%2F3493279433755293|333.1296.love.pv|1688375205161||1920x921|1|{"spmId":"444.1","_id":"M9045401","cost":"10853","dur":"10853","init":false,"api_cost":219,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}||8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN||10000141688375205719https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Fat|https%3A%2F%2Fspace.bilibili.com%2F3493279433755293|333.1296.at.pv|1688375205719||1920x921|1|{"spmId":"444.1","_id":"M9045401","cost":"10853","dur":"10853","init":false,"api_cost":219,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}||8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN||10000141688375206275https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Freply|https%3A%2F%2Fspace.bilibili.com%2F3493279433755293|333.1296.reply.pv|1688375206275||1920x921|1|{"spmId":"444.1","_id":"M9045401","cost":"10853","dur":"10853","init":false,"api_cost":219,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}||8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN||1

@@ -1,0 +1,18 @@
+POST /monitoring/metrics/add/bulk/v2 HTTP/1.1
+Host: metrics.api.drift.com
+Content-Length: 897
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.driftt.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.driftt.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+metrics=%5B%7B%22value%22%3A379.10000002384186%2C%22dimensions%22%3A%7B%22type%22%3A%22bucket%22%2C%22buckets%22%3A%22500%2C%20800%2C%201000%2C%201200%2C%201500%2C%202000%2C%203000%2C%205000%2C%206000%2C%207000%2C%208000%2C%209000%2C%2010000%2C%2011000%2C%2012000%22%7D%2C%22metric%22%3A%22widget_core.enduser_bootstrap.buckets%22%7D%2C%7B%22value%22%3A1%2C%22dimensions%22%3A%7B%22type%22%3A%22counter%22%7D%2C%22metric%22%3A%22widget_core.bootstrap.complete%22%7D%2C%7B%22value%22%3A4731.099999904633%2C%22dimensions%22%3A%7B%22type%22%3A%22bucket%22%2C%22buckets%22%3A%22500%2C%20800%2C%201000%2C%201200%2C%201500%2C%202000%2C%203000%2C%205000%2C%206000%2C%207000%2C%208000%2C%209000%2C%2010000%2C%2011000%2C%2012000%22%7D%2C%22metric%22%3A%22widget_core.loaded.buckets%22%7D%2C%7B%22value%22%3A1%2C%22dimensions%22%3A%7B%22type%22%3A%22counter%22%7D%2C%22metric%22%3A%22widget.v2.load%22%7D%5D

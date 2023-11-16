@@ -1,0 +1,19 @@
+POST /weapi/feedback/weblog?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 578
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Nm-Gcore-Status: 1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/song?id=1842025914
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=0kqHlsKDW1tZXAv%2BLqVDGw5YWioNynW5I6iyJqIetcSAEP16CbOZbwW7ih86J%2F6rMlrkrkz4djneG8AInREAy8NWgX%2BxGIBsdPxmBCJtpV%2FxcGkIE%2F3X2IAyxROUNu7VZkAwFD%2F5uNJbc4RCVUmvDcp5ZaKSDPp4X2rqObTiQnquy8Mwm9BG2cmFrlFiwPI69nkBAKFn6jndSd%2F%2FRtUJISbWql7xE5Y%2BkP8o3FYGeMSxMJ2rZ2Y2jeTV9h3vjaSO4kBwMxC5eoybRgsyJ%2BcSww%3D%3D&encSecKey=8d6e0be5276d700dfe824f2f75f424fc29eaea392a2102053697676cf0c0a7b9d8402dc21c19b4e9313718b496c3f9b7f2c354afad678a308655582c1593474618b1a0f54332cfe18da2b677a1c36d1231571e40d2c156d59cae963091649bb937c311739f9e04fde6c6e4a19816f04e925c2432af89ce61bf89732edab5d642

@@ -1,0 +1,15 @@
+GET /collect/pv?from=https%3A%2F%2Fy.tencentmusic.com%2Fqqmusic.html%3Fqynum%3D1152921504763685208%26qytoken%3D3OPiYI60maqn0T1-I7PbujnXNQznNjWz3_eIfvNo_bxvK8FE38kXI0Jxhdatg7BB8zrvKlgUspwQ%23%2Fuser%2Fcreateorgan&id=1005&uin=&version=1.40.9&aid=00010011-0110-0001-0110-000000011111&env=production&platform=3&netType=4&vp=1914%20*%20779&sr=1920%20*%201080&sessionId=session-1688383898140&referer=https%3A%2F%2Fy.qq.com%2F HTTP/1.1
+Host: aegis.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://y.tencentmusic.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.tencentmusic.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,18 @@
+POST /service/um.json?_bx-v=2.2.3 HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 756
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://passport.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://passport.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!f0eHqBbjfQ6f5SvAW%2FmB4%2B8G9UNH2MwCevSU5iW0tz5cATUSZas1G1fO5NTwXGTwWP1eT%2BLtN63gFEHjVFAMg5lqGzlR3AKffMd0wPhNOJxcNeYfTV7pCd2YPYd1daFKQXMHlOZxCg1qusTsC93u5ivdu%2F3u2NbieZKKfNL4tUdLo%2FpWYVtpeh78XXfWv%2FjQ5SFmx2Qc5f%2Fn58PwfPfqWS4QxL0ysPYx5scYgagXFeXhacff5Twgb4DRpHvjk%2BPELUURvnDVFza3cGwpizEDddD9RcLsEP3wWn2Ki6iHAGJVSs6Obp94oKPErxX%2BugoxhfGdyVhTssxYY3iFzK6EY9Q4VKH6MNuUBYYHpu2s%2BhPJoDOFIbuTE88W5tUOmf4xNhPsG%2Bmmr0A9zvUMoyAR4lQ70fCjswN21qdyOPNzUuA6GnjFR9G8c1V%2FcgdwVcS8MabB7Ka76x9vD0tWK56pgAabkO%2Fb8EgLeo7S7ejwG0SoPTZnnvqfbmStfs3mDSYuwRkYHCuWN9IDIq9rt9AOvqmqgjV%2B8u2hDzFwKMKoDwqBkVhfGDrq8DKt3iR8HXbf%2FeiPakaLrW9DOZd0%2FTzndlufAQo7CLdChg1QO4Rdr37aTdbmFIJgqenlJ8yMX8sHSdZ9GaQO6PG77IsbiT48E9soEe3DvXvSWKIBxJQpg8eA&xa=CF_APP_TBLogin_PC&xt=&efy=1

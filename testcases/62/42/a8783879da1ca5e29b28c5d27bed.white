@@ -1,0 +1,15 @@
+GET /clock?t=1688375712932&tk=187dd3044367ee2f390e706b16c4d1f5&s=387675&p=%2F&u=1048432&v=8d34a05c992b1e0c445a4d07db81bcb4d974afa2&f=modao.cc&ul=https%3A%2F%2Fmodao.cc%2F HTTP/1.1
+Host: tracking.crazyegg.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://modao.cc
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

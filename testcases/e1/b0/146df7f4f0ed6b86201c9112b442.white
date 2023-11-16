@@ -1,0 +1,20 @@
+POST /graphql HTTP/1.1
+Host: codepen.io
+Content-Length: 770
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Csrf-Token: SNRfTR/MYHLOzsvOHeUsuttqZb+8BIGGuvQEIDR0NotH4XMugkznypGm7RvLi7hsvLj+n1PTcb42uUz7j5NxFg==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://codepen.io
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://codepen.io/pen?&editors=001
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"operationName":"ItemTitleSessionUser","variables":{},"query":"query ItemTitleSessionUser {\n  sessionUser {\n    id\n    anon\n    pro\n    ownerType\n    currentContext {\n      id\n      baseUrl\n      title\n      __typename\n    }\n    __typename\n  }\n}\n"},{"operationName":"EditorHeaderPen","variables":{},"query":"query EditorHeaderPen {\n  sessionUser {\n    anon\n    avatar80\n    currentTeamId\n    id\n    username\n    currentContext {\n      id\n      privateByDefault\n      __typename\n    }\n    ...SessionUserPermissions\n    __typename\n  }\n}\n\nfragment SessionUserPermissions on User {\n  id\n  permissions {\n    id\n    canCreatePrivate\n    canUseCollab\n    canUsePresentation\n    canUseProfessor\n    __typename\n  }\n  __typename\n}\n"}]

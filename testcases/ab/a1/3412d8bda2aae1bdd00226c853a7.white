@@ -1,0 +1,19 @@
+POST /mcp/wise/sharepage HTTP/1.1
+Host: ug.baidu.com
+Content-Length: 2599
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://mbd.baidu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mbd.baidu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"app":"wise","scene":"sharepage","req_type":0,"baiduid":"D036BBD98CD2638F76C82F9B35B06C21:FG=1","app_id":"wx85d749f4a86cb9a9","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","share_url":"https://mbd.baidu.com/newspage/data/dtlandingwise?nid=dt_4652591524137232056&sourceFrom=homepage","is_weixin":0,"invoke_info":{"pos_top_bar":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_head_author_area":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_head_follow_btn":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_cmt_praise":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_cmt_author_area":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_cmt_item":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_cmt_reply_btn":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_cmt_reply_area":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_global_mask":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_interactbar_comment":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_interactbar_collection":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_interactbar_comment_input":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_interactbar_praise":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_feed_more":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}],"pos_dt_drag_button":[{"nid":"dt_4652591524137232056","feed_id":"4652591524137232056","source":"ugc_baijiahao","topic_id":"1107000047685328"}]},"sid":"111136_2","select_index":{}}

@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=391060425&t=pageview&_s=1&dl=https%3A%2F%2Fwww.infoq.com%2F&dr=https%3A%2F%2Fcn.bing.com%2F&dp=%2F&ul=zh-cn&de=UTF-8&dt=InfoQ%3A%20Software%20Development%20News%2C%20Trends%20%26%20Best%20Practices&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&_u=aADAAAABQAAAAC~&jid=1531695379&gjid=1106871781&cid=2095360498.1688381461&tid=UA-6608133-2&_gid=1683197420.1688381461&_r=1&_slc=1&gtm=45He36s0n81W9GJ5DL&cd6=false&z=38451387 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.infoq.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.infoq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

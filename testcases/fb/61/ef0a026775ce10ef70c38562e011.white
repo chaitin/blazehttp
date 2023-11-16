@@ -1,0 +1,22 @@
+POST /international/search/api/flight/comfort/getFlightComfort?v=0.23346812587781818 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 195
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-d79y7kY54I8oiBkKGzJLoWobJSbwT9JLBWbAjkBwA7wtmwhty1mEdsRnQv93if4J1aYkzR60ymSiSLvczjGSiNly65JpkWchj5TI3NYZnwFBv5HJkAe3Y96JMdw17KToRtBws8jZ1jMniL3y5SjUTRTzWXbwqnRmOjhzEFsIb0w0wqY8XJdmYqoR94KHPjNMj3tEFZyoE9hiNFYlEPzYl6y3EhSY9Qy81vqhWgqe1kxkpKM8jD5yZdISswhBj5owhFeaHEqUI7gwFni98R8EGhYlcysQiDoYa1WF8e3fY8kjQEgtYFSyZgWnLeOFyHpjSEO6YngypZiGAYmaj7sKPNEhdIpsekBKqAxzAK3debzJaoILdyOEgXiBnytbYUE1fio7JBqRQEOkYmSwpLyoLj1sEpbyhLEs6jPajSEF3iBPJOmYSsWnkYG1ifSe65WLqy7BeNnWh5E7EDoYBgw0fEc1WUoWtQeHtEAdYhGw35jl7eZHycEaki4QJ69j0awmbiNHEfARB0y4E3MYFSw8zyqgeLPyaE3Zi5BJ8mi4oin9YBMjhFiD7EOSJ8LxGhIT0yQYaqeXsiHqjztRanwAdj7mjoXiQqyMljt1WdSRzBR5NjZQEGcY6sIS5E5ljkhIbpvsTvPBWM0KaQEDOEfYH7Jzhj7MRPbjgaj5PvmOw4MwbFRc0iQAJ65eZhjtPw1SjGlYQDeH1EgtvfXwQTjN1eAcj7HR84RHzEUtePgjMFylPvpaJnOvZny8avkFWX4i7Pyb0J1dvm6KTqjlhy0YpgW11KaOJfcYshwUqYGpwclEFljolYFBw6UYT1WDqx3YNOiOEXZIgnYc8E0FYB3ROTRnYMLE6BK8TEsSvkceFmYhsiM9YTGWLSiZGwkYQFvGv47IoaeFsE1kj9oWqkR13EfEmYTLr81ws9IGDrNSK07ehBE4AWFoKcqrMsx3YaUE4aW3dwLSRkAvTOYdAWBde0kRHsWp9j0zW53yT7vN4KOYLtWbGiBlElfRpbv1nY6UWc6eNmRsnWpDitHYAy0fJoT
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"airlineCode":"NS","arrivalDate":"2023-07-04","cabinList":["Y","C"],"departureCityCode":"HGH","arrivalCityCode":"BJS","departureDate":"2023-07-04","flightNoList":["NS8020"],"aircraftCode":"738"}

@@ -1,0 +1,19 @@
+POST /OneCollector/1.0/?cors=true&content-type=application/x-json-stream&client-id=NO_AUTH&client-version=1DS-Web-JS-3.2.6&apikey=69adc3c768bd4dc08c19416121249fcc-66f1668a-797b-4249-95e3-6c6651768c28-7293&upload-time=1688381495246&time-delta-to-apply-millis=use-collector-delta&w=0&NoResponseBody=true HTTP/1.1
+Host: browser.events.data.microsoft.com
+Content-Length: 1690
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://login.microsoftonline.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://login.microsoftonline.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"name":"IDUX_ESTSClientTelemetryEvent_WebWatson","time":"2023-07-03T10:51:35.241Z","ver":"4.0","iKey":"o:69adc3c768bd4dc08c19416121249fcc","ext":{"app":{"ver":"2.1.15723.3","name":"IDUX_ESTSClientTelemetryEvent_WebWatson","sesId":"1XIANRo+KTzLOCObDfLCtJ","userId":"p: 1800","locale":"zh"},"cloud":{"role":"AUELR2","roleInstance":"SY3XXXX","roleVer":"2.1.15723.3"},"sdk":{"ver":"1DS-Web-JS-3.2.6","seq":1,"installId":"88085d7b-c285-408d-a339-95ba5a43ca32","epoch":"601283513"},"user":{"locale":"zh-CN"},"web":{"domain":"login.microsoftonline.com","userConsent":false},"intweb":{},"utc":{"popSample":100,"eventFlags":1048576},"loc":{"tz":"+08:00"},"metadata":{"f":{"viewId":{"t":6}}}},"data":{"baseData":{"properties":{"version":""}},"viewId":55,"Data":"{\"pltMetrics\":{\"apiTimingInfo\":[],\"isPlt1\":false,\"plt\":1401,\"timing\":{\"connectStart\":1688381492196,\"navigationStart\":1688381491839,\"secureConnectionStart\":1688381492209,\"fetchStart\":1688381492193,\"domContentLoadedEventStart\":1688381493458,\"responseStart\":1688381492838,\"domInteractive\":1688381493458,\"domainLookupEnd\":1688381492193,\"responseEnd\":1688381492839,\"redirectStart\":0,\"requestStart\":1688381492210,\"unloadEventEnd\":0,\"unloadEventStart\":0,\"domLoading\":1688381492847,\"domComplete\":1688381493566,\"domainLookupStart\":1688381492193,\"loadEventStart\":1688381493566,\"domContentLoadedEventEnd\":1688381493458,\"loadEventEnd\":1688381493594,\"redirectEnd\":0,\"connectEnd\":1688381492210},\"pltOverallTransferBucket\":17,\"dns\":0,\"tcp\":14,\"pageSource\":\"LPerf\"}}","ServerPageID":"1104","PageName":"ConvergedSignIn","ServiceID":"3","CorrelationId":"e95e5238-9153-4cce-b1b2-62197bc506ba"}}

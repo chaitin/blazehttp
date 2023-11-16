@@ -1,0 +1,18 @@
+POST /analytics/v2_upload?appkey=0AND0F8T5N4N7QT0 HTTP/1.1
+Host: otheve.beacon.qq.com
+Content-Length: 1394
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=utf-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"appVersion":"","sdkId":"js","sdkVersion":"4.5.16-web","mainAppKey":"0AND0F8T5N4N7QT0","platformId":3,"common":{"A2":"DZZRCpr6z5r59pE7yfiHNaeiEkEhP3Wn","A8":"","A12":"zh-CN","A17":"1920*1080*1","A23":"","A50":"","A76":"0AND0F8T5N4N7QT0_1688379215244","A101":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","A102":"https://www.qq.com/","A104":"","A119":"","A153":""},"events":[{"eventCode":"boss_cmd_player_quality_feitian","eventTime":"1688379215246","mapValue":{"hc_main_login":"","hc_vuserid":"","hc_openid":"","hc_appid":"","guid":"c8c808585fce8a621e14ee3544b798f3","p2p":"","resolution":"1920*1080*1","testid":"","osver":"windows 10.0","playerver":"1.15.22","playertype":"","uip":"","confid":"","cdnip":"","cdnid":"","cdnuip":"","device":"","appver":"3.5.57","p2pver":"","flowid":"ad32f8ff087e5ba262eeeb5e46ee4fd8","platform":"70901","vid":"l1471mbbtjz","bizid":"","url":"https://www.qq.com/","refer":"","cid":"","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\\, like Gecko) Chrome/114.0.0.0 Safari/537.36","ptag":"","loginid":"","loginex":"","logintype":"0","vip":"0","downloadkit":"1","seq":"0","stepname":"boss_cmd_player_quality_feitian","step":"5","data":"{\"stime\":1688379215043\\,\"etime\":1688379215083\\,\"code\":\"0\"}","A99":"Y","A100":"3","A72":"4.5.16-web","A88":"1660892935938"}}]}

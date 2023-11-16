@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=D40B3E3B5219466AA91A96EA2AA5BEA9&TYPE=Event.ClientInst&DATA=%5B%7B%22T%22%3A%22CI.ClientInst%22%2C%22TS%22%3A1688377341042%2C%22Name%22%3A%22OrgId%22%2C%22FID%22%3A%22NoSignInAttempt%22%7D%2C%7B%22correlationId%22%3A%2264a297f98df34339b85a50da3e5b81a5%22%2C%22T%22%3A%22CI.acclink%22%2C%22TS%22%3A1688377341059%2C%22Name%22%3A%22loadJsModule%22%2C%22FID%22%3A%22init%22%7D%2C%7B%22correlationId%22%3A%2264a297f98df34339b85a50da3e5b81a5%22%2C%22T%22%3A%22CI.acclink%22%2C%22TS%22%3A1688377341059%2C%22Name%22%3A%22undirectflow%22%2C%22FID%22%3A%22init%22%7D%2C%7B%22AppNS%22%3A%22SERP%22%2C%22K%22%3A%225549.1%22%2C%22Category%22%3A%22CommonControls%22%2C%22AnswerType%22%3A%22LeftGutterWidget%22%2C%22T%22%3A%22CI.LeftGutterModule%22%2C%22TS%22%3A1688377341131%2C%22Name%22%3A%22ContainerToggledon%22%2C%22FID%22%3A%22wikiWidget%22%7D%2C%7B%22AppNS%22%3A%22SERP%22%2C%22K%22%3A%225549.1%22%2C%22Category%22%3A%22CommonControls%22%2C%22AnswerType%22%3A%22LeftGutterWidget%22%2C%22T%22%3A%22CI.LeftGutterModule%22%2C%22TS%22%3A1688377341131%2C%22Name%22%3A%22ContainerRender%22%2C%22FID%22%3A%22wikiWidget%22%7D%2C%7B%22Text%22%3A%22rprfb_3144A0%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377341135%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Text%22%3A%22rprfb_317859%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377341135%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Text%22%3A%22rprfb_319BAF%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377341140%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Text%22%3A%22sb_feedback%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377341174%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22T%22%3A%22CI.DevLoc%22%2C%22TS%22%3A1688377341181%2C%22Name%22%3A%22PromptDevLoc%22%2C%22FID%22%3A%22AutoPrompt%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/search?q=site:segmentfault.com%20select%20user_id,user_nickname,user_status%20from%20yy_user%20where%20user_status%20=%201%20//%20%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9F%A5%E8%AF%A2
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,26 @@
+POST /api/v4/commercial/ecommerce HTTP/1.1
+Host: www.zhihu.com
+Content-Length: 218
+Pragma: no-cache
+Cache-Control: no-cache
+X-Zse-93: 101_3_3.0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ab-Param: 
+X-Ab-Pb: CgY7AicH+AwSAwIAAA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+X-Requested-With: fetch
+X-Xsrftoken: ZghcQY5lhvsHojxsLvppmhvl0OE5Kzcv
+X-Zse-96: 2.0_4BBqh15N0idvq6+XS8/tdmQCoObIhtX2xhRAyKiSmbv/FHDTrc534=w5q=RrrGHV
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.zhihu.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.zhihu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"urls":["https://xg.zhihu.com/plugin/07b51ce4fccea24500f2ba0ae8c08f42?BIZ=ECOMMERCE","https://xg.zhihu.com/plugin/07b51ce4fccea24500f2ba0ae8c08f42?BIZ=ECOMMERCE"],"type":"article","os":"other","url_token":"534395749"}

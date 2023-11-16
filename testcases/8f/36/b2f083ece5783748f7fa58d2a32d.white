@@ -1,0 +1,18 @@
+POST /api/cbc/global/rest/cbc/cbcriskcontrolservice/v1/dev HTTP/1.1
+Host: portal.huaweicloud.com
+Content-Length: 1000
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://auth.huaweicloud.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://auth.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"devInfo":"sNyzj7eEspf0gAg6CD4PPht5GXYDYxEtSioZfh4qTS9IJBsqT3cVLBt7SXxLf00oFnRFdkJ5QXdCICpKfUQiRGUAmu+doYbgr5OlxvPC98SnlKSVrM78mPWRpJDp2uGF4L2Ls4Xg743t3b2F5tO2gEt4UTVELxMnAJrphPDSgbKDtND3k6KX88qvnfrKqpr7n/ueq8+qmKaRpZ2umvqc/cnxxvCO7IqsmduZr8jxx/TD9pC2h7OEsYPn0una6Y7o17KDuoHkguC+2e+Lvt7u2rjS6c3+vvCO6d/u3e7ZvNro0Kydr8/6wfKTo8CKsdXi1LLX4YKwmayeqJasmKeUtofFk6CtnaybqZ6ow6eRpZTwierY7trt2r+Mstfh0Pqcq5n7ya2Z+56pzamO6JPm2ObT6tHj2urf7dvi1+XCpNeslriDuomuy6XKvc/zkL7e5IG2h7eATytPe00uFSISJRBpW2hQfEInQyQVLR1+THgTcRJ0FzBGNUd7XDdZO1s2ZhF/DGoOaFprWm1VZ1FnX21aPAJkWm4PbQowSykbKBMkFnYTJhcjFHZNehwtHCofekkpGyIUJBBrXD8LOgCaoZSnnqub+MPxyavL85ShlPKX9c2olKuTpJC4gEluA2MBblACbhd/En0dOlc3WGonQzZGJkQzV3ABYwc7Tj9LLwhpBGReJ05gHFVyH24LN2EJZlZnQEwqQX1NfEh1UiJASHpIfk9+WylAAjAfJhUyQjYINgw5CCFXM1AoS3cUJx57SX1EIUZwDmgCNgDKr5yumarMqJb2k6rL+JGhkLuLsoex1eXX8Iz4yvnI/8v/zfjAh7aNvNrpju/e69q/h7KIsdPn0rWMvo/o3+6Is4q7irs=","step":"devID","devID":"2049377936e9e97bcf9dc32465cf4256e86e6016d0a38573d6d509e844861b439ca9f24afc9d38963776"}

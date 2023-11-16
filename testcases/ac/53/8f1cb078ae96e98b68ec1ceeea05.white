@@ -1,0 +1,18 @@
+POST /weapi/pl/count?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 404
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/friend/newsong
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=LhZdTnP9YOV1jVKwwsct1uJQTdpPdshi4YExIWU64LDummucYJoCtD3IY0shLPqyiHk8PH8N3yfBISe1H0vEPNFZkPxu09AvkSJkEHQjSC%2FqehAFyXwrd9hOotdPfa0r&encSecKey=881cb20f2bd225a7c83133fb6353b97b620d14f5315ce6126bf9e7ed973ff245ff0687985f97858dc75719a772fb4d361b66da5f7b42667e96c287b19afe1643718479ca083143ab2250c226d28742c4084f2990dfe61b7788dc350eb09b05f4d344bcee4b42ab8b0cdbdab5ab481316eda7eb8efcfa7f4e5dc7d68b831b47fa

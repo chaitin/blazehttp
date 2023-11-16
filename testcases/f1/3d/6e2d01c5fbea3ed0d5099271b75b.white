@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 605
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=site:segmentfault.com%20%E6%95%B0%E6%8D%AE%E5%BA%93
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>6273C4C132004CA686EE05156311588E</IG><TS>1688377308815</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":1,"N":2,"I":"5cy","S":"V","M":"V+L+M+MT+E+N+C+K+BD+BF","T":6137,"K":"4qh","F":1},"V":"4qg/////////hidden/visibilitychange","M":"p3+qn+-1+4qh+43+w+0+5+0+on+1","E":"@2r/2/X/1o/+@2r/6/X/1o/+@2r/7/X/1o/+@2r/8/X/1o/+@2r/9/X/1o/+@2r/a/X/1o/+@2r/b/X/1o/+@2r/c/X/1o/+@2r/d/X/1o/+@2r/e/X/1o/+@2r/f/X/1o/+@2r/g/X/1o/+@2r/h/X/1o/+@2r/i/X/1o/+@2r/j/X/2s/+@2r/k/X/4y/"}]]]></D></E></Events><STS>1688377308815</STS></ClientInstRequest>

@@ -1,0 +1,22 @@
+POST /pen/define HTTP/1.1
+Host: codepen.io
+Content-Length: 3062
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Origin: https://ant.design
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://ant.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+data=%7B%22title%22%3A%22%E5%9F%BA%E6%9C%AC+-+antd%405.6.4%22%2C%22html%22%3A%22%5Cn++++%3C%21DOCTYPE+html%3E%5Cn++++++%3Chtml+lang%3D%5C%22en%5C%22%3E%5Cn++++++++%3Chead%3E%5Cn++++++++++%3Cmeta+charset%3D%5C%22utf-8%5C%22%3E%5Cn++++++++++%3Cmeta+name%3D%5C%22viewport%5C%22+content%3D%5C%22width%3Ddevice-width%2C+initial-scale%3D1%2C+shrink-to-fit%3Dno%5C%22%3E%5Cn++++++++++%3Cmeta+name%3D%5C%22theme-color%5C%22+content%3D%5C%22%23000000%5C%22%3E%5Cn++++++++%3C%2Fhead%3E%5Cn++++++++%3Cbody%3E%5Cn++++++++++%3Cdiv+id%3D%5C%22container%5C%22+style%3D%5C%22padding%3A+24px%5C%22+%2F%3E%5Cn++++++++++%3Cscript%3Econst+mountNode+%3D+document.getElementById%28%27container%27%29%3B%3C%2Fscript%3E%5Cn++++++++%3C%2Fbody%3E%5Cn++++++%3C%2Fhtml%3E%5Cn++++%22%2C%22js%22%3A%22const+%7B+createRoot+%7D+%3D+ReactDOM%3B%5Cnconst+%7B++DownOutlined%2C+SmileOutlined++%7D+%3D+icons%3B%5Cnconst+%7B++Dropdown%2C+Space++%7D+%3D+antd%3B%5Cnconst+items+%3D+%5B%5Cn++%7B%5Cn++++key%3A+%271%27%2C%5Cn++++label%3A+%28%5Cn++++++%3Ca+target%3D%5C%22_blank%5C%22+rel%3D%5C%22noopener+noreferrer%5C%22+href%3D%5C%22https%3A%2F%2Fwww.antgroup.com%5C%22%3E%5Cn++++++++1st+menu+item%5Cn++++++%3C%2Fa%3E%5Cn++++%29%2C%5Cn++%7D%2C%5Cn++%7B%5Cn++++key%3A+%272%27%2C%5Cn++++label%3A+%28%5Cn++++++%3Ca+target%3D%5C%22_blank%5C%22+rel%3D%5C%22noopener+noreferrer%5C%22+href%3D%5C%22https%3A%2F%2Fwww.aliyun.com%5C%22%3E%5Cn++++++++2nd+menu+item+%28disabled%29%5Cn++++++%3C%2Fa%3E%5Cn++++%29%2C%5Cn++++icon%3A+%3CSmileOutlined+%2F%3E%2C%5Cn++++disabled%3A+true%2C%5Cn++%7D%2C%5Cn++%7B%5Cn++++key%3A+%273%27%2C%5Cn++++label%3A+%28%5Cn++++++%3Ca+target%3D%5C%22_blank%5C%22+rel%3D%5C%22noopener+noreferrer%5C%22+href%3D%5C%22https%3A%2F%2Fwww.luohanacademy.com%5C%22%3E%5Cn++++++++3rd+menu+item+%28disabled%29%5Cn++++++%3C%2Fa%3E%5Cn++++%29%2C%5Cn++++disabled%3A+true%2C%5Cn++%7D%2C%5Cn++%7B%5Cn++++key%3A+%274%27%2C%5Cn++++danger%3A+true%2C%5Cn++++label%3A+%27a+danger+item%27%2C%5Cn++%7D%2C%5Cn%5D%3B%5Cnconst+App+%3D+%28%29+%3D%3E+%28%5Cn++%3CDropdown%5Cn++++menu%3D%7B%7B%5Cn++++++items%2C%5Cn++++%7D%7D%5Cn++%3E%5Cn++++%3Ca+onClick%3D%7B%28e%29+%3D%3E+e.preventDefault%28%29%7D%3E%5Cn++++++%3CSpace%3E%5Cn++++++++Hover+me%5Cn++++++++%3CDownOutlined+%2F%3E%5Cn++++++%3C%2FSpace%3E%5Cn++++%3C%2Fa%3E%5Cn++%3C%2FDropdown%3E%5Cn%29%3B%5Cnconst+ComponentDemo+%3D+App%3B%5Cn%5Cn%5CncreateRoot%28mountNode%29.render%28%3CComponentDemo+%2F%3E%29%3B%5Cn%22%2C%22editors%22%3A%22001%22%2C%22css%22%3A%22%22%2C%22js_external%22%3A%22https%3A%2F%2Funpkg.com%2Freact%4018%2Fumd%2Freact.development.js%3Bhttps%3A%2F%2Funpkg.com%2Freact-dom%4018%2Fumd%2Freact-dom.development.js%3Bhttps%3A%2F%2Funpkg.com%2Fdayjs%401%2Fdayjs.min.js%3Bhttps%3A%2F%2Funpkg.com%2Fantd%405.6.4%2Fdist%2Fantd-with-locales.js%3Bhttps%3A%2F%2Funpkg.com%2F%40ant-design%2Ficons%2Fdist%2Findex.umd.js%3Bhttps%3A%2F%2Funpkg.com%2Freact-router-dom%2Fdist%2Fumd%2Freact-router-dom.production.min.js%3Bhttps%3A%2F%2Funpkg.com%2Freact-router%2Fdist%2Fumd%2Freact-router.production.min.js%22%2C%22js_pre_processor%22%3A%22typescript%22%7D

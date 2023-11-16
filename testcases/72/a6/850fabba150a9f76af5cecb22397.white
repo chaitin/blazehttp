@@ -1,0 +1,15 @@
+GET /x/web-interface/wbi/index/top/feed/rcmd?web_location=1430650&y_num=4&fresh_type=4&feed_version=V8&fresh_idx_1h=4&fetch_row=13&fresh_idx=4&brush=4&homepage_ver=1&ps=12&last_y_num=5&screen=1920-921&outside_trigger=&last_showlist=av_784886244,av_402931071,av_572348699,av_357843131,ad_5614,av_954803229,av_402863542,av_955345709,av_954494583,av_955351230%3Bav_402512253,av_529766182,av_529461346,av_615390368,av_445016853,ad_5637,av_827748976,av_230101068,av_912970007,av_572581417,av_614620546,live_n_3589915%3Bav_487546900,av_360119941,av_912840283,av_657323181,live_n_23873211,ad_5637,av_402157835,av_230375569,av_827394956,av_445250755,av_870254832,av_869610731%3Bav_912147222,av_444692298,av_402251233,av_272458473,ad_5637,av_402721339,av_487405019,live_n_27944886,av_360028320,av_487738294,av_657842301,av_230143537&last_clicklist=av_954803229&uniq_id=1488202303296&w_rid=bfea153cab1c933587d6b6610091520c&wts=1688375157 HTTP/1.1
+Host: api.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,17 @@
+POST /v1:GetHints?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw HTTP/1.1
+Host: optimizationguide-pa.googleapis.com
+Content-Length: 437
+Content-Type: application/x-protobuf
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQiFk80BCPqYzQEIhaDNAQiQq80BCNq0zQEItbzNAQiMvc0BCKS9zQEI3L3NAQi7vs0BCKS/zQEI/r/NAQ==
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+
+
+signin.aws.amazon.com"Ñ
+Åhttps://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fsupport.console.aws.amazon.com%2Fsupport%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ql_cu%26state%3DhashArgsFromTB_us-east-1_e69ce5a9d84ee1a2&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fsupportcenter&forceMobileApp=0&code_challenge=bNtpAWlbFdlmfCQ7kQYM2_BcXzFLPkqwz2CheADj81E&code_challenge_method=SHA-256((:en-USJ

@@ -1,0 +1,15 @@
+GET /_static/??-eJydUElyhDAM/FCMsk7lkspTUsYWIJCXeIHw+/EMQ4qQFIf44LLa3S21YPJCOZvQJugjaBxJof+q+ngHmy+Thefcko3ANGCEz4wZO2k1YzggK2dMgcQi6nfAKiSrOOufhICe58qQ3bunDk2h+lxDmgowl5tHvGitHKmVidwv0WakhhhFzU4NonFBodBusuykjhBVIJ8OtD0mL4twqcE4Z+GjTA91JtagZHA5In/zVuCvHBtbOVA0mMRTdb/YrUATrmR9tOFbCzH5srpd+f8osZMBtdR6vj7JtrcM7+bt4fT68nx6LKc/A9CF17Y= HTTP/1.1
+Host: s0.wp.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://brickexperimentchannel.wordpress.com
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://brickexperimentchannel.wordpress.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,17 @@
+GET /data/sem_sdk HTTP/1.1
+Host: pages.xiaohongshu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+X-T: 1688377987244
+X-S: XYW_eyJzaWduU3ZuIjoiNTEiLCJzaWduVHlwZSI6IngxIiwiYXBwSWQiOiJ4aHMtcGMtd2ViIiwic2lnblZlcnNpb24iOiIxIiwicGF5bG9hZCI6IjA1YTk5OTliYzAwY2IyYzY4OTA5YTQzOThhMWJiNTIxN2JhNDNlZjcwYzQyZmRjNGNjNTlhYTkwOTgwYWYwODlmNjQxNWI4YzVlMGNhYjg0N2I5ZDFiOWQwMTVhNzI3NmM5ZTNiZmRhMWZhYTFlYjkwZDc0YWEzMWI1NGM3MmNkMGQ3NGFhMzFiNTRjNzJjZGFjNDg5YjlkYThjZTVlNDhmNGFmYjlhY2ZjM2VhMjZmZTBiMjY2YTZiNGNjM2NiNTExNjIzN2UxNGRmMDU3YmExYWE1MTZmNzdjY2EyMmE5YzAwMWRlMTRhYmY2MjU3YmQyOGVkZjhiYjRkNmJiYmRjYjA2MTFiYmQxZjIwODY0MjE5ODczZDMxMjUyZTE0ZDlhNGI0NzMzMjY4OWUyYzYyY2UyNGVlN2VlMjc0NjU3OGZhMWUxYTEyYzRhNGQwNzRhNWMwNmE4MTVmZjhhNDc1NGI1MmQzODk5MWEzZGZmNmIxZTJhMmJlZWI3YmUwYyJ9
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

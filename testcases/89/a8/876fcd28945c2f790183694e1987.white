@@ -1,0 +1,18 @@
+POST /api/v1/jssdk/upload?wpk-header=app%3D4qgthszz-efopzl8g%26cp%3Dnone%26de%3D4%26seq%3D1688376436584%26tm%3D1688376436%26ud%3D26237149-5f2d-43a8-b3d4-a26729c6eb86%26ver%3Dnull%26type%3Dflow%26sver%3D1.2.6%26sign%3D9bf8a190ef82c5049df7b199c599c45b HTTP/1.1
+Host: px.effirst.com
+Content-Length: 1442
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.gaokao.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.gaokao.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+%7B%22w_url%22%3A%22https%3A%2F%2Fwww.gaokao.cn%2Fcontrol-line%22%2C%22w_query%22%3A%22%3Ffromcoop%3Dbdkp%26category%3D3%252B3%25E7%25BB%25BC%25E5%2590%2588%26province%3D%25E6%25B5%2599%25E6%25B1%259F%26year%3D2023%22%2C%22w_ref%22%3A%22%22%2C%22w_title%22%3A%22%E6%8E%8C%E4%B8%8A%E9%AB%98%E8%80%83%7C%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%9C%A8%E7%BA%BF%22%2C%22ua%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D85VrRazXpWmYqrDg8w7uiG7ibMdEgPZcV8f3_Z-G_j_S00DsNcAFDPn0Td04Ozrg5tVyDHLmqFBiCOWTSJgEnS5v_SfKjyb3AeBxkk8k9w0g8MOkcHVuotzRGcNX9GVHo0Qt0XcYyh_pHXoN-GIMd2kWGAC5SngWB0eYY1EYM4nnfCtGx827QJqq9JoE5HNX%26wd%3D%26eqid%3Db27986120004ecd00000000464a2946b%22%2C%22dsp_dpi%22%3A1%2C%22dsp_w%22%3A1920%2C%22dsp_h%22%3A1080%2C%22net%22%3A%22%22%2C%22category%22%3A5%2C%22sampleRate%22%3A1%2C%22w_bid%22%3A%224qgthszz-efopzl8g%22%2C%22w_cid%22%3Anull%2C%22w_rel%22%3Anull%2C%22w_spa%22%3Atrue%2C%22w_tm%22%3A1688376436581%2C%22w_cnt%22%3A1%2C%22uid%22%3A%2226237149-5f2d-43a8-b3d4-a26729c6eb86%22%2C%22type%22%3A%22flow%22%2C%22sdk_ver%22%3A%221.2.6%22%2C%22log_src%22%3A%22jssdk%22%2C%22uc_param%22%3A%22%22%2C%22wid%22%3A%2226237149-5f2d-43a8-b3d4-a26729c6eb86%22%2C%22w_frmid%22%3A%22221cdd50-37dd-4d22-2e92-d3a5e95c20b1%22%2C%22w_send_mode%22%3A%22sendbeacon%22%7D

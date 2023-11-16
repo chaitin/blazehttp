@@ -1,0 +1,21 @@
+GET /s?ie=utf-8&mod=11&isbd=1&isid=96909c4500017ee5&ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=qqwang%27y&fenlei=256&oq=web%25E5%25BE%25AE%25E4%25BF%25A1&rsv_pq=96909c4500017ee5&rsv_t=8b7ejg305FnkZVjS52%2BBeAng1X9a0QsadmBbQXZnLCBuUN1MZNYMg57I8Bc&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=i&inputT=5454&rsv_sug3=50&rsv_sug1=36&rsv_sug7=101&bs=web%E5%BE%AE%E4%BF%A1&rsv_sid=36549_38942_38881_38796_38907_38955_38964_38918_38811_38987_38636_26350&_ss=1&clist=&hsug=&csor=8&pstg=5&_cr1=36590 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Is_xhr: 1
+Ps-Dataurlconfigqid: 0xe6365931000b4bad
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Is_params: imes=2.2.328.1.2.650.2.2.210.2.2.428.2.2.144
+Is_pbs: web%E5%BE%AE%E4%BF%A1
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Is_referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=web%E5%BE%AE%E4%BF%A1&fenlei=256&rsv_pq=0xe6365931000b4bad&rsv_t=5a63KaE7iJ8qlKdfk6%2BX7l7zc4Vc5FqQAiuWlnLO%2F0bsACe%2F4U6YEoVfnU3m&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=13&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=webweixin&rsp=0&inputT=5454&rsv_sug4=5454
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=web%E5%BE%AE%E4%BF%A1&fenlei=256&rsv_pq=0xe6365931000b4bad&rsv_t=5a63KaE7iJ8qlKdfk6%2BX7l7zc4Vc5FqQAiuWlnLO%2F0bsACe%2F4U6YEoVfnU3m&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=13&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=webweixin&rsp=0&inputT=5454&rsv_sug4=5454
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

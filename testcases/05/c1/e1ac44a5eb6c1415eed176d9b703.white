@@ -1,0 +1,19 @@
+POST /g/collect?v=2&tid=G-EKLW76PEWW&gtm=45je36s0&_p=833634038&ul=zh-cn&sr=1920x1080&cid=1510953980.1688379840&ir=1&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=EBA&dl=https%3A%2F%2Fwww.atlassian.com%2Fsoftware%2Fjira%2Ffree&dt=Jira%20Free%3A%20Get%20Jira%20Software%20for%20Free%20%7C%20Atlassian&sid=1688379853&sct=1&seg=1&_s=1 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 798
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+en=page_view&_ee=1
+en=API%20Resolution&_ee=1&ep.ua_dimension_1=SMB&ep.ua_dimension_2=(Non-Company%20Visitor)&ep.ua_dimension_3=(Non-Company%20Visitor)&ep.ua_dimension_4=(Non-Company%20Visitor)&ep.ua_dimension_5=(Non-Company%20Visitor)&ep.ua_dimension_6=(Non-Company%20Visitor)&ep.ua_dimension_7=(Non-Company%20Visitor)&ep.ua_dimension_8=(Non-Company%20Visitor)&ep.ua_dimension_10=(Non-Company%20Visitor)&ep.ua_dimension_11=(Non-Company%20Visitor)&ep.ua_dimension_12=(Non-Company%20Visitor)&ep.ua_dimension_13=(Non-Company%20Visitor)&ep.ua_dimension_14=Hangzhou&ep.ua_dimension_15=ZJ&ep.ua_dimension_16=China&ep.ua_dimension_17=(Non-Company%20Visitor)&ep.ua_dimension_18=(Non-Company%20Visitor)&ep.ua_dimension_19=(Non-Company%20Visitor)&ep.event_category=Demandbase&ep.event_label=IP%20API&_et=157

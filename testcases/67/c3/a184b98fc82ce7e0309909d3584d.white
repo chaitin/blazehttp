@@ -1,0 +1,14 @@
+GET /rest/cbc/portaldataintegrationservice/v1/stats/search_query.gif?q=a&pageNo=1&typeName=community&queryType=short&lang=zh-cn&url=https%3A%2F%2Fwww.huaweicloud.com%2Fs%2FJWEl%2Ft_60&visitId=e6893a7f-14e2-409c-a76f-d02064c97137&newVisitId=8c0d5afd-bf63-47f3-8cd7-9bcc3a543a68&userId=e09e7dd4-0d11-4808-927d-46dd78a4aff4&searchAB=B&suggestion=pass&referer=https%3A%2F%2Fbbs.huaweicloud.com%2F&from=portal&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36&x-site=CHINA-ZH_CN&appId=com.huaweicloud.fms.search HTTP/1.1
+Host: portal.huaweicloud.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.huaweicloud.com/s/JWEl/t_60
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

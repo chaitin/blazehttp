@@ -1,0 +1,19 @@
+POST /restapi/soa2/13242/json/getWxqrCode?_fxpcqlniredt=09031121410788884587&x-traceID=09031121410788884587-1688378229560-1085808 HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 634
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Cookieorigin: https://trains.ctrip.com
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://trains.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://trains.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"cid":"09031121410788884587","ctok":"","cver":"1.0","lang":"01","sid":"8888","syscode":"09","auth":"","xsid":"","extension":[{"name":"protocal","value":"https"}],"clientID":"09031121410788884587","APIKey":"CtripWap","source":"Online","version":"708.000"},"contentType":"json","channel":"PC","appId":"wx0e6ed4f51db9d078","needData":false,"buType":"TRN","page":"pages/market/midpage/index","path":"pages/train/index/index?dstation=上海&astation=北京&ddate=2023-07-03&newUserFlag=4","fromId":"100015548","pathName":"TRN_utility_201909","autoColor":true,"isHyaline":false,"lineColor":{"r":"40","g":"27","b":"21"},"width":500}

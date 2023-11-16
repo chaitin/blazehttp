@@ -1,0 +1,19 @@
+POST /huangjacky/ajax/GetPostStat HTTP/1.1
+Host: www.cnblogs.com
+Content-Length: 211
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/json; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.cnblogs.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cnblogs.com/huangjacky/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+["4077982","4787831","4768386","4466021","4323682","4289400","4232637","4152528","4150365","4124819","4109096","4077982","4040884","4025489","4021250","4019868","4018139","4015690","4005317","4004842","4002421"]

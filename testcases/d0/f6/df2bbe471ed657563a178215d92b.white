@@ -1,0 +1,22 @@
+POST /international/search/api/flight/guideline/getGuideline?v=0.15006080415008594 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 1049
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-lOzEb0idpWUqE3XI48v4DJPhv3oRXGWLPvacvLFyTnRLlym8vnNYBTjGhwOHWPqvMDyknJ80jO1vPgwqORdcysbyLcWsBWpOwAgrpZvGPJsOi4XJXPE8YO8vo5JPTWAfRhMwUpjlzj3BiDMyl3jGQRcoWlZJmSycGWBFj3przMw4nKGYmQIz7xnARpsKsPjdkj8DEB1yNEoGi1ZYAEtGYmNy5EbLY4AykGvSQWmNeacxqlKobjUZy6BIaPw9Oj0Swoqek0E18I7kw6aiOpRkEa3YQcyOpi85YTQWqDesHYp9jDEDlYMAynaWtqeGzyAfjdEhNY7ky4qilhY3zjfzKPMEMoIFneL3KT1x6GKq9eb0JZ6IgXyqEdpicGyqzYNEcZibtJOoRQE7XY1owUTytSjmkEa1yZzEDqjkUjGEgti3GJhHYAmWT8Y83ikqeAXWhcy4FepdWnmEQElZYBSwDgEUlWSmWgleDHEf0YZqwX1jUaeP0yUEkziZ6JlXjaPwAkiQ1EtqR0MygE61YmNwSXyASeoDyfEM4iADJZXiPsiQ1Y7SjnsiDfEM7JbsIa0wNfWFYTcyM8ROFwodR1mwcTjfNjZ6i9pySnjdsWDmRcLRl9jfcE9XYhoItkE48jMTIoBvAZvfAWF5eN6WDciOYN1eqbxlke9gwhnj6gJzMY64wT6E8Ni46R7NeZNiTXwspWgqyDSePFEQ7jgAJ43Jk9e6hvSZEGtydHi6FeG5ylpE6NjtpwhbjBpJfkw05wDqiPav5hyUFEPaKDky04EAY9AxA0r35EqzYbhwBpYHGw0MEtUj7fY8nwALrtTx0dyZYLNwstw04wk7YqfEgaKZseOBKhYnGeGFRMtEP5v9BecMY47iNLYXGRtjFSr8YOhIGPiHBKZ5e5tE3ljTmWc0JdFEHZicYSHjZJMAJp1rS3KQ8epDE40WdleB3R8GvzYBsvPNjqJgbRqDvbSYhMW4tetMRadWo0jl5Wp3xUSJ8sRAYPcxTBJz3EkgRaGvdkYclWkAeN9RlGWa3i05Y7BKOsrBP
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"adultCount":1,"childCount":0,"infantCount":0,"flightWay":"S","cabin":"Y_S","scope":"d","extensionAttributes":{"LoggingSampling":false,"isFlightIntlNewUser":false},"segmentNo":1,"transactionID":"62ae5f73921a451291f62e5a376c36ef","flightSegments":[{"departureCityCode":"HGH","arrivalCityCode":"BJS","departureCityName":"杭州","arrivalCityName":"北京","departureDate":"2023-07-04","departureCountryId":1,"departureCountryName":"中国","departureCountryCode":"CN","departureProvinceId":16,"departureCityId":17,"arrivalCountryId":1,"arrivalCountryName":"中国","arrivalCountryCode":"CN","arrivalProvinceId":1,"arrivalCityId":1,"departureCityTimeZone":480,"arrivalCityTimeZone":480,"timeZone":480}],"directFlight":false,"extGlobalSwitches":{"useAllRecommendSwitch":true,"unfoldPriceListSwitch":true},"noRecommend":false,"flightWayEnum":"OW","cabinEnum":"Y_S","isMultiplePassengerType":0,"departCountryName":"中国","departProvinceId":16,"departureCityId":17,"arrivalCountryName":"中国","arrivalProvinceId":1,"arrivalCityId":1,"lowestPrice":750}

@@ -1,4 +1,0 @@
-# tag: black,directory_traversal
-GET /dom/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Ftmp%252Fflag.txt%23/222/11 HTTP/1.1
-Host: 1.1.1.1
-

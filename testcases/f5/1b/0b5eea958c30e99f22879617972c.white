@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2413
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E9%A3%9E%E4%B9%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E9%A3%9E%E4%B9%A6&sc=10-2&sk=&cvid=C3D1A9B791554F76AFC3009F57548750&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>74DE6607048D4003BE235415E17C8BDE</IG><TS>1688375846009</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":5,"N":2,"I":"1wa","S":"V+C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":47059,"K":"10b7+1lw+beacon+1pb+1tq+ls%2Flsp.aspx+1pc+2jg+3b3+3b6+3do+3fp+3gv+3fq+3hx+3im+3j0+3j3+yp7+yve+yp8+zzz","F":1},"V":"@4o/////////visible/+10b4/////////hidden/","M":"11p+q9+-1+10b7+5e+10+0+b+0+3c5+1","E":"@46/2/X/1o/+@46/6/X/1o/+@46/7/X/1o/+@46/8/X/1o/+@46/9/X/1o/+@46/a/X/1o/+@46/b/X/1o/+@46/c/X/1o/+@46/d/X/1o/+@46/e/X/1o/+@46/f/X/1o/+@46/g/X/1o/+@46/h/X/1o/+@46/i/X/1o/+@46/j/X/1o/+@46/k/X/1o/+@46/l/X/2s/+@46/m/X/4y/","N":"1lv/4t//@s/pointerdown//8/@r/-1/-1/-1/-1/-1/-1+@47/4u//@s/ls%2FGLinkPingPost.aspx/@48/2s/@r/@47/@47/@47/1lx/1oo/1op+@49/4v//@s/@4b/@48/4f/@r/@49/@49/@49/@4c/@4a/@4a+@49/4w//@s/@4b/@v/2j/@r/@49/@49/@49/@4c/1ru/1rv+@4d/4x//@s/th/@u/1r/@r/@4d/@4d/@4d/2jh/2l6/2l7+@4d/4y//@s/th/@u/33/@r/@4d/@4d/@4d/2ji/2mj/2mk+@4e/4z//@s/news%2FNewsAnswerV2CarouselAjax/@v/4k/@r/@4e/@4e/@4e/@4f/3fm/3fn+@4e/50//@s/@1c/@u/2k/@r/@4e/@4e/@4e/@4f/@4g/@4g+@4h/51//@s/th/@u/16/@r/@4h/@4h/@4h/@4j/@4i/@4i+@4h/52//@s/th/@u/y/@r/@4h/@4h/@4h/@4j/3gm/3gn+@4h/53//@s/th/@u/19/@r/@4h/@4h/@4h/3fr/3gy/3gz+@4h/54//@s/th/@u/1w/@r/@4h/@4h/@4h/3gp/3hl/3hm+@4h/55//@s/th/@u/28/@r/@4h/@4h/@4h/3gx/@4k/@4k+@4h/56//@s/th/@u/2c/@r/@4h/@4h/@4h/3h0/3i1/3i2+@4h/57//@s/th/@u/2x/@r/@4h/@4h/@4h/3ho/@4l/@4l+@4h/58//@s/th/@u/3a/@r/@4h/@4h/@4h/3hz/@4m/@4m+@4j/59//@s/th/@u/3d/@r/@4j/@4j/@4j/3i4/@4n/@4n+@4j/5a//@s/th/@u/3y/@r/@4j/@4j/@4j/3io/3jn/3jo+@4j/5b//@s/th/@u/4c/@r/@4j/@4j/@4j/3j1/3k1/3k2+@4o/5c//@s/tabfocuschanged/@u/66/@r/@4o/@4o/@4o/ypm/@4p/@4p+@4q/5d//@s/returntop15/@u/66/@r/@4q/@4q/@4q/ypq/@4p/@4p","C":"ypn//@45///12u/7a//yph+ywl/////@3w/5n//ywd+yxi/0////152/3j//yxa+yyf/////15y/1f//yy3+yyw/////168/1//yyr+zcb/////13r/3//zca+zd9/////@2/17//zd6+zdq/////zj/1w//zdm+zen/////xz/29//zei+zf3/0////sj/3g//zey+zfk/////r3/3p//zfe+zg1/////pd/3w//zfu+zgh/////nq/3z//zga+zhf/////la/44//zgx+zhv/////en/4u//zhq+zic/////d0/50//zi6+zit/1u////bb/5c//zin+zja/////9w/5g//zj2+zk7/////7f/5q//zjw+zt0/////7x/79//zsx+zug/6////8o/8g//zuf+zy4/1v////aa/9c//zxy+zz1/////d5/95//zyw+zzi/r////l1/7p//zzc+@4r/m////pt/6j//zzs+100e/////sa/5v//@4r+100w/0////@1e/35//100t+101c/////14h/1r//1019+101t/////16p/m//101p+1026/////178/9//101y"}]]]></D></E></Events><STS>1688375846009</STS></ClientInstRequest>

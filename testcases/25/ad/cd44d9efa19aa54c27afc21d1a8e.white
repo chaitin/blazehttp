@@ -1,0 +1,16 @@
+GET /search?keyword=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%91%A8%E8%BE%B9&qrst=1&wq=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%91%A8%E8%BE%B9&stock=1&ev=2342_80397%5E HTTP/1.1
+Host: search.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://search.jd.com/Search?keyword=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%91%A8%E8%BE%B9&enc=utf-8&wq=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AEzhou%27b&pvid=982f7d037b5943e3948404732db36cc6
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

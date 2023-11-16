@@ -1,0 +1,18 @@
+POST /weapi/music-vip-membership/front/vip/info?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 444
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/discover
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=OeK35%2F47NY4ay7E5viGdIN8%2F0Jiu2J7KXjbS7NfJqJfGVx69Y8vFYAp%2Bmsb2KhIHvuKKDWZ%2FV1H4d7FUkXxE9Xe%2FAohpCYK3U9ne9%2Fp8wobdtOYAti4%2FZQ3zPmFjJwdNgmGR3ZGvkPJ8evOglAZHug%3D%3D&encSecKey=09e8cd13f9d240fd430179d349a5603542115a855d037b21ba9a61b5b1b55197337ec2499fef51689dce86dada5fc94586a716f29b49bc79228db39fb7d25f5e45a3e73691b01b53e44453c049601e5126127e2d83dd89728062e8ff057a8d72cc355c956b966a765302824ef8a542a022bac5c7c4a3e3d820483a924c9ab138

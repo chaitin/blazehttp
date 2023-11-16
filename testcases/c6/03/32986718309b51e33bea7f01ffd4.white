@@ -1,0 +1,16 @@
+GET /stdlog?bid=crystal&err=1001&pid=statusreport&host=new.qq.com&ua=chrome114&cv=qq_v5.0Beta01&fv=0&bw=1920&bh=921&sw=1920&sh=1080&net=0&val1=https%3A%2F%2Fnew.qq.com%2Frain%2Fa%2F20230703A014T900&reqid=574d2a2fa22745fb8850c097a17ce859&ishttps=1&loadjs=-1&js=1&dr=264&all=443&0.2833121426518044 HTTP/1.1
+Host: dp3.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Cache-Control: max-age=0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://new.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

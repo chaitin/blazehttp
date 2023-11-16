@@ -1,0 +1,14 @@
+OPTIONS /?appid=item-v3&functionId=pc_club_productCommentSummaries&client=pc&clientVersion=1.0.0&t=1688375750875&referenceIds=10059961126719&categoryIds=6233%2C6264%2C6274&loginType=3&bbtf=&shield=&uuid=122270672.1688363422614408241737.1688363423.1688363423.1688375738.2 HTTP/1.1
+Host: api.m.jd.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: content-type,x-referer-page,x-rp-client
+Origin: https://item.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://item.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

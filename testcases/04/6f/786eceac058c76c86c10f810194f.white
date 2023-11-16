@@ -1,0 +1,20 @@
+POST /ref/AdvSearch/GetAdvSearchResult HTTP/1.1
+Host: ref.cnki.net
+Content-Length: 425
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ref.cnki.net
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ref.cnki.net/REF/AdvSearch/Index?colName=%E8%A2%AB%E5%BC%95%E4%B8%BB%E9%A2%98&colValue=waf&isJump=true
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+oldSql=&dbId=cb_beref_default&beRefCountCond=&articleCond=+(+(%E4%B8%BB%E9%A2%98+%25'waf')++)+&authorCond=&publishTimeCond=&refTimeCond=&srcCond=&fundCond=&catalogCond=&pageIndex=0&pageSize=20&displayMode=list&inputSql=&articleKeyword=waf%3B&authorKeyword=%3B&srcKeyword=%3B&orderBy=relevant&operate=search&cjfdType=&issue=&fontVersion=7&sid=01D581ADE59839BEE4C6843D5BFD8007A183D7AAA7DDEA44E9EF9B9B1ADA0364&tamp=1688376292776

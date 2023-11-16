@@ -1,0 +1,19 @@
+POST /proxyhttp HTTP/1.1
+Host: vd.l.qq.com
+Content-Length: 1461
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: text/plain
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://pvp.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://pvp.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"buid":"vinfoad","adparam":"pf=out&ad_type=LD%7CKB%7CPVL&pf_ex=pc&url=https%3A%2F%2Fpvp.qq.com%2Fcp%2Fa20221020wzjwhb%2F&refer=https%3A%2F%2Fpvp.qq.com%2Findex.shtml&ty=web&plugin=1.0.0&v=3.4.40&coverid=&vid=s3364zeyapv&pt=&flowid=4df6fd75dabbf60cd02d913142409918_70201&vptag=pvp_qq_com&pu=0&chid=0&adaptor=2&dtype=1&live=0&resp_type=json&guid=196a7d5821f3c03f0b488d2cc4db7b18&req_type=1&from=0&appversion=1.0.174&platform=70201","vinfoparam":"spsrt=1&charge=0&defaultfmt=auto&otype=ojson&guid=196a7d5821f3c03f0b488d2cc4db7b18&flowid=4df6fd75dabbf60cd02d913142409918_70201&platform=70201&sdtfrom=v1104&defnpayver=0&appVer=3.4.40&host=pvp.qq.com&ehost=https%3A%2F%2Fpvp.qq.com%2Fcp%2Fa20221020wzjwhb%2F&refer=pvp.qq.com&sphttps=1&tm=1688379806&spwm=4&logintoken=%7B%22main_login%22%3A%22%22%2C%22openid%22%3A%22%22%2C%22appid%22%3A%22%22%2C%22access_token%22%3A%22%22%2C%22vuserid%22%3A%22%22%2C%22vusession%22%3A%22%22%7D&vid=s3364zeyapv&defn=&fhdswitch=0&show1080p=0&isHLS=1&dtype=3&sphls=1&spgzip=&dlver=&drm=32&hdcp=0&spau=1&spaudio=15&defsrc=1&encryptVer=9.1&cKey=0yy0uyFz_KF705EItZs_lpJX5WFNi2CdS8kB4X7FVaqtHEZQ1c_X6m2O8hQenWPHGYp7AsSLLDvf2vPBr-xE-uhpPyBTPE_0swhgH4p-UHP2JcBNqjepfrVnwQ9u-OZ6pTw_SRgIQMWMxL4MQmCNCcRO1G-AlwuBgpqX-YYeaVfn8XtJO3dvXtOVIle5ic0iFb-ULZJWEPOSTMzh7V9iXVLG0N9BKjJK4IhSLRLUS3hTPahx3MAd8AY08ZylOaiAjzadR_PcnSsUt5dnOF9RuG0P6hMUiR0FN0qhvykdTUgI4bhcHObmiRPyHD8gZijOQ6216qSDEX4x0_rD7C2DyW5Lih1mNNS3rSgf-iYKNPenNWG_B5NzLwgICAgICAgIbgY6bA"}

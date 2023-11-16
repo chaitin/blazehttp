@@ -1,0 +1,27 @@
+POST /buyapi/api/agreement/logAction.json HTTP/1.1
+Host: home.console.aliyun.com
+Content-Length: 265
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarykBafzaPS7XEJxt4D
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/home/dashboard/ProductAndService
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundarykBafzaPS7XEJxt4D
+Content-Disposition: form-data; name="action"
+
+landingFuzzySearchNew
+------WebKitFormBoundarykBafzaPS7XEJxt4D
+Content-Disposition: form-data; name="_csrf_token"
+
+undefined
+------WebKitFormBoundarykBafzaPS7XEJxt4D--

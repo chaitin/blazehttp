@@ -1,0 +1,20 @@
+POST /logstores/prod/track HTTP/1.1
+Host: console-base.log-global.aliyuncs.com
+Content-Length: 1419
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Log-Bodyrawsize: 1419
+X-Log-Apiversion: 0.6.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://ecs-buy.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs-buy.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"__topic__":"fetcher_success","__logs__":[{"__topic__":"fetcher_success","GROUP":"LOG","TIME":"1688383027539","OS":"Windows","OS_VERSION":"10","BROWSER":"Chrome","BROWSER_VERSION":"114.0.0.0","LOCATION_HOST":"ecs-buy.aliyun.com","LOCATION_PATHNAME":"/ecs","LOCATION_HASH":"/custom/prepay/cn-hangzhou?orderSource=buyWizard-console-overview","RESOLUTION_SCREEN":"1920x1080","RESOLUTION_BROWSER":"1920x921","SPM_B":"ecsnewbuy","IN_IFRAME":"false","REFERRER":"https://ecs-buy.aliyun.com/wizard?spm=5176.ecscore_overview.res-empty-sale.buy.611e4df5veUCse","channel":"OFFICIAL","locale":"zh-CN","uid":"1845102322007694","uidMain":"1845102322007694","product":"ecs","versionOfLoader":"NEW","versionOfConsoleBase":"4.27.6","config.urlBase":"https://fecs.console.aliyun.com","config.headers.Content-Type":"application/x-www-form-urlencoded","config.url":"/api/console-base/product/recent/add","config.method":"POST","config.body.productIds":"[\"ecs\"]","config._id":"M_POST!U_https://fecs.console.aliyun.com/api/console-base/product/recent/add!B_{productIds:['ecs']}","config._timeCreated":"1688383027328","config.merger.key":"M_POST!U_https://fecs.console.aliyun.com/api/console-base/product/recent/add!B_{productIds:['ecs']}","config._timeStarted":"1688383027363","config.credentials":"include","requestId":"4ded1aa6-f40d-415b-8381-9fd73befe1cf","eagleEyeTraceId":"0bc0590416883830241442756e09b4","TOPIC":"fetcher_success"}]}

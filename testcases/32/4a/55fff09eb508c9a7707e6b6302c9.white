@@ -1,0 +1,19 @@
+POST /alimail/browser_csp_result HTTP/1.1
+Host: mail.aliyun.com
+Content-Length: 1190
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/csp-report
+Accept: */*
+Origin: https://mail.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: report
+Referer: https://mail.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"csp-report":{"document-uri":"https://mail.aliyun.com/","referrer":"","violated-directive":"script-src-elem","effective-directive":"script-src-elem","original-policy":"base-uri 'self';script-src https://*.cnzz.com http://alimei-sub.alibaba.com https://*.tbcdn.cn https://*.alicdn.com https://g.alicdn.com http://*.alicdn.com http://*.tbcdn.cn https://*.alibaba-inc.com http://*.mxhichina.com https://*.tdum.alibaba.com https://*.mxhichina.com http://ynuf.aliapp.org http://*.cnzz.com https://alimail-web-assets.oss-cn-hangzhou.aliyuncs.com http://*.alibaba-inc.com https://alimei-sub.alibaba.com 'nonce-dC0yODUzNjYtVDI5b1kw7391' 'self' 'unsafe-eval' 'unsafe-inline' 'unsafe-hashes' 'sha256-5ZESDry5Jdgh27TvZdoin5zkV6TF0poectvQPYNk56c=';object-src 'self';frame-src https://*.aliyun.com https://*.alibaba-inc.com http://*.mxhichina.com https://*.mxhichina.com http://*.alibaba.com http://*.alibaba-inc.com http://*.aliyun.com https://*.alibaba.com https://*.alibabacloud.com 'self';report-uri /alimail/browser_csp_result","disposition":"report","blocked-uri":"inline","line-number":2,"column-number":592,"source-file":"https://s.tbcdn.cn/s/aplus_v2.js","status-code":200,"script-sample":""}}

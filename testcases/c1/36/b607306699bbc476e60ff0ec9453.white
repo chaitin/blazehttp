@@ -1,0 +1,17 @@
+GET /v1/elements/sessions?key=pk_live_51HG2NqEkNJHWF29kIRFXLA6zm5kEpZoj5gK3mR69yC8n6CCQX6TnACGPXS6XqQTU1a207KG9EseoU7XfJqCLiL6D00HoiGrdyj&type=setup_intent&locale=zh-CN&client_secret=seti_1NPkDQEkNJHWF29kbNl68ABx_secret_OC8USKw2OeUGtZslgoYfhIJcjOvUYMK&referrer_host=reviewgpt.lemonsqueezy.com&expand[0]=payment_method_preference.setup_intent.payment_method HTTP/1.1
+Host: api.stripe.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.stripe.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.stripe.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,15 @@
+GET /p.gif?callback=c267cc83_2e66_4324_919a_b5603ff568a0&type=1&duration=74&logId=1688382330655291b_1688382330655_53665&userId=30208105&sourceId=AFFSpeed&time=1688382330729&t=1688382330729 HTTP/1.1
+Host: aifanfan.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://www.authing.co/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

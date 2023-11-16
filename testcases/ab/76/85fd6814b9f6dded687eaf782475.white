@@ -1,0 +1,18 @@
+POST /gateway/api/gasv3/api/v1/batch HTTP/1.1
+Host: www.atlassian.com
+Content-Length: 2484
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/software/jira
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"batch":[{"context":{"screen":{"width":1920,"height":1080,"density":1},"library":{"name":"analytics.js","version":"4.13.2"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},"timestamp":"2023-07-03T10:25:04.949Z","type":"track","userId":null,"anonymousId":"761f3df5-8de3-a80a-80ac-ada9522bd913","properties":{"env":"prod","product":"marketing","origin":"web","platform":"web","source":"none","actionSubject":"atlGlobal","action":"metrics","actionSubjectId":null,"attributes":{"event":"metrics","eventComponent":"atlGlobal","metrics":"{\"timeToAvailable\":147,\"timeToStartLoadXID\":147,\"timeToStartGetXID\":227,\"timeToLoadXID\":228,\"timeToLoad\":261,\"timeToReady\":265}","atlJSVersion":"2.202.0","cohort":37,"host":"www.atlassian.com","path":"/software/jira","pageViewId":"edca4074-4a92-4a9a-9a6f-693321b08d1b","trackEventName":"","writeKey":"kiv6wyh2nw","isMarketingEvent":true,"page_title":"Jira | Issue & Project Tracking Software | Atlassian","page_domain":"www.atlassian.com","page_subdomain":"www.atlassian.com","page_feature_flags":"{\"jiraTemplateGallery\":\"showJiraTemplateGallery\",\"siteSelectionListBlockedGeoIP\":\"enableSiteSelectionListBlockedGeoIP\",\"allowBundlesExistingSites\":\"enableAllowBundlesExistingSites\",\"disableOptimizely\":\"true\",\"enable_cut_sign_up_flow_in_half_control\":\"expcen_2603_enable_cut_sign_up_flow_in_half_control\",\"enable_cut_onboarding_flow_in_half_control\":\"expcen_2603_enable_cut_onboarding_flow_in_half_control\"}","page_referrer_domain":"cn.bing.com","page_referrer_subdomain":"cn.bing.com","page_canonical_url":"https://www.atlassian.com/software/jira","page_url":"https://www.atlassian.com/software/jira","page_path":"/software/jira","page_url_parameters":"","page_url_params_json":"{}","page_referrer_url_params_json":"{}","page_referrer_path":"/","page_referrer_url":"https://cn.bing.com/","cookiesEnabled":true,"activeGroups":""},"eventType":"ui","tabId":"cd889dd4-c05a-423f-b39b-215e007e051b","sessionId":"1688379839974","taskSessions":{},"pageLoadId":"fba90323-b046-48a2-b151-aac9be368908","xid":[{"type":"xc","value":"2e2b790e-a057-447d-9510-dd3a123b6b3c","createdAt":"2022-09-09T10:12:23.110Z","state":"EXISTING"}]},"event":"atlGlobal metrics","messageId":"ajs-3f0e9471-1c19-471c-ab8d-c3a6f92833a4","sentAt":"2023-07-03T10:25:05.511Z"}],"sentAt":"2023-07-03T10:25:05.511Z","metadata":{"eventCount":1,"resilienceMechanism":"indexeddb"}}

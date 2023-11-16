@@ -1,0 +1,18 @@
+POST /main/a.js HTTP/1.1
+Host: dc.you.163.com
+Content-Length: 942
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://you.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+events=%5B%7B%22event_action%22%3A%22show%22%2C%22event_name%22%3A%22show_searchresult_guesslike_item%22%2C%22page_name%22%3A%22searchresult%22%2C%22parameters%22%3A%22%7B%5C%22itemId%5C%22%3A4075143%2C%5C%22sequen%5C%22%3A1%2C%5C%22version%5C%22%3A%5C%221.0.0.0%5C%22%2C%5C%22key%5C%22%3A%5C%22%E7%BA%B8%E5%B7%BE%5C%22%7D%22%2C%22client_type%22%3A%22web%22%2C%22yx_appid%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Fyou.163.com%2Fsearch%3Fkeyword%3D%25E7%25BA%25B8%25E5%25B7%25BE%26timestamp%3D1688379459913%26_stat_search%3Dhot%26searchWordSource%3D8%26_stat_referer%3Dindex%23page%3D1%26sortType%3D0%26descSorted%3Dtrue%26categoryId%3D0%26matchType%3D0%22%2C%22refer_url%22%3A%22https%3A%2F%2Fyou.163.com%2F%3Ffrom%3Dweb_fc_menhu_xinrukou_1%22%2C%22t%22%3A1688379460582%2C%22sessionid%22%3A%2263bc9137-dea9-425c-9174-194c08a0c7411688379457521%22%2C%22sequence%22%3A%22o_535ecfeaff%22%2C%22from_seq%22%3A%22%22%2C%22seq_list%22%3A%22%22%7D%5D

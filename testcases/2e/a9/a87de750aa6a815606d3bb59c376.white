@@ -1,0 +1,19 @@
+POST /mcp/pc/pcsearch HTTP/1.1
+Host: ug.baidu.com
+Content-Length: 56
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.baidu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%202023&fenlei=256&oq=%25E9%25AB%2598%25E8%2580%2583%25E5%2588%2586%25E6%2595%25B0%25E7%25BA%25BF&rsv_pq=a79dff5400002fdc&rsv_t=0206gEPy9SradLRojVmCA6MhoZ44Gp3PTfxjk%2FuATeGwrc8BTmDzITvLFD0&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_btype=t&inputT=1184&rsv_sug3=26&rsv_sug1=14&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1246
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"invoke_info":{"pos_1":[{}],"pos_2":[{}],"pos_3":[{}]}}

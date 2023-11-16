@@ -1,0 +1,15 @@
+POST /v1:GetHints?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw HTTP/1.1
+Host: optimizationguide-pa.googleapis.com
+Content-Length: 205
+Content-Type: application/x-protobuf
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQiFk80BCPqYzQEIhaDNAQiQq80BCNq0zQEItbzNAQiMvc0BCKS9zQEI3L3NAQi7vs0BCKS/zQEI/r/NAQ==
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+"µ
+²https://www.baidu.com/baidu?key=%E9%AB%98%E5%88%86%E5%88%86%E6%95%B0%E7%BA%BF&word=site%3Agk100.com+%E9%AB%98%E5%88%86%E5%88%86%E6%95%B0%E7%BA%BF&tn=baidu&sid=5772980269028857069((:en-USJ

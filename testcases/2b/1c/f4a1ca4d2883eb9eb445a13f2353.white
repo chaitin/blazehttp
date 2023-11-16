@@ -1,0 +1,19 @@
+POST /st/validate.htm HTTP/1.1
+Host: account.aliyun.com
+Content-Length: 75
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://account.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://account.aliyun.com/login/login.htm?spm=5176.28055625.J_3207526240.13.e939154amQhcuc&oauth_callback=https%3A%2F%2Fwww.aliyun.com%2F
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+yst=oIBGF5VMeiBcaUvVm2K14rotOtYNxq1M&_csrf_token_=_csrf_tk_1956488382928899

@@ -1,0 +1,15 @@
+GET /collect/whitelist?id=5JeqGKMr5aEJNlbkXa&uin=&version=1.35.26&aid=9f77cd42-08ce-4d1b-9d16-42d90e1f7792&env=production&platform=3&netType=4&vp=0%20*%200&sr=1920%20*%201080&sessionId=session-1688375665829&from=https%3A%2F%2Fwebpage.qidian.qq.com%2F2%2Fchat%2Fpc%2Findex.html&referer=https%3A%2F%2Fjs.design%2F HTTP/1.1
+Host: rumt-zh.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://webpage.qidian.qq.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://webpage.qidian.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

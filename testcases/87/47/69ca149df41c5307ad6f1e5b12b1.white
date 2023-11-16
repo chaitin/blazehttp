@@ -1,0 +1,19 @@
+POST /ajax/log_h.jsp?_v=1688379735461 HTTP/1.1
+Host: ajz.fkw.com
+Content-Length: 372
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ajz.fkw.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ajz.fkw.com/pro8.html?_ta=125&kw=267081&trig=zx&unitid=6377887522&creativeid=54612724509&sdclkid=ALos152NxSDiA5qpxLg&bd_vid=13129595496966928341
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+cmd=wafNotCk_logFdpForWebVitals&properties=%7B%22l%22:1835.6,%22dcl%22:1524.8,%22ttfb%22:517.3,%22fcp%22:1474.7,%22lcp%22:1766.4,%22url%22:%22https%253A%252F%252Fajz.fkw.com%252Fpro8.html%253F_ta%253D125%2526kw%253D267081%2526trig%253Dzx%2526unitid%253D6377887522%2526creativeid%253D54612724509%2526sdclkid%253DALos152NxSDiA5qpxLg%2526bd_vid%253D13129595496966928341%22%7D

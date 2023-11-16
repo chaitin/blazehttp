@@ -1,0 +1,15 @@
+GET /log/server?t=rec_common_exp&v=type=rec.902029$src=rec$action=0$reqsig=d2a57ba97aad4ba800a5bffca0216f58d3833900$enb=1$csku=10059937098690,10065720193952,10032927525787,10042948917842,10022101621085,10043957218379,10031183533754,10030428140509,10034597449910,10054725436898,10027971044288,10043015384038,10031568854406,10033759975771,10034154254467$st=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0$sku=10059961126719$p=902029$pin=$uuid=nRLcuhFHxbppS3zYOxU61d5yiYUEMjeg$expid=$mexpid=$gm=$rt=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0$rid=3799021745841075175$ver=1$sig=f709a94a1412ffb6c8f1ddebb363a31499b6546d&m=UA-J2011-1&ref=https%3A%2F%2Fsearch.jd.com%2F&random=0.5024087506669146Mon%20Jul%2003%202023%2017:15:51%20GMT+0800%20(China%20Standard%20Time) HTTP/1.1
+Host: knicks.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://item.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

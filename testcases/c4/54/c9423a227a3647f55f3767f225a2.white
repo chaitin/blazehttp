@@ -1,0 +1,19 @@
+POST /OneCollector/1.0/?cors=true&content-type=application/x-json-stream&client-id=NO_AUTH&client-version=1DS-Web-JS-3.2.8&apikey=aa86c364bc9e4a5a94a6b232c110af26-72da2ec9-498a-44df-8cca-7fd88cf654c1-7527&upload-time=1688381479150&w=0&NoResponseBody=true HTTP/1.1
+Host: browser.events.data.microsoft.com
+Content-Length: 967
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.office.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"name":"Ms.Web.PageUnload","time":"2023-07-03T10:51:19.149Z","ver":"4.0","iKey":"o:aa86c364bc9e4a5a94a6b232c110af26","ext":{"web":{"isManual":false,"domain":"www.office.com","userConsent":false},"sdk":{"ver":"1DS-Web-JS-3.2.8","seq":5,"installId":"c80c003f-bf50-49a1-a466-67f75ff101cd","epoch":"199844250"},"app":{"locale":"zh-CN","env":"PROD","sesId":"fF+q5oPbVnhQh5iepPMuE5"},"user":{"locale":"zh-CN","localId":"t:138FACD315B6699812B1BF9014CE6864"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"dwellTime":{"t":6},"vpHeight":{"t":6},"vScrollOffset":{"t":6},"pageLoadTime":{"t":6}}}},"data":{"baseType":"PageUnloadData","baseData":{"name":"UnauthOhp","uri":"https://www.office.com/","id":"1090412d-ab08-408c-9af7-e0ee65fe682e","properties":{"version":"PostChannel=3.2.8;SystemPropertiesCollector=3.2.8;WebAnalyticsPlugin=3.2.8"},"ver":"1.0"},"dwellTime":907,"scrollDepth":"0/6318","vpHeight":921,"vScrollOffset":0,"pageLoadTime":2114}}

@@ -1,0 +1,22 @@
+POST /international/search/api/log/writeLog?v=0.8569340915564376 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 293
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-3fcvk7EkPyQUicavhPwcDiLlWbDw4niX8iFQILnxBlJOTJ74i8mWndvP1JfqwkNjD5jFqiFXEUgWpTJNpw5QJ5XRdow19Yf8R6Ujtdw4Svcfizqiz9K7YXJZUxZBEATRbdwTzj5gjXOiH4yQfjb8RSTWoBv1zWgqw1dyb7WX5W7ZWXYtNJMvahen1KHNj4TeDcE3Ly6E7siakY8E9LYL4ybE3zY1OylqvaGWZke5nxXQKaDjL8yhAIdAwQsj9XwdNep3E1DILowTci6ORhEkgYmhyNkiZNYhMWnXeFMYD0jLEGQYOFypZWg6e96ykdjFEmTY3UyS0iaHYM6j5qKUBE7LIbHemBKDSxqNKf0eh6Jp0IDZyNEzZitcy7DYPEQAiP5JkbRAE9pYXtw9myoHjmOEDTyFpE6XjdmjtEkFiBtJzZYnfWQnYtPiZFeLSWqmyh5epMWTLEAEldYnTw4dEt5WG4W4NeMsEGpYDzwZ0j15eQFy8Es4i61JdMjPawqPiUFEMlRofy5EF1YGTwsOyadetNy4EFTitfJk1iF8ifTYt3jN0iZNEO5JtNi87Y49EzYlFRZoIptxMlR3lwG6jSUjzUiAmyhojXgWgOR9gR7AjTzEgcY6nIlFEAXj3sIqlvnUvFXW3fyH5ymUIMYHaYAgY91KsUR0biXhwFbJ8QwXcjSoEq5iZUe0Pw7Ojq8v5tYpfeT8EQ3E5GyBUJz3elOv3hw4pJ4cwUbeazigARpORc9wkZj0GvXdvh9JB8jcowtsWQUwpNyFNv7UWLY4AEGHv3PE1aYSDwLlYzMwNMElTjhsYnFwqUJOBwDvlYXmePpKXMrPmYkQEDfxmyocv5YtcyOHYcnyhovboeG4YAFiQLYsLihMKtmK0Y8aihOenlY4geO6EMqjAlW7HvtAKpOy7Y68R1SYlFrkPrMdKMnebgEPNWZOxH4K8XxZYHXJXze43ibtRH5vUPYnoW4AeQmRb0WoDjkoWLsvXqjhBKbYTzjAPegfIhXR04vXBYOSWk6ecNRqoW5ciQUYcZjBZrbF
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"title":"ubt","content":"{\"url\":\"https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345\",\"data\":{\"seq\":0,\"key\":\"flight_action_expand_all_price\",\"remark\":\"航班上展开/收起运价\",\"time\":\"2023-07-03T09:55:09.067Z\"}}"}

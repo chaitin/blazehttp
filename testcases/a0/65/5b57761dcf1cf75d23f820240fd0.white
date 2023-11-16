@@ -1,0 +1,19 @@
+POST / HTTP/1.1
+Host: prism-report-web.dreport.meituan.net
+Content-Length: 2342
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://i.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"category":"prism-report-web","env":{"project":"com.sankuai.mtnode.imeituan","screen":"1920x1080","sdkVersion":"1.3.3","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","uuid":"1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8","visitId":"000cee78-db8b-4db1-bf84-92b397ea999b","pagePath":"/","pageOriginUrl":"https://i.meituan.com/","runEnv":"browser","os":"Mac","networkType":"4g","biz":"web"},"logs":[{"type":"web.pv","value":1,"ts":1688378051102},{"type":"FSP_Start","value":1,"ts":1688378051103},{"type":"web.resource","ts":1688378051349,"value":26.799999952316284,"tags":{"resourceType":"img","resourceUrl":"https://p1.meituan.net/travelcube/7264ce9c25de2e464e3acd996fe8ad362803.png","responsetime":26.799999952316284,"responsebyte":0,"protocol":"h2"}},{"type":"web.resource","ts":1688378051349,"value":27.399999976158142,"tags":{"resourceType":"img","resourceUrl":"https://p0.meituan.net/imeituanbusiness/7b30434d02d20c4e0428cbc2091499f22631.png","responsetime":27.399999976158142,"responsebyte":0,"protocol":"h2"}},{"type":"web.resource","ts":1688378051349,"value":28,"tags":{"resourceType":"img","resourceUrl":"https://p0.meituan.net/imeituanbusiness/ad793f3d4b6625b60a9aeb64688739952061.png","responsetime":28,"responsebyte":0,"protocol":"h2"}},{"type":"web.startup.fp","value":105.10000002384186,"ts":1688378051350},{"type":"web.startup.fcp","value":105.10000002384186,"ts":1688378051350},{"type":"web.startup.load","ts":1688378051350,"value":354,"tags":{"unloadEventStart":0,"unloadEventEnd":0,"redirectStart":0,"redirectEnd":0,"fetchStart":1,"domainLookupStart":1,"domainLookupEnd":1,"connectStart":1,"connectEnd":1,"requestStart":3,"responseStart":3,"responseEnd":4,"domLoading":6,"domInteractive":173,"domContentLoadedEventStart":173,"domContentLoadedEventEnd":173,"domComplete":352,"loadEventStart":352,"dns":0,"tcp":0,"response":1}},{"type":"web.http","ts":1688378051499,"value":148,"tags":{"url":"https://apimobile.meituan.com/locate/v2/sdk/loc?ci=mars-webloc&uuid=1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8&userid=","status":200,"method":"post","size":438,"reqType":"xhr","protocol":"https"}},{"type":"FSP","ts":1688378051986,"value":36,"tags":{"triggerType":1,"mutationCount":22,"hasContainerLoad":true,"collectOrigin":"img"}}]}

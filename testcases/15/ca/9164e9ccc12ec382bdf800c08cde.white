@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=FC93EF8E2CCF4F7EB2A440CC7652DCA3&Type=Event.CPT&DATA={%22pp%22:{%22S%22:%22L%22,%22FC%22:6,%22BC%22:6,%22SE%22:-1,%22TC%22:-1,%22H%22:61,%22BP%22:68,%22CT%22:70,%22IL%22:9},%22ad%22:[-1,-1,1903,921,1903,3531,0],%22net%22:%22undefined%22}&P=SERP&DA=MWHE01&MN=SERP HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/search?q=What+Really+is+an+Execute+Master%E2%80%99s+Degree%3F+-+mba.com&form=QBLHCN&sp=-1&lq=0&pq=what+really+is+an+execute+master%E2%80%99s+degree%3F+-+mba.com&sc=0-52&qs=n&sk=&cvid=0A9FE6F0CDF44CABB29FBCFB883057A6&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=1422420624&t=event&ni=0&_s=1&dl=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dinfo%3Aindex&dr=https%3A%2F%2Fcn.bing.com%2F&ul=zh-cn&de=UTF-8&dt=%E6%B7%B1%E4%BF%A1%E6%9C%8D%E7%A4%BE%E5%8C%BA&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&ec=%E5%BA%95%E9%83%A8%E5%A3%B0%E6%98%8E&ea=%E7%82%B9%E5%87%BB%E2%80%9C%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%E2%80%9D&el=https%3A%2F%2Fbbs.sangfor.com.cn%2Fplugin.php%3Fid%3Dinfo%3Aindex&_u=aBDAAQABAAAAACAAAAB~&jid=2023814026&gjid=513843136&cid=515135196.1688025924&tid=UA-128987720-2&_gid=2105667621.1688379612&_r=1&gtm=45He36s0n81WLS3NNN&z=678198237 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

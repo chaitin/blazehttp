@@ -1,0 +1,18 @@
+POST /api/data HTTP/1.1
+Host: apm-fe.xiaohongshu.com
+Content-Length: 863
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"clientTime":1688377984643,"context_nameTracker":"wapT","context_platform":"PC","context_appVersion":"discovery-undefined","context_deviceModel":"","context_deviceId":"927a82ae17ced391f1043c54d513d64d","context_networkType":"unknow","context_matchedPath":"/explore","context_route":"https://www.xiaohongshu.com/explore?channel_id=homefeed.fashion_v3&m_source=baidusem","context_userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","context_artifactName":"xhs-pc-web","context_artifactVersion":"2.13.0","context_userId":"648c586d000000001403d2f0","measurement_name":"httpRequestTiming","measurement_data":{"method":"GET","matchedPath":"/api/sns/web/v2/user/me","traceId":"8d76c3eeed5a8942","status":200,"url":"//edith.xiaohongshu.com/api/sns/web/v2/user/me","duration":250.39999997615814}}]

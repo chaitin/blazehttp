@@ -1,0 +1,15 @@
+GET /cgi-bin/r.cgi?5=6&6=6&7=6&8=8&9=27&10=27&11=1077&12=1079&13=1082&14=1271&15=1271&16=1272&17=2104&18=2104&19=2106&20=1069&flag1=7820&flag2=109&flag3=2&sds=0.8921382570531251 HTTP/1.1
+Host: huatuospeed.weiyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

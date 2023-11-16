@@ -1,0 +1,18 @@
+POST /cm/api/receive/content/pc HTTP/1.1
+Host: cm.bilibili.com
+Content-Length: 277
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"uploads":[{"src_id":"","ad_server":"bilibili","is_ad":0,"area":"","ad_cb":"","event":"show","is_visible":1,"idx":"","mid":"503647489","client_version":"","ts":1688375127613,"resource_id":5613,"load_ts":1688375127302,"server_type":"","id":"","event_from":"","request_id":""}]}

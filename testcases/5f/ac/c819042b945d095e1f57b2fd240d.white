@@ -1,0 +1,20 @@
+POST /mtc/event HTTP/1.1
+Host: sangfor.huoyan.cn
+Content-Length: 578
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.sangfor.com.cn/probation?utm_source=360-sem&utm_medium=cpc&utm_campaign&utm_adplace=%E5%93%81%E7%89%8C-%E5%93%81%E7%89%8C-%E6%B7%B1%E4%BF%A1%E6%9C%8D&utm_content=%E5%93%81%E7%89%8C&utm_term=%E6%B7%B1%E4%BF%A1%E6%9C%8D
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+page_title=%E8%AF%95%E7%94%A8%E4%B8%AD%E5%BF%83_%E4%BC%98%E6%83%A0%E6%B4%BB%E5%8A%A8_%E6%B7%B1%E4%BF%A1%E6%9C%8D-%E6%B7%B1%E4%BF%A1%E6%9C%8D&page_language=zh-CN&page_referrer=cn.bing.com&page_url=https%3A%2F%2Fwww.sangfor.com.cn%2Fprobation%3Futm_source%3D360-sem%26utm_medium%3Dcpc%26utm_campaign%26utm_adplace%3D%25E5%2593%2581%25E7%2589%258C-%25E5%2593%2581%25E7%2589%258C-%25E6%25B7%25B1%25E4%25BF%25A1%25E6%259C%258D%26utm_content%3D%25E5%2593%2581%25E7%2589%258C%26utm_term%3D%25E6%25B7%25B1%25E4%25BF%25A1%25E6%259C%258D&counter=0&mautic_device_id=xwq9nm6hzgcquuf2oeq6uai

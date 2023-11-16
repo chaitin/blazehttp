@@ -1,0 +1,19 @@
+POST / HTTP/1.1
+Host: dreport.meituan.net
+Content-Length: 2999
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://i.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+[{"logs":[{"type":"mesh","tags":{"status":"realtime","host":"i.meituan.com","path":"/awp/h5/lvyou/deal/group/index.html","appId":"unknown","appVersion":"unknown","bundle":"unknown","titansXVersion":"0","osVersion":"0","osName":"unknown","brand":"unknown","mobileType":"unknown","uuid":"unknown","service":"KNB","serviceApi":"config","apiStatus":"fail","errorStack":"{\"errorCode\":1,\"options\":{\"method\":\"config\",\"params\":{\"debug\":false}}}","param":"{\"debug\":false}","duration":0,"ot":1688378071456,"message":"{\"errorCode\":1,\"options\":{\"method\":\"config\",\"params\":{\"debug\":false}}}","traceId":"unknown1688378071456005","level":"error"},"ts":1688378071502},{"type":"mesh","tags":{"status":"realtime","host":"i.meituan.com","path":"/awp/h5/lvyou/deal/group/index.html","appId":"unknown","appVersion":"unknown","bundle":"unknown","titansXVersion":"0","osVersion":"0","osName":"unknown","brand":"unknown","mobileType":"unknown","uuid":"unknown","service":"KNB","serviceApi":"getDeviceInfo","apiStatus":"fail","errorStack":"{\"errorCode\":1,\"options\":{\"method\":\"getDeviceInfo\",\"params\":{}}}","param":"{}","duration":0,"ot":1688378071456,"message":"{\"errorCode\":1,\"options\":{\"method\":\"getDeviceInfo\",\"params\":{}}}","traceId":"unknown1688378071456006","level":"error"},"ts":1688378071502},{"type":"mesh","tags":{"status":"realtime","host":"i.meituan.com","path":"/awp/h5/lvyou/deal/group/index.html","appId":"unknown","appVersion":"unknown","bundle":"unknown","titansXVersion":"0","osVersion":"0","osName":"unknown","brand":"unknown","mobileType":"unknown","uuid":"unknown","service":"KNB","serviceVersion":"next","meshVersion":"0.2.16","businessId":"lvyou-vue2-mesh","devMode":false,"env":"","sourceType":"H5","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","serviceApi":"getUserInfo","apiStatus":"fail","errorStack":"{\"errorCode\":1,\"options\":{\"method\":\"getUserInfo\",\"params\":{}}}","param":"{}","duration":0,"ot":1688378071456,"message":"{\"errorCode\":1,\"options\":{\"method\":\"getUserInfo\",\"params\":{}}}","traceId":"unknown1688378071456007","level":"error"},"ts":1688378071503},{"type":"mesh","tags":{"status":"realtime","host":"i.meituan.com","path":"/awp/h5/lvyou/deal/group/index.html","appId":"unknown","appVersion":"unknown","bundle":"unknown","titansXVersion":"0","osVersion":"0","osName":"unknown","brand":"unknown","mobileType":"unknown","uuid":"unknown","service":"KNB","serviceVersion":"next","meshVersion":"0.2.16","businessId":"lvyou-vue2-mesh","devMode":false,"env":"","sourceType":"H5","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","adapterConfig":"{}","duration":192,"apiTag":"init","ot":1688378071502,"message":"环境获取","traceId":"unknown1688378071502008","level":"init"},"ts":1688378071506}],"category":"fe_mesh_kfk2es","env":{"token":"5c6e42301c9d441acbddeee0","app":"mesh-sdk"}}]

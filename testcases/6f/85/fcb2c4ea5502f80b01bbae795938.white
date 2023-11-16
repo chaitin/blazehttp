@@ -1,0 +1,15 @@
+GET /news/c?%7B%22projectid%22%3A%22NTM-RGGG3592-2%22%2C%22channel%22%3A%22TEDbanner%E6%9B%9D%E5%85%89%22%2C%22val_act%22%3A%22exposure%22%2C%22info%22%3A%7B%22spstitle%22%3A%22http%3A%2F%2Fclick.portal.163.com%2Fopen%2FTED-banner-exposure%3Fname%3D%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E8%87%AA%E4%BF%A1%E2%80%94%E2%80%94%E5%B9%B6%E4%B8%94%E5%BD%B1%E5%93%8D%E4%BB%96%E4%BA%BA%26index%3D6%22%2C%22spssid%22%3A%22%22%2C%22spsw%22%3A0%2C%22ptime%22%3A%22%22%7D%2C%22sdk_ver%22%3A%222.2.0%22%2C%22session_id%22%3A%221688377859041%22%2C%22ct%22%3A%22%22%2C%22source%22%3A%22other%22%2C%22uuid%22%3A%221bcb316ed9eb6ef6c00ea61decf90c33%22%2C%22val_nm%22%3A%22%22%2C%22val_url%22%3A%22https%3A%2F%2Fopen.163.com%2Fted%22%2C%22uid%22%3A%22%22%2C%22uname%22%3A%22%22%2C%22val_ref%22%3A%22http%3A%2F%2Fopen.163.com%2F%22%2C%22val_ref_from%22%3A%22163%22%2C%22sc%22%3A%221920*1080%22%2C%22type%22%3A%22exposure%22%2C%22tm%22%3A1688377877694%7D HTTP/1.1
+Host: h5.analytics.126.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://open.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

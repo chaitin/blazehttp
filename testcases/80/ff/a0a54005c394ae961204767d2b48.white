@@ -1,0 +1,18 @@
+POST /mp/appmsgreport?action=page_time&__biz=MzIwNDA2NDk5OQ==&is_temp_url=0&uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzIwNDA2NDk5OQ%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 1459
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651384632&idx=1&sn=7953c468543030537e96e5f1fd1df5e8&chksm=8d399ab0ba4e13a61c607fe2113b9293c0ecc42ae39b23a17aca2430e6bd9cb0558d0d18c222
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+report_bizuin=MzIwNDA2NDk5OQ==&title=长亭安全大模型正式推出，首位虚拟员工上线&mid=2651384632&idx=1&subscene=10000&sessionid=svr_8394dd7c809&enterid=1688383390&read_cnt=0&old_like_cnt=0&like_cnt=0&screen_width=693&screen_height=686&screen_num=12&idkey=28307_78_1;28307_80_1;28307_64_1&copyright_stat=0&ori_article_type=&video_cnt=1&read_screen_num=1&is_finished_read=0&scene=&content_len=507186&start_time=1688383390628&end_time=1688383429309&handup_time=0&inactive_time=0&inactive_time1=38000&inactive_time2=38000&total_height=7957&exit_height=686&img_640_cnt=1&img_0_cnt=0&img_300_cnt=0&wtime=2181&ftime=406&ptime=526&onload_time=2181&reward_heads_total=0&reward_heads_fail=0&outer_pic=0&publish_time=1688382210&item_show_type=0&page_req_info={"startGetAppmsgExtTime":1688383390828,"startGetAppmsgAdTime":1688383390853,"receiveGetAppmsgExt":"200|1688383390890","receiveGetAppmsgAd":"200|1688383390884","jsapiReadyTime":1688383390932,"domCompleteTime":1688383390867}&is_darkmode=0&from_masonry=0&search_click_id=0&webp_total=1&webp_lossy=1&webp_lossless=1&webp_alpha=1&webp_animation=1&download_cdn_webp_img_cnt=0&download_img_cnt=1&download_cdn_img_cnt=1&img_cnt=8&report_time=1688383429&source=&req_id=0319gpgNbaEr7P4WQ0R5akGa&recommend_version=&class_id=&ascene=-1&hotspotjson={"hotspotinfolist":[]}&is_pay_subscribe=0&is_paid=0&preview_percent=0&is_finished_preview=0&fee=&pay_cnt=undefined&worthy_cnt=undefined&exptype=&expsessionid=&

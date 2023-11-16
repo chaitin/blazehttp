@@ -1,0 +1,14 @@
+GET /??cell/lib-zepto/0.0.2/index.js,cell/lib-rem/0.0.5/index.js,cell/lib-seajs/0.0.5/index.js,cell/lib-magix/0.0.17/index.js,cell/lib-util/0.2.11/index.js,mtb/lib-windvane/2.1.8/windvane.js,mtb/lib-env/1.9.10/env.js,mtb/lib-login/1.5.10/login.js,mtb/lib-httpurl/1.3.2/httpurl.js,mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,cell/lib-pagestate/0.0.3/index.js,cell/lib-mtop/1.0.4/index.js,cell/lib-mtop/1.0.4/errorlog.js,cell/lib-mtop/1.0.4/taishan.js,cell/lib-mtop/1.0.4/link.js,cell/lib-mtop/1.0.4/datainject.js,cell/lib-mtop/1.0.4/optimus.js,dt/tracker/3.3.0/tracker.Tracker.js,dt/tracker/3.3.0/tracker.performanceTrackerPlugin.js,cell/lib-track/0.1.0/index.js,cell/cellex-baseItem/0.0.3/seajs/index.js,cell/cellex-etao-lazyload/0.0.7/index.js,cell/cellex-etao-lazyload/0.0.7/lazyInit.js,cell/lib-img/0.0.7/index.js HTTP/1.1
+Host: g.alicdn.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://uland.taobao.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

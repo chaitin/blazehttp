@@ -1,0 +1,15 @@
+GET /web/performancev2?param=?%7B%22projectid%22%3A%22NTM-RGGG3592-2%22%2C%22val_nm%22%3A%22performance%22%2C%22val_act%22%3A%22performance%22%2C%22info%22%3A%7B%22detail%22%3A%7B%22connectStart%22%3A1688377879725%2C%22navigationStart%22%3A1688377879687%2C%22secureConnectionStart%22%3A0%2C%22fetchStart%22%3A1688377879725%2C%22domContentLoadedEventStart%22%3A1688377880931%2C%22responseStart%22%3A1688377880606%2C%22domInteractive%22%3A1688377880680%2C%22domainLookupEnd%22%3A1688377879725%2C%22responseEnd%22%3A1688377880608%2C%22redirectStart%22%3A0%2C%22requestStart%22%3A1688377879728%2C%22unloadEventEnd%22%3A0%2C%22unloadEventStart%22%3A0%2C%22domLoading%22%3A1688377880610%2C%22domComplete%22%3A1688377881014%2C%22domainLookupStart%22%3A1688377879725%2C%22loadEventStart%22%3A1688377881014%2C%22domContentLoadedEventEnd%22%3A1688377880931%2C%22loadEventEnd%22%3A1688377881014%2C%22redirectEnd%22%3A0%2C%22connectEnd%22%3A1688377879725%7D%2C%22times%22%3A%7B%22firstpaint%22%3A998.6999999284744%2C%22firstcontentpaint%22%3A998.6999999284744%7D%2C%22version%22%3A%221.2.0%22%2C%22spstitle%22%3A%22%E7%BD%91%E6%98%93%E5%85%AC%E5%BC%80%E8%AF%BE-%E4%B8%8A%E5%A5%BD%E4%BA%BA%E7%94%9F%E6%AF%8F%E4%B8%80%E8%AF%BE%22%2C%22spssid%22%3A%22%22%2C%22spsw%22%3A0%2C%22ptime%22%3A%22%22%7D%2C%22sdk_ver%22%3A%222.2.0%22%2C%22session_id%22%3A%221688377859041%22%2C%22ct%22%3A%22%22%2C%22source%22%3A%22other%22%2C%22uuid%22%3A%221bcb316ed9eb6ef6c00ea61decf90c33%22%2C%22channel%22%3A%22%22%2C%22val_url%22%3A%22https%3A%2F%2Fopen.163.com%2Fnewview%2Fsearch%2Ffor%2520power%252C%2520binary%253Cscript%2520is%2520incorrect%22%2C%22uid%22%3A%22%22%2C%22uname%22%3A%22%22%2C%22val_ref%22%3A%22https%3A%2F%2Fopen.163.com%2Fted%22%2C%22val_ref_from%22%3A%22163%22%2C%22sc%22%3A%221920*1080%22%2C%22tm%22%3A1688377881167%7D HTTP/1.1
+Host: vmonitor.ws.netease.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://open.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

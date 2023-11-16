@@ -1,0 +1,26 @@
+PUT /sdk/1/environments/2HKBN1wgCwHr/visitors/f6ae5791-dc9f-4c4b-a966-eac7cbdf2c5e/attributes HTTP/1.1
+Host: api.sprig.com
+Content-Length: 51
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ul-User-Id: 44c83b11-0dec-4a79-a165-c5997ba51eca
+X-Ul-Visitor-Id: f6ae5791-dc9f-4c4b-a966-eac7cbdf2c5e
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJndCI6InZpc2l0b3IiLCJpZCI6IjJIS0JOMXdnQ3dIciIsInZpZCI6ImY2YWU1NzkxLWRjOWYtNGM0Yi1hOTY2LWVhYzdjYmRmMmM1ZSIsImlhdCI6MTY4NzkyNDU2NiwiZXhwIjoxNjg4MDk3MzY2fQ.tKsrJ2blu2N87ltGhuHK8dnjwBiyIvkbPDswadWVUnf5m_uZTy8GxeWzQ1HurnzccReZ7QlLA2qFw0DwCJHwww
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+X-Ul-Installation-Method: web-snippet
+X-Ul-Sdk-Version: 2.23.6
+X-Ul-Environment-Id: 2HKBN1wgCwHr
+Userleap-Platform: web
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"SPACE_ID":"2f02162d-df95-4b24-9ef0-39f24f015615"}

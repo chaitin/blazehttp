@@ -1,0 +1,19 @@
+POST /action?url=https%3A%2F%2Fwww.csdn.net%2F&pvid=948d895b95e64b969800f056e4ae9ca5&ref=https%3A%2F%2Fwww.csdn.net%2F&referrer=&v=3.3.1-saas.2&av=3.3.1-saas.2&did=10_18754282740-1597979518688-247971&uid=weixin_46708016&sid=6645052141d14f1a8c546504fe0fc9f7&__s=1688373822942&id=hWg-u0rE5b8&key=Z1Tu5hoKbGw&token=568934913a6343de840a781ca5eaba4b&sh=1080&sw=1920&ps=0&__r=1688374727046 HTTP/1.1
+Host: wkbrs1.tingyun.com
+Content-Length: 1238
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.csdn.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+c{"type":"common","optCustomParam":{}}
+e{"type":"event","subType":"click","start":1688374726943,"end":1688374727046,"duration":103,"data":{"type":"event","id":"","nodeName":"DIV","className":"blog-nav ","title":"","text":"后端\n前端\n移动开发\n编程语言\nJava\nPython\n人工智能\nAIGC\n大数据\n数据库\n数据结构与算法\n音视频\n云原生\n云平台\n前沿技术\n开源\n小程序\n运维\n服务器\n操作系统\n硬件开发\n嵌入式\n微软技术\n软件工程\n测试\n网络空间安全\n网络与通信\n用户体验设计\n学习和成长\n搜索\n开发工具\n游戏\nHarmonyOS\n区块链\n数学\n3C硬件\n资讯","path":"html > body > div:nth-child(2)#app > div > div.main > div.page-container.page-component > div > div.home_wrap > div.content_wrap > div:nth-child(1)#floor-nav_557 > div.blog-nav-tag > div.blog-nav","trigger":"normal","range":"current","eventId":"6997195c270e4d6fb9341ae613fbcbbe","eventHandlerType":"inline","state":"finish","items":[{"type":"ajax","subType":"fetch","id":10,"cid":12,"method":"POST","url":"https://ev.csdn.net/webv3","start":1688374726950,"end":1688374727046,"du":96,"status":200,"opt_custom_param":{},"hasServerHeader":false,"state":"finish","items":[]}]}}

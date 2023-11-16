@@ -1,0 +1,16 @@
+POST /actionp/0?ti=146001191&Ver=2&mid=38d8f4e9-0e5e-4832-ace4-12627c47aa43&sid=2fc4b040199211ee9466c9791ca85a73&vid=2fc4e060199211eeb2afd3660909a1ee&vids=1&msclkid=N&evt=pageHide HTTP/1.1
+Host: bat.bing.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

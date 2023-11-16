@@ -1,0 +1,15 @@
+OPTIONS /volga/api/v3/trip/poi/business/info/6669070?ct_poi=282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb&poiId=6669070&source=mt&client=wap&uuid=EBF4B41DD923E5E9CC8480CE559729169CAC8B8431AB5FA629ABDC385C7712DE&cityId=50&feclient=lvyou_wap&platform=6&partner=11&originUrl=https%3A%2F%2Fi.meituan.com%2Fawp%2Fh5%2Flvyou%2Fpoi%2Fdetail%2Findex.html%3Fct_poi%3D282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb%26poiId%3D6669070 HTTP/1.1
+Host: itrip.meituan.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: content-type
+Origin: https://i.meituan.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

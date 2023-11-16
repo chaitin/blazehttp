@@ -1,0 +1,14 @@
+GET /services/ajax/get_user_info?info=msgInfo&info=accountInfo&info=identifyInfo&mc_gtk=2093508630&is_iniframe=0&csrfCode=2093508630&uin=100003290640&_=1688383699141&callback=axiosJsonpCallback1 HTTP/1.1
+Host: cloud.tencent.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://cloud.tencent.com/act/pro/seckill_season?fromSource=gwzcw.7455492.7455492.7455492&utm_medium=cpc&utm_id=gwzcw.7455492.7455492.7455492
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

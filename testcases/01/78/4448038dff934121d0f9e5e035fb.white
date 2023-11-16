@@ -1,0 +1,18 @@
+POST /api/cartographer/v1/rhumb?hs_static_app=conversations-visitor-ui&hs_static_app_version=1.15990 HTTP/1.1
+Host: app.hubspot.com
+Content-Length: 319
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://app.hubspot.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://app.hubspot.com/conversations-visitor/5149643/threads/utk/57eb716779bb4763a6cf099537db4ca2?uuid=9ba355ce817143d785eaaa954769333a&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=builder.io&inApp53=false&messagesUtk=57eb716779bb4763a6cf099537db4ca2&url=https%3A%2F%2Fwww.builder.io%2Fblog%2Fnext-13-app-router&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&isInitialInputFocusDisabled=false&enableWidgetCookieBanner=false&isInCMS=false
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","portalId":5149643,"datapoints":[{"to":{"pathname":"/","route":"/","scenario":"default"},"status":"success","wasHidden":false,"isHidden":false,"duration":1.9417000000476836,"isReload":false}]}

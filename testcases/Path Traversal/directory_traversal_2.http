@@ -1,6 +1,0 @@
-# tag: black,directory_traversal
-POST / HTTP/1.1
-Host: 1.1.1.1
-Content-Length: 63
-
-a=%uff0e%uff0e%u2215%uff0e%uff0e%%uff0e%uff0e%windows/win.ini

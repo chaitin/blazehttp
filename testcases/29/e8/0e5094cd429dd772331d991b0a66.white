@@ -1,0 +1,19 @@
+POST /v1/p HTTP/1.1
+Host: app.clearbit.com
+Content-Length: 721
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://aif.notion.so
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://aif.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"context":{"page":{"path":"/aif-production.html","referrer":"","search":"","title":"","url":"https://aif.notion.so/aif-production.html"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","library":{"name":"clearbit.js","version":"0.0.2"}},"integrations":{},"properties":{"path":"/aif-production.html","referrer":"","search":"","title":"","url":"https://aif.notion.so/aif-production.html"},"anonymousId":"d53e4b27-cd4c-494c-b00c-d5ab17e75bfa","timestamp":"2023-07-03T09:07:54.567Z","type":"page","writeKey":"pk_254dd63702a16060ec4cf571f845ad2d","userId":null,"sentAt":"2023-07-03T09:07:54.569Z","messageId":"cb-273e6873b290a878180dda032793f74f"}

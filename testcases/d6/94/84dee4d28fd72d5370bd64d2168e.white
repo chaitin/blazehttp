@@ -1,0 +1,19 @@
+POST /data/api.json?action=GetApplication&product=bpstudio HTTP/1.1
+Host: home.console.aliyun.com
+Content-Length: 1163
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/home/dashboard/ProductAndService
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=bpstudio&action=GetApplication&params=%7B%22NextToken%22%3A5%2C%22MaxResults%22%3A1%2C%22Scope%22%3A1%2C%22OrderType%22%3A1%2C%22Type%22%3A%22private%22%7D&sec_token=d5mraaH0uvLd9OQlTDzyz7&collina=140%238nzowOVQzzWbazo2%2Bi%2BbKtN8s77%2BPKdJLlGYOK2C46D%2BOY87kTaX7pqptHk6K20YCxeslp1zzqeKYUIMpFzxh2Uxath%2Fzzrb22U3l61tEIPPIC%2FBKbW0L2c2%2Ft%2BUoKOs7XrfMM%2B2y8bWiWVCrbvKHXDrf3XHDuM7pOR3EvzW6rFiVXE%2FtFzz2Pz6xV7XONdOHaU%2BWFLV3Lp17iE8eFO4lEjFsWy3YrHq0VhOrT10aKlIyvEvzvpCUoCzixHvymiZNySbFn%2BNaw0tz4Z%2BEoRWHTvgpEbOUyV5bkHGPFVPeWx8yY9AzoFqMfUA8ZFVOz1pSOeNzQpxnamfLl6MhzgKAhmBoZYRpiRQnNLMYkZMlKqWnvW9bbYyjK1011fTjoA%2FSd0Pxp0bTkzRDP9OnLku6599Xt8ovQnvpps15r6rQSurfTrk7seK9cil1hEqd5iY9q8UP%2FmcEIOZYzUDJB75mgibnT%2BEoSFZBKiM%2BSROGPgHtidzQAQB107nTEfzaHDQEb4niqv%2FhOrTpcOpn5p1cavbaMAM62qNmlxFIsQiLb%2B39JkeMUzVvBdzALy5SwtAQmV0cU2aHYQoZkD8I7dQqO5HTHu%2BmdyY8z5oo2xhz1u%2FRCyVrz7NIFTdgOCd9S2w59%2FVfhOg0bSw%2BIB9QYHSCFcLjrhQ01QfzVV0Ney%2B4Hpy4niB86orqImsCqSv5C8ljEAGci2y4mp%2F8SHAY7vbj6wMAAqkcYgW3oWwkK3NN2hntNKYf9ouxwY5jnXKvU%2FiXELxSOGnCrCW09iZDNLLZ7YV%2B8OP7TN63nzgweuXVzS%2BZNq%2FcK%2Bs049a%2Bz%3D%3D&umid=Ya2e9ad212a7420c01f8a345505a4557a&region=cn-hangzhou

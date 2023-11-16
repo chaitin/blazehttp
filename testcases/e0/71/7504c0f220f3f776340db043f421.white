@@ -1,0 +1,18 @@
+POST /sdk/fcgi-bin/sdk.fcg HTTP/1.1
+Host: stat6.y.qq.com
+Content-Length: 2443
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"common":{"_appid":"qqmusic","_uid":"1152921504763685208","_platform":24,"_account_source":"2","_os_version":"","_app_version":"114.0.0.0","_channelid":"","_os":"windows","_app":"chrome","_opertime":"1688383840","_network_type":"unknown","adtag":"","fqm_id":"7642c64d-5680-42a8-b8be-b2a114021486"},"items":[{"_key":"webcs","id":"1649-12-1","url":"/","rate":1,"webview":0,"fcp":96,"fmp":96,"tti":514},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-1","rate":1,"time":6},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-2","rate":1,"time":6},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-5","rate":1,"time":2},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-6","rate":1,"time":2},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-7","rate":1,"time":2},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-8","rate":1,"time":2},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-9","rate":1,"time":2},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-10","rate":1,"time":3},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-11","rate":1,"time":3},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-12","rate":1,"time":4},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-13","rate":1,"time":7},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-14","rate":1,"time":135},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-15","rate":1,"time":135},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-16","rate":1,"time":135},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-17","rate":1,"time":210},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-18","rate":1,"time":210},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-21","rate":1,"time":96},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-22","rate":1,"time":96},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-23","rate":1,"time":514},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-28","rate":1,"time":0},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-29","rate":1,"time":0},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-30","rate":1,"time":1},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-31","rate":1,"time":18},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-32","rate":1,"time":10},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-33","rate":1,"time":157},{"_key":"web_time","id":"1649-12-1","point":"1649-12-1-40","rate":1,"time":128}]}

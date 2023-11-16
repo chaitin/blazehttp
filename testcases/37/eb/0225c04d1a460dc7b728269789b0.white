@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=355079044&t=pageview&_s=1&dl=https%3A%2F%2Fbbs.sangfor.com.cn%2Fforum.php%3Fmod%3Dviewthread%26tid%3D114997&dp=%2Fforum.php%3Fmod%3Dviewthread%26tid%3D114997&ul=zh-cn&de=UTF-8&dt=%E3%80%90AF%20%E9%97%AE%E7%AD%94%E9%9B%86%E9%94%A6%E3%80%912020%E5%B9%B4%E7%A4%BE%E5%8C%BA%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E6%B1%87%E6%80%BB%20-%20%E7%A4%BE%E5%8C%BA%E4%BA%8B%E5%8A%A1%E6%89%80%20-%20%E6%B7%B1%E4%BF%A1%E6%9C%8D%E7%A4%BE%E5%8C%BA&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&_u=QACAAQABAAAAACAAAAB~&jid=&gjid=&cid=515135196.1688025924&tid=UA-128987720-2&_gid=2105667621.1688379612&_slc=1&gtm=45He36s0n81WLS3NNN&z=1844565692 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

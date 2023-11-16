@@ -1,0 +1,19 @@
+GET /community-personal/v1/userExtraInfo/get?type=1 HTTP/1.1
+Host: bizapi.csdn.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ca-Signature-Headers: x-ca-key,x-ca-nonce
+X-Ca-Signature: Il6xSeIp0bpVt9qd+q1hOxaEs5G0/UQaGUs6/yFeim0=
+X-Ca-Nonce: d272cfb2-177c-4436-a6bc-ac37886058d3
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+X-Ca-Key: 203796071
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://i.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

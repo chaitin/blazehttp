@@ -1,0 +1,18 @@
+POST /cdn-cgi/rum? HTTP/1.1
+Host: ant.design
+Content-Length: 1474
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://ant.design
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ant.design/index-cn
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"memory":{"totalJSHeapSize":77001694,"usedJSHeapSize":54909666,"jsHeapSizeLimit":4294705152},"resources":[],"referrer":"https://cn.bing.com/","eventType":1,"firstPaint":3843.2000000476837,"firstContentfulPaint":3843.2000000476837,"startTime":1688376809182.7,"versions":{"fl":"2023.4.0","js":"2023.4.2","timings":2},"pageloadId":"6a0f3ab4-6631-4edb-a804-73c3497b4544","location":"https://ant.design/index-cn","wd":false,"b":1,"timingsV2":{"unloadEventStart":0,"unloadEventEnd":0,"domInteractive":3802.600000023842,"domContentLoadedEventStart":3804.600000023842,"domContentLoadedEventEnd":3804.7000000476837,"domComplete":4252.100000023842,"loadEventStart":4252.700000047684,"loadEventEnd":4252.800000071526,"type":"navigate","redirectCount":0,"activationStart":0,"initiatorType":"navigation","nextHopProtocol":"h2","workerStart":0,"redirectStart":0,"redirectEnd":0,"fetchStart":6.700000047683716,"domainLookupStart":6.700000047683716,"domainLookupEnd":6.700000047683716,"connectStart":6.700000047683716,"connectEnd":6.700000047683716,"secureConnectionStart":6.700000047683716,"requestStart":14.400000095367432,"responseStart":693.5,"responseEnd":694.4000000953674,"transferSize":145416,"encodedBodySize":145116,"decodedBodySize":145116,"serverTiming":[],"renderBlockingStatus":"non-blocking","responseStatus":200,"name":"https://ant.design/index-cn/","entryType":"navigation","startTime":0,"duration":4252.800000071526},"siteToken":"99e8e5822a844cdaa1916725da659cf2","st":2}

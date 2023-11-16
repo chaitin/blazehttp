@@ -1,0 +1,18 @@
+GET /checkout?cart=b6e74579-fc91-4ffd-9897-dcf82f955333 HTTP/1.1
+Host: reviewgpt.lemonsqueezy.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Xsrf-Token: eyJpdiI6IkNYb3hFZ3ZwN1BGajJJU081Q3ppY0E9PSIsInZhbHVlIjoidWtWY09vSXFlQmU4c2FoZlVkK2ZMeER5OEtMeHg2dzdESGMrTEd4SGw4eDZSM2lYV1RpUVFtTXphTzRVVm5QcTMrUHdLd29KSll2dlhjdE9hYVYrc1ViQ2wyNkRzNm1XSE02Vlp5UkY0VjcyTGFVOWhrTTlOdFlMd2l1TGQ3MjQiLCJtYWMiOiJkODc2NzZmOTU2OWMyYTExM2I2NjY4ZTNhYjQ4MGM2YjE1YzA4OGViY2FhZWM4NmJjMzExYzEyNDZlZGM4ZmMzIiwidGFnIjoiIn0=
+Sec-Ch-Ua-Mobile: ?0
+X-Inertia: true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html, application/xhtml+xml
+X-Inertia-Version: 20283daff26af4c45cbdd03784f68233
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reviewgpt.lemonsqueezy.com/checkout?cart=b6e74579-fc91-4ffd-9897-dcf82f955333
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

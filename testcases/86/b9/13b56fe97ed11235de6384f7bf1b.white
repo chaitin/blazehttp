@@ -1,0 +1,23 @@
+POST /api/v3/syncRecordValues HTTP/1.1
+Host: www.notion.so
+Content-Length: 799
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Notion-Client-Version: 23.12.0.143
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+X-Notion-Active-User-Header: 44c83b11-0dec-4a79-a165-c5997ba51eca
+Baggage: sentry-environment=production,sentry-release=23.12.0.143,sentry-public_key=704fe3b1898d4ccda1d05fe1ee79a1f7,sentry-trace_id=b1d2e37203f54fab94967280c53716c0,sentry-sample_rate=1
+Sentry-Trace: b1d2e37203f54fab94967280c53716c0-a4059d7fd945f7d6-1
+Notion-Audit-Log-Platform: web
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/WAF-fc15ee8d2bbf410b821555ebb62e0f23
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"requests":[{"pointer":{"table":"space","id":"2f02162d-df95-4b24-9ef0-39f24f015615"},"version":3},{"pointer":{"table":"user_root","id":"44c83b11-0dec-4a79-a165-c5997ba51eca"},"version":3},{"pointer":{"table":"block","id":"99091e39-4aa1-43f6-9600-0bf3c721caa6"},"version":84},{"pointer":{"table":"block","id":"63a7d09e-6cc7-4f0a-ab00-ffd2e6e93122"},"version":466},{"pointer":{"table":"block","id":"97017073-0655-400d-900f-d0d8168d35fb"},"version":55},{"pointer":{"table":"block","id":"55444d5f-89ce-419b-a23e-e5e9cc3f0c91"},"version":20},{"pointer":{"table":"block","id":"3475c578-c333-4368-b195-d704d5957851"},"version":44},{"pointer":{"table":"block","id":"ea0dbdf5-daee-443e-8242-7c38d75c402d"},"version":8},{"pointer":{"table":"block","id":"f4430893-1b8a-4450-a3a0-a68cbed4b730"},"version":18}]}

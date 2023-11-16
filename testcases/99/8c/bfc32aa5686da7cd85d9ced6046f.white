@@ -1,0 +1,14 @@
+OPTIONS /api/v4/comment_v5/articles/560465440/config HTTP/1.1
+Host: www.zhihu.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: x-requested-with,x-zse-93,x-zse-96
+Origin: https://zhuanlan.zhihu.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://zhuanlan.zhihu.com/p/560465440
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

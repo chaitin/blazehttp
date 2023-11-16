@@ -1,0 +1,13 @@
+POST /proxyhttp HTTP/1.1
+Host: vd.l.qq.com
+Content-Length: 1366
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Origin: http://speed.qq.com
+Referer: http://speed.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"buid":"vinfoad","adparam":"pf=out&ad_type=LD%7CKB%7CPVL&pf_ex=pc&url=http%3A%2F%2Fspeed.qq.com%2F&refer=http%3A%2F%2Fspeed.qq.com%2F&ty=web&plugin=1.0.0&v=3.4.40&coverid=&vid=w35059dj7ag&pt=&flowid=b78c3eef830f081b0c10945085d0a281_70201&vptag=media.free.gamepaihangbang&pu=0&chid=0&adaptor=2&dtype=1&live=0&resp_type=json&guid=773b388ae5c4718d842f32c91399210f&req_type=1&from=0&appversion=1.0.174&platform=70201","vinfoparam":"spsrt=1&charge=0&defaultfmt=auto&otype=ojson&guid=773b388ae5c4718d842f32c91399210f&flowid=b78c3eef830f081b0c10945085d0a281_70201&platform=70201&sdtfrom=v1104&defnpayver=0&appVer=3.4.40&host=speed.qq.com&ehost=http%3A%2F%2Fspeed.qq.com%2F&refer=speed.qq.com&sphttps=0&tm=1688379825&spwm=4&logintoken=%7B%22main_login%22%3A%22%22%2C%22openid%22%3A%22%22%2C%22appid%22%3A%22%22%2C%22access_token%22%3A%22%22%2C%22vuserid%22%3A%22%22%2C%22vusession%22%3A%22%22%7D&vid=w35059dj7ag&defn=&fhdswitch=0&show1080p=0&isHLS=1&dtype=3&sphls=1&spgzip=&dlver=&hdcp=0&spau=1&spaudio=15&defsrc=1&encryptVer=9.1&cKey=4sQbDhCbVxR79ZEItZs_lpJX5WFNi2CdS8kB4X7qVaqtHEZQ1c_X6m2O8hQanWXBGMl6EZKaPTs52vPBr7VR-rRpLDUZY0-r-gRiXcYwPlaQVLVC9mL-J6MzzQpj__dhqT4hUBUNSYvXluNDEH6IC8EOljLQ2VfW2sTdospNPlD9535CNT9iSo3cLRH93ogtX_OJeYNVWrDYS8btjkFpGl3F3IxmISJc_8dRIBruTik-e4rt0isxZAXexKqWDJGxu2rnH6rXwn9Nqrw3LxgF6CUOrnBPgR0FS9arVw_BRKI4h8uDHc9gEOu5AoJA-gZacCAGBgYGBgYf6mFr"}

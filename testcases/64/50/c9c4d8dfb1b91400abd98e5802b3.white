@@ -1,0 +1,15 @@
+GET /tr/?id=1077071676252570&ev=ShowLibrary&dl=https%3A%2F%2Flordicon.com%2Ficons%2Fsystem%2Foutline%3Fgroup%3Dall%26categoryId%3D145&rl=https%3A%2F%2Flordicon.com%2Ficons&if=false&ts=1688376061695&cd[family]=system&cd[style]=outline&cd[group]=all&cd[category]=alert&sw=1920&sh=1080&v=2.9.110&r=stable&ec=6&o=30&fbp=fb.1.1677070749835.460290370&it=1688375645108&coo=false&rqm=GET HTTP/1.1
+Host: www.facebook.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://lordicon.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

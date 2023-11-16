@@ -1,0 +1,18 @@
+POST /web/spans HTTP/1.1
+Host: apm.you.163.com
+Content-Length: 2459
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://you.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"meta":{"app":"web-monitor","tid":"1#web-monitor#1688379464539#7bj9Idm4","page":"https://you.163.com/u/login","os":"Windows","bws":"Chrome-114","sdk":"2.2.14","type":1980,"dpi":"1920x1080","sign":"a2c0d6afe4f7f65c78d56b6017cf94ea"},"list":[{"st":1688379467033,"sid":"79464551","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/login/getQRState.json","et":23,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379465709,"sid":"79464550","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/login/getQRState.json","et":62,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379465177,"sid":"79464549","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/login/checkPrivacyPolicy.json","et":17,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464673,"sid":"79464548","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/login/getQRState.json","et":18,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464647,"sid":"79464547","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/common/checklogin.json","et":25,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464641,"sid":"79464543","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/globalinfo//queryTop.json","et":1,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464620,"sid":"79464546","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/accountRelate/relateMobileCheck.json","et":20,"err":0,"fds":{"httpCode":"200","method":"POST","msg":""}},{"st":1688379464584,"sid":"79464541","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/search/queryHotKeyWord.json","et":21,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464584,"sid":"79464540","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/cart/getMiniCartNum.json","et":21,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464584,"sid":"79464545","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/common/checklogin.json","et":19,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}},{"st":1688379464584,"sid":"79464544","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/userMobile/getStatus.json","et":17,"err":0,"fds":{"httpCode":"200","method":"POST","msg":""}},{"st":1688379464584,"sid":"79464542","spn":"ajax","type":1980,"psid":"79464539","url":"/xhr/search/colorfulEgg.json","et":16,"err":0,"fds":{"httpCode":"200","method":"GET","msg":""}}]}

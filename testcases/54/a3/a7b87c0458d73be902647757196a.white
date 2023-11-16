@@ -1,0 +1,16 @@
+GET /api/v1/jconfig?wpk-header=app%3D4qgthszz-efopzl8g%26tm%3D1688376435%26ud%3Ded8e19c0-2ec5-4c05-3244-2896f7bcdac9%26sver%3D1.2.6%26sign%3Dc41e43c828c16c16a6eb1c9c1e68e8ce HTTP/1.1
+Host: px.effirst.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.gaokao.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.gaokao.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

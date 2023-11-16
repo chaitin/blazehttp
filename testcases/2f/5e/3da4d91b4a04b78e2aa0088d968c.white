@@ -1,0 +1,15 @@
+GET /api/v3/get?referer=https%3A%2F%2Fid1.cloud.huawei.com%2FUnifiedIDMPortal%2Fportal%2FuserRegister%2Fregbyphone.html&zoneId=CN31&id=06c8410796844fad8613ac5639feffed&fp=b3E1x%5C9qDR1u5se%2BlYZKIL%5CWkzWqk5qJo16LKn%2BD5Xc99CBq3Bi8xUiTtunSgqlJO62Za1lh%2B8o%2FOqcsM33cYZSpV3waWQ7dMqXbqXZP9DM0tGvjato81aYddMO0od5IqI9fsxT33%5C8LxJMXLee2chPmUjLdf9957aniOi7iPoUHJvRv%3A1688384518408&https=true&type=5&width=&sizeType=undefined&version=2.20.2&dpr=1&dev=1&cb=i9dxASMFbZyNnNVDRl%2F9Ru9kT9Z%2BRCu0goS7uJTDayds97HkZrFXebtMX5BeGMnH&acToken=9ca17ae2e6ffcda170e2e6ee8efb34919c9f87ce7dba9e8fa3c84f869b9facd174acbe84d1d552f68c8fa6bc2af0feaec3b92aafb39fa8e63a86e783b1e65f929e9eb6c45f899ab999e141b59aad93b669b7bbee9e&ipv6=false&runEnv=10&group=&scene=&sdkVersion=undefined&callback=__JSONP_zoi0xtc_0 HTTP/1.1
+Host: c.dun.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://id1.cloud.huawei.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

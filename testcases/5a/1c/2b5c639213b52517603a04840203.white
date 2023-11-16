@@ -1,0 +1,18 @@
+POST /web/spans HTTP/1.1
+Host: apm.you.163.com
+Content-Length: 659
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://you.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"meta":{"app":"web-monitor","tid":"1#web-monitor#1688379462426#IUuF1w14","page":"https://you.163.com/cart","os":"Windows","bws":"Chrome-114","sdk":"2.2.14","type":1980,"dpi":"1920x1080","sign":"8f083ff7e8e3a1bc59065c2972d37b35"},"list":[{"st":1688379464412,"sid":"79462425","spn":"pageroot","psid":-1,"err":0,"fds":{"dnsQuery":0,"tcpConnect":0,"contentTransfer":1,"domExplain":179,"resourceLoad":77,"responseTime":88,"firstPaint":91,"firstInteractive":271,"domReady":311,"completeLoad":387,"fmp":387,"ttfb":91,"fb":91,"ssl":0,"ct":"4g","bandwidth":10,"navtype":"other","begin":1688379464412},"tgs":{"platform":"pc"},"et":311,"ants":{"staticResource":"{}"}}]}

@@ -1,0 +1,16 @@
+GET /sugrec?&prod=pc_his&from=pc_web&json=1&sid=36549_38942_38881_38796_38907_38955_38964_38918_38811_38987_38636_26350&hisdata=%5B%7B%22time%22%3A1688363403%2C%22kw%22%3A%22%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20%E5%91%A8%E8%BE%B9%22%7D%2C%7B%22time%22%3A1688371348%2C%22kw%22%3A%22oh%20my%20zsh%22%7D%2C%7B%22time%22%3A1688373266%2C%22kw%22%3A%22%E4%BB%80%E4%B9%88%E6%B0%B4%E6%9E%9C%E5%A5%BD%E5%90%83%22%7D%2C%7B%22time%22%3A1688374413%2C%22kw%22%3A%22burp%20%E4%BF%A1%E4%BB%BB%E8%AF%81%E4%B9%A6%22%7D%2C%7B%22time%22%3A1688374507%2C%22kw%22%3A%22burp%20%E4%BF%A1%E4%BB%BB%E8%AF%81%E4%B9%A6%20chrome%22%2C%22fq%22%3A2%7D%2C%7B%22time%22%3A1688376092%2C%22kw%22%3A%22%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%22%7D%2C%7B%22time%22%3A1688376273%2C%22kw%22%3A%22%E7%9F%A5%E7%BD%91%22%7D%2C%7B%22time%22%3A1688376428%2C%22kw%22%3A%22%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%22%7D%2C%7B%22time%22%3A1688376559%2C%22kw%22%3A%22%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%202023%22%2C%22fq%22%3A2%7D%2C%7B%22time%22%3A1688377414%2C%22kw%22%3A%22%E7%BF%BB%E8%AF%91%22%7D%5D&_t=1688377967187&req=2&csor=0 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Ps-Dataurlconfigqid: 0xa43eba410000fc8f
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

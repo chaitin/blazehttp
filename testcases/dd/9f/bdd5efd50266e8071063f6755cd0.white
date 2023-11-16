@@ -1,0 +1,14 @@
+GET /v2/speed/event?k1=firstScreenImg.avif&v1=1201&s1=firstScreenImgTotal&k3=%2F10059961126719.html%23.avif&v3=1201&s3=firstScreenImg&k2=mainImg.avif&v2=204&s2=mainImgTotal&k4=%2Fjfs%2Ft1%2F99566%2F9%2F33142%2F39532%2F6316adbeE67da8432%2F0de39e4a57120f5d.jpg.avif&v4=204&s4=mainImg&flag=159&sid=d4707fc5-6797-484e-b2bd-e7c30cbf1f20&libVer=3.7.3&url=https%3A%2F%2Fitem.jd.com%2F10059961126719.html&rts=1688375753221&title=%E5%83%8F%E7%B4%A0%E5%B1%8B%E5%83%8F%E7%B4%A0%E5%B1%8B%E5%8E%9F%E7%A5%9E%E5%90%8C%E4%BA%BA%E5%83%8F%E7%B4%A0%E5%91%A8%E8%BE%B9%E9%AD%88%E4%B8%87%E5%8F%B6%E8%83%A1%E6%A1%83%E5%8F%AF%E7%88%B1%E7%A7%AF%E6%9C%A8%E7%8E%A9%E5%85%B7%E7%A4%BC%E7%89%A9%E6%A8%A1%E5%9E%8B%E8%83%8C%E5%8C%85%E6%8C%82%E4%BB%B6%20%E8%83%A1%E6%A1%83%20%E6%90%AD%E9%85%8D%E6%8C%82%E4%BB%B6%E5%8C%85%E3%80%90%E5%9B%BE%E7%89%87%20%E4%BB%B7%E6%A0%BC%20%E5%93%81%E7%89%8C%20%E6%8A%A5%E4%BB%B7%E3%80%91-%E4%BA%AC%E4%B8%9C&network=4g HTTP/1.1
+Host: h5speed.m.jd.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://item.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

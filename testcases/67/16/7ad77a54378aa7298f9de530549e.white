@@ -1,0 +1,16 @@
+GET /cae-openservice-public/openservice-sdk/service.js?t=468996 HTTP/1.1
+Host: ecma.bdimg.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=tengxunyun&fenlei=256&oq=saas%2520%25E7%25BD%2591%25E9%25A1%25B5%25E7%2589%2588&rsv_pq=e8b69b7f00078a0f&rsv_t=e789TxJqOb%2FSeAgL6BqtPYKEAb%2B%2BXGhZCDuVOzplThj2lRRzEARcBO7%2BP5g&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=6918&rsv_sug3=87&rsv_sug1=53&rsv_sug7=100&rsv_sug2=0&rsv_sug4=6950
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: "144cb5339c89a2c58bc164981553d8fb"
+If-Modified-Since: Fri, 10 Feb 2023 15:22:49 GMT
+

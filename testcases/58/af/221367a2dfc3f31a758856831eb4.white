@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1567
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=site:segmentfault.com%20union%20select%20%E5%85%B3%E9%94%AE%E5%AD%97%E6%80%8E%E4%B9%88%E7%94%A8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>376DC55D3E3145869C50EAA4BED9EBCC</IG><TS>1688377403217</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":2,"N":6,"I":"2df","S":"K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":72849,"K":"1k7k+1k7l+1hq2+1i8o+1ibc+AS%2FSuggestions+1ie0+1ijz+1inf+1irt+1iv0+1j90+1j91+1je6+1je7+1jmt+1id8+1ij0+1irc+1j80+1jdc+1jmp","F":0},"L":"@30/2/////i2///R/+@30/3////17////R/+@30/l////10////R/+@30/16////1f////R/+@30/17/////ev///R/+@30/19///0/0/0/0/0/R/+@30/1a///0/0/0/0/0/R/+@30/1b///0/0/0/0/0/R/+@30/1c///im/ci////R/","M":"ve+rw+-1+tud+47+2i+0+5+0+1ut+1","E":"@31/2/X/1o/+@31/6/X/1o/+@31/7/X/1o/+@31/8/X/1o/+@31/9/X/1o/+@31/a/X/1o/+@31/b/X/1o/+@31/c/X/1o/+@31/d/X/1o/+@31/e/X/1o/+@31/f/X/1o/+@31/g/X/1o/+@31/h/X/1o/+@31/i/X/2s/+@31/j/X/4y/","N":"@32/3w//@j/@2a/@l/2g/@k/@32/@32/@32/1hq3/1hsi/1hsj+@33/3x//@j/@11/@n/2o/@k/@33/@33/@33/1i8q/@34/@34+@33/3y//@j/@35/@l/3c/@k/@33/@33/@33/1i8r/1ic0/1ic1+@36/3z//@j/@35/@l/38/@k/@36/@36/@36/1ie1/1ih7/1ih8+@37/40//@j/@35/@l/3b/@k/@37/@37/@37/1ik0/1ina/1inb+@38/41//@j/@11/@n/2g/@k/@38/@38/@38/1ing/1ipv/1ipw+@39/42//@j/@35/@l/37/@k/@39/@39/@39/1iru/@3a/@3a+@3b/43//@j/@35/@l/1/@k/@3b/@3b/@3b/@3c/@3c/1j92+@3d/44//@j/@35/@l/1/@k/@3d/@3d/@3d/@3e/@3e/@3e+@3d/45//@j/@11/@n/2i/@k/@3d/@3d/@3d/@3e/1jgo/1jgp+@3f/46//@j/@35/@l/3z/@k/@3f/@3f/@3f/1jmx/1jqr/1jqs","K":"1i8k/17/@2z/0/1i8j+@3g/17/@2z/1s/@3g+@3h/17/@2z/1s/@3h+@3i/17/@2z/1s/@3i+@3j/17/@2z/1s/@3j+@3k/17/@2z/1s/@3k+1jkl/17/@2z/1emc/1jkk+@3l/17/@2z/1w/@3l"}]]]></D></E></Events><STS>1688377403217</STS></ClientInstRequest>

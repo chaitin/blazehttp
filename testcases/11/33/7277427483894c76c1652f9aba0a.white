@@ -1,0 +1,15 @@
+GET /collect/whitelist?id=3846&uin=&version=1.40.9&aid=93ae8b48-c0f8-4a0f-8cee-508ee4a5fcc7&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688379814590&from=https%3A%2F%2Fpvp.qq.com%2Fweb201706%2Fnewsdetail.shtml%3Ftid%3D602025&referer=https%3A%2F%2Fpvp.qq.com%2Findex.shtml%3F_t%3D9503181563591404 HTTP/1.1
+Host: aegis.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://pvp.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://pvp.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

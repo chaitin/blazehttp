@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 634
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=icon+anime&FORM=R5FD4
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>37D96E597BB9421098B5B2224B574B64</IG><TS>1688376711968</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":4,"N":4,"I":"79b","S":"V","M":"V+L+M+MT+E+N+C+K+BD+BF","T":28160,"K":"lq8","F":1},"V":"lq5/////////hidden/visibilitychange","M":"1mq+u5+-1+lq7+5p+20+0+9+8b+3w6+1","E":"@8u/2/X/1o/+@8u/6/X/1o/+@8u/7/X/1o/+@8u/8/X/1o/+@8u/9/X/1o/+@8u/a/X/1o/+@8u/b/X/1o/+@8u/c/X/1o/+@8u/d/X/1o/+@8u/e/X/1o/+@8u/f/X/1o/+@8u/g/X/1o/+@8u/h/X/1o/+@8u/i/X/1o/+@8u/j/X/1o/+@8u/k/X/1o/+@8u/l/X/2s/+@8u/m/X/4y/"}]]]></D></E></Events><STS>1688376711968</STS></ClientInstRequest>

@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 753
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://rivers.chaitin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://rivers.chaitin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!fkAFCy7pfQ6f59HhWPJ3TF8G9UNkjTSQwQPvJ%2F%2FPAT00az5SAT%2BUAy00CxxU81aGaSYmQfpJszCCJ9eVAJ8%2B1Ipgi1OErIwLffxu1C4lr2ioB3AxfQ7%2BwB%2Fjk77OD2bpfUNLgSh2UtKnHbpKVKfffNl0tJJiPfgmYVYoeAmfPfRHIN9iKfqVdI4qWgqmPO6R3Sjx5SGYxXG2WPYQdyCPdu4qCfG%2F8PlTPlWsdq%2FQzRH3WkfNNBWvkXLpj8Rze4P%2FT9R%2BKEMp09im41sCpuDIctVSGgraGVlXzA6rE7Tqxoq75FQWOc688qcfB5QR7jlBqVkIoXVwHY9OMG1j0Ap%2FZQuS%2BF1nzUbkgCnRyLKF4Sq%2BVRWe48ai7syYq7TAS5rJoJuuWrofH2uDEGXAOFXDCWDqsF9abVnOVdRvHFn6Y53%2FEQmjjtuep5Kd2d5WxExsL%2BfUDb%2FeH51xptRMFGUKmURnseU2v3rXtfY021ZB29YWDqSZePy480IxlPLsvEiLlOcisiE59dHoghQzUa9haUZL1B2Ji04AslCaWlSG8%2BPj92%2BMtXoeRJj4RjPT0YlIHEda5HZVmuNQmGDkXI4q5%2B414k00DQodHmbpc8SM%2FJfyfjA0sgMjRexgOzWVELzX%2FjNheFYYvfNNQIDuoIlPbKRNJNoc&xa=FFFF0N0N000000009C1C&xt=&efy=1

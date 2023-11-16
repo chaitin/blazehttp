@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx? HTTP/1.1
+Host: cn.bing.com
+Content-Length: 345
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=passwd+%E6%98%AF%E4%BB%80%E4%B9%88&form=QBLHCN&sp=-1&lq=0&pq=passwd+%E6%98%AF%E4%BB%80%E4%B9%88&sc=10-10&qs=n&sk=&cvid=49F42A24F70449398780C978BED3AD66&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>35A2338383BA4EFCAF8E9B04A02D060F</IG><TS>1688378347840</TS><D><![CDATA[{id:7635,P:"2:a,3:a,4:a,5:a,7:a,8:b,9:k3,10:k4,11:kf,12:mp,13:mp,14:mp,15:mr,16:mr,17:mr,FN:kp,BN:kp",S:"nav:0",v:1.1,T:"CI.Perf",FID:"CI",Name:"PerfV2"}]]></D></E></Events><STS>1688378347840</STS></ClientInstRequest>

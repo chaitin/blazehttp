@@ -1,0 +1,15 @@
+GET /adv?a=Ass8T..UDQx6B7nbteTOqFn_n9jmP&u=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&r=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a&rd=1688382617575&v=2&e=sr%3D1920x1080%26sc%3D24-bit%26je%3Dfalse%26lg%3Dzh-cn%26vb%3D1%26did%3D%26dt%3D%26ps%3D1912x7693%26vp%3D1903x921%26ec%3DUTF-8%26vbt%3D0%26sp%3D0%26ur%3D%26st%3D%26ev%3Dvg%26ep%3D%257B%2522utid%2522%253A%2522%255B%257B%2522ut10%2522%253A%252210A00%2522%252C%2522unifiedTaxonomyL10%2522%253A%2522IBM%2520Software%2520w%252Fo%2520TPS%2522%257D%252C%257B%2522ut15%2522%253A%2522153QH%2522%252C%2522unifiedTaxonomyL15%2522%253A%2522Public%2520Cloud%2520Platform%2522%257D%252C%257B%2522ut17%2522%253A%252217DVS%2522%252C%2522unifiedTaxonomyL17%2522%253A%2522Public%2520Cloud%2520PaaS%2522%257D%255D%2522%252C%2522nluKeywords%2522%253A%2522%255B%257B%2522name%2522%253A%2522Software%2520as%2520a%2520service%2522%252C%2522relevance%2522%253A0.9999%257D%255D%2522%252C%2522topics%2522%253A%2522%255B%257B%2522name%2522%253A%2522Software%2520as%2520a%2520service%2522%252C%2522score%2522%253A1.9999565683801925%252C%2522occurrences%2522%253A1%252C%2522events%2522%253A1%252C%2522firstOccurrence%2522%253A1688382612248%252C%2522lastOccurrence%2522%253A1688382612248%257D%255D%2522%257D HTTP/1.1
+Host: mdi.ipinyou.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

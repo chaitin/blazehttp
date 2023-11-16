@@ -1,0 +1,15 @@
+GET /web/performance?param=?%7B%22projectid%22%3A%22NTM-LEST41Y4-53%22%2C%22val_nm%22%3A%22performance%22%2C%22val_act%22%3A%22performance%22%2C%22info%22%3A%7B%22timing%22%3A%7B%22version%22%3A%221.1.0%22%2C%22redirect%22%3A0%2C%22TTP%22%3A70%2C%22appcache%22%3A0%2C%22DNS%22%3A0%2C%22TCP%22%3A0%2C%22HTTPSconnect%22%3A0%2C%22request%22%3A157%2C%22unload%22%3A0%2C%22response%22%3A1%2C%22processing%22%3A215%2C%22DOMrender%22%3A189%2C%22beforeContentLoad%22%3A190%2C%22DOMContentLoaded%22%3A1%2C%22onloadEvent%22%3A0%2C%22TTFB%22%3A163%2C%22interactive%22%3A355%2C%22DOMcontentFinish%22%3A357%2C%22pageLoad%22%3A381%2C%22firstpaint%22%3A421.6999999284744%2C%22firstcontentpaint%22%3A421.6999999284744%7D%2C%22spstitle%22%3A%22%E7%BD%91%E6%98%93_%E6%96%B0%E9%97%BB%E6%90%9C%E7%B4%A2_%E8%B6%8A%E5%8D%97%E9%AB%98%E8%80%83%E4%B8%AD%E6%96%87%E9%A2%98%E6%9B%9D%E5%85%89%E5%BC%95%E7%83%AD%E8%AE%AE%22%2C%22spssid%22%3A%22%22%2C%22spsw%22%3A0%2C%22ptime%22%3A%22%22%7D%2C%22sdk_ver%22%3A%222.2.0%22%2C%22session_id%22%3A%221688377859041%22%2C%22ct%22%3A%22%22%2C%22source%22%3A%22other%22%2C%22uuid%22%3A%221bcb316ed9eb6ef6c00ea61decf90c33%22%2C%22channel%22%3A%22%22%2C%22val_url%22%3A%22https%3A%2F%2Fwww.163.com%2Fsearch%3Fkeyword%3D%25E8%25B6%258A%25E5%258D%2597%25E9%25AB%2598%25E8%2580%2583%25E4%25B8%25AD%25E6%2596%2587%25E9%25A2%2598%25E6%259B%259D%25E5%2585%2589%25E5%25BC%2595%25E7%2583%25AD%25E8%25AE%25AE%22%2C%22uid%22%3A%22%22%2C%22uname%22%3A%22%22%2C%22val_ref%22%3A%22%22%2C%22val_ref_from%22%3A%22%22%2C%22sc%22%3A%221920*1080%22%2C%22tm%22%3A1688379405825%7D HTTP/1.1
+Host: vmonitor.ws.netease.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

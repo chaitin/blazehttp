@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 3881
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=%E6%B7%B1%E4%BF%A1%E6%9C%8D&form=QBLHCN&sp=-1&lq=0&pq=shen%27xin%27fu&sc=10-11&qs=n&sk=&cvid=43818836CEAC4ED5A7EEFF69918430A8&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>2961C4021E2D438E97E4B7E764577A45</IG><TS>1688379601031</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":10,"N":7,"I":"2vx","S":"V+C+MT","M":"V+L+M+MT+E+N+C+K+BD+BF","T":440526,"K":"9fe1+9fwn+18n+17b+19z+1bb+1cn+9fwt+36qh+36tt+37j7+9eyv+9exz+9f4r+9f5x+9f5y+9f6z+9f72+9f73+9fdw+9fe0+9feo+9fgw+9fgx+9fhj+9fhi+9fhk+9fe5+9fgm+9eys+1a5+9f4s","F":1},"V":"9exv/////////visible/+@9m/////////hidden/","L":"@9l/7c/@7/@5/@9o/ag/0/0/b/T/2+@9l/7d/@7/@5/17j/ag/0/0/b/T/2+@9l/7e/@7/@5/@4v/ag/0/0/b/T/2+@9l/7f/@7/@5/17z/ag/0/0/b/T/2+@9l/7g/@7/@5/@4l/ag/0/0/b/T/2+@9l/7h/@7/@5/18f/ag/0/0/b/T/2+@9l/7i/@7/@5/@9n/ag/0/0/b/T/2+@9l/7j/@7/@5/18v/ag/0/0/b/T/2+@9l/7k/@7/@5/193/ag/0/0/b/T/2+@9l/7l/@7/@5/19b/ag/0/0/b/T/2+@9l/7m/@7/@5/19j/ag/0/0/b/T/2+@9l/7n/DIV#HBContent/SERP.5053,5369.1/16w/2h/8w/b6/4/MT/2+@9m/7c////a3/14/14//R/+@9m/7d///@9n/a3/14/14//R/+@9m/7e///@9p/a3/14/14//R/+@9m/7f///@9q/a3/14/14//R/+@9m/7g///@9r/a3/14/14//R/+@9m/7h///1dz/a3/14/14//R/+@9m/7i///@9o/bl/14/14//R/+@9m/7j///@9n/bl/14/14//R/+@9m/7k///@9p/bl/14/14//R/+@9m/7l///@9q/bl/14/14//R/+@9m/7m///@9r/bl/14/14//R/","M":"9fe1+491+-1+9fwt+5w+3w+0+3g+25s+974+1","E":"@9s/2/X/1o/+@9s/6/X/1o/+@9s/7/X/1o/+@9s/8/X/1o/+@9s/9/X/1o/+@9s/a/X/1o/+@9s/b/X/1o/+@9s/c/X/1o/+@9s/d/X/1o/+@9s/e/X/1o/+@9s/f/X/1o/+@9s/g/X/1o/+@9s/h/X/1o/+@9s/i/X/1o/+@9s/j/X/1o/+@9s/k/X/1o/+@9s/l/X/2s/+@9s/m/X/4y/+@9s/n/X/4y/+@9s/o/X/4y/","N":"@9t/5b//@p/ls%2Flsp.aspx/@6h/3c/@o/@9t/@9t/@9t/36qm/@9u/@9u+@9v/5c//@p/@1a/@q/2j/@o/@9v/@9v/@9v/37j9/37lq/37lr+9exw/5d//@p/tabfocuschanged/@q/6v/@o/9ey9/@ae/@9w/@9w/@9y/@ag+@9x/5e//@p/returntop15/@q/6s/@o/@9x/@9x/@9x/@9w/@9y/@9y+@9z/5f//@p/Blue%2FBlueIdentityDropdownRedirect_c.js/@x/11/@o/@9z/@9z/@9z/@a0/9f6x/9f6y+@9z/5g//@p/Blue%2FHamburgerServicesHeaderFlyout_c.js/@x/14/@o/@9z/@9z/@9z/@a0/9f71/@a2+@a1/5h//@p/Identity%2FDropdown/@s/6m/@o/@a1/@a1/@a1/@a2/9fdl/9fdm+@a3/5i//@p/hamburger%2Fscfo/@s/6t/@o/@a3/@a3/@a3/9f75/@a4/@a4+9fdz/5j/7c/@r/rp%2FE1tQpWOQxb_Bdm36SETHVWJQugg.png/@q/2x/@o/@a5/9feg/9fen/@a6/@a7/@a8+@a5/5k/7d/@r/rp%2FQ0pzSymUNRwlfDJ3G2rxwANmBnc.png/@q/3k/@o/@a5/@a5/@a5/@a6/@a9/@ab+@a5/5l/7f/@r/rp%2FfWxNvK7JPprF4W4eDRTMsOKKQNE.png/@q/2x/@o/@a5/@a5/@a5/@a6/@a7/@a8+@a5/5m/7e/@r/rp%2FpHlnkW3_8oyDsEuOb4nBDXIzGz4.png/@q/2x/@o/@a5/@a5/@a5/@a6/@a8/@a8+@a5/5n/7g/@r/rp%2Fgf8rqTc2B4iQmtLUbzXj5oSKWac.png/@q/3j/@o/@a5/@a5/@a5/@a6/@aa/@a9+@a5/5o/7h/@r/rp%2FnCW0FtuQ3vobDfGAEpcZxKZV4yc.png/@q/3k/@o/@a5/@a5/@a5/@a6/@aa/@ab+@a5/5p/7i/@r/rp%2FJbl57ag8uGFl7nX3RwVqf8O7XvI.png/@q/3j/@o/@a5/@a5/@a5/@a6/@aa/@ab+@a5/5q/7j/@r/rp%2FPc0CJptsZk5W2qcfpX4mVUpNBy8.png/@q/3k/@o/@a5/@a5/@a5/@a6/@a9/@ab+@a5/5r/7k/@r/rp%2FgnY2aV8PmwB8fOUFTVXMFIsRKkA.png/@q/3h/@o/@a5/@a5/@a5/@a6/@aa/@aa+@a5/5s/7l/@r/rp%2FoSSPQ6l7Otzn1yQ4Nfxl4Zxcy1U.jpg/@q/2x/@o/@a5/@a5/@a5/@a6/@a8/9fgy+@9l/5t/7m/@r/rp%2F2oLRQf6suZ4LrBBaCqawSoy30yM.jpg/@q/3k/@o/@9l/@9l/@9l/@a6/@a9/9fhl+@9l/5u//@p/rp%2F9roWR2D5ePtJMzD9tbaESvO2JXw.png/css/x/@o/@9l/@9l/@9l/9fe2/9fey/9fez+@ac/5v//@p/srthvs/@q/2h/@o/@ac/@ac/@ac/@ac/@ad/@ad","C":"9eyb/////1a3/ew//9ey4+@ae/////@af/e2//9eyq+9ez9/////1a6/dp//9ez6+9ezp//////da//9ezl+9f0m/////@af/cc//9f0k+9f14//////bu//9f10+9f1l//////b9//9f1g+9f22//////ag//9f1w+9f2i//////9r//9f2c+9f2z/////1a4/93//9f2r+9f3f//////89//9f39+9f3x/////1a0/6z//9f3v+9f4d//////6d//9f44+9f4t/////19u/3y//@ag+9f5b/0////19q/2x//9f58+9f5r/3////19l/24//9f5n+9f68/////19h/1h//9f63+9f6o/////19e/v//9f6k+9f76/////197/7//9f70+9fj3/////@4e/3//9fj1+9fjn/////@3m/u//9fjf+9fk4/////@32/1i//9fjv+9fkl/0////@2a/33//9fkk+9fl1/////@21/3s//9fl0+9fli/////10m/43//9fl7+9flz/////@1s/4z//9flu+9fmw/m/////5c//9fmq+9fnd/////@27/5i//9fn6+9fnt/////11f/5n//9fnl+9foa/////@3d/5o//9fo1+9for/////@4c///9foi+9fp7/////13j///9foy+9fpo/////14j/50//9fpm+9fq5/////159/46//9fq2+9fql/0////15q/2y//9fqi+9fr2/////15u/1r//9fqy+9frj//////18//9fr6"}]]]></D></E></Events><STS>1688379601031</STS></ClientInstRequest>

@@ -1,0 +1,15 @@
+OPTIONS /v1.0/me/photos/96x96/$value?state=33cf00c5-c44a-4578-8a65-0795efce76d3 HTTP/1.1
+Host: graph.microsoft.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: authorization
+Origin: https://amcdn.msftauth.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Referer: https://amcdn.msftauth.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

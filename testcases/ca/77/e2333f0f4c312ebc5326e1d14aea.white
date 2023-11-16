@@ -1,0 +1,22 @@
+PUT /api/userstorage/FirstRunState/?workload=officehome&auth=1 HTTP/1.1
+Host: www.office.com
+Content-Length: 39
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Ajaxsessionkey: tqtLTNmXmjuF+WUxQBhVkYu2YwggYqSUN97+QeaxDHdqSAbt3zriFrnCpuQPQTvJdcDgDzvvzbZvsuIClN4qYA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+X-Officehome-Userid: 0003BFFD5FEE893C
+Accept: application/json, text/plain, */*
+X-Officehome-Tenantid: 9188040d-6c67-4c5b-b112-36a304b66dad
+X-Officehome-Correlationid: 4d3c3096-4762-4d38-b53a-822b76cf7e60
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.office.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/?auth=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"CompletedFirstRun":false,"Version":1}

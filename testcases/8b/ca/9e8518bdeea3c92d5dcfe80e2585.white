@@ -1,0 +1,16 @@
+GET /oauth20_authorize.srf?client_id=e8e8fc40-94d5-4ed6-89f2-9e5ec6c1e11e&scope=https%3a%2f%2foneservice.microsoft.com%2fOneService.Read+openid+profile+offline_access&redirect_uri=https%3a%2f%2fcn.bing.com%2f&response_type=code&state=eyJpZCI6IjY5MGQ1MzRhLTI3NTItNDU0MC04MzkyLTcxNzIxNjEyN2MxYSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19&response_mode=fragment&nonce=8133154d-203c-4899-97d7-29637ef4e7f3&prompt=none&login_hint=agdngcy%40outlook.com&code_challenge=c0XRlH3zVqHgY_rW8Yoo7noTWlMDuXrdkEprrUT8pCU&code_challenge_method=S256&x-client-SKU=msal.js.browser&x-client-Ver=2.28.2&uaid=9eabbc82004148e6911c0b4a106653b2&msproxy=1&issuer=mso&tenant=common&ui_locales=zh-CN&client_info=1&epct=PAQABAAEAAAD--DLA3VO7QrddgJg7WevrPkMJ-MBHEtcVjQRuUPXEXH7I3KD_Jx1s5v4efkCsfOK5v98jwhlVBZiuyPdL3jtSflwRQJsGfrwzTrOknKyMC0frTrJKpfDGduxcQdU4EhVwjNnZ2HPnKEfvCULsk7Qsqd4kItpAV3a_Z4x479fSsRZckfS8eqdrf3kmfVcA1VcvkH-W_WA7vWiYpo-OH1py32Pa3pRXJnq_xYNM9jUT-SAA&jshs=0 HTTP/1.1
+Host: login.live.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://login.microsoftonline.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

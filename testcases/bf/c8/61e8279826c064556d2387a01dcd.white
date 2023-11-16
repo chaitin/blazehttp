@@ -1,0 +1,14 @@
+POST /restapi/soa2/20589/SaveTraceInfo?_fxpcqlniredt HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 661
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"cid":"09031121410788884587","ctok":"","cver":"1.0","extension":[],"lang":"01","sid":"","syscode":"09"},"code":"CB01e12a2260b949239a8c9bef8c5d8d09","bizCode":"","orderid":0,"token":"PRD-3-1489e691-c4b6-414f-bec6-300c4877649a-20230703-3.2.2-WEB","tsid":"62ae5f73921a451291f62e5a376c36ef","replayType":"RRWEB-JSZip","uid":"","version":"3.2.2","extend":"@3.2.2,@end","replayContent":"x¥»\n0\u0010EÿåÖSdV6©·]ü ),| 1(w\u0004ÁZìsærv(¸\u001dq\u001b\u0003\u001c~Õ\u001fB\u001foZ\u0010\u001a\u001fý\tæajA\u001fº\"´\r\u001c_Â\nW2aá,\u001fm\u0017æè»Q¼¶¶0Ùh¥³8~\u0013ãiÔÑ$±ÄÈ\u0007~×E\u0000"}

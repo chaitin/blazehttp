@@ -1,0 +1,21 @@
+POST /data/api.json?action=InnerDescribeInstanceTypes HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 1245
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json, text/plain, */*
+Arms-Traceid: 86be7d3300a4d2450068117e5eb7af64
+Arms-Userdata: traceId=86be7d3300a4d2450068117e5eb7af64&domain=ecs-core&page=server%2Flist&session=NDF_wr62u1eZWaBIKSsBd&biz=server_list_20220621&__biz_id=server_list_20220621&bizId=server_list_20220621&actionId=755c9cea39a43667742f734993d59778&actionType=%40%40container%28%23new-warning-module%29%5Bu8sTzuXkzrpBUgtYOdTUP%5D%2FDESCRIBE_EVENT_WARNING_STATUS
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=InnerDescribeInstanceTypes&collina=140%23tkXoi3qUzzPRBzo2H5bFZ6S7D2RAVgnYJaljlZQhfBtGT8U05a88ITVIvDl6puFoQO57MaxqxPWVz2ny8hP8khS9cAPoobqrttiXFi%2BClp1zzqeKYewj0Qzxooqd7tEtzzrb22U3l613JDKKizkxDc0bSIdAptGPYFn0xXG8PfOxxD2iVP%2F%2Flbzx2XLltph4zZ1VgYLLMZ2aMXm%2B%2Fcfw6oIS2HkbWgEc%2BesE4arQtRPNpRPp7l7PuETD1mD1wKAet4dhY%2BHO5%2Fr5ugXqJS2gLias%2FUDsTtD5bXai3Y0ZAZ9eAbCuO7p1EFq9J6kvWMk2aBK0DemfZYcUTIBfpUlZGgyZnlPkIAUPJ20lRsu574IG%2Fn2Fmd75d15Kuk2DBG%2Fb3uDrraqfNdcYw%2FV8ww1fcmpcTSaBtcHF8cTTd5dtrri4p2CTT%2BACyeBajAEeYsG9VdmHrpVAFizmN6o9Afo%2B9Mu7uLaWL1qJBFviC4NnJ6SvtUlixjk6iJ6af%2FEBPXUP2oAfz2%2BNxtWk1tMI%2FJkN5zUlAJcd3GXqiBPNJtw8yNVbqDNeUB0Q2LGHZo0lAp7mvbaY%2Fg979TOmZPiF%2B07luusqJ35TCNdAMhpoZAaepxMwWAoLFYwH5cjmrR%2BIz6i97DckbKtC0QEGMo7icXWd3a01V0xo8%2FKd7KR3hcd4rAHoUwTqFoS8MxVbv2lpNIf2W8ENd0rtFUHO0hVWKlclaM%2FnvlIwVgo0yMsV4Yc9NO9oW9Dc76pv9YIGEP0TZSAVtx9GnO7AMnk36bpWZmyqMmkkWTw7cO24iUxJjNNrXAzpDO3GFtVXgt3KIZ9IoGYwkJd6I5TTyXBMUJne4iTN3MDorcyTFxRI62UG%2F5cDZCIULmaiug%2FgQ3By8dSbl7CFKKSFCYckxyCBTV4SqhwtFooUvaNPP97HTv3CdEaEs2%2FWhc6Ell3WFcpyC2o2a4fx&params=%7B%22PageSize%22%3A1000%2C%22NextToken%22%3A%22%22%7D&product=EcsInc&region=cn-hangzhou&secToken=d5mraaH0uvLd9OQlTDzyz7&token=Y5d9e0a380443c7194dc0c2c552bf5de2&version=2016-03-14

@@ -1,0 +1,18 @@
+POST /delivery/plan/list?resourceId=1806,1807,1808,1809,1810,1802,1803,1804,1805 HTTP/1.1
+Host: page.aliyun.com
+Content-Length: 487
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+adPlanQueryParam=%7B%22adZone%22%3A%7B%22positionList%22%3A%5B%7B%22positionId%22%3A1806%7D%2C%7B%22positionId%22%3A1807%7D%2C%7B%22positionId%22%3A1808%7D%2C%7B%22positionId%22%3A1809%7D%2C%7B%22positionId%22%3A1810%7D%2C%7B%22positionId%22%3A1802%7D%2C%7B%22positionId%22%3A1803%7D%2C%7B%22positionId%22%3A1804%7D%2C%7B%22positionId%22%3A1805%7D%5D%7D%2C%22requestId%22%3A%22ZNsOuCTwz2F2Qd2FweKL_%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.aliyun.com%2F%22%2C%22returnAll%22%3Afalse%7D

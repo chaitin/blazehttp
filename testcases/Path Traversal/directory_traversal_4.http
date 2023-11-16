@@ -1,4 +1,0 @@
-# tag: black,directory_traversal
-GET /spring-mvc-showcase/resources/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini HTTP/1.1
-Host: 1.1.1.1
-

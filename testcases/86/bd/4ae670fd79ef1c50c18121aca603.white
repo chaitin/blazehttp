@@ -1,0 +1,19 @@
+POST /data/api.json?action=DescribeRegions HTTP/1.1
+Host: smc.console.aliyun.com
+Content-Length: 1066
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://smc.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smc.console.aliyun.com/welcome?spm=5176.ecscore_server.0.0.4c8b4df5eRRh1t
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+umid=Y75ff98d3e5eafede575532020f75ae26&sec_token=d5mraaH0uvLd9OQlTDzyz7&collina=140%23e%2BToAkWgzzWyxzo2%2Bb7FKtN8s77%2BPKLLER4NGf3igcAr1h%2FbvoeOTpit%2BqgsRVPwKzSJlp1zzqeK1FdmPbzxoK8mO6h%2Fzzrb22U3l61DeDjtI5lRUzzx2oa3Vthq4z%2F0UHmijDapVrMDItBASNH3iRoJ%2BGhGleqVI5oIZPTxl1TJlizoNsc%2Fz0hSyVCzixHvymiZNyv1TyyNdxIhZJLH016fekZTMJutmccIKNhZQu5Twq8u99PK4nlVNITG7CdfLPH5rCcx%2BYaumhZzWgedyvI7dFwYroeHl4WXZlRMefMdxmetlyxyh22Lill%2FjgaB746apQ%2FDS1sWsAIPjpgD7zI6NeYU3jAc7U0t2j1XB6LYbwQuxMyw95ZtlgnL0uUSHl9%2ByUQUeyQH5psVeD3M01uDfXMJLujKZz36cPXC%2Fk07bRZLZcs6%2BWD1Xh7OAlhucDOdVnn4%2BF6PM%2Bby6UDO%2FIJKMmhJFj%2FlJewSGyZkoi1%2BE9b0TXDiCW9n9Pmzr8A9qmgRN3STQYLPdaIHRz29V0aQcUcefKAdTV73T0Tmb4%2FRZX0PBq20HwxtsvxVdCGPggQz1ZCAsr627iDlMEQHtbLP9VkR6j2h4JxwbhI47gXTHij7D6lSn%2FPj0ltSi%2Bb1ZZDZ%2BZk9FV%2B1rKF%2F7sQdtlpJYPIATpr5h5oj42U8YFI1z0W9wxVMGZuhy4sXFMikxMbbXFkGCIN4aYhesOGVw0UAYTo9G8QMki05d0%2F%2FcQZdR6jh%2Fo8fm8te4TIc3hCsaCLgwLzg09V3yuic1Ijapfj2Tj8kPo6DXqnNhgHLRRtwNb%3D%3D&region=cn-hangzhou&product=ecs&action=DescribeRegions&params=%7B%22regionId%22%3A%22cn-hangzhou%22%7D

@@ -1,0 +1,18 @@
+POST /service/um.json?_bx-v=2.5.1 HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 722
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://ipassport.damai.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ipassport.damai.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!fOzc7OfmfQ6f5aOgW%2FW64%2B8G9UNkucsRKYpeftMUAOsRGnXUAT%2Be9asYYtANYw%2Fx55Pd50asRDOUlTiG9AjbmgV8GhjNePfWVKTBc%2BUrUmOloBo6ChYK2zSFYg54Ojr%2FdjQM3DUsibMWXj8O5kBJgivdl4fffNl0tJJiPKKJYwtBeJKfff3A2rALeLfWzuGRWSr22mNW3IjqWPGnxWP2dSYx5uo0vX4FWsPnm36XHG5tRIoc5BtYISzP3rr%2FMWytmHr3J%2B8LbfI0DKKp0Rt%2BxIsvVIVq0Hclf76NrG5c9i2fYcvNR2%2FV50W%2FFkw9KZyaBAwNjVrVBkLQiFmfWGBzxsxnBiEerTVniVQQPotNo6XJ2ZXNOSW7NcKVtWjiCLw50v4f4dRexRZy5UhJMgQaFBKVzg4l92w15zqPLYDk%2B66G8cMxVBx7Qzj20QpWVzXm78jkjucz%2Bamx7B1yMDvBW13TohOnPthds3%2Be4beMbXAYVcmHGmDJTUBqCDiZHkavkeDoguB5QfeGbtXgW0Drtd8Xi4hVjRCCWFUQU6ZRh5QO8sFOajISIjbXiSFpTHFw6GS59BN3iKvhsoyaKLn0HMk0O0jUfFz7EMcg1hKhO0IuWxGISaTh6scsQ%2BMJHuBESe6W26npQrp0&xa=CF_APP_TBLogin_PC&xt=&efy=1

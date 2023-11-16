@@ -1,0 +1,18 @@
+POST /gol/postweb?000016,000016,000016 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 1420
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://message.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://message.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+0000161688375193865https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Flove|333.1296.mini.header.show|1688375193865|1920x921|1|{"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|zh-CN||10000161688375193866https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Flove|333.1296.top_right_bar.0.show|1688375193866|1920x921|1|{"is_register":1,"is_old_navigation":0,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|zh-CN||10000161688375193877https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Flove|666.115.top-right-bar-vip.icon.show|1688375193877|1920x921|1|{"exp_group_tag":"def","exp_tag":"def","material_type":"3","position_id":"52","request_id":"52955e08556157a47af643654e64a28f","tips_id":"18634","tips_repeat_key":"18634:52:1688375190:503647489","unit_id":"7540","vip_status":"1","vip_type":"2","spmid":"333.1296","underscript":0,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|zh-CN||1

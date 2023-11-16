@@ -1,0 +1,20 @@
+POST /naq/api/resetpwd/submitAccount HTTP/1.1
+Host: reg.163.com
+Content-Length: 1392
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;
+Csrftoken: 90fe456b-dc1b-4eab-9b2d-e1433250a0ae
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reg.163.com/naq/findPassword?username=222%40163.com&pd=yanxuan_web&pkid=SkeBZeG
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"c7525179a5bb9a24ef1f67bad2316f665b0f70ccd6dea373239fab523b208f44c0f005a018a32262af7b2898c674142a210d99ab7cdd8d046d5af9cfb666c86564ec187e5b09bfab9d8f665679defb7b3ee08df663d35b2657dcc1404aebebcde43c84d6b06038558abfafcc175a2a69a31721104e0cdb30885ab6ff67df3fcd0817933b6f79b2778225186a198fa8b2918566ce702f22c84c1c23cbeeb72fc406c35544c4e3be80d76502973abeccd2481f63ee726571f4c47ad4d205cf7a446f7556817de4601e4d2e4e93254cfd73bb7b9b982df83b7d8ca764fb08fc38ee036e45faed8f43146589847ecb4801354ebbf9b05c37f5ca55320b98177898ef0f016face9e57d44bafbc940df0caa7c070ac2bb0bd3933025727440ea98a3e7fea72f0a66ae1e9de548059bfd8446ce08581d49b2210de24c0fd52a1c197f3ee7beb250b7e4266e8b5a8243eaa259b161a14f6f725e59619d3f17e79ebd47edaec9e7e6ec9603a3a29f7f116235e4c44a9f24dbb2fbdb1bea6ba0abacc0b6336b67d9ac8c64cf38041597cc3020963ecc41dd67b8750fac07657765b730ba14f0c1886d2e2358616e79ddc770e3db46d02ce620338298045306e81d8338d5329cc49d4a206170c485370301aa7fcad60498e332be7a9465c541a9bd796377ae7f8e477cca45a67286702eba74c746614e3bed80ee72d9b093fc4c74af43e6bd338554e10ae29a0ada2659297eb424a604acddef93f09c7e1f591fb4a03fbde28d1f171b7861d7c93a98d8ea65a53495f449c33daac1b41b123b541617933bed991422ed8a62c7d859888ccce38ff5f6b9671d5a38e23f5b6523bd52afc20e1095793ef1727d4398911922888dfc271282486100be2ccc507f582762faf29e39c22988dfb22f8ea9f0da57375696a1ed7ea080fb6a167708b8c679f69644182c1c835f88ba849ec16bd51bb7b30a98b1"}

@@ -1,0 +1,17 @@
+GET /trippackage/gty/api/v1/deal/base?dealId=47934506&ct_poi=282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb&source=mt&ci=50&os=windows&cityId=50&feclient=lvyou_wap&uuid=EBF4B41DD923E5E9CC8480CE559729169CAC8B8431AB5FA629ABDC385C7712DE&client=wap HTTP/1.1
+Host: itrip.meituan.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Mtgsig: {"a1":"1.1","a2":1688378071497,"a3":"1688378071210CWKEGQAfd79fef3d01d5e9aadc18ccd4d0c95071149","a5":"1Ue+UVyFPswFYN82SGRnyBamnhPAYFhQ","a6":"h1.3YoAFLzshqvHR8m4Uc2IiRnNvjLbwFJ5DjcGViY0uWGZBfQ1yMkj4EwY2aZ8tiupCB8nig+1TvEci6VI7jRmLc/obYpi9CybzK1YiwgFCDXLmiNQQwEerHh488aFVjhSZNl4EIWU0gY0jzUymbvEsjQR1LvppQzwhmc1SDHxdjOaFTDxZUOyNhbpXmmmJoQlal68Sl0DnbmBtMrurJ8L5EumZW2nDa5phfro2xTqU8gXAORWSveNvSwpdmkjDZJ2MZ5wfYgRcspJJGFmTM3L+2I5c8o2aNUVXNMDWQ8ZK8f3RP2MK+yThoyif4IJER02WNziUH9rhzdr0hGMl13jZoN6JvBgHTeUcOIo+AhX+sZtY69hFJHsNiVB4RERnlkzLtz4gTrP4iycCOf2VzzOVyw==","x0":4,"d1":"293df66af3b436ed8d2e9b2dda89c086"}
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://i.meituan.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

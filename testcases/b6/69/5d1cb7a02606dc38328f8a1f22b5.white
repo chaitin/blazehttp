@@ -1,0 +1,15 @@
+GET /count?type=nfl&k=30710397364d8286848b5b85ab1c44ee&m=0&pf=windows&v=1.4.22&branch=JSAPI&log=CitySearch~,getLocalCity&cbk=jsonp_836_&platform=JS&logversion=2.0&appname=https%3A%2F%2Fwww.gaokao.cn%2Fcontrol-line&csid=2406870D-BD51-4899-AAB4-559212E1D269&sdkversion=1.4.22 HTTP/1.1
+Host: webapi.amap.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.gaokao.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

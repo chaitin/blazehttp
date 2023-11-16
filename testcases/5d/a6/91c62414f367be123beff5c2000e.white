@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-X37C2X9EME&gtm=45je36s0&_p=441772501&cid=1403011781.1688382329&ul=zh-cn&sr=1920x1080&ngs=1&_s=2&sid=1688382329&sct=1&seg=1&dl=http%3A%2F%2Fwww.authing.co%2F&dr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DPukzFxKXUAPWz2bGom-5-N5FroXNtyu0tc9pzXJz8ma%26wd%3D%26eqid%3Df68a4a19000c43c70000000464a2ab71&dt=Authing%E8%BA%AB%E4%BB%BD%E4%BA%91-SSO%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95%E7%B3%BB%E7%BB%9F-MFA%E5%A4%9A%E5%9B%A0%E7%B4%A0%E8%AE%A4%E8%AF%81-%E7%BB%9F%E4%B8%80%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%B9%B3%E5%8F%B0-%E4%B8%AD%E5%9B%BD%E7%89%88OKTA-%E9%9B%B6%E4%BF%A1%E4%BB%BB-IDaaS-%E4%BB%A5%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%BA%E4%B8%AD%E5%BF%83&en=user_engagement&_et=23259 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: http://www.authing.co
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: http://www.authing.co/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

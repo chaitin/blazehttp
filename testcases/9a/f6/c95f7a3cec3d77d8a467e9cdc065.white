@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 808
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=two+options%2C+1+and+2++1.+Eating++2.+Not+eating++What+is+the+difference+between+choosing+1+or+2&form=QBLHCN&sp=-1&lq=0&pq=two+options%2C+1+and+2++1.+eating++2.+not+eating++what+is+the+difference+between+choosing+1+or+2&sc=6-94&qs=n&sk=&cvid=13BC0EF686F94C1EBEA6B30225A4E97C&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>CB54D0C297E941E8989D943B8045192B</IG><TS>1688377540140</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":6,"N":3,"I":"3fi","S":"C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":13280,"K":"a8w+6a6+6d1+9k9","F":0},"E":"@6f/2/X/1o/+@6f/6/X/1o/+@6f/7/X/1o/+@6f/8/X/1o/+@6f/9/X/1o/+@6f/a/X/1o/+@6f/b/X/1o/+@6f/c/X/1o/+@6f/d/X/1o/+@6f/e/X/1o/+@6f/f/X/1o/+@6f/g/X/1o/+@6f/h/X/1o/+@6f/i/X/1o/+@6f/j/X/2s/+@6f/k/X/4y/+@6f/l/X/jq/","N":"@6g/4c//@14/@5s/@16/2u/@15/@6g/@6g/@6g/6a7/@6h/@6h","C":"9k1/////ie/29//9k0+@6i/////ju/1g//@6i+9ks/////ku/14//9kr+9l5/////qr/3//9l4+9ll/////uw/1//9lk+9m2/////z8/j//9m1+9mj/////@1e/17//9mg+9mz/0////17u/3s//9mw+9ng/////1a2/4z//9n4+9nw/////1cf/6a//9np"}]]]></D></E></Events><STS>1688377540140</STS></ClientInstRequest>

@@ -1,0 +1,15 @@
+POST /api/datasources/proxy/1/_msearch?max_concurrent_shard_requests=5 HTTP/1.1
+Host: 47.97.113.134:3000
+Content-Length: 706
+accept: application/json, text/plain, */*
+x-grafana-org-id: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+content-type: application/x-ndjson
+Origin: http://47.97.113.134:3000
+Referer: http://47.97.113.134:3000/d/o6cdmeEvz/lei-chi-she-qu-ban-mai-dian-day?orgId=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"search_type":"query_then_fetch","ignore_unavailable":true,"index":"*"}
+{"size":0,"query":{"bool":{"filter":[{"range":{"@timestamp":{"gte":1688295531596,"lte":1688381931596,"format":"epoch_millis"}}},{"query_string":{"analyze_wildcard":true,"query":"_index:\"log_safeline\""}}]}},"aggs":{"3":{"filters":{"filters":{"safeline.type.keyword: behaviour":{"query_string":{"query":"safeline.type.keyword: behaviour","analyze_wildcard":true}}}},"aggs":{"2":{"date_histogram":{"field":"@timestamp","min_doc_count":0,"extended_bounds":{"min":1688295531596,"max":1688381931596},"format":"epoch_millis","time_zone":"Asia/Shanghai","fixed_interval":"1d"},"aggs":{"1":{"sum":{"field":"safeline.detect_log_cnt"}}}}}}}}

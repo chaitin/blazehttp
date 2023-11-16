@@ -1,0 +1,26 @@
+POST /fd/ls/lsp.aspx? HTTP/1.1
+Host: cn.bing.com
+Content-Length: 339
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Purpose: prefetch;prerender
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Purpose: prefetch
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>335C756C2C564987B8E22400D9368CFC</IG><TS>1688375648176</TS><D><![CDATA[{id:9879,P:"2:7q,3:7q,4:7q,5:7q,7:7q,8:7r,9:c7,10:c9,11:cc,12:dl,13:dl,14:dl,15:dl,16:dl,17:dm",S:"nav:0",v:1.1,T:"CI.Perf",FID:"CI",Name:"PerfV2"}]]></D></E></Events><STS>1688375648176</STS></ClientInstRequest>

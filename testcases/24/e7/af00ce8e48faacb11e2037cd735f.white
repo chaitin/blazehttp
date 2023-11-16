@@ -1,0 +1,15 @@
+OPTIONS /mcp/pc/pcsearch HTTP/1.1
+Host: ug.baidu.com
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: https://www.baidu.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%202023&pn=10&oq=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%202023&ie=utf-8&usm=2&fenlei=256&rsv_idx=1&rsv_pq=b27986120004ecd0&rsv_t=50b6Yp7IgRIstL%2Fryft4EoPmaKN2EnVthQo5tORQEo4DqROw2HhFtOVTQa8&rsv_page=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

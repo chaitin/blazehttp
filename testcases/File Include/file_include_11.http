@@ -1,4 +1,0 @@
-# tag: black,file_include
-GET /dom/a=file:///etc/passwd HTTP/1.1
-Host: 1.1.1.1
-

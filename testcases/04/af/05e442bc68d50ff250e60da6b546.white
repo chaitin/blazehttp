@@ -1,0 +1,18 @@
+POST /gol/postweb?000016,000016,000016 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 1567
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://message.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://message.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+0000161688375204325https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Fwhisper%2Fmid844424930131966|333.1296.im.chat-single.receive-message.all.show|1688375204325|1920x921|1|{"spmId":"444.1","logId":"000873","msg_key":"7228302287778170712","msg_type":10,"msg_user_id":844424930131966,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|zh-CN||10000161688375204325https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Fwhisper%2Fmid844424930131966|333.1296.im_message_show.show|1688375204325|1920x921|1|{"spmId":"444.1","logId":"000873","msg_key":"7229926609836171749","msg_type":1,"sender_uid":844424930131966,"is_anser":0,"is_query_msg":0,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|zh-CN||10000161688375204327https%3A%2F%2Fmessage.bilibili.com%2F%3Fspm_id_from%3D333.999.0.0%23%2Fwhisper%2Fmid844424930131966|333.1296.im.chat-single.receive-message.all.show|1688375204327|1920x921|1|{"spmId":"444.1","logId":"000873","msg_key":"7229926609836171749","msg_type":1,"msg_user_id":844424930131966,"lsid":"751246A8_1891AFFEBA8","b_nut_h":0,"buvid_fp":"37641a7278a6dec1a3053feadfe22ff3","buvid4":"508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g==","bsource":null,"uaSource":null}|zh-CN||1

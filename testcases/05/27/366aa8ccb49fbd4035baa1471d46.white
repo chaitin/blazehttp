@@ -1,0 +1,22 @@
+POST /international/search/api/notify/getSearchPageHornContent?v=0.8389369621391174 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 82
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-3c1W0QWkBiq6jTdyhtEcLELURQUy4tEXSvFarLowBfjOhE7HYQbRZhjlLwU9JQdIDfJTowcgw8qWcXR6Uw5fw0GJ0kE1pWfcE6Fvklv4aychIznIcny7Y7BrZUx97rATRbdwTzj5gjXOiH4yQfjb8RSMRo4i17igkJ1QRbFK3mJafrXYtnKFXwoDYn1KHNj4TeDcE3Ly6E7siakY8E9LYL4ybE3zY1OylqvaGWZke5nxXQKaDjL8yhAIdAwQsj9XwdNep3E1DILowTci6ORhEkgYmhyNkiZNYhMWnXeFMYD0jLEGQYOFypZWg6e96ykdjFEmTY3UyS0iaHYM6j5qKUBE7LIbHemBKDSxqNKf0ehXKpQvDsKNEzZitcy7AyOnjbkESoyaAEQLjfkjSE8NibmJGbY1dW3kYFniZdeUbWk6yBOezgWn9E5EtqYZhwkzwH6E5qJfFeNHYAElqindJ4XItAYG5y4BYMfwGgYD4vaE6kYz8wclEq6yS3v1OWOZjaEUGiMPJokR5EF1YGTws1wakKtHe6nWgPy7Ek1iF7JfZWbENBYZ8wp0etpYkPvnOEXMYl7jmE6ciMXJ3bW7DxSlRzkvUYh8yO8ygmj9gR7XwTZjg6j69il0y5QjMTWgnR6oRF0j3kEHpYmsIDOEGnjANI9qvhTv0ZWQARFFx8HRMYSAYfSYU7J4fENZy0hY5gipdvT9R80i5li7Be3hjUOyZhj4By54eU3EO9JbFJa7JcpeknJ0UwXlihHytBe7dWtURdHi8NvFmY7kJtGj4PiG0EDUW1PwSoJLGwo3JZcEAY7NyUjqNyb9Y7XwBGYfUwPFEXTjPmYXSw9Dy0kvcZI5YtmR0HWc5wo8YdGEGAJ7Bvt9wSYhZwtgramr8LvhOenlY49iOhYNzEA6j79I1Y4zEUmK6Drm1eXhE8Xjp4WpOwbXvPXWDYHTidDIf5ycLrXNKH4eb8EH0W78RnXy18YNYbhE6nvk8YLXRXAvL9YqmWT0eANRg5Whzj0XWXlvOpyPQibYq1W5UJdcIcsRBpvUkYLnWqSeLzRpNWHkit7Y5sycJnF
+Transactionid: 14df44056144400a9e6079166ea184fe
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"departureCityCode":"HGH","departureDate":"2023-07-04","arrivalCityCode":"WUH"}]

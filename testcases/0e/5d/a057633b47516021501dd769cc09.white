@@ -1,0 +1,19 @@
+POST /LittleHann/ajax/GetPostStat HTTP/1.1
+Host: www.cnblogs.com
+Content-Length: 441
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/json; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.cnblogs.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cnblogs.com/LittleHann/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+["17506649","17492767","17476965","17462796","17461789","17457372","17454673","17440063","17441900","17421803","17406226","17385688","17374136","17371746","17353422","17354069","17340281","17346128","17338376","17331522","17318509","17316908","17303550","17301719","17244299","17235348","17180539","17140319","17069696","17078233","17056019","17018327","17010305","17009010","17007427","16985716","16870064","16970108","16965474","16917228"]

@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-72XG3F8LNJ&gtm=45he36s0&_p=2009556067&cid=2113598817.1688380857&ul=zh-cn&sr=1920x1080&_fplc=0&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&sst.uc=CN&sst.ngs=1&sst.ga_rd=1&sst.etld=google.cn&ngs=1&_s=3&sid=1688380856&sct=1&seg=0&dl=https%3A%2F%2Fmastermind.dev%2Findexes-in-postgresql%3FcontinueFlag%3Ded33b44512f3232a855bab2a5a1e7cff&dr=https%3A%2F%2Fweibo.cn%2F&dt=Understanding%20database%20Indexes%20in%20PostgreSQL&en=user_engagement&_et=2406 HTTP/1.1
+Host: ping.hashnode.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mastermind.dev
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mastermind.dev/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

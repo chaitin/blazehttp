@@ -1,0 +1,20 @@
+POST /g/collect?v=2&tid=G-50RYEM7F09&gtm=45je36s0&_p=2022638732&cid=1826527806.1680508916&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=AEA&ngs=1&dl=https%3A%2F%2Fhuaban.com%2Fsearch%3Fq%3D%25E7%25BE%258E%25E5%25A5%25B3%26sort%3Dcreated_at%26type%3Dpin%26filter_ids%3Dis_material-5342747.5342749.5342755%257Efile_type-5342747.5342750.5342758%257Ecolors-5342747.5342751.5342766%257Eratio-5342747.5342752.5342773%257Ecategory-5342747.5342748.5343809&dr=https%3A%2F%2Fhuaban.com%2Fsearch%3Fq%3D%25E7%25BE%258E%25E5%25A5%25B3%26sort%3Dall%26type%3Dpin%26filter_ids%3Dis_material-5342747.5342749.5342755%257Efile_type-5342747.5342750.5342758%257Ecolors-5342747.5342751.5342766%257Eratio-5342747.5342752.5342773%257Ecategory-5342747.5342748.5343809&sid=1688375414&sct=3&seg=1&dt=%E7%BE%8E%E5%A5%B3%20-%20%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%20-%20%E8%8A%B1%E7%93%A3&_s=5 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 1274
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://huaban.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://huaban.com/ai
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+en=page_view&_et=1438
+en=page_view&_et=2282&dl=https%3A%2F%2Fhuaban.com%2Fsearch%3Fq%3D%25E7%25A7%2591%25E6%258A%2580%26sort%3Dcreated_at%26type%3Dpin%26filter_ids%3Dis_material-5342747.5342749.5342755%257Efile_type-5342747.5342750.5342758%257Ecolors-5342747.5342751.5342766%257Eratio-5342747.5342752.5342773%257Ecategory-5342747.5342748.5343809&dr=https%3A%2F%2Fhuaban.com%2Fsearch%3Fq%3D%25E7%25BE%258E%25E5%25A5%25B3%26sort%3Dcreated_at%26type%3Dpin%26filter_ids%3Dis_material-5342747.5342749.5342755%257Efile_type-5342747.5342750.5342758%257Ecolors-5342747.5342751.5342766%257Eratio-5342747.5342752.5342773%257Ecategory-5342747.5342748.5343809&dt=%E7%A7%91%E6%8A%80%20-%20%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%20-%20%E8%8A%B1%E7%93%A3
+en=page_view&_et=1566&dl=https%3A%2F%2Fhuaban.com%2Factivities&dr=https%3A%2F%2Fhuaban.com%2Fsearch%3Fq%3D%25E7%25A7%2591%25E6%258A%2580%26sort%3Dcreated_at%26type%3Dpin%26filter_ids%3Dis_material-5342747.5342749.5342755%257Efile_type-5342747.5342750.5342758%257Ecolors-5342747.5342751.5342766%257Eratio-5342747.5342752.5342773%257Ecategory-5342747.5342748.5343809&dt=%E8%8A%B1%E7%93%A3%E5%A4%A7%E8%B5%9B%20%E5%8F%AF%E8%A1%A1%E9%87%8F%E6%95%88%E6%9E%9C%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F%E8%90%A5%E9%94%80-%E8%8A%B1%E7%93%A3%E7%BD%91

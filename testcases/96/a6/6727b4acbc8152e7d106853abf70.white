@@ -1,0 +1,18 @@
+POST /weapi/social/zone/setting/get/focusNewSongWebGuideDoc?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 412
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/msg/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=DxXKB2LiaOvy8yABeUS3v4SvXxabYQfAlNewcIHNCkJiS9UMTJzAWmVAP0%2FSFViExVbMFQU6C%2Fb%2BPJgb0oLnHjfxFw2kVT%2FgyC2urE%2F2X7uNvJJYwYD74Rluyq40EJq0&encSecKey=096e610f54098a797fa4086c598dc05a39b5fb6fde0739a4c0f087ba2feb5274f4ba9133d65c33d963c79d9115d9507af36eca2100a27e7ab40242018fcd5fa76ebb0bf34498845329fce4c7071875d15e342adeb295302859eb152b8c79c23c27c809a555f14e514ce9f9881df31ca8f46e1f9c7652a0379d8d8dc84faabff0

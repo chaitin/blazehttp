@@ -1,0 +1,15 @@
+GET /cgi-bin/musics.fcg?-=getUCGI09824489500891387&g_tk=317648113&sign=zzaspl4e7jg0uzv06e657f426c7dda81fd2a75da2ea15dd&loginUin=1152921504763685208&hostUin=0&format=json&inCharset=utf8&outCharset=utf-8&notice=0&platform=yqq.json&needNewCode=0&data=%7B%22messageNum%22%3A%7B%22module%22%3A%22MessageCenter.MessageCenterServer%22%2C%22method%22%3A%22GetMessage%22%2C%22param%22%3A%7B%22uin%22%3A%221152921504763685208%22%2C%22red_dot%22%3A%5B%7B%22msg_type%22%3A1%7D%5D%7D%7D%2C%22GlobalCommentMessageReadServer%22%3A%7B%22module%22%3A%22GlobalComment.GlobalCommentMessageReadServer%22%2C%22method%22%3A%22GetMessage%22%2C%22param%22%3A%7B%22uin%22%3A%221152921504763685208%22%2C%22page_num%22%3A0%2C%22page_size%22%3A1%2C%22last_msg_id%22%3A%22%22%2C%22type%22%3A0%7D%7D%2C%22comm%22%3A%7B%22ct%22%3A24%2C%22cv%22%3A0%7D%7D HTTP/1.1
+Host: u.y.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://y.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,18 @@
+POST /v2/event/list HTTP/1.1
+Host: mcs.ctobsnssdk.com
+Content-Length: 1275
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: http://www.authing.co
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://www.authing.co/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"bav2b_beat","params":"{\"beat_type\":1,\"page_key\":\"http://www.authing.co/\",\"is_html\":1,\"page_title\":\"Authing身份云-SSO单点登录系统-MFA多因素认证-统一身份认证平台-中国版OKTA-零信任-IDaaS-以开发者为中心\",\"page_manual_key\":\"\",\"page_total_width\":1903,\"page_total_height\":7625,\"scroll_width\":1920,\"scroll_height\":2521,\"since_page_start_ms\":28612,\"page_start_ms\":1688382328116,\"event_index\":1688383073919}","local_time_ms":1688382356728,"is_bav":1,"ab_sdk_version":"","session_id":"f0e7d00f-8f53-4982-9f78-ea9111516b65"}],"user":{"user_unique_id":"7251546846380148281","web_id":"7251546846380148281","ssid":"d185dd93-8e1a-4447-bf21-b80c5624191e"},"header":{"app_id":341388,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","language":"zh-CN","platform":"web","sdk_version":"4.1.53_2","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://www.baidu.com/link?url=PukzFxKXUAPWz2bGom-5-N5FroXNtyu0tc9pzXJz8ma&wd=&eqid=f68a4a19000c43c70000000464a2ab71","referrer_host":"www.baidu.com","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"custom":"{}"},"local_time":1688382356}]

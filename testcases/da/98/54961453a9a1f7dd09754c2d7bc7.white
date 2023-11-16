@@ -1,0 +1,18 @@
+POST /weapi/sub/artist/new/works/song-mv/list/v2?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 612
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/friend/newsong
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=Wt54ydVKEhV18JlvqxNI4%2F2D2kxFSHGHjomhR0A0mGaqoChNKulbIRyHRgw6hn901MHeOsmQpsWb6ce%2Fr%2BtZPJmTzvC80iYsOHHfJSUxwb%2FM16HjfH1ULCrdxJGEbflt%2FG2v2Tr%2FKpRKTYVUdERxcG88k%2B3u%2FFr3yOGvILpphZjPDjNlnPg8miqDEMXU9kf0GTn7sbF78uumd24lZPcclxzOJOFXUfi9hNgFPtDV5mCEjpQlG1Lh3Pn%2BGqAEMz6IN1ZI5r6r0xesmCzewQrYi7NUq3J2FVK6oix2q5F4Tr6clyH0zJHIhajC6ROMJXpq&encSecKey=8da3da626e30bb0ab1550668b6d283018d4a065728aba468c4dbfe6c790860e7532024c6483fe36cdc2df49735d65b37b8d29c8a37c4d818dfe4c876ee5daf5aa68c46b8b068083b9a0d50ca730fd9c21ce56600055c09a504f8056e25a1ce6a29eb37e03093eec81bf3d45e09b53a6e5751d48b6130dc46fc83065e20197919

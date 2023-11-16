@@ -1,0 +1,19 @@
+POST /ping/data-event HTTP/1.1
+Host: mastermind.dev
+Content-Length: 379
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sentry-Trace: d98bdbf649644074b8b680eaa9645078-ac503f40417fbf4c-0
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://mastermind.dev
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mastermind.dev/indexes-in-postgresql?continueFlag=ed33b44512f3232a855bab2a5a1e7cff
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"events":[{"event_type":"pageview","time":1688380834260,"event_properties":{"hostname":"mastermind.dev","url":"/indexes-in-postgresql","eventType":"pageview","isLoggedIn":0,"publicationId":"641f1b8f05c482464c90cd55","postCUID":"clhql43ss000209jz94vp3r1h","dateAdded":1688380834260,"referrer":"https://weibo.cn/","source":""},"device_id":"f7d15c9b-b7bc-44b4-8d86-632d1271e2de"}]}

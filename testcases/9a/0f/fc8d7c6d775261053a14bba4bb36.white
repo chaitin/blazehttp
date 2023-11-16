@@ -1,0 +1,20 @@
+POST /alimail/ajax/error/browserLog.txt?_timestamp_=1688382659822 HTTP/1.1
+Host: qiye.aliyun.com
+Content-Length: 228
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://qiye.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qiye.aliyun.com/alimail/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+_root_token_=dC0yNTQxNjMta1ZNMzBh5546&key=&text=url+%3A+%2Frpc%2Fv2%2Fnotices%3FsceneType%3DUSER_HOMEPAGE%26_%3D1688382659428%2C+response+%3A+%7B%22notices%22%3A%5B%5D%7D+%7C+https%3A%2F%2Fqiye.aliyun.com%2Falimail%2F&level=info

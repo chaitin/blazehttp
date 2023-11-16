@@ -1,0 +1,24 @@
+POST /rewardsapp/reportActivity?IG=061EE854C0EF47E5BCC4A41230AC1BE3&IID=SERP.5050&q=hummerrisk&form=QBLHCN&sp=-1&lq=0&pq=hummerrisk&sc=4-10&qs=n&sk=&cvid=2BD17866408B49CEB5573D7362826390&ghsh=0&ghacc=0&ghpl= HTTP/1.1
+Host: cn.bing.com
+Content-Length: 212
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=hummerrisk&form=QBLHCN&sp=-1&lq=0&pq=hummerrisk&sc=4-10&qs=n&sk=&cvid=2BD17866408B49CEB5573D7362826390&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+url=https%3A//cn.bing.com/search%3Fq%3Dhummerrisk%26form%3DQBLHCN%26sp%3D-1%26lq%3D0%26pq%3Dhummerrisk%26sc%3D4-10%26qs%3Dn%26sk%3D%26cvid%3D2BD17866408B49CEB5573D7362826390%26ghsh%3D0%26ghacc%3D0%26ghpl%3D&V=web

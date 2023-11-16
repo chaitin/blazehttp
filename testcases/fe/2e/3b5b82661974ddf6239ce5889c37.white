@@ -1,0 +1,19 @@
+POST /restapi/soa2/22370/getRecommendHotelList?_fxpcqlniredt=09031017410788884581&x-traceID=09031017410788884581-1688378012039-1425543 HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 355
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Cookieorigin: https://www.ctrip.com
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"cityId":2,"hotCities":false,"oversea":false,"head":{"cid":"09031017410788884581","ctok":"","cver":"1.0","lang":"01","sid":"8888","syscode":"PC","auth":"","xsid":"","extension":[{"name":"sdkversion","value":"2.22.0"},{"name":"openid","value":"ce0ae70f-9365-487c-8769-ec5918409aae"},{"name":"supportWebP","value":"true"},{"name":"scene","value":"1036"}]}}

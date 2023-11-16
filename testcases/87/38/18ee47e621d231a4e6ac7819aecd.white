@@ -1,0 +1,20 @@
+POST /naq/api/resetpwd/getways HTTP/1.1
+Host: reg.163.com
+Content-Length: 208
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;
+Csrftoken: d149124e-95b2-4ea6-a581-161f45d75d40
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reg.163.com/naq/findPassword?username=222%40163.com&pd=yanxuan_web&pkid=SkeBZeG
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"9490851e97c953ffbc74e955eebacea2de758a2fdbf34ac2fd51390a6c049a64cab4fe59f7925ad42a9f3dc7447d1b334f3e2575ad926750e67d55d597aa01baed094a01a1663a532826778aec6bf78552fe41d3929ab3ba1c5c0a26416c7454"}

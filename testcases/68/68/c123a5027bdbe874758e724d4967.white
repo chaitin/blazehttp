@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 837
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=What+Really+is+an+Execute+Master%E2%80%99s+Degree%3F+-+mba.com&form=QBLHCN&sp=-1&lq=0&pq=what+really+is+an+execute+master%E2%80%99s+degree%3F+-+mba.com&sc=0-52&qs=n&sk=&cvid=0A9FE6F0CDF44CABB29FBCFB883057A6&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>FC93EF8E2CCF4F7EB2A440CC7652DCA3</IG><TS>1688378882519</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":5,"N":3,"I":"1b","S":"C","M":"V+L+M+MT+E+N+C+K+BD+BF","T":8133,"K":"69x+3i6+3kk","F":0},"E":"@3l/2/X/1o/+@3l/6/X/1o/+@3l/7/X/1o/+@3l/8/X/1o/+@3l/9/X/1o/+@3l/a/X/1o/+@3l/b/X/1o/+@3l/c/X/1o/+@3l/d/X/1o/+@3l/e/X/1o/+@3l/f/X/1o/+@3l/g/X/1o/+@3l/h/X/1o/+@3l/i/X/1o/+@3l/j/X/1o/+@3l/k/X/1o/+@3l/l/X/1o/+@3l/m/X/2s/+@3l/n/X/4y/+@3l/o/X/jq/","N":"@3m/4b//@1a/@38/@1d/2e/@1b/@3m/@3m/@3m/3i7/@3n/@3n","C":"5iu/////om/az//5it+5jx/////p2/aw//5jr+5kd/////pd///5k7+5kt/////pp///5kn+5lb/////q2///5l4+5lr/////qg///5lk+5m6/////qr///5m0+5mo/////r3///5mg+5n4/////ri///5n3+5o1/////ru///5nz+5oz/////rx///5oo"}]]]></D></E></Events><STS>1688378882519</STS></ClientInstRequest>

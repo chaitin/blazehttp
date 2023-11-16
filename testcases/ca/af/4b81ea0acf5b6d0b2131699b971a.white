@@ -1,0 +1,15 @@
+GET /x/web-interface/wbi/index/top/feed/rcmd?web_location=1430650&y_num=4&fresh_type=4&feed_version=V8&fresh_idx_1h=1&fetch_row=4&fresh_idx=1&brush=1&homepage_ver=1&ps=12&last_y_num=5&screen=1920-921&outside_trigger=&last_showlist=av_997227487,av_230396854,av_530306715,av_784718061,av_742295882,av_700259435,ad_5614,av_445339493,av_997568894,av_572522089&uniq_id=386185798713&w_rid=b2f5cfa0f0fb3dff712587856e3831a9&wts=1688379721 HTTP/1.1
+Host: api.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

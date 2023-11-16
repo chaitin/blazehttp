@@ -1,0 +1,22 @@
+POST /speed?id=VuHQaelDdVHJhsuUwp&uin=NaN&version=1.40.9&aid=9876a12c-057d-4175-afdf-0538f2d4cb4e&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688379283688&from=https%3A%2F%2Fgame.qzone.qq.com%2F%3Fvia%3Dqzoneframetop_nored&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 1597
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryV4EJ9M1ARXbc4VfM
+Accept: */*
+Origin: https://game.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://game.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryV4EJ9M1ARXbc4VfM
+Content-Disposition: form-data; name="payload"
+
+{"duration":{"fetch":[{"url":"https://w.gamecenter.qq.com/v1/cgi-bin/common/dcreport","isHttps":true,"method":"POST","type":"fetch","status":200,"duration":251,"nextHopProtocol":"","domainLookup":-1,"connectTime":-1,"ret":"unknown","isErr":0}],"static":[{"url":"https://apphub.qzone.qq.com/appstore/cgi-bin/comm/appstore_getinstinfo?g_tk=1508769380&r=0.567247172971924&callback=_Callback&need_uin=3&need_score=1&need_user=1&appid=1104216374%2C1106912177%2C1109634837%2C347%2C100616028%2C1108481481%2C613%2C1107817577%2C1112289130%2C1112264596%2C1111989517%2C1112104747%2C1112114105%2C1112209245%2C1112297362%2C1112214712%2C1112079139&uin=389264167&_=1688379284006","status":400,"duration":8390.2,"method":"get","type":"static","isHttps":true,"urlQuery":"g_tk=1508769380&r=0.567247172971924&callback=_Callback&need_uin=3&need_score=1&need_user=1&appid=1104216374%2C1106912177%2C1109634837%2C347%2C100616028%2C1108481481%2C613%2C1107817577%2C1112289130%2C1112264596%2C1111989517%2C1112104747%2C1112114105%2C1112209245%2C1112297362%2C1112214712%2C1112079139&uin=389264167&_=1688379284006","nextHopProtocol":"","domainLookup":0,"connectTime":0}],"bridge":[]},"id":"VuHQaelDdVHJhsuUwp","uin":"NaN","version":"1.40.9","aid":"9876a12c-057d-4175-afdf-0538f2d4cb4e","env":"production","platform":3,"netType":4,"vp":"1920 * 921","sr":"1920 * 1080","sessionId":"session-1688379283688","from":"https%3A%2F%2Fgame.qzone.qq.com%2F%3Fvia%3Dqzoneframetop_nored","referer":""}
+------WebKitFormBoundaryV4EJ9M1ARXbc4VfM--

@@ -1,0 +1,15 @@
+GET /cd37ed75a9387c5b.js?_=1688382613006 HTTP/1.1
+Host: hectorstatic.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%93%9D%E6%B9%96&fenlei=256&rsv_pq=0xa9043b46000fda2b&rsv_t=c434ZpfXgcsci1tCUYCdgIs9gKU9XAhKdo9oRws0HIWCwBvEEf6POhyc4zmV&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=5&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=lanhu&rsp=0&inputT=1398&rsv_sug4=1398
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

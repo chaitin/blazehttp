@@ -1,0 +1,18 @@
+POST /collect?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379278350&from=https%3A%2F%2Fuser.qzone.qq.com%2F389264167%2Fmain&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 2059
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+msg[0]=req%20url%3A%20https%3A%2F%2Fh5.vip.qq.com%2Fp%2Fadboss%2Fapi%2Fjson%2Fts_report%2FUserActionReport%20%0Ares%20time%3A%20257%20%0Areq%20param%3A%20%7B%5Cappid%5C%3A%5Ctianshu.66%5C%2C%5Cuid%5C%3A%5C389264167%5C%2C%5Cpage_id%5C%3A%5Ctianshu.66%5C%2C%5Ctrace_id%5C%3A%5C389264167_1688379281%5C%2C%5Ctrace_num%5C%3A1%2C%5Citem_id%5C%3A%5C1917408%5C%2C%5Coper_time%5C%3A1688379281%2C%5Caction_id%5C%3A101%2C%5Caction_value%5C%3A1%7D%20%0Ares%20data%3A%20%7B%22err_code%22%3A0%2C%22err_msg%22%3A%22%22%7D&level[0]=1&&msg[1]=req%20url%3A%20https%3A%2F%2Fw.gamecenter.qq.com%2Fv1%2Fcgi-bin%2Fcommon%2Fdcreport%3F%20%0Ares%20time%3A%20314%20%0Areq%20param%3A%20data%3D%5B%7B%22business%22%3A1%2C%22page%22%3A987%2C%22operModule%22%3A9357%2C%22moduleType%22%3A935702%2C%22operType%22%3A8%2C%22operId%22%3A913895%2C%22gameappid%22%3A1112297362%7D%5D%20%0Ares%20data%3A%20%7B%22succNum%22%3A1%7D&level[1]=1&&msg[2]=req%20url%3A%20https%3A%2F%2Fw.gamecenter.qq.com%2Fv1%2Fcgi-bin%2Fcommon%2Fdcreport%3F%20%0Ares%20time%3A%20321%20%0Areq%20param%3A%20data%3D%5B%7B%22business%22%3A1%2C%22page%22%3A987%2C%22operModule%22%3A9357%2C%22moduleType%22%3A935702%2C%22operType%22%3A8%2C%22operId%22%3A913895%2C%22gameappid%22%3A1104216374%7D%5D%20%0Ares%20data%3A%20%7B%22succNum%22%3A1%7D&level[2]=1&&msg[3]=req%20url%3A%20https%3A%2F%2Fw.gamecenter.qq.com%2Fv1%2Fcgi-bin%2Fcommon%2Fdcreport%3F%20%0Ares%20time%3A%20322%20%0Areq%20param%3A%20data%3D%5B%7B%22business%22%3A1%2C%22page%22%3A987%2C%22operModule%22%3A9357%2C%22moduleType%22%3A935702%2C%22operType%22%3A8%2C%22operId%22%3A913895%2C%22gameappid%22%3A1112214712%7D%5D%20%0Ares%20data%3A%20%7B%22succNum%22%3A1%7D&level[3]=1&&msg[4]=req%20url%3A%20https%3A%2F%2Fw.gamecenter.qq.com%2Fv1%2Fcgi-bin%2Fcommon%2Fdcreport%3F%20%0Ares%20time%3A%20326%20%0Areq%20param%3A%20data%3D%5B%7B%22business%22%3A1%2C%22page%22%3A987%2C%22operModule%22%3A9357%2C%22moduleType%22%3A935702%2C%22operType%22%3A8%2C%22operId%22%3A913895%2C%22gameappid%22%3A353%7D%5D%20%0Ares%20data%3A%20%7B%22succNum%22%3A1%7D&level[4]=1&&count=5

@@ -1,0 +1,19 @@
+POST /v3/d HTTP/1.1
+Host: ac.dun.163.com
+Content-Length: 1028
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://id1.cloud.huawei.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://id1.cloud.huawei.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+d=BbDKLwS4wB0hwASAGlqkh0osbw3Jmkxe.MwKRCFbGo%2FeTZNuNjZd0ckC%2BF1AIgv6idbskqchOsSF3bKYSuNyNs88AaRFBlvpQ3ETz%2BzR.%2FICgaaqWUKi2Tb%2Fal%2F5%2BgZdwwLBGoMjS0KILDAAEyb.fWjjR0GxAMzyAUdzJIcNVSuf14WsQARog7uWRGsbkiLP4B8r%2Bzi6FZ98mfCq4x.Uu0%2BWbj2Xz.iE3kZTuaom08uiHsfeHdNG0o4%2B0HvN73YzGA71kA59oQ3rdNtlVP48dY7C0HXKW94k6dcFApxrddCi8%2BbZYEZvFjhK8xM.hmB4jQN9HpwdMbphHRFFToEYEtZuN%2F0jH.JwSYwVXjYAjKomqSfB1aA9cNeE6To9eBr071pDwTdtictp2Ntxf2TjcBdtafbrOZxhXE46NhUV0vFfhrHwDB1lWWZhZj%2FpFrGN4dUoZx3Mj2OQuyBfkcObpIksogfR505TLJQEwJCmNWvjkvV88fqH4bf.Zrk9Bv%2B42kEbsCD.TUy0FZqJ9i1PQv77YE5WtElPmd8Psf90Y54sU%2Bfzib8SeiB7O9EPAVDL8cxNHNjs4Nwx7xEbJ53r8uZ%2BtLPrM2gvrxL7OxK3ipi97B%2Bvp5ofx78AZqUv74yuI4dsZ9umPOUeeMBw8RAHOpJZPj9uRRiT%2B%2FNleeCfUsXj0I8PI779QJLy9kqKzHBRv2rvmYo7kjNYGsg2zvN9KKpttoNvYY9GvJ8Oc4Gmj1LfzOJh0%2FLi23gDktx9rHAycJdckh%2B3SOeoaTuaUZAo3Qq6tPo5zuOSJ9et%2F5HCtl%2FNp%2FfoiH0Sca.tgLIMYvvgdAZ1KfDFrfkgxRlPNChm.xNhVWbzPVxeeYh7Cb2IgTXPO5hPXhtfMlhHxAbid6RGs4D7HUamDM2Y2XYYl%2F9em1Zz7qXCdQLbUU4L9OYdYsttt1Uw&v=86c42d7d&cb=__wmjsonp_1d1e4bf

@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.alipay.com
+Content-Length: 1000
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://login.dingtalk.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.dingtalk.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=ENCODE~~V01~~eyJ4diI6IjMuMy43IiwieHQiOiJHMzMxNjZCMTRFOUVCRDYxMDcyNzk1RTIxOTMxMkQxOUExRDMxMDciLCJldGYiOiJiIiwieGEiOiIxOTE2Iiwic2l0ZUlkIjoiIiwidWlkIjoiIiwiZW1sIjoiQUEiLCJldGlkIjoiIiwiZXNpZCI6IiIsInR5cGUiOiJwYyIsIm5jZSI6dHJ1ZSwicGxhdCI6IldpbjMyIiwibmFjbiI6Ik1vemlsbGEiLCJuYW4iOiJOZXRzY2FwZSIsIm5sZyI6InpoLUNOIiwic3ciOjE5MjAsInNoIjoxMDgwLCJzYXciOjE5MjAsInNhaCI6MTAzMiwiYnN3IjozNzgsImJzaCI6NDAwLCJldHoiOjQ4MCwiZXR0IjoxNjg4MzgzNTE3NTUwLCJlY24iOiIwNWZjZGFiMTc0NTgwNjY3Yjg2YTc2MjcxM2FlYTIwYjU5NmIzMTAxIiwiZWNhIjoiVVdUTkYgR2NYMWdDQVcvSXc3THRMWk4gIiwiZXN0IjoyLCJ4cyI6IkczMzE2NkIxNEU5RUJENjEwNzI3OTVFMjE5MzEyRDE5QTFEMzEwNyIsIm1zIjoiMTY5IiwiZXJkIjoiLCwiLCJ4aCI6IiIsImlwcyI6IiIsImVwbCI6NSwiZXAiOiI3YjYwNjJkMjc2OGUxY2JlNDNmMjhlZGI3OTdkMGNhMWE5YjZkNTQyIiwiZXBscyI6IlAyMjZjOGUwNmU4ZjNmM2MzYmVlZDZlZDExNDU5MjdjZWY1OTY1YWFhLEM3ZjY3MjA0ZTkyNTYyM2U0ODIwZmUwZDI4OGRhYWFkN2U0YzM3YWU4LE1hZDcwMDI0ZGExN2M2M2E0ODJiMWI1OGU2NWFmN2IxNjQ1NTE5MzAyLFcyMjEwMDM2NWRlNzUwY2ZiMTk3NDZmMjlmNzA1ZTAzYzNlNWNkNGVlIiwiZXNsIjpmYWxzZX0%3D

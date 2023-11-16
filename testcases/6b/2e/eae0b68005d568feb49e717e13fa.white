@@ -1,0 +1,14 @@
+OPTIONS /?appid=item-v3&functionId=recDivinerApi&client=pc&clientVersion=1.0.0&t=1688375751923&body=%7B%22lid%22%3A15%2C%22lim%22%3A6%2C%22ec%22%3A%22utf-8%22%2C%22uuid%22%3A%221688363422614408241737%22%2C%22pin%22%3A%22%22%2C%22p%22%3A610008%2C%22sku%22%3A%2210303129%22%2C%22ck%22%3A%22pin%2CipLocation%2Catw%2Caview%22%2C%22c1%22%3A6233%2C%22c2%22%3A6264%2C%22c3%22%3A6274%2C%22securityToken%22%3A%22whbSBH2y%252F5w8JLK%252FM%252BQVOog%253D%253D%22%2C%22clientChannel%22%3A%223%22%2C%22clientPageId%22%3A%22item.jd.com%22%7D&h5st=20230703171551927%3B1784152647017041%3Bfb5df%3Btk03wce3a1cff18nl7myRtG8AitknU3aQgapJZSd6OmLsOQyU7FD-mZ7ayyylX2Hvrb4mFcEsaktF6Dj0aDtMYd7xrd9%3B8756473e7a1b18912b30bf62a760019fd77357cef75a7ccc393863c0a125b88c%3B3.1%3B1688375751927%3B24c9ee85e67cf80746dd82817ecbeafc7a829b35c7f446a4c7d476cc9faa1d8834a93323ad7bce9bef1bba682b93d2e3067eb51313b94b6fc3568ae7add54a93884367ebb3122f4eed3c4f424abfeb19d79a51eb1edc313fef68f537b1fd9dd7&x-api-eid-token=jdd03NX4CSOYD4M7RIFPZYV5PGBZM4MQCOGCE5GOL766D2CIHKLU54FMXHAY33CE4YJAXLGPEE2BCTB2EE5KNZFWHCDLJB4AAAAMJDMETJEIAAAAAC2UG7RTW5J52PEX&loginType=3&uuid=122270672.1688363422614408241737.1688363423.1688363423.1688375738.2 HTTP/1.1
+Host: api.m.jd.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: x-referer-page,x-rp-client
+Origin: https://item.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://item.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

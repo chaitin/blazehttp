@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=E3D087AB82E94E9DBC778BB234B3B013&TYPE=Event.ClientInst&DATA=%5B%7B%22T%22%3A%22CI.Init%22%2C%22TS%22%3A1688376715002%2C%22Name%22%3A%22Base%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22T%22%3A%22CI.SCArrST%22%2C%22TS%22%3A1688376715002%2C%22Name%22%3A574%2C%22FID%22%3A%22SCArrST%22%7D%2C%7B%22Rtt%22%3A%22100%22%2C%22Downlink%22%3A%2210%22%2C%22T%22%3A%22CI.NetworkPerformance%22%2C%22TS%22%3A1688376715013%2C%22Name%22%3A%22timinginfo%22%2C%22FID%22%3A%22NetworkPerformanceDetails%22%7D%2C%7B%22T%22%3A%22CI.ClientInst%22%2C%22TS%22%3A1688376715099%2C%22Name%22%3A%22OrgId%22%2C%22FID%22%3A%22NoSignInAttempt%22%7D%2C%7B%22correlationId%22%3A%2264a29587a1874794825c5f067bf1cc34%22%2C%22T%22%3A%22CI.acclink%22%2C%22TS%22%3A1688376715116%2C%22Name%22%3A%22loadJsModule%22%2C%22FID%22%3A%22init%22%7D%2C%7B%22correlationId%22%3A%2264a29587a1874794825c5f067bf1cc34%22%2C%22T%22%3A%22CI.acclink%22%2C%22TS%22%3A1688376715116%2C%22Name%22%3A%22undirectflow%22%2C%22FID%22%3A%22init%22%7D%2C%7B%22Text%22%3A%22sb_feedback%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688376715144%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Fallback%22%3A%221%22%2C%22IsRewardUser%22%3A%22%22%2C%22SuppressionReason%22%3A%22NotTriggered%22%2C%22FID%22%3A%22ModernRewardsFlyout%22%2C%22EventName%22%3A%22AutoOpenFlyoutFired%22%2C%22T%22%3A%22CI.Init%22%2C%22TS%22%3A1688376715286%2C%22Name%22%3A%22AutoOpenFlyoutFired%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/academic/search?q=icon+anime&FORM=HDRSC4
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,16 @@
+GET /member/login.jhtml?redirectURL=https%3a%2f%2fitem.taobao.com:443/item.htm%2F_____tmd_____%2Fpage%2Flogin_jump%3Frand%3DS3WxGHAgAt756EpznwfNzJq2AFA2qBNla3j6EINUS8We9dazM_iKElp8DwVSHZUevpC41Bx7RzivXIj9RnZgdg%26_lgt_%3D8c135c140cc862f79fc15058af20027a___150202___5bf2b714895877cfbc074eaf06e19871___837b211a0c5c4d0311617da5fff37e257cad377890b4c45ccdf2cb0fd662949db872f41b466639e4fdeca94615335960ebf48b14d619b06938285a8941cf8423d0eab8c47a41132e86062fcd38ae33262928f32d500a3259192fa89278773b55b65a3bddeab29b4b55c03c8994732ccb9ecfa26f441571ef212c35a64e4d3f7b4a5de2471592e2d94d1d8d7b15f856642f721d5f9df3ad4527c447302b480cc7745f7e4ac68a1fc8e91c9e47ee7d5416f14359e43bf4ec2c10de519472cc31e5&uuid=8c135c140cc862f79fc15058af20027a HTTP/1.1
+Host: login.taobao.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: https://item.taobao.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

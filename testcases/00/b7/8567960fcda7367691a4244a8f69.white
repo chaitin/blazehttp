@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 798
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://detail.damai.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://detail.damai.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!fPzeCxbgfQ6f5a0tWPJVTF8G9UNHwMB02abjJ%2FLvzCaSOd%2BUGQs09zJSn%2F7OiraJGfYJ9QUpNtrX8dBvslTVkuPys2BMrIwLffxu1sfe9RVAUp77j9nuNQdwiKq84oUtSLlkl9ngAVb6Q%2FF9fNlktJJi6PPXwdH6eAX8XfqHACEFerKPfa6q5PG3Emtpp%2F%2Fm5SGYx%2FKfWSjQ5Hp280YxWP0axWq8fh2fuqOfff%2Bkog%2BKZwKMqnpVggzNMF57TPAL7NYh4Zp4JNoiFwJW40Ctpdkd1HJGmwW4BtGh7PeL%2FmJnTUaP%2BbvxpHh4tSLThO439%2FfWs9Eapr7UtIywfLkRkuR41Lh%2Bp6RzNkoZoY1vEQR1E8e71PAbCECOjWTpoSl3qIIV2aWbvIZ4uh7n1evDdNddjVCZbhqurNW%2FaWBYCz%2FRRLWDR6urM39UAmpsbv9y5yjQn5DbmZLJbQL4Zn%2BwORwQxaFEldD%2FGNSUc7rHbbqVAidpWqdqwHwlPm9972QGWa3Qm635yoFHCB7%2FOomn77hQdn9UsKOtrG%2BXpEHQkS%2B8s3sd4IRCteBD5vNYIcF56QkiCc3khTlCBl1xDGXTRZHUSvzlL6gMj6qQFM01OW%2F%2FyN215sH9CHdSSLaK4uUCyuSagrtkDmpc%2BHvWEeCMoClUGccK0tLC%2BHTN8b%2FwiYuN9dcbdNjv4tML1IvVRNJj3JVJXMneIGDA&xa=mec-tradeportal&xt=

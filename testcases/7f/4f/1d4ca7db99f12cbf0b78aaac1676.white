@@ -1,0 +1,18 @@
+POST /log/post/script/error/hybrid/pcweb HTTP/1.1
+Host: h5.qzone.qq.com
+Content-Length: 813
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://rc.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://rc.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+appid=1000416&error=Uncaught%20SecurityError%3A%20Blocked%20a%20frame%20with%20origin%20%22https%3A%2F%2Frc.qzone.qq.com%22%20from%20accessing%20a%20cross-origin%20frame.&stack=Error%3A%20Blocked%20a%20frame%20with%20origin%20%22https%3A%2F%2Frc.qzone.qq.com%22%20from%20accessing%20a%20cross-origin%20frame.%0A%20%20%20%20at%20window.iframeOnLoad%20(https%3A%2F%2Frc.qzone.qq.com%2Fmyhome%2Ffriends%2Fcenter%3FloginFromAppcenter%3D1688379313943%3A910%3A57)%0A%20%20%20%20at%20HTMLIFrameElement.onload%20(https%3A%2F%2Frc.qzone.qq.com%2Fmyhome%2Ffriends%2Fcenter%3FloginFromAppcenter%3D1688379313943%3A1727%3A2)&url=https%3A%2F%2Frc.qzone.qq.com%2Fmyhome%2Ffriends&scriptUrl=https%3A%2F%2Frc.qzone.qq.com%2Fmyhome%2Ffriends%2Fcenter%3FloginFromAppcenter%3D1688379313943&lineNumber=910&columnNumber=57&reportHabo=1

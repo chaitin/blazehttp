@@ -1,0 +1,16 @@
+GET /volga/api/v2/trip/deal/select/list/city/50/cate/195?limit=20&offset=0&cityId=50&sort=smart&cateId=195&selectedCityId=50&fromCityId=50&uuid=EBF4B41DD923E5E9CC8480CE559729169CAC8B8431AB5FA629ABDC385C7712DE&_token=eJxtT11vgkAQ%2FC%2F3KuGODxFIfBABi4gp1Ghq4wMCKogH3J2INv3vPVt9aNJkk5md3ZnsfgLipcCUEEKSLIA2I8AEkohEDQiAUT7RdF0Z6Kgva7ohgOSvphvctCVLG5gfkiEjwZClzV2JuPCrSEhHG%2BHJFXkjyCqv%2B5bHl8CBsZqaEObiKcvZOcZiUp0gI3kNy%2FZanX9omVMG6yqH%2FKr%2FDYAHnhY8kOPxgfED2bMP%2BHM8geZ7zFk27dxr4fjdeBSG88mgnlkrFb1hOreji6UWzcg5eNEId2m%2FxwzCYBXA8l3ZNkrjeg7Bxi218lbuLVpSa5MUE22lGhgho%2FSDlCzGZKftklSh3QCns6mGl31YxM008uNJFsjhMaHr6XVvVfO4cv31eHajlyZyC7sqXpxoFti03Naln7yewj1Vw%2BEQfH0DahKBQw%3D%3D HTTP/1.1
+Host: itrip.meituan.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://i.meituan.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

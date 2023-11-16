@@ -1,0 +1,19 @@
+GET /blog/phoenix/console/v1/get-default-edit HTTP/1.1
+Host: bizapi.csdn.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ca-Signature-Headers: x-ca-key,x-ca-nonce
+X-Ca-Signature: hxTr0Ky2cuSZEby4g9a6osrV87/Yz3yel5IOLntbKIM=
+X-Ca-Nonce: e1186001-8c40-4163-9704-3d88c1003596
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: application/json, text/plain, */*
+X-Ca-Key: 203803574
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://mp.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.csdn.net/mp_blog/creation/editor?spm=1001.2101.3001.4503
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

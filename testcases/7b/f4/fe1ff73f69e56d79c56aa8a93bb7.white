@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 717
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://www.wjx.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.wjx.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=107!fGLfG3F6fQ6f5EUUWPmMTF8G9UN0xG9T35JDJ%2F%2F%2BGnlUFys1Gn5SZwLUnlP8U6UAASYmQfpJszCCJ9eVAJ8%2B1I6gazOErIwLffxu1CUYd6KoSK%2Fit0K7LmGm3nH3NvbwlkP7ow%2FNsxvmyh%2FGQ%2FH36Sufffqu2CI8WvfffDEkt3KdPY5%2BYwjPfMGXfuGutzAY8DffdI4qWPGQfPfFdPY%2FtKeffX0%2FWS72fvmPNrjpafTk%2Bf8RFCYiXgB0C2Qs2G%2FEvTihc%2F%2F7T5Q67eSlxOFA8TlnJTPi4P2FQd0p82KOXbHNhkdt4xSBGxKuKLIm87mTS1IfmjRYMqZhuD%2Byy74KVOvTcdP3OhMI2nS4Powoxe3jHa97GftSacoUIpOAlXW%2FFvzffX3Sh9PbJ%2FsK2e0vbRxCTb0xN5LUPTH2rF8zGA4%2BczBrC%2BbxKcCj9%2BjAUS%2BDxqltjgZt%2FJXELItByf2Cdi0fkDB8vGP6G5RAufGCISdEI%2FUJZ8OdbFwP1pMJLmdisEb8RngJD4qGBFbSMV9qH1Oi1csd6XJgqi8wbB95TJBOo1c1SvwnRI%2BUlQ1KMG%2BGqzr0hQNwRddQ35DUpkG0k6GIxvdTbBlzZoGj9RsvfPK%3D&xa=FFFF00000000016770EE&xt=&efy=1

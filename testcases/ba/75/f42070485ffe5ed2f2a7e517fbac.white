@@ -1,0 +1,31 @@
+POST /webv3 HTTP/1.1
+Host: ev.csdn.net
+Content-Length: 1741
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Device-Type: web
+App-Ver: 1.0
+X-Hasdk-Productid: 3629892982708167306
+App-Id: 243650030996486022
+Servicetag: _openness_config_tag
+X-Hasdk-Debug: false
+Request-Id: 2da98a09406a4212a78f8e7111fa14aa
+Sec-Ch-Ua-Platform: "Windows"
+Sdk-Name: hianalytics
+X-Hasdk-Resourceid: p1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+X-Hasdk-Clientid: 616369439914343296
+Package-Name: 243650030996486022
+X-Hasdk-Token: eyJraWQiOiJWR0pFNlFXTDZjOHZQVjQ0M0NDaUZWQ3JMNWNPaEx2TyIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJzdWIiOiI2MTYzNjk0Mzk5MTQzNDMyOTYiLCJjbGllbnRfdHlwZSI6MCwiZXhwIjoxNjg4Mzg5MTYyLCJpYXQiOjE2ODgzNzQ3NjJ9.C3-k7gZKOgoNaKdAcqilL3tsCdHOwm8cHBNjJpY00VM
+Accept: */*
+Origin: https://i.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"header":{"protocol_version":"1","serviceid":"hmshioperqrt","appid":"243650030996486022","timestamp":1688375085529,"servicetag":"_openness_config_tag","requestid":"2da98a09406a4212a78f8e7111fa14aa","productid":"3629892982708167306"},"event":{"events":[{"type":"oper","event":"$ExitScreen","properties":{"$CurActivityName":"https://i.csdn.net/#/msg/index","$CurActivityId":"https://i.csdn.net/#/msg/index","$Duration":25237,"$TaskId":"","$PrePageId":"","$CurrPageId":"https://i.csdn.net/#/msg/index"},"eventtime":1688374789232,"event_session_name":"ba5e381b927a4304b92530fb1a1d0ed5_1688374763995","first_session_event":"false"},{"type":"oper","event":"$EnterScreen","properties":{"$UrlParams":"","$PrevActivityName":"https://i.csdn.net/#/msg/index","$CurActivityName":"https://i.csdn.net/#/msg/like","$PrevActivityId":"https://i.csdn.net/#/msg/index","$CurActivityId":"https://i.csdn.net/#/msg/like","$TaskId":"","$PrePageId":"https://i.csdn.net/#/msg/index","$CurrPageId":"https://i.csdn.net/#/msg/like"},"eventtime":1688375085494,"event_session_name":"ba5e381b927a4304b92530fb1a1d0ed5_1688374763995","first_session_event":"true"}],"events_common":{"aaid":"688418d9-a1d2-18fd-b6a8-9eefa897861c","userid":"","properties":{"_new_user_flag":1,"_signed":0,"_restriction_enabled":"false","_terminal_name":"","_app_ver":"1.0.0","_restriction_shared":"false","_model":"Chrome","_lib_ver":"6.9.9-301","_lib_name":"hianalytics","_lib_type":"Web","_sys_language":"ZH_CN","_os":"Windows","_os_ver":"10.0","_screen_height":1080,"_screen_width":1920,"_browser":"Chrome","_browser_version":"114.0.0.0","_browser_language":"ZH_CN","_first_open_time":"1688374763995","_is_testdevice":0,"_package_name":"243650030996486022"},"events_global_properties":{}}}}

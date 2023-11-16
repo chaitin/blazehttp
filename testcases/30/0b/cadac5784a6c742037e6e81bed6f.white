@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.alipay.com
+Content-Length: 1002
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://smcnext.console.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smcnext.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=ENCODE~~V01~~eyJ4diI6IjMuMy43IiwieHQiOiJZYjBiZTQ4OGYwNjM2NTdmMjM2MDEyYzBjYjIzYmEzZDAiLCJldGYiOiJiIiwieGEiOiJvbmUtY29uc29sZS1hbGl5dW4tY29tIiwic2l0ZUlkIjoiIiwidWlkIjoiIiwiZW1sIjoiQUEiLCJldGlkIjoiIiwiZXNpZCI6IiIsInR5cGUiOiJwYyIsIm5jZSI6dHJ1ZSwicGxhdCI6IldpbjMyIiwibmFjbiI6Ik1vemlsbGEiLCJuYW4iOiJOZXRzY2FwZSIsIm5sZyI6InpoLUNOIiwic3ciOjE5MjAsInNoIjoxMDgwLCJzYXciOjE5MjAsInNhaCI6MTAzMiwiYnN3IjoxOTIwLCJic2giOjkyMSwiZWxvYyI6Imh0dHBzJTNBJTJGJTJGc21jbmV4dC5jb25zb2xlLmFsaXl1bi5jb20lMkZ3ZWxjb21lIiwiZXR6Ijo0ODAsImV0dCI6MTY4ODM4MzA0MzUxOSwiZWNuIjoiMDVmY2RhYjE3NDU4MDY2N2I4NmE3NjI3MTNhZWEyMGI1OTZiMzEwMSIsImVjYSI6IjR1dFNHIHRibW5nQ0FYUEdYSnlTTnlOTCIsImVyZCI6IiwsIiwiaXBzIjoiIiwiZXBsIjo1LCJlcCI6IjdiNjA2MmQyNzY4ZTFjYmU0M2YyOGVkYjc5N2QwY2ExYTliNmQ1NDIiLCJlcGxzIjoiUDIyNmM4ZTA2ZThmM2YzYzNiZWVkNmVkMTE0NTkyN2NlZjU5NjVhYWEsQzdmNjcyMDRlOTI1NjIzZTQ4MjBmZTBkMjg4ZGFhYWQ3ZTRjMzdhZTgsTWFkNzAwMjRkYTE3YzYzYTQ4MmIxYjU4ZTY1YWY3YjE2NDU1MTkzMDIsVzIyMTAwMzY1ZGU3NTBjZmIxOTc0NmYyOWY3MDVlMDNjM2U1Y2Q0ZWUiLCJlc2wiOmZhbHNlfQ%3D%3D

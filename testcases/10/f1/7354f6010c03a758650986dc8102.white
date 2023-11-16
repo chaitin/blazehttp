@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1359
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&lq=0&pq=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&sc=0-38&sk=&cvid=CB54D0C297E941E8989D943B8045192B&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>D106D4CB40DA439F90799B9549AA152A</IG><TS>1688377894881</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":1,"N":6,"I":"1ie","S":"V+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":315921,"K":"6rrk+6rfu+6rga+6rke+6roy","F":1},"V":"6qz7/////////visible/+6rrj//////////pagehide","L":"@1u/q/BODY.b_respl b_sbText as_no_s b_norr/SERP,5031.1/0/0/@2/@3/0/K/-1","M":"0+yh+-1+6rrk+2i+2c+0+1x+0+3l6+1","E":"@1q/2/X/1o/+@1q/6/X/1o/+@1q/7/X/1o/+@1q/8/X/1o/+@1q/9/X/1o/+@1q/a/X/1o/+@1q/b/X/1o/+@1q/c/X/1o/+@1q/d/X/1o/+@1q/e/X/1o/+@1q/f/X/1o/+@1q/g/X/1o/+@1q/h/X/2s/+@1q/i/X/4y/","C":"6qzw//@1h///v0/lf//6qzk+/////uq/lq//6qzr+6r0r/////tt/mg//6r0m+6r1h/////tl/mx//6r19+6r1w/////th/n9//6r1p+6r56/////tu/nc//6r51+6r62/////u7/n3//6r5y+6r7x/////u8/ms//6r7w+6r8v/////u7/mh//6r8k+6r9c/////u5/m4//6r96+6raa/////u0/lq//6ra2+6raq/////tt/le//6rap+6rb7/////tj/l4//6rb5+6rbo/////tb/kw//6rbk+6rc8/////sh/k3//6rc7+6rcr/////rn/j3//6rcq+6rd2/////rb/ip//6rcx+6rdh/////qv/i3//6rdd+6rdy/////qk/hp//6rds+6reg/////qe/he//6rea+6rfd/////qc/h4//6rf8+@1r/////qo/gn//@1r+@1s/////qx/ge//@1s+6rgr/////r8/g6//6rgp+6rh8/////rj/fz//6rh5+6rhx/////sd/fi//6rhw+6ril/////sx/fb//6rij+@1t//mousedown///t3/f7/1/@1t+6rml//mouseup/////0/6rmk+//click//////","K":"@1u/q/@1m/1ekk/@1u"}]]]></D></E></Events><STS>1688377894881</STS></ClientInstRequest>

@@ -1,0 +1,19 @@
+POST /cgi-bin/mmwebwx-bin/webwxstatreport?fun=new&pass_ticket=FPCoakjYBB3vGGQksSm%252F8CSaWGTfUri8VXe6HOtkPWnc9pibXYudzDZQiKgR5xMe HTTP/1.1
+Host: wx.qq.com
+Content-Length: 1048
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://wx.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://wx.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"BaseRequest":{"Uin":864054223,"Sid":"SGgysM0yzjTz5S71","DeviceID":"e985563436195710"},"Count":1,"List":[{"Type":1,"Text":"{\"type\":\"[app-timing]\",\"data\":{\"appTiming\":{\"qrcodeStart\":1688383362725,\"qrcodeEnd\":1688383362823,\"scan\":1688383373198,\"loginEnd\":1688383387431,\"initStart\":1688383387431,\"initEnd\":1688383389240,\"initContactStart\":1688383389369},\"pageTiming\":{\"connectStart\":1688383362227,\"navigationStart\":1688383362213,\"secureConnectionStart\":1688383362247,\"fetchStart\":1688383362224,\"domContentLoadedEventStart\":1688383362656,\"responseStart\":1688383362339,\"domInteractive\":1688383362656,\"domainLookupEnd\":1688383362224,\"responseEnd\":1688383362341,\"redirectStart\":0,\"requestStart\":1688383362252,\"unloadEventEnd\":0,\"unloadEventStart\":0,\"domLoading\":1688383362344,\"domComplete\":1688383386879,\"domainLookupStart\":1688383362224,\"loadEventStart\":1688383386879,\"domContentLoadedEventEnd\":1688383362657,\"loadEventEnd\":1688383386879,\"redirectEnd\":0,\"connectEnd\":1688383362250}}}"}]}

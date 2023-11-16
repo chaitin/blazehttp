@@ -1,0 +1,19 @@
+POST / HTTP/1.1
+Host: prism-report-web.dreport.meituan.net
+Content-Length: 879
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://passport.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://passport.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"category":"prism-report-web","env":{"project":"com.sankuai.fe.www.passport","screen":"1920x1080","version":"","sdkVersion":"1.8.0","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","visitId":"297d8261-64b1-44b1-9227-d0a6510311d1","pagePath":"/useraccount/ilogin","pageOriginUrl":"https://passport.meituan.com/useraccount/ilogin?risk_partner=11&risk_app=-1&risk_platform=3&backurl=https%3A%2F%2Fi.meituan.com%2Fawp%2Fh5%2Flvyou%2Fdeal%2Fgroup%2Findex.html%3FdealId%3D47934506%26ct_poi%3D282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb%26source%3Dmt","runEnv":"browser","biz":"web","os":"Mac","networkType":"4g","uuid":"1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8"},"logs":[{"type":"web.fid","value":0.6000000238418579,"ts":1688378081407,"tags":{"sample_rate":1}}]}

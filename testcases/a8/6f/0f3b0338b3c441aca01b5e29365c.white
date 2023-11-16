@@ -1,0 +1,17 @@
+POST /v1:GetHints?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw HTTP/1.1
+Host: optimizationguide-pa.googleapis.com
+Content-Length: 666
+Content-Type: application/x-protobuf
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQiFk80BCPqYzQEIhaDNAQiQq80BCNq0zQEItbzNAQiMvc0BCKS9zQEI3L3NAQi7vs0BCKS/zQEI/r/NAQ==
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+
+
+idp.tsinghua.edu.cn"ë
+èhttps://idp.tsinghua.edu.cn/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT4MwFIb%2FCun9KGO4jWaQ4HbhkunIQC%2B8MQXOpJG12FP8%2BPeWMXUmZren5zzvR7pAfmhalnSmljt47QCN83FoJLLjQ0Q6LZniKJBJfgBkpmRZcrthvuuxViujStUQJ0EEbYSSSyWxO4DOQL%2BJEu53m4jUxrTIKN0jKreUL8KVYGhWi6JQDZjatXPaQ32abrOcOCvrQkje836vRdW6BoV8rjvuQtVZUj%2Bj1sReNHAC7KASGkqLz7bEWa8i8jTz%2FWoSzmdeUQUwLYuwmFc8KIrxVVCF%2B3Bs1xA7WEs0XJqI%2BJ4%2FGXmzkTfJvZD5UxZ4j8RJT1mvhaysicvFFMMSsps8T0dDqAfQeAxkF0i86OtlR2F9VvhlLP9umcT%2Fd4o%2FnS7omcCg1rI7S1yvUtWI8tNJmka9LzVwAxEZExoPJ3%2F%2FQvwF&RelayState=ss%3Amem%3A9ef7b324363f1c62cce3142b34481106816200abc3932464ffb2a57cecb17ef3((:en-USJ

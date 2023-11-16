@@ -1,0 +1,31 @@
+POST /wind HTTP/1.1
+Host: wind.hlgdata.com
+Content-Length: 1478
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryNxghiURx8F2y3PYA
+Accept: */*
+Origin: https://huaban.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://huaban.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+------WebKitFormBoundaryNxghiURx8F2y3PYA
+Content-Disposition: form-data; name="gzip"
+
+0
+------WebKitFormBoundaryNxghiURx8F2y3PYA
+Content-Disposition: form-data; name="use_client_time"
+
+false
+------WebKitFormBoundaryNxghiURx8F2y3PYA
+Content-Disposition: form-data; name="data"
+
+eyJwcm9qZWN0IjoiaGJfd2ViIiwicGF0aCI6Ii93aW5kIiwic2RrX3ZlcnNpb24iOiIyLjYuMSIsInJ1bnRpbWUiOnsib3MiOiJXaW5kb3dzIiwibW9kZWwiOiIxMCIsInNjcmVlbl93aWR0aCI6MTkyMCwic2NyZWVuX2hlaWdodCI6MTA4MH0sInJlcG9ydF90aW1lIjoxNjg4Mzc1NDE0NjMwLCJkYXRhIjp7ImNoYW5uZWxfaWQiOiIyODkiLCJkZXZpY2VfaWQiOiI4MzA0NWIwMjVmNWI0YTBmOGY5OWJiYmJhNDc1ZDBiOSIsImlzX2ZpcnN0X2RheSI6MCwicHJvamVjdF92ZXIiOiIyLjAuMCIsInNlc3Npb25faWQiOiIxODkxYjA0NGY1ZmJlYS0wZmQxZWY1NDEzMmZlMy0yNjAzMWQ1MS0yMDczNjAwLTE4OTFiMDQ0ZjYwZGYzIiwiZW52IjoicHJvZCIsInVzZXJfaWQiOiI4MzA0NWIwMjVmNWI0YTBmOGY5OWJiYmJhNDc1ZDBiOSIsImlzX2xvZ2luIjowLCJyZWZlcnJlciI6IiIsInVrX2lkIjoiYmFhOTAwN2JiZTIzNDVjY2I1MGFiYWZhM2IxZDFmNGQiLCJldmVudF9pZCI6MzkwMDMsImV2ZW50IjoicGFnZV92aXNpdCIsImF0dHJpYnV0ZXMiOnsicmVnaW9uX2lkIjoiMSIsImJpel9jb2RlIjoiMSIsImVuZHBvaW50IjoiNCIsInBhZ2VfcGFyYW1zIjp7fSwic291cmNlX3BhZ2UiOiIiLCJwYWdlIjoiaHR0cHM6Ly9odWFiYW4uY29tLyIsInBhZ2VfdGltZSI6MTY4ODM3NTQxNDYyOSwiZGV0YWlsIjp7InBhZ2Vfbm0iOiLpppbpobUifSwiYWJfdGFncyI6WyJyZmN1ZWd3XzEiLCJlenFmZHNkXzAiLCJ1dHhveWJmXzAiLCJjd2hpaGhzXzIiLCJ2ZXZpbWxoXzEiLCJjcmhuZXZ4XzAiXX0sInRpbWVzdGFtcCI6MTY4ODM3NTQxNDYzMCwidXRjX3RpbWUiOiIyMDIzLTA3LTAzVDA5OjEwOjE0LjYzMCswODowMCJ9fQ==
+------WebKitFormBoundaryNxghiURx8F2y3PYA--

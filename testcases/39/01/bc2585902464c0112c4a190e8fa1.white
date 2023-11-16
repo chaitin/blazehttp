@@ -1,0 +1,18 @@
+POST /service/um.json HTTP/1.1
+Host: ynuf.aliapp.org
+Content-Length: 633
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://daili.jushuitan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://daili.jushuitan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+data=106!MeImc0clIzhcCodGHmHI4lxmYX%2BlT6JE5UamzLQ0K97U5xcCBqwxOKUU6mQtOmyGoAXvZot8jOa%2BvLLP8CmFctBQYBhJVk7w07KBwADLhd8kkC0EHHh1URFssTXzpbZozv%2FSsTzgOrfmZyYCsDC3A43DsyXZEHVmmJ%2FsE06h42UjfT%2F%2B4WH23DcWSPeUB02xXVYh%2F2kU5FUm6T%2FE42Uym%2FJLlTT0e1H4oDineV6e%2BXiOmb3tbtfubFW4wleMhD%2BHjDQyXfOAisfco%2Bo2xCSdEbGrzkaOBQMl8Tqi8xkoVHrTW0cDet6RfUxAZ3onKHj4DffIULeUrnSSuUonViaKqvwaJWt0gdfmvO45prl42MhjYhznP%2BshoeHSY3NOmbU96prAv34lX9ra5D3i%2BrWciMK9EBPze0SdAMQsP6%2B%2B50p1fJOT3og7u6NgpIFPluXJTR%2FqMzE4LE83I%2BALiYra8QpQr4b6aBrXtGO2rOu%2BLtOqfKI2aASq4USXLRsg%2BPmHPplWtMqAyAJbrkURjDlWs9oAZ%2FDA&xa=23060081&xt=isv_23060081_8804480125070

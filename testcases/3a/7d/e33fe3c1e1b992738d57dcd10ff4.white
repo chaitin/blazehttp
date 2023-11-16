@@ -1,0 +1,19 @@
+POST /api/v2/liveperson/monitor/create HTTP/1.1
+Host: messaging.contact-module.ibm.com
+Content-Length: 1998
+Cm-Session-Id: 1688382612054-4072351312905857
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.ibm.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"customerInfo":{"imei":"{\"version\":\"4.9.3\",\"uPageViewID\":\"904a4b9b-00ac-45c7-9d7d-c61394fbf53d\",\"pageURL\":\"https://www.ibm.com/cn-zh/topics/saas\",\"referrerURL\":\"https://www.baidu.com/link?url=S_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_&wd=&eqid=8708c0100003171e0000000464a2ac4a\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"vcpi\":{\"pathSegments\":{\"segment1\":\"topics\",\"segment2\":\"saas\"},\"cm_mmc\":\"OSearch_Baidu-_---_---_--\",\"cm_mmc_vendor\":\"OSearch_Baidu\",\"cm_mmc_category\":\"-\",\"cm_mmc_placement\":\"-\",\"cm_mmc_item\":\"-\",\"utm_source\":\"Baidu\",\"p1\":\"Osearch\",\"marketing_type\":\"Osearch\"},\"focusArea\":\"Cloud - Automation - All\",\"timeZoneOffsetJS\":-480,\"cmTranslationKey\":{\"regionCode\":\"CN\",\"languageCode\":\"zh\",\"variation\":\"Cloud - Automation - All\"},\"lead\":[null],\"productTitle\":\"Unnamed Product\",\"companyInfo\":{\"audience\":\"SMB\",\"audienceSegment\":\"Mobile Network\",\"informatioLevel\":\"Basic\",\"isInternetServiceProvider\":false,\"stateProvinceName\":\"Zhejiang\",\"registryCity\":\"Hangzhou\",\"registryCompanyName\":\"Chinanet\",\"registryCountryName\":\"China\",\"registryCountry\":\"CN\",\"registryLatitude\":30.3,\"registryLongitude\":120.16,\"registryStateProvince\":\"ZJ\"}}","socialId":"22264502-71e5-40a7-a7fd-f85599f94bcb","storeNumber":"https://www.ibm.com/cn-zh/topics/saas","storeZipCode":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},"personalInfo":{"language":"zh-CN","contacts":[]},"consumerId":"64d9aabd4994a0892b17b69d817f90046d431a4592e56812fef0b2f1ee71ff1ad49fca9191a31808cc13d2de90f157f7","clientProperties":{"os":"WINDOWS","osVersion":"NT 10.0","deviceFamily":"DESKTOP","appVersion":"4.9.3"},"service":"42327359","entryPoints":["https://www.ibm.com/cn-zh/topics/saas","sec://sw-cnzh-m"]}

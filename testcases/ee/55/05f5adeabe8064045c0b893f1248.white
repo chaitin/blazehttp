@@ -1,0 +1,16 @@
+GET /webplat/info/news_version3/15592/35033/m11738/index.js HTTP/1.1
+Host: pvp.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://pvp.qq.com/web201706/newsdetail.shtml?tid=602025
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: "5ae1497e-1a13"
+If-Modified-Since: Thu, 26 Apr 2018 03:37:34 GMT
+

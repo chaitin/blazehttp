@@ -1,0 +1,17 @@
+GET /_next/data/qXVbsn7sHTsF2JjXe9Lug/blog/some1-results.json?slug=some1-results HTTP/1.1
+Host: www.3blue1brown.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Purpose: prefetch
+X-Nextjs-Data: 1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sentry-Trace: 25dc08d583674d7cb43c3e40953531cf-85675e6d51962e24-1
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.3blue1brown.com/blog
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

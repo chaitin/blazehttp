@@ -1,0 +1,14 @@
+GET /1/aws-mktg/1/OE/?cat=Performance&level=INFO&msg=speedIndex%20%3D%201626&currentTime=1688379082926&method=NA&pageTime=1463&pageRequestId=f25c0bd2-ef25-434e-a4a3-f17f86c583a1&page=https%3A%2F%2Fwww.amazonaws.cn%2Ffree%2F%3Fhd_gl_2109 HTTP/1.1
+Host: fls-na.amazon.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazonaws.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

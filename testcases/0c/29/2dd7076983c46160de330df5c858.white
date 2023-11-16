@@ -1,0 +1,14 @@
+GET /core/assets/js/26.04e7f30b.chunk.js HTTP/1.1
+Host: js.driftt.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://js.driftt.com/core?d=1&embedId=diyh7bap5ddc&eId=diyh7bap5ddc&region=US&forceShow=false&skipCampaigns=false&sessionId=dd8e4557-a71d-4baf-a775-cf309731bf13&sessionStarted=1688381041.032&campaignRefreshToken=7b5fca04-e629-458b-849f-f34c5274c8d5&hideController=false&pageLoadStartTime=1688381037779&mode=CHAT&driftEnableLog=false&secureIframe=false&u=https%3A%2F%2Fwww.cloudflare-cn.com%2F
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

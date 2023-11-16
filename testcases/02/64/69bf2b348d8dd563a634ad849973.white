@@ -1,0 +1,19 @@
+POST /mp/wapcommreport?uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzIwNDA2NDk5OQ%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 1298
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651384632&idx=1&sn=7953c468543030537e96e5f1fd1df5e8&chksm=8d399ab0ba4e13a61c607fe2113b9293c0ecc42ae39b23a17aca2430e6bd9cb0558d0d18c222
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+reportjson=%7B%22Vid%22%3A%22wxv_2999577027877961734%22%2C%22BizUin%22%3A3204064999%2C%22MsgId%22%3A2651384632%2C%22ItemIdx%22%3A1%2C%22PlayerType%22%3A2%2C%22Scene%22%3A75%2C%22SubScene%22%3A0%2C%22ItemShowType%22%3A0%2C%22EnterId%22%3A1688383390%2C%22SessionId%22%3A%22svr_8394dd7c809%22%2C%22ChannelId%22%3A%22%22%2C%22ReloadId%22%3A%221688383390%22%2C%22ReloadSeq%22%3A1%2C%22Duration%22%3A27000%2C%22OrStatus%22%3A1%2C%22PageUrl%22%3A%22https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwNDA2NDk5OQ%3D%3D%26mid%3D2651384632%26idx%3D1%26sn%3D7953c468543030537e96e5f1fd1df5e8%26chksm%3D8d399ab0ba4e13a61c607fe2113b9293c0ecc42ae39b23a17aca2430e6bd9cb0558d0d18c222%23rd%22%2C%22VideoUrl%22%3A%22http%3A%2F%2Fmpvideo.qpic.cn%2F0b2eamag6aaaieamsq5cabsfaa6dn4bqa3ya.f10002.mp4%3Fdis_k%3Dd1413db334efc07f74c47eacd38bb849%26dis_t%3D1688383119%26play_scene%3D10120%26auth_info%3DNMjykdBoDVkQzLfjpyN9RzUSPmYbNBYFeThdBBYtaTEONlEZaA%3D%3D%26auth_key%3D1bfdb5d425099921f0244d0bf040beb8%22%2C%22IsFans%22%3A1%2C%22SourceItemShowType%22%3A0%2C%22ExpType%22%3A%22%22%2C%22Device%22%3A-1%2C%22EventType%22%3A2%2C%22EventTime%22%3A0%2C%22PlayTime%22%3A0%2C%22StayTime%22%3A0%2C%22PagePlayTime%22%3A0%2C%22PageStayTime%22%3A38403%2C%22ImmersivePlayTime%22%3A0%2C%22ImmersiveStayTime%22%3A0%2C%22log_id%22%3A23443%7D

@@ -1,0 +1,16 @@
+GET /pagead/ads?client=ca-pub-1076724771190722&output=html&adk=1812271804&adf=3025194257&lmt=1688374836&plat=3%3A16%2C4%3A16%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&format=0x0&url=https%3A%2F%2Fblog.csdn.net%2Flelelelele12%2Farticle%2Fdetails%2F131307341%3Fops_request_misc%3D%25257B%252522request%25255Fid%252522%25253A%252522168837482516800182197932%252522%25252C%252522scm%252522%25253A%25252220140713.130102334.pc%25255Fall.%252522%25257D%26request_id%3D168837482516800182197932%26biz_id%3D0%26utm_medium%3Ddistribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-5-131307341-null-null.142%5Ev88%5Econtrol_2%2C239%5Ev2%5Einsert_chatgpt%26utm_term%3DWAF%25202023%26spm%3D1018.2226.3001.4187&ea=0&pra=5&wgl=1&uach=WyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTE0LjAuNTczNS4xOTkiLFtdLDAsbnVsbCwiNjQiLFtbIk5vdC5BL0JyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTQuMC41NzM1LjE5OSJdLFsiR29vZ2xlIENocm9tZSIsIjExNC4wLjU3MzUuMTk5Il1dLDBd&dt=1688374836802&bpp=2&bdt=326&idt=132&shv=r20230627&mjsv=m202306220101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Daaf8cf4fcdf5bee8-2259a8dea6b400a2%3AT%3D1686641062%3ART%3D1688374769%3AS%3DALNI_MaB82NTdgsSo7Yi95_wL1uYaGujNw&gpic=UID%3D00000c3247f028c0%3AT%3D1684983198%3ART%3D1688374769%3AS%3DALNI_Ma34GEjyFxWoohMQdPiZPwDEL5Ahw&nras=1&correlator=407561906498&frm=20&pv=2&ga_vid=1128566005.1597989302&ga_sid=1688374837&ga_hid=737990372&ga_fc=1&u_tz=480&u_his=1&u_h=1080&u_w=1920&u_ah=1032&u_aw=1920&u_cd=24&u_sd=1.25&dmc=8&adx=-12245933&ady=-12245933&biw=1522&bih=737&scr_x=0&scr_y=0&eid=44759837%2C42532278%2C44759876%2C44759927%2C42532280%2C31075623%2C31075625%2C44772269%2C44788442%2C44796477&oid=2&pvsid=4247615109451335&tmod=1293293030&uas=0&nvt=1&fsapi=1&ref=https%3A%2F%2Fso.csdn.net%2Fso%2Fsearch%3Fspm%3D1000.2115.3001.4498%26q%3DWAF%25202023%26t%3D%26u%3D&fc=1920&brdim=-1917%2C3%2C-1917%2C3%2C1920%2C0%2C1914%2C1026%2C1536%2C737&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&ifi=1&uci=a!1&fsb=1&dtd=165 HTTP/1.1
+Host: googleads.g.doubleclick.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQj6mM0BCIWgzQEIpL3NAQ==
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://blog.csdn.net/lelelelele12/article/details/131307341?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168837482516800182197932%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=168837482516800182197932&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-5-131307341-null-null.142^v88^control_2,239^v2^insert_chatgpt&utm_term=WAF%202023&spm=1018.2226.3001.4187
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,15 @@
+GET /fcgi-bin/set_cookie?lv_irt_id=&dm=v.qq.com&ua=Mozilla%2F5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F114.0.0.0+Safari%2F537.36&r=1688379805738&vid=s3364zeyapv&sr=1920x1080&ul=zh-CN&tv=0.0.7&pt=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91&guid=196a7d5821f3c03f0b488d2cc4db7b18&url=https%3A%2F%2Fv.qq.com%2Fx%2Fpage%2Fs3364zeyapv.html&from=https%3A%2F%2Fv.qq.com%2Fx%2Fpage%2Fs3364zeyapv.html&playing_url= HTTP/1.1
+Host: tj.video.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://pvp.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=4B29DBA2744A4226954B4EB0222FC9B3&TYPE=Event.ClientInst&DATA=%5B%7B%22correlationId%22%3A%2264a297ce0eb940cfbae03d71fc2a7a6a%22%2C%22T%22%3A%22CI.acclink%22%2C%22TS%22%3A1688377298255%2C%22Name%22%3A%22loadJsModule%22%2C%22FID%22%3A%22init%22%7D%2C%7B%22correlationId%22%3A%2264a297ce0eb940cfbae03d71fc2a7a6a%22%2C%22T%22%3A%22CI.acclink%22%2C%22TS%22%3A1688377298255%2C%22Name%22%3A%22undirectflow%22%2C%22FID%22%3A%22init%22%7D%2C%7B%22Text%22%3A%22rprfb_B0A598%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377298305%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Text%22%3A%22rprfb_B0C69E%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377298305%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Text%22%3A%22rprfb_B0E302%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377298310%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Text%22%3A%22sb_feedback%22%2C%22T%22%3A%22CI.FeedbackInit%22%2C%22TS%22%3A1688377298350%2C%22Name%22%3A%22Feedback%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22T%22%3A%22CI.DevLoc%22%2C%22TS%22%3A1688377298357%2C%22Name%22%3A%22PromptDevLoc%22%2C%22FID%22%3A%22AutoPrompt%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/search?q=site:segmentfault.com%20/static/css/static/fonts/abc.woff
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,14 @@
+GET /h5/mtop.alimama.union.xt.en.api.entry/1.0/?jsv=2.5.1&appKey=12574478&t=1688379174964&sign=1ebded8ffaa5e75fbd725ac63de8a594&api=mtop.alimama.union.xt.en.api.entry&v=1.0&AntiCreep=true&timeout=20000&AntiFlood=true&type=jsonp&dataType=jsonp&callback=mtopjsonp3&data=%7B%22pNum%22%3A0%2C%22pSize%22%3A%2260%22%2C%22refpid%22%3A%22mm_26632360_8858797_29866178%22%2C%22variableMap%22%3A%22%7B%5C%22q%5C%22%3A%5C%22%E6%B7%B1%E4%BF%A1%E6%9C%8D%E8%B6%85%E8%9E%8D%E5%90%88%E4%B8%80%E4%BD%93%E6%9C%BA%5C%22%2C%5C%22navigator%5C%22%3Afalse%2C%5C%22clk1%5C%22%3A%5C%224ec7866269b7fb155f53910961058e36%5C%22%2C%5C%22recoveryId%5C%22%3A%5C%22201_33.8.69.190_45097817_1688379171183%5C%22%7D%22%2C%22qieId%22%3A%2236308%22%2C%22spm%22%3A%22a2e0b.20350158.31919782%22%2C%22app_pvid%22%3A%22201_33.8.69.190_45097817_1688379171183%22%2C%22ctm%22%3A%22spm-url%3A%3Bpage_url%3Ahttps%253A%252F%252Fuland.taobao.com%252Fsem%252Ftbsearch%253Frefpid%253Dmm_26632360_8858797_29866178%2526keyword%253D%2525E6%2525B7%2525B1%2525E4%2525BF%2525A1%2525E6%25259C%25258D%2525E8%2525B6%252585%2525E8%25259E%25258D%2525E5%252590%252588%2525E4%2525B8%252580%2525E4%2525BD%252593%2525E6%25259C%2525BA%2526clk1%253D4ec7866269b7fb155f53910961058e36%2526upsId%253D4ec7866269b7fb155f53910961058e36%22%7D HTTP/1.1
+Host: h5api.m.taobao.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://uland.taobao.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

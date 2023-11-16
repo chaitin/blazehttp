@@ -1,0 +1,21 @@
+POST /data/api.json?action=DescribeInstanceHistoryEvents HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 1360
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json, text/plain, */*
+Arms-Traceid: db857615fcf241faabfd037bd006b2c5
+Arms-Userdata: traceId=db857615fcf241faabfd037bd006b2c5&domain=ecs-core&page=server%2Flist&session=NDF_wr62u1eZWaBIKSsBd&biz=server_list_20220621&__biz_id=server_list_20220621&bizId=server_list_20220621&actionId=755c9cea39a43667742f734993d59778&actionType=%40%40container%28%23new-warning-module%29%5Bu8sTzuXkzrpBUgtYOdTUP%5D%2FDESCRIBE_EVENT_WARNING_STATUS
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/server/region/cn-hangzhou
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=DescribeInstanceHistoryEvents&collina=140%23CK1oVtqpzzPtozo2H5bFZ6S7D2RAVgnYJaljlZQhfBtGT8U05a88ITVIvDl6puFoQO57MaxqxPWVz2ny8hP8khS9cAPoobqrttiXZ5Ahlp1zzqeKYewj0QzxGxPza3Etzzrb22U3l614JDKKizkxDc0bSIdAptGPYFn0xXG8Pf7vyI%2BiIXJqlaOz2PD%2BVFllzFn4zZ1VgYLLMZ2aMXm%2B%2Fcfw6oIS2HkbWgEc%2BesE4arQtRPNpRPp7l7PuETD1mD1wKAet4dhY%2BHO5%2Fr5ugXqJS2gLias%2FUDsTtD5bXai3Y0ZAZ9eAbCuO7p1EFq9J6kvWMk2aBK0DemfZYcUTIBfpUlZGgyZnlPkIAUPJ20lRsu574IG%2Fn2Fmd75d15KukfDX1Wb3uDrraqfNdcYw%2FV8ww1fcmpcTSaBtcHF8cTTd5dtrri4p2CTT%2BACyeBajAEeYsG9VdmHrpVAFizmN6o9Afo%2B9Mu7uLaWL1qJBFviC4NnJ6SvtUlixjk6iJ6af%2FEBPXUP2oAfz2%2BNxtWk1tMI%2FJkN5zUlAJcd3GXqiBPNJtw8yNVbqDNeUB0Q2LGHZo0lAp7mvbaY%2Fg979TOmZPiF%2B07luusqJ35TCNdAMhpoZAaepxMwWAoLFYwH5cjmrR%2BIz6i97DckbKtC0QEGMo7icXWd3a01V0xo8%2FKd7kj2vnMpSa8RCsILZcd0aADhk96%2BiPChtDRdru2uq0118nmffXR4rTcMDnI0PKaEjd45z79IB%2FRKOm%2B9dn%2BgtM1mQGdiJlLixekLLrtL61evSqxCt2BpMA%2BCHGQiPM5wA5oHk66oqSWjSNkYzIE%2Fv9C%2FKx14hsv6GHlcRrTOdfcs5Wi3d9%2FzAbEJTXBGteuDXIjgyEeYRwSo8wVaHF5AdzBUIQ4OugZBeyO5SFNhModKF19bziFtynfAvjY3lAnOkdNAqa4LgxM6IiCm3cyPBAOjQFAv9woazJb%3D&params=%7B%22RegionId%22%3A%22cn-hangzhou%22%2C%22EventType%22%3A%22SystemFailure.Delete%22%2C%22PageSize%22%3A100%2C%22EventPublishTime.Start%22%3A%222023-07-02T11%3A17%3A15Z%22%7D&product=ecs&region=cn-hangzhou&secToken=d5mraaH0uvLd9OQlTDzyz7&token=Y5d9e0a380443c7194dc0c2c552bf5de2

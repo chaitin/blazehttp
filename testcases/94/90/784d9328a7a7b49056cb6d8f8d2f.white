@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-907C32EXHD&gtm=45je36s0&_p=1309989917&cid=416859742.1688122488&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=AEA&_s=4&dp=%2Ftopics%2Fcalculus&dl=https%3A%2F%2Fwww.3blue1brown.com%2Ftopics%2Fcalculus&dr=https%3A%2F%2Fwww.3blue1brown.com%2F&sid=1688377199&sct=3&seg=1&dt=3Blue1Brown&en=page_view&_et=920 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.3blue1brown.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.3blue1brown.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

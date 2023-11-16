@@ -1,0 +1,15 @@
+GET /api/v2/get?referer=https%3A%2F%2Fdl.reg.163.com%2Fwebzj%2Fv1.0.1%2Fpub%2Findex2_new.html&zoneId=CN31&id=7ef4da58447919badeea0a8b20ac7e54&fp=lKk%2BBfV68koxwyCvwhJ9Mh%5C9dBBE3OABCsak3pyNvkzmqBByJzWa16DRSr%2Fgu3yBhZalQ2B0GvPl19GJVfGC9Q13Z3UoIl%2ByZMA4d1HyHI6DBBc2cyxcNEs%2FlNzTeuLbXDJX4O6covcZi8tR65DwXou5fn%2FJvc2Kwi31v1eEkgsV8ylz%3A1688380366165&https=true&type=2&version=2.15.2&dpr=1&dev=1&cb=%5C2JguSoFleFh9TioImDsh4%5CCp%5CqGoCepHMkbWhoV6cNCGVVkZe0SgUcQP0MHpFrn&ipv6=false&runEnv=10&group=&scene=&width=0&audio=false&token=&callback=__JSONP_eyzj3y6_0 HTTP/1.1
+Host: webzjcaptcha.reg.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://dl.reg.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

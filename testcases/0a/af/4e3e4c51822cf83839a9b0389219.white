@@ -1,0 +1,18 @@
+POST /x/click-interface/web/heartbeat HTTP/1.1
+Host: api.bilibili.com
+Content-Length: 408
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/video/BV1HW4y1Q7rv/?spm_id_from=333.1007.tianma.2-3-6.click&vd_source=b3e4f900304b3567373da8122c2b5004
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+start_ts=1688375130&mid=503647489&aid=954803229&cid=1163163451&type=3&sub_type=0&dt=2&play_type=4&realtime=0&played_time=1&real_played_time=1&refer_url=https%3A%2F%2Fwww.bilibili.com%2F&quality=0&video_duration=430&last_play_progress_time=1&max_play_progress_time=1&spmid=333.788.0.0&from_spmid=333.1007.tianma.2-3-6.click&extra=%7B%22player_version%22%3A%224.1.20%22%7D&csrf=75a49d3dee0cd505eec38f4677904fb7

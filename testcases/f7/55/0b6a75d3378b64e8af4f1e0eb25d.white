@@ -1,0 +1,18 @@
+POST /collect?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379336483&from=https%3A%2F%2Fuser.qzone.qq.com%2F389264167%2Fmain%2Fcustom%2Flayout&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 1580
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+msg[0]=SCRIPT%20load%20fail%3A%20https%3A%2F%2Fcdn-go.cn%2Fvasdev%2Fweb_webpersistance_v2%2Fv1.5.3%2Fflog.core.min.js&level[0]=32&&msg[1]=req%20url%3A%20https%3A%2F%2Ftsdk.qq.com%2Fhandle%20%0Ares%20time%3A%20205%20%0Areq%20param%3A%20xubN7QAAAAMAAAAfAAAAAAAAAAAAAwAIAAABNAEABTEwMDg267cT6%2BiErWZ4IRg7o3csxv%2Bzz6ohfTDAzV7gYzAl3cR0p3cBn539JUehlm4d4jGKhqi1ecmTLUlZkIdBu3sk3tN5j8NMjEniDM4fW7qFjcitawU%2BNBXsb3ZLUeY0B8MpNWc8PwxMCeABa3jztjwSEZxAp%2F2peCzG5GUVNVnhKZMg8JOLzX5GBv7fAInC4kDsPQA1o6tvv3yVdLiRi2EDz25OLuPL4%2BDypO30hCdJlrZ08gqALjNoYqK5JCrxe7pP1BMALCG4qeukIKELBF3TFd2AZ3c3m3SKFeqqEEAlB4C8uVfd7A4LQ63FIorX%2BmAVn%2BA1u%2Fv1z4%2BubmYttnpUB0sDfgraIw9umT2IR%2B0pqfrsLjy6OTUCPZJnxAD3DfRWZmt2L%2BrYupL91Wz1gxUIgSIDta8%3D%20%0Ares%20data%3A%20%7B%22code%22%3A0%2C%22msg%22%3A%22ok%22%2C%22data%22%3A%22%22%7D&level[1]=1&&msg[2]=Script%20error.%20%40%20(%3A0%3A0)&level[2]=4&&msg[3]=req%20url%3A%20https%3A%2F%2Fuser.qzone.qq.com%2Fproxy%2Fdomain%2Fg.qzone.qq.com%2Ffcg-bin%2Fcgi_emotion_list.fcg%3Fuin%3D389264167%26loginUin%3D389264167%26rd%3D0.32248277167248274%26num%3D3%26noflower%3D1%26q_sig%3D42018c8de2de4742614b32514531c99fa2641d85bc179281911c%26ver%3D1.0.3%26g_tk%3D1508769380%26g_tk%3D1508769380%20%0Ares%20time%3A%20274%20%0Areq%20param%3A%20%20%0Ares%20data%3A%20%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22GBK%22%3F%3E%20%0A%3Cqzone%3E%0A%3Cresult%20type%3D%220%22%3E%0A%3Cmessage%3E%3C%2Fmessage%3E%0A%3Cdata%3E%0A%3Cvisitcount%3E12448%3C%2Fvisitcount%3E%0A%3Ctodayvisit%3E0%3C%2Ftodayvisit%3E%0A%3C%2Fdata%3E%0A%3C%2Fresult%3E%0A%3C%2Fqzone%3E&level[3]=1&&count=4

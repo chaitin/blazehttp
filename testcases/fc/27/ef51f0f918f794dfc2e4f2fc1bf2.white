@@ -1,0 +1,18 @@
+POST /collect?id=1005&uin=oqFLxsmMLgrDfuK6JD8Dh9xX0JH4&version=1.40.9&aid=00010011-0110-0001-0110-000000011111&env=production&platform=3&netType=4&vp=1914%20*%20779&sr=1920%20*%201080&sessionId=session-1688383898140&from=https%3A%2F%2Fy.tencentmusic.com%2Fqqmusic.html%3Fqynum%3D1152921504763685208%26qytoken%3D3OPiYI60maqn0T1-I7PbujnXNQznNjWz3_eIfvNo_bxvK8FE38kXI0Jxhdatg7BB8zrvKlgUspwQ%23%2Fuser%2Fcreateorgan&referer=https%3A%2F%2Fy.qq.com%2F HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 1265
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://y.tencentmusic.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://y.tencentmusic.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"level":["1024","64","1"],"msg":["fetch req url: https://y.tencentmusic.com/v2/gray/hit \n                      \nres status: 200\n                      \nres duration: 46.6ms\n                      \nreq method: GET\n                      \nres retcode: 040035\n                      \nreq param: undefined\n                      \nres data: {\"code\":\"040035\",\"message\":\"没有该数据权限\",\"data\":null,\"traceId\":\"musician-service_ex_dobgtqjg66jnef0p8sli54bi6digg8i6\",\"success\":false,\"msg\":\"没有该数据权限\"}\n                      \n                      ","IMG load fail: https://y.tencentmusic.com/undefined","fetch req url: https://yzf.qq.com/xv/web/user_manage/h5_channel/get_h5_channel_css?sign=37ef9b97d12757972112cbeb18b7b3641e2736ff2e8a9e5c753a00dae331a140e504536d9b37e1c32370950b68ca1b0e2c92dd \n                      \nres status: 200\n                      \nres duration: 160ms\n                      \nreq method: GET\n                      \nres retcode: unknown\n                      \nreq param: null\n                      \nres data: {\"status\": 0, \"err_info\": \"\", \"data\": \"{\\\"custom_color\\\":\\\"#4979ff\\\"}\"}\n                      \n                      "],"code":["040035","","unknown"],"count":3}

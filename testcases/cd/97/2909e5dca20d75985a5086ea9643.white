@@ -1,0 +1,18 @@
+POST /github/collect HTTP/1.1
+Host: collector.github.com
+Content-Length: 929
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://github.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://github.com/search?q=repo%3ASpiderLabs%2FModSecurity%20select&type=code
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"client_id":"876056057.1661334490","page_views":[{"page":"https://github.com/search?q=repo%3ASpiderLabs%2FModSecurity%20select&type=code","title":"Code search results · GitHub","context":{"actor_id":"130349172","actor_login":"naocanmonster","actor_hash":"05398acd83c991226de9aa5bbdadf3a603b72d8fb68a935415d861ec376c6eaf","referrer":"https://github.com/SpiderLabs/ModSecurity/blob/v3/master/src/rule_script.cc","request_id":"D2BD:1DB1:3845BE5:3C69EB6:64A29CF2","visitor_id":"3762632115939046362","region_edge":"southeastasia","region_render":"iad","staff":"false","turbo":"true"}}],"request_context":{"referrer":"https://cn.bing.com/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","screen_resolution":"1920x1080","browser_resolution":"1920x921","browser_languages":"zh-CN,en-US,en,zh","pixel_ratio":1,"timestamp":1688378615479,"tz_seconds":28800}}

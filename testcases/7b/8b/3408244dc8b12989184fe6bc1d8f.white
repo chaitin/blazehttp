@@ -1,0 +1,17 @@
+POST /v1:GetHints?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw HTTP/1.1
+Host: optimizationguide-pa.googleapis.com
+Content-Length: 974
+Content-Type: application/x-protobuf
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQiFk80BCPqYzQEIhaDNAQiQq80BCNq0zQEItbzNAQiMvc0BCKS9zQEI3L3NAQi7vs0BCKS/zQEI/r/NAQ==
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+
+
+login.microsoftonline.com"™
+–https://login.microsoftonline.com/common/oauth2/v2.0/authorize?response_type=code&client_id=46cdaa3f-9339-4b60-bf04-4dd98cd903d7&code_challenge=7WpBSiWJ3PZJ8hmpG7hwRmpcXAxeLevD59yVl45q_H8&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fid.atlassian.com%2Fv2%2Flogin%2Fmicrosoft%2Fcallback&scope=openid+email+profile&state=eyJjc3JmVG9rZW4iOiJiMWQ1MTBiZDM1MjlkYzA5ZTU3NzMyZmI1OTk5YjBkNzk4MDcxN2IwMWMwNmVmNGRhOWI0YTQzZDU2ZGYyNzFkIiwiYW5vbnltb3VzSWQiOiJlZjY4ODJhMC1mZTBiLTBhNTgtMjk0Zi01NTI2NDg4MDNjMDciLCJxdWVyeSI6Ij9jb250aW51ZT1odHRwcyUzQSUyRiUyRnd3dy5hdGxhc3NpYW4uY29tJTJGZ2F0ZXdheSUyRmFwaSUyRnN0YXJ0JTJGYXV0aHJlZGlyZWN0JTNGYXRsT3JpZ2luJTNEZXlKcElqb2lOMlV3TnpJMllUZGhNekUxTkRoalpUazVNekUzTVRrME5HWmlOall5WVRnaUxDSndJam9pZDJGakxXZHNiMkpoYkdSeWIzQmtiM2R1SW4wJmxvZ2luVHlwZT1taWNyb3NvZnRMb2dpbiZwcm9tcHQ9c2VsZWN0X2FjY291bnQmc291cmNlPWxvZ2luU2NyZWVuIiwibG9naW5UeXBlIjoibWljcm9zb2Z0TG9naW4ifQ%3D%3D&prompt=select_account((:en-USJ

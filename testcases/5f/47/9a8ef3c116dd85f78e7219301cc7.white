@@ -1,0 +1,22 @@
+POST /international/search/api/penalty/getPenaltyRule?v=0.8019843283162686 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 2095
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-mHtx6qYXzKm3wXqJ4DvZkw5MJ8dEFAydtYp7ychyG6vUfjOQjLziPsvzpyohEkZYbpvQ4jksypXYb4JaHE07yg6RoTyQqWNmwDQwnUJfLy3sYlNWcmiGY51epbj0sRH9R7ZwX0jaSjp5i6DyNhjOmR6QWNcvhoRbHy0fJdhep3KXZIcYtSxPjOXYLsKNhjn4jXOEAtyQESbiU6YkEtNYDNyUEGNY9Qyb4vsfW7zedcx6gKkHjU5yO9IAnwzDj8FwHpe34EZ7Im3wFsiMcRdEH9YPSySziTAYl0W40e6zYz5j4El9YFUyhBW0LektyzgjFEgMYtay4GiAcY7pjcXKNsETdId4e9lK6oxUoKmAe5NJ8bIg7yhE4HiNhytFYHEPhiGaJ6LR4E4QYQpw0fyFbjofEpSyO4E13jBnjLENgistJGZYHZWSpYq5i4XekoWAXysfeQgWDOEfEgNY3lw4bEQ8WoTWsceM1EGkYcfwNgjsLeMOyHEGqiF0JnajhgwMQiTLEDORAny3EM6YA4wf6ygFeL8ySEnZiHGJP8inziPLYLqjM3iQkEAoJ0BKNaxGFE9YSgeUDxDtR53R09wX5jztjZ4iXay4ljlkWFMRZBR1Xjh0EoTY4PIkbEo5j1kIl7vf4vpQW0njmGxAZvZYZXrXUEmfjUtjscyONyHGWlOwOQjQajcbj4geAGvs0WobYFlyT8eFSETcR03v5swUAeUXJZTjDdjhlyzmepoJMPyGqvkcylgymzJ6DEMOjUmyGavZ7iMzyl9wHbJQbvpYNPYtDYt6EqTYZSwUgYBbwsDEhkjU7YzGwT0iP1w39RXYS8EHfiL1KU1YO8EG6vO1YqaKhYGpR9PwpSy4OvlQeFtYsPifgYHXY03i5qK0YTgI8ET0eLpeU3EZSjAXW8fIG6wnpefYgmvqQJ8qvmSr1NKSMeTZEaUWhpw9pWkNjTYZbyMgxh1xsORc4v06YmoW5LeX9ROQW57j0GW4Ow09xPbRcYU6KqnJ6ZIscR0pvomYG8WpceBTRQkWZOiN5YDzwHAWLn
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"penaltyCriteria":"{\"flightTrainRuleID\":0,\"tripType\":\"ONE_WAY\",\"priceUnitCriteriaList\":[{\"rcKey\":\"RCKEY2|CpcBCMYMEJ0RGgcItAYQABgAIgcIiEAQABgCKggIiL0BEAAYAjIHCIhAEAAYAjgDQABKBk5vcm1hbFAAWABgxgxqAk5BcgJIVXoDSEdIggEDUEVLigEGSFU3Njc4kgEBQZoBCQjAre2tpGIQBKIBA05GRKgBALABkICAwKKBgIAIuAEBwgEDQURV0AGljBraAQFO4AEC6gEBVA==\",\"rid\":1606,\"cid\":2205,\"passengerType\":\"Adult\",\"fdPrice\":820.0,\"price\":820,\"printPrice\":820.0,\"standPrice\":2420.0,\"productSource\":3,\"productType\":\"Normal\",\"saleType\":\"Normal\",\"airline\":\"HU\",\"extensionFlags\":0,\"extensionFlags2\":576460795924185104,\"subClass\":\"A\",\"dportCode\":\"HGH\",\"aportCode\":\"PEK\",\"flightNo\":\"HU7678\",\"dtime\":\"2023-07-04 21:45:00\",\"nonRef\":false,\"nonRer\":false,\"refundNote\":\"航班离站时间前168小时（含）之前，每次收取票面价40%的退票手续费；航班离站时间前168小时（不含）至航班离站时间前72小时（含），每次收取票面价60%的退票手续费；航班离站时间前72小时（不含）至航班离站时间前4小时（含），每次收取票面价80%的退票手续费；航班离站时间前4小时（不含）至航班起飞后，每次收取票面价90%的退票手续费；\",\"changeNote\":\"航班离站时间前168小时（含）之前，每次收取票面价20%的变更手续费；航班离站时间前168小时（不含）至航班离站时间前72小时（含），每次收取票面价30%的变更手续费；航班离站时间前72小时（不含）至航班离站时间前4小时（含），每次收取票面价50%的变更手续费；航班离站时间前4小时（不含）至航班起飞后，每次收取票面价70%的变更手续费；改期费与升舱费并存时，需同时收取。\",\"endorseNote\":\"不得签转。\",\"remark\":\"已办理完变更、签转的客票，后续再发生退、改、签业务时，所收取的变更费一律不再退回。\",\"priceGroupType\":\"Priority\",\"routeNo\":1,\"segmentNo\":1,\"virtualFlight\":false,\"canRefund\":true,\"canChange\":true,\"canEndorse\":false}]}"}

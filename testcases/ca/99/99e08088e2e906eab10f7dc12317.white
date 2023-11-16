@@ -1,0 +1,18 @@
+POST /collect?id=9GkL9SLGjnYrr8bJd6&uin=&version=1.35.26&aid=9f77cd42-08ce-4d1b-9d16-42d90e1f7792&env=production&platform=3&netType=4&vp=0%20*%200&sr=1920%20*%201080&sessionId=session-1688375712738&from=https%3A%2F%2Fwebpage.qidian.qq.com%2Fqidian%2Fchatv3%2Fpc.html&referer=https%3A%2F%2Fmodao.cc%2F HTTP/1.1
+Host: rumt-zh.com
+Content-Length: 1582
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://webpage.qidian.qq.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://webpage.qidian.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"level":["2","2","2"],"msg":["{\n    \"name\": \"webim\",\n    \"ext1\": \"7/3/2023, 5:15:13 PM.105|{\\\"method\\\":\\\"AIO_MOUNTED\\\",\\\"message\\\":{\\\"clickid\\\":\\\"omu50z.xqj0ei.ljmnb1v0\\\"},\\\"referrer\\\":\\\"https://modao.cc/\\\"}\",\n    \"ext2\": \"\"\n}","{\n    \"name\": \"webim\",\n    \"ext1\": \"7/3/2023, 5:15:13 PM.113|{\\\"method\\\":\\\"operateIframe\\\",\\\"action\\\":\\\"INIT\\\",\\\"msgData\\\":{\\\"kfuin\\\":3009074401,\\\"wpaId\\\":\\\"396\\\",\\\"opentype\\\":\\\"2\\\",\\\"wpaKey\\\":\\\"29217b43492df1157945f52a80582eaf\\\",\\\"act\\\":\\\"INIT\\\",\\\"isMobile\\\":false,\\\"visitorid\\\":\\\"529788006419284\\\",\\\"roleData\\\":\\\"922223586\\\",\\\"rolevaIue\\\":\\\"4\\\",\\\"translateSwitch\\\":0,\\\"tencentSig\\\":\\\"734972107023901\\\",\\\"userInfo\\\":\\\"%7B%7D\\\",\\\"QD_PM\\\":\\\"WPA\\\",\\\"qidian_lang\\\":\\\"zh-cn\\\",\\\"__QIDIAN_WPA_VISITORID_FOR_RPT\\\":\\\"734972107023901\\\"},\\\"referrer\\\":\\\"https://modao.cc/\\\"}\",\n    \"ext2\": \"\"\n}","{\n    \"name\": \"webim\",\n    \"ext1\": \"7/3/2023, 5:15:13 PM.115|{\\\"method\\\":\\\"operateIframe\\\",\\\"action\\\":\\\"UPDATE_UNREAD\\\",\\\"msgData\\\":{\\\"act\\\":\\\"UPDATE_UNREAD\\\",\\\"kfuin\\\":\\\"3009074401\\\",\\\"key\\\":\\\"\\\",\\\"theme\\\":1,\\\"rolevaIue\\\":0,\\\"receptionUin\\\":\\\"0\\\",\\\"receptionName\\\":\\\"\\\",\\\"number\\\":0,\\\"QD_PM\\\":\\\"WPA\\\",\\\"qidian_lang\\\":\\\"zh-cn\\\",\\\"__QIDIAN_WPA_VISITORID_FOR_RPT\\\":\\\"734972107023901\\\"},\\\"referrer\\\":\\\"https://modao.cc/\\\"}\",\n    \"ext2\": \"\"\n}"],"count":3}

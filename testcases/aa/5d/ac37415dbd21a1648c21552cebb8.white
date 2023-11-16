@@ -1,0 +1,15 @@
+GET /api/v2/getconf?referer=https%3A%2F%2Fzc.reg.163.com%2FregInitialized&zoneId=&id=dfde31e214a94304abef7a1012da2f90&ipv6=true&runEnv=10&loadVersion=2.2.6&callback=__JSONP_t3tigyj_0 HTTP/1.1
+Host: webzjcaptcha-v6.reg.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://zc.reg.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

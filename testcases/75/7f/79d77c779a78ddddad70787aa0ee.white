@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.zijieapi.com
+Content-Length: 1784
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://login.feishu.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.feishu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"passport_qr_login_view","params":"{\"_staging_flag\":0,\"passport_appid\":\"18\",\"tracking_code\":\"7010o0000024cQ8AAI\",\"template_id\":\"6882649779491307521\",\"utm_from\":\"360sem_keyword_pc_office_pinpai_pinpai_feishu\",\"flow_type\":\"none\",\"env\":\"web\",\"pa_id\":\"\",\"general_from\":\"\",\"event_index\":1688376253096}","local_time_ms":1688375928044,"is_bav":0,"session_id":"d182cdef-f26b-4709-85c8-0523e6c33289"},{"event":"login_page_enter_scan","params":"{\"_staging_flag\":0,\"env\":\"web\",\"pa_id\":\"\",\"template_id\":\"6882649779491307521\",\"general_from\":\"\",\"event_index\":1688376253095}","local_time_ms":1688375928044,"is_bav":0,"session_id":"d182cdef-f26b-4709-85c8-0523e6c33289"},{"event":"passport_login_click","params":"{\"_staging_flag\":0,\"passport_appid\":\"18\",\"tracking_code\":\"7010o0000024cQ8AAI\",\"template_id\":\"6882649779491307521\",\"utm_from\":\"360sem_keyword_pc_office_pinpai_pinpai_feishu\",\"flow_type\":\"none\",\"click\":\"qr_login\",\"target\":\"passport_qr_login_view\",\"env\":\"web\",\"pa_id\":\"\",\"general_from\":\"\",\"event_index\":1688376253094}","local_time_ms":1688375928042,"is_bav":0,"session_id":"d182cdef-f26b-4709-85c8-0523e6c33289"}],"user":{"user_unique_id":"8611841688375803725","web_id":"7137524116031538701"},"header":{"app_id":1658,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","language":"zh-CN","platform":"web","sdk_version":"5.0.27","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"","referrer_host":"","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"tracer_data":"{\"$utm_from_url\":1}","custom":"{\"_type_\":\"default\"}"},"local_time":1688375928}]

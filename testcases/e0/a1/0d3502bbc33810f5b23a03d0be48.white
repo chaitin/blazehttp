@@ -1,0 +1,16 @@
+GET /embed/v3/form/5871640/4b7276b0-b1fb-4651-9541-d26737e24773/json?hs_static_app=forms-embed&hs_static_app_version=1.3372&X-HubSpot-Static-App-Info=forms-embed-1.3372 HTTP/1.1
+Host: forms.hsforms.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.deeplearning.ai
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.deeplearning.ai/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

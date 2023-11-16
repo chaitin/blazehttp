@@ -1,0 +1,15 @@
+GET /push/info?browser_id=bed4c77a422e4d8ddadeafa1a5bdeeda&ent_id=342080&track_id=2S3jntfYtQH0tTPPEXGw66mydby&visit_id=2S3jntVEaHmfbWlFSohen3rJi2T&t=1688382332230 HTTP/1.1
+Host: camorope-client-a.meiqia.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: http://www.authing.co
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

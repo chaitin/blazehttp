@@ -1,0 +1,17 @@
+POST /v1:GetHints?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw HTTP/1.1
+Host: optimizationguide-pa.googleapis.com
+Content-Length: 318
+Content-Type: application/x-protobuf
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQiFk80BCPqYzQEIhaDNAQiQq80BCNq0zQEItbzNAQiMvc0BCKS9zQEI3L3NAQi7vs0BCKS/zQEI/r/NAQ==
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+
+%
+#privacynotice.account.microsoft.com"ÿ
+ühttps://privacynotice.account.microsoft.com/notice?ru=https://login.live.com/oauth20_authorize.srf%3fuaid%3de95e523891534cceb1b262197bc506ba%26client_id%3d4765445b-32c6-49b0-83e6-1d93765276ca%26opid%3dAD56F2D7EF65FE8D%26mkt%3dZH-CN%26opidt%3d1688381491((:en-USJ

@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&a=1507534359&t=pageview&_s=1&dl=https%3A%2F%2Fwww.jianshu.com%2Fp%2F6aff6e5d97b3&dr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D65AusSQ56g_5FS0IhvkacGj5-i2ArgHgQkB7LeuHUu1cr66X5XzA31erHE5rHwzx%26wd%3D%26eqid%3Dec135c3a0005ef540000000464a2a14d&ul=zh-cn&de=UTF-8&dt=%E5%85%A8%E4%B8%96%E7%95%8C%E6%9C%80%E6%B5%81%E8%A1%8C%E7%9A%84%E7%BD%91%E7%AB%99%20-%20%E7%AE%80%E4%B9%A6&sd=24-bit&sr=1920x1080&vp=1730x837&je=0&_u=AACAAEABAAAAACAAI~&jid=1116952145&gjid=167542565&cid=32801751.1597988559&tid=UA-33092501-2&_gid=1153344673.1688358867&_r=1&_slc=1&z=1977307760 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.jianshu.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.jianshu.com/p/6aff6e5d97b3
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

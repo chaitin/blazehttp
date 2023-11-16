@@ -1,0 +1,19 @@
+POST /data/multiApi.json?_fetcher_=metrics20190101__DescribeSystemEventCount HTTP/1.1
+Host: home.console.aliyun.com
+Content-Length: 1312
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/home/dashboard/ProductAndService
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=metrics20190101&actions=%5B%7B%22action%22%3A%22DescribeSystemEventCount%22%2C%22params%22%3A%7B%22StartTime%22%3A1688296582283%2C%22EndTime%22%3A1688382982283%2C%22Level%22%3A%22Critical%22%7D%2C%22customRequestKey%22%3A%22Critical%22%7D%2C%7B%22action%22%3A%22DescribeSystemEventCount%22%2C%22params%22%3A%7B%22StartTime%22%3A1688296582283%2C%22EndTime%22%3A1688382982283%2C%22Level%22%3A%22Warn%22%7D%2C%22customRequestKey%22%3A%22Warn%22%7D%5D&collina=140%23lRSoo2MLzzWMfQo2%2Bi%2BbKtN8s77%2BPKdJLlGYOK2C46D%2BOY87kTaX7pqptHk6K20YW5XQlp1zzqeKYUIMpFzxGx8%2B93h%2Fzzrb22U3l61WEIPPIC%2FBKbW0L2c2%2Ft%2BUoKOs7XrfMM%2B2y8bWiWVCrbvKHXDritgqzHOb228%2B4FXYUHmijDapVrMDXEPBqH1uTpfHo6TUSmrGWqiDv9OkYx4KLaVp19RTNF3l82TEQ2FP9GP1fB9R2rxEmay9vFoMW%2BQUf8JLghu1H39XTX4INfS2MpfQu9qaAFzMnpd3yuSmLAKz07%2FILZW%2Bt%2BNjp66EY7lFeWKgSrIKIJB1WzhQGm%2FvlhO9RgmbhNTx3%2Blb%2B0vCZpIcidett7WfsynwParJ1xnsVLiSB7kMSDxRgmO19xnPuKu7BjHZ5dZcLW2UFt4C0blSvbhEF7V9wrZyldULyzvtaUtlAEZ3ErMPTqHowiv6n%2FeaMzYyiufXcZSgHF1cf9%2FkvKkaO4dBOPJNOorR2LnVfOYVglgHkCKiOEBeUv66CfV14nLOLCiJWFczD8M8C3Tli1Ni7hD6m0LvpJOgZizOJJfLlld3TwKhuMWuqE5L4ak6zFwkguKaWYykNr%2B4n%2B%2F%2F6uSOA41w9NlLl3OGKuYDS6nrIhydKTWfSATaE8CshM%2BBsHTJiZc5gVx%2BwcmWZUlGOvBBK%2BcBTUJIvvxhM9RUDtDTcz%3D%3D&umid=Ya2e9ad212a7420c01f8a345505a4557a&sec_token=d5mraaH0uvLd9OQlTDzyz7

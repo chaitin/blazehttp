@@ -1,0 +1,16 @@
+GET /logstores/loader-log/track?APIVersion=0.6.0&uid=1845102322007694&parent_uid=1845102322007694&loc=https:%2F%2Fhome.console.aliyun.com%2F&bs=Chrome%2F114&loader=3.12.0&id=%40ali%2Fwidget-home-promotion&request_ver=2.x&initiator=https:%2F%2Fhome.console.aliyun.com%2F&start_time=1688382981207&version=2.1.5&end_time=1688382982000&duration=340&cost=793 HTTP/1.1
+Host: widget-log.cn-hangzhou.log.aliyuncs.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

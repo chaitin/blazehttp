@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 655
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=What+Really+is+an+Execute+Master%E2%80%99s+Degree%3F+-+mba.com&form=QBLHCN&sp=-1&lq=0&pq=what+really+is+an+execute+master%E2%80%99s+degree%3F+-+mba.com&sc=0-52&qs=n&sk=&cvid=0A9FE6F0CDF44CABB29FBCFB883057A6&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>FC93EF8E2CCF4F7EB2A440CC7652DCA3</IG><TS>1688378883848</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":4,"N":5,"I":"1b","S":"V","M":"V+L+M+MT+E+N+C+K+BD+BF","T":9463,"K":"7av","F":1},"V":"7ar/////////hidden/visibilitychange","M":"rk+oe+-1+7av+4d+2s+0+2z+0+1z8+1","E":"@3w/2/X/1o/+@3w/6/X/1o/+@3w/7/X/1o/+@3w/8/X/1o/+@3w/9/X/1o/+@3w/a/X/1o/+@3w/b/X/1o/+@3w/c/X/1o/+@3w/d/X/1o/+@3w/e/X/1o/+@3w/f/X/1o/+@3w/g/X/1o/+@3w/h/X/1o/+@3w/i/X/1o/+@3w/j/X/1o/+@3w/k/X/1o/+@3w/l/X/1o/+@3w/m/X/2s/+@3w/n/X/4y/+@3w/o/X/jq/"}]]]></D></E></Events><STS>1688378883848</STS></ClientInstRequest>

@@ -1,0 +1,19 @@
+POST /RemoteUls.ashx HTTP/1.1
+Host: www.onenote.com
+Content-Length: 592
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Usersessionid: e6a4707b-c96d-46b2-92c7-2c560b4f0ce4
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.onenote.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"T":1688381527465,"L":[{"G":6160856,"T":0,"M":"OnLoad","C":405,"D":50},{"G":6160857,"T":2,"M":"UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","C":405,"D":50},{"G":6160858,"T":2,"M":"Detected OS Platform: Win10","C":405,"D":50},{"G":6436628,"T":3,"M":"User ViewPort Info;windowWidth=1920;windowHeight=921;screenWidth=1920;screenHeight=1080;percentageOfPageVisible=100.000;","C":405,"D":50},{"G":18130562,"T":6,"M":"No notebooks shown to user","C":400,"D":10}],"S":"e6a4707b-c96d-46b2-92c7-2c560b4f0ce4","I":0,"V":1}

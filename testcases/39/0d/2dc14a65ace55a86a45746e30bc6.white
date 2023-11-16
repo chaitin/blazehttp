@@ -1,0 +1,40 @@
+POST /mail/u/0/logstreamz HTTP/1.1
+Host: mail.google.com
+Content-Length: 655
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Framework-Xsrf-Token: AKwhgQrDFxhcmYg8ZM7gwhiJj6zZQHneVQ:1687833943095
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryBzFlBWteBXtt4jU8
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Wow64: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mail.google.com
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQiFk80BCPqYzQEIhaDNAQiQq80BCNq0zQEItbzNAQiMvc0BCKS9zQEI3L3NAQi7vs0BCKS/zQEI/r/NAQ==
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mail.google.com/mail/u/0/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+------WebKitFormBoundaryBzFlBWteBXtt4jU8
+Content-Disposition: form-data; name="impressionId"
+
+initial_load_attempt
+------WebKitFormBoundaryBzFlBWteBXtt4jU8
+Content-Disposition: form-data; name="customData"
+
+{"mct":2,"nt":0,"gapi_version":null,"chat_no_gmail_storage":false}
+------WebKitFormBoundaryBzFlBWteBXtt4jU8
+Content-Disposition: form-data; name="defaultData"
+
+{"inbox_type":"SECTIONED","hub_configuration":3,"delegation_request":false,"customer_type":"CONSUMER","browser":"CHROME","gapi_version":null,"compile_mode":"","is_cached_html":true,"build_label":"gmail.pinto-server_20230621.06_p2"}
+------WebKitFormBoundaryBzFlBWteBXtt4jU8--

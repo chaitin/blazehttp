@@ -1,0 +1,147 @@
+POST /sponsors/batch_deferred_sponsor_buttons HTTP/1.1
+Host: github.com
+Content-Length: 4619
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryzhksb2Be4Kj5joRs
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://github.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://github.com/search?q=injection&type=repositories
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="_method"
+
+GET
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033-109531717][sponsorable_id]"
+
+1786033
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033-109531717][sponsorable_login]"
+
+johnno1962
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033-109531717][repo_name]"
+
+InjectionIII
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033-109531717][has_funding_file]"
+
+true
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033-109531717][location]"
+
+REPO_SEARCH_RESULT_SPONSOR
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033][sponsorable_id]"
+
+1786033
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033][sponsorable_login]"
+
+johnno1962
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033][repo_name]"
+
+injectionforxcode
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033][has_funding_file]"
+
+false
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-1786033][location]"
+
+REPO_SEARCH_RESULT_SPONSOR
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-735289-4793392][sponsorable_id]"
+
+735289
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-735289-4793392][sponsorable_login]"
+
+sqlmapproject
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-735289-4793392][repo_name]"
+
+sqlmap
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-735289-4793392][has_funding_file]"
+
+true
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-735289-4793392][location]"
+
+REPO_SEARCH_RESULT_SPONSOR
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-218447149][sponsorable_id]"
+
+54147719
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-218447149][sponsorable_login]"
+
+payloadbox
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-218447149][repo_name]"
+
+sql-injection-payload-list
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-218447149][has_funding_file]"
+
+true
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-218447149][location]"
+
+REPO_SEARCH_RESULT_SPONSOR
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-37262788-306713740][sponsorable_id]"
+
+37262788
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-37262788-306713740][sponsorable_login]"
+
+kleiton0x00
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-37262788-306713740][repo_name]"
+
+Advanced-SQL-Injection-Cheatsheet
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-37262788-306713740][has_funding_file]"
+
+true
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-37262788-306713740][location]"
+
+REPO_SEARCH_RESULT_SPONSOR
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-156012620][sponsorable_id]"
+
+54147719
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-156012620][sponsorable_login]"
+
+payloadbox
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-156012620][repo_name]"
+
+command-injection-payload-list
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-156012620][has_funding_file]"
+
+true
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="items[item-54147719-156012620][location]"
+
+REPO_SEARCH_RESULT_SPONSOR
+------WebKitFormBoundaryzhksb2Be4Kj5joRs
+Content-Disposition: form-data; name="authenticity_token"
+
+3F8Xerf9Wz5aH0xN-_uq-mU3JDlE1UatW1DdzrP39dbcstncG9SfuUNFcBbP4cuvH_9nXHT44N3aoIbIhckRNQ
+------WebKitFormBoundaryzhksb2Be4Kj5joRs--

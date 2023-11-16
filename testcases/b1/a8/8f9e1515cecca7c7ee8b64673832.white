@@ -1,0 +1,19 @@
+POST /log/ocpcagl?type=behavior&emd=euc HTTP/1.1
+Host: fclog.baidu.com
+Content-Length: 1268
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain; charset=UTF-8
+Accept: */*
+Origin: https://www.anhengcloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.anhengcloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+N4IgLgziBcCMBsAORBmRtEFYDstbYBpwAvGRIgGwHsBzASwBMYQsBDTB7XAWgAZWUAM24AWWL17dWAYxEBObrEyYARiJS9pmaQCZBIIgAcATlQYBXaWDpUAdswD6g7ABkdADQDuAcXcArAE8IYjUGWABTHSoADwAFAJUaABEDEGlw4zBmVIhwiAgbW0ZmFUFWOXZ4FEURbB1RFFhqxF5tbh1YOS0EeVbEVPNi6BBBaUFMEV5YFW4u+HhRaTlYbhVEQRnMWEERHQrEcN5BXlSqQ2smYdTjcMEMm+NmAAswMEMIaAB6T89fgDoVKxGOY-tIqABbT4UOi2ADWAH5zMYKABedwARz2LkM7lhiXg7joxhcnieAElsLDwu4ACreWIARRcADdYC4XBAAILccIAMXq7gYFHRAXcxEwzIAEtFiBReNEVN5pJ4aTSAJrcACyhlsADJPAwUbrwujGCiVNgJLx1BoJCIVPAVDorS6RPARKwdKxkDpUtRpKxrHYYKATFQwFQwRRnq93sMiE8qBAwLZWODwsxfp4-qxbE9wrYaNJqOYGKCIalDFRMtkjIGnqn08xPjlwqxjNInrWQE9WBAu1cAL5EMABQwZ4bFujSWGpVgwADaoAcYFYNBKZgCqQcdBgsCIDgKMF4w+Xq-XwwYdGZqSGIFYhkM2930F4B6Pr9PIBXa+YV5vB4vm+34fieBBnr+l7XqkxZ9lAwypsyAAEhjSM+x7vkBX4-heIC5FYhQwRQcHMOEFDcGCtirjCGRIXQEDcMyGTWAG0aARhIFYeB37nsw4JAvYRCwfkpHkfxMLoXAmHHthvFQQBaTESJwzMnQ4SeNwhhrhm7GvtJn7cThf7QUJSnwT2EI6d+QH6WBEG4f+REkcMEBaekknwPpnnfk85nLAIOiIBUDA6Do2CCIgYSdCgmCsIIoWOrwXBhWhg4ALpGEmdBBvY0CgNEe64CIRBbnAiDwMOIDhNEWR5d+N7DDofy8H8KDPhA+jQGUFC5EQ0ScoWZF0KwLi0HeKChTFqByJgrQiKg2BVBoqQqFOlwgE0bqwDoKByLwOi1DoSCwCI6j9EQKgMB1HaqetkqauYADyABS4QAMLwDo0SsAwABKxiYIIb10NlACqdB1AAQup0i2OiDI0pK8CYtgkojYDEgAOqeAAyn4sS8rwNAAKLeLwsQ6JqiA0LwADS5iau4VABKYNC0+zNCPYjZJvbyDg6OY0SPX4fg0IgoNgAAaq9H2k+TYARTT4zbuZoxrtGg6DkAA

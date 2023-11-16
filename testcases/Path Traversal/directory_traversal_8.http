@@ -1,3 +1,0 @@
-# tag: black,directory_traversal
-GET /dom/index.php?filename=..%2f..%2f..%2f..%2fetc/passwd HTTP/1.1
-Host: 1.1.1.1

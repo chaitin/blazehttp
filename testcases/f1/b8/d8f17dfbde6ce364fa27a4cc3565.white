@@ -1,0 +1,19 @@
+POST /mcp/pc/pcsearch HTTP/1.1
+Host: ug.baidu.com
+Content-Length: 56
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.baidu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%20saas%20%E7%BD%91%E9%A1%B5%E7%89%88&fenlei=256&oq=qq%25E7%25BD%2591%25E9%25A1%25B5%25E7%2589%2588&rsv_pq=fe158b5d00063c38&rsv_t=faa3sySgdZdHUyLF6PCLviwJtZ0833JGDpbSEx8D8hZWTdE9Ta%2F%2BLLH78M8&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=1814&rsv_sug3=62&rsv_sug1=45&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1814
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"invoke_info":{"pos_1":[{}],"pos_2":[{}],"pos_3":[{}]}}

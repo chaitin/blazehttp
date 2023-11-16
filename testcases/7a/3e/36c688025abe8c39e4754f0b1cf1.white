@@ -1,0 +1,18 @@
+POST /batch?v=1&sdk=1.10.1&pageId=owl-003344de-be98-53b3-de7d-f06e-1688378045779 HTTP/1.1
+Host: catfront.dianping.com
+Content-Length: 2499
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://i.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"region":"","operator":"","network":"4g","container":"","os":"","unionId":"","infos":[{"resourceUrl":"https://p0.meituan.net/images","connectType":"https","type":"image","timestamp":"1688378045884","requestbyte":"0","responsebyte":"3065","responsetime":"102","project":"com.sankuai.mtnode.imeituan","pageUrl":"https://i.meituan.com/","realUrl":"https://i.meituan.com/","statusCode":"200|","logContent":"https://p0.meituan.net/travelcube/641521461179df7cfb88738dd1ea11ec1031.png"},{"resourceUrl":"https://p1.meituan.net/images","connectType":"https","type":"image","timestamp":"1688378045884","requestbyte":"0","responsebyte":"3296","responsetime":"178","project":"com.sankuai.mtnode.imeituan","pageUrl":"https://i.meituan.com/","realUrl":"https://i.meituan.com/","statusCode":"200|","logContent":"https://p1.meituan.net/travelcube/7264ce9c25de2e464e3acd996fe8ad362803.png"},{"resourceUrl":"https://p0.meituan.net/images","connectType":"https","type":"image","timestamp":"1688378045885","requestbyte":"0","responsebyte":"2561","responsetime":"120","project":"com.sankuai.mtnode.imeituan","pageUrl":"https://i.meituan.com/","realUrl":"https://i.meituan.com/","statusCode":"200|","logContent":"https://p0.meituan.net/imeituanbusiness/586d25e7f9615a91b831713c5b68fdd62345.png"},{"resourceUrl":"https://portal-portm.meituan.com/horn/v1/modules/lx-web-config/prod?_lxsdk_rnd=1891b2c75910","connectType":"https","type":"ajax","timestamp":"1688378046045","requestbyte":"0","responsebyte":"93","responsetime":"203","project":"com.sankuai.mtnode.imeituan","pageUrl":"https://i.meituan.com/","realUrl":"https://i.meituan.com/","statusCode":"200|","firstCategory":"","logContent":"","traceid":""},{"resourceUrl":"https://apimobile.meituan.com/locate/v2/ip/loc?client_source=mars-webloc","connectType":"https","type":"ajax","timestamp":"1688378046298","requestbyte":"0","responsebyte":"87","responsetime":"421","project":"com.sankuai.mtnode.imeituan","pageUrl":"https://i.meituan.com/","realUrl":"https://i.meituan.com/","statusCode":"200|","firstCategory":"","logContent":"","traceid":""},{"resourceUrl":"https://apimobile.meituan.com/locate/v2/rgeo?client_source=mars-webloc&coord=30.248208,120.025765,0","connectType":"https","type":"ajax","timestamp":"1688378046734","requestbyte":"0","responsebyte":"234","responsetime":"240","project":"com.sankuai.mtnode.imeituan","pageUrl":"https://i.meituan.com/","realUrl":"https://i.meituan.com/","statusCode":"200|","firstCategory":"","logContent":"","traceid":""}]}

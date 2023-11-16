@@ -1,0 +1,18 @@
+POST /weapi/user/getfollows/31771583?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 476
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/my/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=57r5FWUVZz9qN3ymFqDjxTmxqev2mLf9pBRQmNobJEqZARFE6QCSOGmCFidOkPJXt4XKjF2e8go3zSvAjYF7JQHXdNHlZIlKvVxuixrmoBXwZub42KXI5dS66%2BtyzvwEugXdUEhniAyzxqXukIzBylNZNFDoe8%2B0dMoF0kEgefd0uOY%2BunpXPodun9fVv7%2B%2B&encSecKey=689ddab6853132fadf1e4e43653624e872dabd6100b311715d60d763f9b716b488ad4848eb600980acbb04443a8f589f698a25bc7c97957c7b01cb12a820708d04cea7a315329bb15def7e9647e194842e05640021b132edd1f79e0e4d406a3bfa1a250fd3b5f2f83ad77276e3ccb2a7cdfd60ed41af35014f7952e7eaa3784b

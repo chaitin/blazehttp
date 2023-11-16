@@ -1,0 +1,14 @@
+OPTIONS /restapi/soa2/22370/getRecommendHotelList?_fxpcqlniredt=09031017410788884581&x-traceID=09031017410788884581-1688378012039-1425543 HTTP/1.1
+Host: m.ctrip.com
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type,cookieorigin
+Origin: https://www.ctrip.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://www.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,17 @@
+POST /messenger/web/ping HTTP/1.1
+Host: api-iam.intercom.io
+Content-Length: 1487
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+app_id=gpfdrxfd&v=3&g=1c9ac2dd0a55de2850372bc63564a3edc618bece&s=dcd0734a-82f7-44df-beaf-39a70f279fdd&r=&platform=web&Idempotency-Key=95bcbb9627d7700e&internal=%7B%7D&is_intersection_booted=false&page_title=%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%AA%8C%E8%AF%81%20WAF%20%E9%98%B2%E6%8A%A4%E7%9A%84%E6%9C%89%E6%95%88%E6%80%A7&user_active_company_id=-1&user_data=%7B%22email%22%3A%22naocanmonster%40gmail.com%22%2C%22user_id%22%3A%2244c83b110dec4a79a165c5997ba51eca%22%2C%22user_hash%22%3A%2292e32bf09a5ae4c99477371cc1cdbdc7d4910b8c6f305348fbdffa562f55bc0d%22%2C%22anonymous_id%22%3A%22b2227338-9b84-429f-b8d5-d66b2ab9d402%22%2C%22language_override%22%3A%22en%22%2C%22user_persona%22%3A%22it%22%2C%22user_team_role%22%3A%22dept_lead%22%2C%22user_use_cases%22%3A%5B%22docs%22%2C%22wikis%22%2C%22project%22%2C%22notes%22%2C%22other%22%5D%2C%22user_plan_type%22%3A%22free%22%2C%22user_has_at_least_one_free_tier_space%22%3Atrue%2C%22time_zone%22%3A%22Asia%2FShanghai%22%2C%22preferred_locale%22%3A%22en-US%22%2C%22signup_time%22%3A1667996686195%2C%22app_version%22%3A%2223.12.0.143%22%2C%22created_at%22%3A1667996686%2C%22name%22%3A%22changzhi%22%7D&source=apiUpdate&sampling=false&referer=https%3A%2F%2Fwww.notion.so%2FWAF-fc15ee8d2bbf410b821555ebb62e0f23&anonymous_session=OVVEVFVTUUFjWGY4OW8zY2NnSGtmTmVEOUZzaHMwakxLUE9RZzlLWFZDTWwrbkU4RzVoY0dhT0czSG1rUS9lVy0tMTNkcGpVS2RERm9rY0k5cjlhVTlnQT09--a40b95a4c08611add3c3c4b5982cd33352cef89d&device_identifier=940d1471-c620-46dc-bbb1-f8eb9fbeecb0

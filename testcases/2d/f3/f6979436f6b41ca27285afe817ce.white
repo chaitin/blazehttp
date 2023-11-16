@@ -1,0 +1,15 @@
+GET /api/v2/check?referer=https%3A%2F%2Fdl.reg.163.com%2Fwebzj%2Fv1.0.1%2Fpub%2Findex_dl2_new.html&zoneId=CN31&id=1e48b2e565768181288e9a59d7b933a0&token=3b1bb63e39a24f2caae887dfc54c5c91&acToken=9ca17ae2e6ffcda170e2e6ee8aeb7492998394c552b7ac8aa2c54e969f8a83d864f3bfafb6ef4eb8b796d8cf2af0feaec3b92ab2edbad6d56a81b1bf8eef5b938f9fa2c44a8d9fb98cca4596a98a93bb7cf5baee9e&data=%7B%22d%22%3A%22xT99f%2FFCCefCidaSF6L2aX66BiQvLvBXD%5C%5CsUYziOC%5C%5CmYpViTDpjUKdFEDxOOZznKnORMcBf7d4zKiLd0rclIvFutKeHJSE4FTr52getGMmixhDz6RH8CB5KYzBgEBQbBnOepxoQubZqq8YMPgcllwQXs9Y7PY1nmkBE1allGuMzzl%5C%5CZd94E4KRU56uY%5C%5CuTk89PP2JrZgqKy2sLBy9nDqVNX1SrmzSjh0rmm%2F9jUW54wybVhOv14QcanPhe2irRshNk%2B1SRg%2BwBJ7FQMt2BlXtdF1zlwQ%5C%5CYe%2Fz8V%5C%5Ckx1pciWP8OJFA2IEwagDXiHDOQbXD%5C%5CR%2FKTv2UIGrublN7qy2gz1OKmapJWd4wSkIddkhaasTpz%2FUhAlw9%5C%5CuHIlcctbbD8qC%2FI%2BetKLKzSEFj9SQdtnD9oWBjHFyZMCTnkmgXZIM5YFFr79XTTVlJsk665y8hSfbFod7yOZ2tDch89YbqDT%2FtINaWWmSk5XQDFP6YQ4NIPjhhN2uD8HvKARo7dwtAclfCHRRZn8568Ke%2FSYA6dHRODLwPJSjhxzN6qaMz%2BhJnlRtbeJl7N47mzi5DERtn5fsmcNpOYfNNbITiIKPaS9MGgw7J%2FlH8ebZLObr1zNDPoXkZkJeJVyXe82OgQL4JzXoOKM0GfoT1XnHPOWaKgfbzkvM6LXCbnqohBWhxr8DBSLKKicHicJS1MLz6%5C%5Cf1Sx8dPaVn18TfNGQ1suBlJ5E2%2BMGIc%5C%5CpsiHftCga29ZTOUy7%2BA7PVC6n%5C%5CHzbKMfLB44WNRddkb4NW9nIuUUiNLlwuHYlcztSnCW8HXwNe%2BUs7bSM%5C%5CRvSIpt6%2Fk6z009FF6ftHn782GZ5i4VNLuRDcTGQSAQBvBWQCq2ZaFDc8OOTn2oPbqgcNTySF1Q4fD6zi7rDN2YoBhohyYPO4dognlq%5C%5C7Vn04NKifZlM1CJTHvy8V4%5C%5CzBK4%2FsXaQRyB2Uryp0VwxkyFES19VS6iVfPYA%2B6kCfuciWP%2F%2FBCirYkt5KPUvn%5C%5CCYDqDOLYDik5r8MhvcSoD0fq2A33%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22pFWK7xp4CLNf7RMLuxrtnHH9hp%2BZ72hsHT%5C%5C4F1LOVlCSvb5e52SISi33%22%2C%22ext%22%3A%2211H1Yg8RuUBzB%2BzGTHMVckCvRlDeTNco%22%7D&width=340&type=2&version=2.15.2&cb=JDi4uEibCiFTCJlPqhY8Q0udZwwGeUtnnKqbEkPjKGwwc8vpd8mHN8fPWI0qbY0p&extraData=1111%40163.com&runEnv=10&callback=__JSONP_w1vnzfv_1 HTTP/1.1
+Host: webzjcaptcha.reg.163.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://dl.reg.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

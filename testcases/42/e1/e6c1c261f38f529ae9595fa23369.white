@@ -1,0 +1,15 @@
+GET /v3/log/init?s=rsv3&product=JsInit&key=30710397364d8286848b5b85ab1c44ee&t=1688376434988&resolution=1920*1080&mob=0&vt=1&dpr=1&scale=1&detect=false&jscode=403b6c8bf3fad7b326704b3f5bff71da&callback=jsonp_769656_&platform=JS&logversion=2.0&appname=https%3A%2F%2Fwww.gaokao.cn%2Fcontrol-line&csid=6E952A70-7BB9-4D41-A84C-60455EA3761A&sdkversion=1.4.22 HTTP/1.1
+Host: restapi.amap.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.gaokao.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

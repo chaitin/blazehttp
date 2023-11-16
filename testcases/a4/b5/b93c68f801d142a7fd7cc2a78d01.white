@@ -1,0 +1,18 @@
+POST /UnifiedIDMPortal/ajaxHandler/common/analysisHealth?reflushCode=0.8095185461905954&cVersion=UP_CAS_6.11.0.100_live HTTP/1.1
+Host: id1.cloud.huawei.com
+Content-Length: 2362
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://auth.huaweicloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://auth.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+pageToken=9d253c8672c13f5fc2314f0c125ff578a200b70b1de99bb0940856024aaf6317&pageTokenKey=23d629b59ea44d44bba4d5b1f797618a&reqClientType=88&loginChannel=88000000&clientID=103493351&lang=zh-cn&languageCode=zh-cn&state=10957910d9564c668ac56a34c427dccd&operType=1000&message=%7B%22currentUri%22%3A%22%2FUnifiedIDMPortal%2FunionLogin%2Fportal%2Findex.html%22%2C%22isOpenCookie%22%3A%22true%22%2C%22isOpenPerformance%22%3Atrue%2C%22isSupportES6%22%3Atrue%2C%22dNSTake%22%3A%220%22%2C%22tCPTake%22%3A%220%22%2C%22reqRespTake%22%3A%2242%22%2C%22totalTake%22%3A%22470%22%2C%22whiteScreenTake%22%3A%2260%22%2C%22resourceDataSize%22%3A14205%2C%22domDisplayTake%22%3A%22260%22%2C%22reqReadyTake%22%3A%2219%22%2C%22currentLocaleTime%22%3A%222023-07-03%2019%3A26%3A50%22%2C%22resources%22%3A%5B%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fcommon%2FhwidJSSDK.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%221%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fcommon%2FjsAnalysis.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%223%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fjssdk%2Fvuebuild%2Fcss%2FunionLogin%2Fportal%2Findex-lightred.css%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%22127%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fjssdk%2Fvuebuild%2Fjs%2FhwidSDKVendor.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%223%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Flanguage%2FunionLogin%2Fzh-cn.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%22128%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fjssdk%2Fvuebuild%2Fjs%2FunionLogin%2Fportal%2Findex.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%22202%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fjssdk%2Fvuebuild%2Fjs%2FHiAnalytictsJSSDK.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%221%22%7D%2C%7B%22decodedBodySize%22%3A0%2C%22resName%22%3A%22%2Fjssdk%2Fvuebuild%2Fjs%2FdeviceFinger.js%22%2C%22nextHopProtocol%22%3A%22%22%2C%22reqRespTake%22%3A%2239%22%7D%5D%2C%22extInfo%22%3A%7B%22isSwitchWiseContent2SLB%22%3Afalse%7D%7D%2CillnessType%3D0&illnessType=0&localStorageID=h01u3s0wlcyevmqviea06dtk8advawrzsmjveu4mmyzank71&hwid_cas_sid=2049371936fef2bfb9b8316a7b7e671d575386b7874fe2c362546cbed02f20db10a51edf8bf4376837a3

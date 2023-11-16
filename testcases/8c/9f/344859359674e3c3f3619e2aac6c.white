@@ -1,0 +1,14 @@
+POST /api/datasources/proxy/2/query HTTP/1.1
+Host: 47.97.113.134:3000
+Content-Length: 552
+accept: application/json, text/plain, */*
+x-grafana-org-id: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+content-type: application/json
+Origin: http://47.97.113.134:3000
+Referer: http://47.97.113.134:3000/d/o6cdmeEvz/lei-chi-she-qu-ban-mai-dian-day?orgId=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"app":"dashboard","requestId":"Q102","timezone":"browser","panelId":21,"dashboardId":6,"publicDashboardAccessToken":"","range":{"from":"2023-07-02T10:58:51.590Z","to":"2023-07-03T10:58:51.590Z","raw":{"from":"now-24h","to":"now"}},"timeInfo":"","interval":"5m","intervalMs":300000,"targets":[{"target":"week","refId":"A","type":"timeserie"}],"maxDataPoints":299,"scopedVars":{"__interval":{"text":"5m","value":"5m"},"__interval_ms":{"text":"300000","value":300000}},"startTime":1688381931590,"rangeRaw":{"from":"now-24h","to":"now"},"adhocFilters":[]}

@@ -1,0 +1,19 @@
+POST /node-history-statistics/new_history HTTP/1.1
+Host: modao.cc
+Content-Length: 121
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://modao.cc
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://modao.cc/app/design/pblewe7eeeoz2xu1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"action":1,"project_cid":"pblewe7eeeoz2xu1","team_cid":"tesddmoroot","org_cid":"ol4zaf895flztucmg","time":1688375776890}

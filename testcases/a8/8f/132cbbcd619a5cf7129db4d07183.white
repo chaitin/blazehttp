@@ -1,0 +1,18 @@
+POST /collect?id=DtVvKLnscpgeAJkxUn&uin=100003290640&version=1.35.26&aid=818cec06-54c8-44f7-8f37-7b76ca250efc&env=production&platform=3&netType=4&vp=1920%20*%20921&sr=1920%20*%201080&sessionId=session-1688384157589&from=https%3A%2F%2Fconsole.cloud.tencent.com%2Fbeian%2Fmanage%2Fwelcome&referer=https%3A%2F%2Fconsole.cloud.tencent.com%2Fbeian%2Fmanage%2Fwelcome&ext1=https%3A%2F%2Fconsole.cloud.tencent.com%2Fbeian%2Fsearch&ext2=100003290640 HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 1240
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"level":["2"],"msg":["[\"[Capi Success]\",{\"body\":{\"serviceType\":\"cam\",\"regionId\":1,\"data\":{\"Version\":\"2019-01-16\",\"RequestClient\":\"PC\",\"RoleName\":\"Beian_QCSLinkedRoleInDescribeBeianResource\"},\"cmd\":\"GetRole\"},\"options\":{\"version\":3,\"tipErr\":false}},{\"code\":0,\"cgwerrorCode\":0,\"data\":{\"Response\":{\"RequestId\":\"6c3e4072-1cea-499c-ab69-fdb378023d8a\",\"RoleInfo\":{\"AddTime\":\"2023-07-03 19:35:50\",\"ConsoleLogin\":0,\"DeletionTaskId\":null,\"Description\":\"网站备案时需要查询您账号下的云服务资源情况，用于域名备案，根据合规标准需要先获得您的授权。请您同意授权，否则无法进行备案流程。授权后对您的账号没有任何不良影响，请您放心操作。\",\"IsSelected\":0,\"PolicyDocument\":\"{\\\"version\\\":\\\"2.0\\\",\\\"statement\\\":[{\\\"action\\\":\\\"sts:AssumeRole\\\",\\\"effect\\\":\\\"allow\\\",\\\"principal\\\":{\\\"service\\\":[\\\"describebeianresource.beian.cloud.tencent.com\\\"]}}]}\",\"RoleId\":\"4611686018435776214\",\"RoleName\":\"Beian_QCSLinkedRoleInDescribeBeianResource\",\"RoleType\":\"service_linked\",\"SessionDuration\":43200,\"Tags\":[],\"UpdateTime\":\"2023-07-03 19:35:50\"}}}}]"],"count":1}

@@ -1,0 +1,15 @@
+GET /cmc/cross?serviceId=18&filter=tag&sortby=sIdxTime&source=web_pc&limit=7&logic=or&typeids=1&tagids=2660&exclusiveChannel=4&exclusiveChannelSign=fff08b0da68cd79002dce1c650b4f989&time=1688379801 HTTP/1.1
+Host: apps.game.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://pvp.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://pvp.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,19 @@
+POST /restapi/soa2/10994/json/GetFloatUI?timestamp=1688378014956 HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 417
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Cookieorigin: https://www.ctrip.com
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"PlatformType":"pc","pageParameter":{"Refer":"www.baidu.com","UA":"Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36","PageID":102001,"VID":"1688378011842.4ejff0"},"marketParameter":{"AID":4897,"SID":155952},"terminalParameter":{"UserID":"","CityID":0},"pcAuthCodeParamet":{"IsGetAuthCode":true,"AppID":"","Length":4}}

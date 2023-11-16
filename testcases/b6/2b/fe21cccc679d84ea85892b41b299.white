@@ -1,0 +1,19 @@
+POST /app HTTP/1.1
+Host: news.ssp.qq.com
+Content-Length: 391
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://new.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://new.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"adReqData":{"chid":9,"adtype":0,"uin":"","qq_openid":"","ams_openid":"","wxid":"","wuid":"","slot":[{"loid":"2","cur":0,"channel":"politics","orders_info":[],"article_id":"20230703A05KBL00","current_rot":"","seq":"","seq_loid":""}],"netstatus":"unknown","pf":"pc","appversion":"200717","plugin_news_cnt":15,"plugin_page_type":0,"plugin_text_ad":false,"plugin_bucket_id":"","module_id":""}}

@@ -1,0 +1,14 @@
+POST /api/frontend-metrics HTTP/1.1
+Host: 47.97.113.134:3000
+Content-Length: 324
+accept: application/json, text/plain, */*
+x-grafana-org-id: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+content-type: application/json
+Origin: http://47.97.113.134:3000
+Referer: http://47.97.113.134:3000/d/o6cdmeEvz/lei-chi-she-qu-ban-mai-dian-day?orgId=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"events":[{"name":"frontend_boot_first_paint_time_seconds","value":0.658},{"name":"frontend_boot_first_contentful_paint_time_seconds","value":1.224},{"name":"frontend_boot_load_time_seconds","value":3.261},{"name":"frontend_boot_js_done_time_seconds","value":1.133},{"name":"frontend_boot_css_time_seconds","value":0.119}]}

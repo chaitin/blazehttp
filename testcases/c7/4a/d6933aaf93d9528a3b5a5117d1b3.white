@@ -1,0 +1,18 @@
+POST /mp/appmsgreport?action=page_time&__biz=MzIwMDk1MjMyMg==&is_temp_url=0&uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzIwMDk1MjMyMg%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 1453
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491582&idx=1&sn=b94836fcf0990550373c52e398bf153e&chksm=96f40093a1838985c8ad9bc7a7d44b5b926b7a7505cb66f40e69095798f0684269c3d342a39b
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+report_bizuin=MzIwMDk1MjMyMg==&title=0day速修｜Smartbi 远程代码执行漏洞&mid=2247491582&idx=1&subscene=10000&sessionid=svr_88fcb9b0c00&enterid=1688383429&read_cnt=0&old_like_cnt=0&like_cnt=0&screen_width=693&screen_height=686&screen_num=6&idkey=28307_78_1;28307_80_1;28307_64_1&copyright_stat=0&ori_article_type=&video_cnt=0&read_screen_num=1&is_finished_read=0&scene=&content_len=463841&start_time=1688383429516&end_time=1688383430900&handup_time=0&inactive_time=0&inactive_time1=1000&inactive_time2=1000&total_height=4052&exit_height=686&img_640_cnt=1&img_0_cnt=0&img_300_cnt=0&wtime=427&ftime=215&ptime=299&onload_time=427&reward_heads_total=0&reward_heads_fail=0&outer_pic=0&publish_time=1688382111&item_show_type=0&page_req_info={"startGetAppmsgExtTime":1688383429631,"startGetAppmsgAdTime":1688383429651,"receiveGetAppmsgExt":"200|1688383429719","receiveGetAppmsgAd":"200|1688383429705","jsapiReadyTime":1688383429786,"domCompleteTime":1688383429663}&is_darkmode=0&from_masonry=0&search_click_id=0&webp_total=1&webp_lossy=1&webp_lossless=1&webp_alpha=1&webp_animation=1&download_cdn_webp_img_cnt=0&download_img_cnt=1&download_cdn_img_cnt=1&img_cnt=3&report_time=1688383430&img_png_cnt=1&source=&req_id=0319v8Ok08TiWvycDc98QFEE&recommend_version=&class_id=&ascene=-1&hotspotjson={"hotspotinfolist":[]}&is_pay_subscribe=0&is_paid=0&preview_percent=0&is_finished_preview=0&fee=&pay_cnt=undefined&worthy_cnt=undefined&exptype=&expsessionid=&

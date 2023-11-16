@@ -1,0 +1,16 @@
+GET /rest/ecology/fwdo/rest/cbc/cbccommunityservice/v1/member/get-other-user-info?user_ids=1495379502578236%2C1499045397872653%2C1533526811468810%2C1495379502578236%2C1495379502578236%2C1504253710558097%2C1608252950820084%2C1568886939802828%2C1594630790890783%2C1505230248895685 HTTP/1.1
+Host: devdata.huaweicloud.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://bbs.huaweicloud.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

@@ -1,0 +1,17 @@
+GET /api/v1/host/96f89c8f-0caa-49fb-8084-a0e96a708dae.collie_server/system/mounts?id=96f89c8f-0caa-49fb-8084-a0e96a708dae.collie_server HTTP/1.1
+Host: collie.rivers.chaitin.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Baggage: sentry-environment=production,sentry-release=0.0.2,sentry-public_key=b1482b20837a4218b925496f7474c2d3,sentry-trace_id=af6bd43833304aef9c94db3fbab75246,sentry-sample_rate=1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sentry-Trace: af6bd43833304aef9c94db3fbab75246-a169ac14464a6adc-1
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://collie.rivers.chaitin.cn/96f89c8f-0caa-49fb-8084-a0e96a708dae.collie_server?activeType=resourceUse
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

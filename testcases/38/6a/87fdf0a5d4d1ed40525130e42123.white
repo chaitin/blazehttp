@@ -1,0 +1,19 @@
+POST /action?url=https%3A%2F%2Fwww.csdn.net%2F&pvid=b5b3dcd88ff54f6495e44fb258e0be61&ref=https%3A%2F%2Fwww.csdn.net%2F&referrer=&v=3.3.1-saas.2&av=3.3.1-saas.2&did=10_18754282740-1597979518688-247971&uid=weixin_46708016&sid=6645052141d14f1a8c546504fe0fc9f7&__s=1688373822942&id=hWg-u0rE5b8&key=Z1Tu5hoKbGw&token=568934913a6343de840a781ca5eaba4b&sh=1080&sw=1920&ps=0&__r=1688375081782 HTTP/1.1
+Host: wkbrs1.tingyun.com
+Content-Length: 459
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.csdn.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+c{"type":"common","optCustomParam":{}}
+a{"type":"ajax","subType":"xhr","start":1688375081568,"end":1688375081782,"duration":214,"data":{"type":"ajax","subType":"xhr","id":22,"cid":31,"method":"GET","url":"https://g-api.csdn.net/community/toolbar-api/v2/favorites-list","state":"finish","jserror":false,"start":1688375081568,"end":1688375081780,"du":212,"cb":0,"status":200,"err":0,"rec":1856,"send":0,"opt_custom_param":{},"hasServerHeader":false,"items":[]}}

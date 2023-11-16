@@ -1,0 +1,19 @@
+POST /sfp/v1/rd HTTP/1.1
+Host: sfp.safe.baidu.com
+Content-Length: 518
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: http://www.authing.co
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://www.authing.co/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+CODED--v20ezLke\WpWrS<ZQu4Yz7*j\O7rpN2k4gFMDS4RIm,U]c?[Q[C])_;aiW>fAcPi53EOEi7QY[8U]c?[Q[C])_;aiW>fAcPjqk6LDLkgMHSbaut[vW@^Uy8],;.q5d?.Pl9cmXVXHO=Qvr;pUP7_zJ7wGO2yqd5h8h5aXT4PrT+j\Cvee`w\Dh)`G\.d48C,OR6LDLkgMH^i``>Uw+xsY\7vlOGrlc<e9l9bnTMfsXskwdsnU[x_)g8`X`5)Jl<-DgUdIL4^X+pjw`-ezd6e,h8vH`G)@cQjpC6aYPJ]\TsQsz;o)d)\T\6xlG.rqdnvupFaXX+Mou.TLTsoUOx_z\Dv00IrqdCvpg@Io\ognO=QsO.YPB4\)S*`X`GypK5,PtOIkq4QIGzQvT)qvWEu8\-x,_Ma5\1vOt3ZX73^]OpTLTupe\?rCC-w,_Ma1g@i5_SMUC4Mn+pavvvUw+x]ekGcYcKe1gCia/FMke*RI[7Qr/tnTd2jDd0]-3<,qJX

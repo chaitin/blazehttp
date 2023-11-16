@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1461
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>0A9FE6F0CDF44CABB29FBCFB883057A6</IG><TS>1688378874248</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":1,"N":2,"I":"5bu","S":"K+MT","M":"V+L+M+MT+E+N+C+K+BD+BF","T":9046,"K":"6z9+5ac+5az+5ru+5s0+637+6a0+6e0+6gj+6f6+3qv+46q+47l+48i+49s+4an+4bi+4cd+4d9+4f0+4fu+4i0+4iw+4km+4lh+4md+4o4+4oy+4qa+4r5+4yq+62e+69f+6ee+6ed","F":0},"L":"@22/f/DIV.peregrine-widget-settings//9k/m2/yc/0/d/MT/2+@21/1////0///0/R/+@21/f////ng////R/","N":"@22/2y//assets.msn.cn/widget%2FLoadingImg.gif/@j/15l/@4/5ad/5ax/@23/@23/6fw/6fx+@24/2z//@8/@k/@j/2h/@4/@24/@24/@24/5rv/5ub/5uc+@25/30//@8/@1i/@9/2z/@4/@25/@25/@25/5s1/5uy/5uz+@26/31//@8/@1i/@9/30/@4/@26/@26/@26/638/666/667+@27/32//@8/@1i/@9/3y/@4/@27/@27/@27/6a2/6dy/6dz+@28/33//@8/@k/@j/2j/@4/@28/@28/@28/6e1/@29/@29+@2a/34//@8/@1i/@9/33/@4/@2a/@2a/@2a/6f7/6i9/6ia","K":"@2b/7/@1w/0/@2b+450/7/@1w/w/44z+45x/7/@1w/w/45w+@2c/7/@1w/w/@2c+@2d/7/@1w/w/@2d+@2e/7/@1w/w/@2e+@2f/7/@1w/w/@2f+@2g/7/@1w/w/@2g+@2h/7/@1w/w/@2h+@2i/7/@1w/w/@2i+@2j/7/@1w/w/@2j+4e4/7/@1w/w/4e3+@2k/7/@1w/w/@2k+@2l/7/@1w/w/@2l+4gq/7/@1w/w/4gp+@2m/7/@1w/w/@2m+@2n/7/@1w/w/@2n+4jt/7/@1w/w/4js+@2o/7/@1w/w/@2o+@2p/7/@1w/w/@2p+@2q/7/@1w/w/@2q+4n9/7/@1w/w/4n8+@2r/7/@1w/w/@2r+@2s/7/@1w/w/@2s+@2t/7/@1w/w/@2t+@2u/7/@1w/w/@2u+@2v/7/@1w/0/@2v+5rn/7/@1w/0/5rm+@2w/7/@1w/0/@2w+@2x/7/@1w/0/@2x+@2y/7/@1w/0/@2z+@2y/7/keypress/0/@2z"}]]]></D></E></Events><STS>1688378874248</STS></ClientInstRequest>

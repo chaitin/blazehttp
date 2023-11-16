@@ -1,0 +1,19 @@
+POST /restapi/soa2/13916/tripAds.json?_rm=0.13471846674982957 HTTP/1.1
+Host: m.ctrip.com
+Content-Length: 1732
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: json
+Cookieorigin: https://www.ctrip.com
+Content-Type: application/json; charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.ctrip.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"head":{"cid":"","ctok":"","cver":"1.0","lang":"01","sid":"","syscode":"09","auth":null},"apiVer":"1.0.6","type":"PC","id":"SHOP__1.0.6_39635e68-e64f-d41f-8507-68f7d49c9e8d","device":{"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","deviceType":"PC","os":"WINDOWS","osV":"Windows 10","height":1080,"width":1920,"pixelRatio":1,"language":"zh-CN","connectType":"Unknown"},"user":{"cid":"","data":[],"vid":"1688378011842.4ejff0"},"sdkVer":"1.0.6","site":{"url":"https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=logo","ref":"https://www.baidu.com/other.php?sc.0s0000agNEWVCqwHvHwiDD9OnU3fxcJfYSNzyVFNPOs0VmlXnIBLnmHbnA7IjiF-xs_XI4esvHJtBzPhiKYBCNRYx65kzH1StTVCN8Ed36gTNTGiyZJK6zQQHntY2oeJkFoYBaomY8hoHUlyYZUYHsdYtiso1_pHp6ZLdz30GVRrEQX2aifseor_E6Zf4DOqCHx6DQhBD1brRT7veLljZSil015G.7R_NR2Ar5Od663rj6tCpD1tpcrtXFBEI8Le_MNhWwX17aMDkvUPOWdI6knRgpM2N9h9mzIr1Fv0.TLFWgv-b5HDkrfK1ThPGujYknHb0THY0IAYqY2S110KdTvNzgLw4TARqn0K9u7qYXgK-5Hn0IvqzujLfoe5n0ZFWIWYs0ZNzU7qGujYkPHf3nHfYrHbL0Addgv-b5HDdn1bLPHR30AdxpyfqnHcYPjD4nWn0UgwsU7qGujYknW6zP6KsI-qGujYs0A-bm1dribGH0ZKGujY1n6KWpyfqnW6s0APzm1YdPHnsn6&dt=1688378005&wd=%E6%90%BA%E7%A8%8B&tpl=tpl_12826_31784_0&l=1548144997&ai=0_427460393_1_1&us=linkVersion%3D1%26compPath%3D10036.0-10022.1-10036.0-10029.0%26label%3D%25E5%259B%25BE%25E7%2589%2587%25E9%2593%25BE%25E6%258E%25A5%26linkType%3D%26linkText%3D","title":"携程旅行网官网:酒店预订,机票预订查询,旅游度假,商旅管理","keywords":"酒店预订,特价酒店, 机票,机票预订,飞机票查询,航班查询,酒店团购,旅游度假,旅行,商旅管理"},"app":{"ver":"1.0"},"imps":[{"impId":"03QTHCDF0373QTUKTUSMQSRQ","height":658,"with":428}]}

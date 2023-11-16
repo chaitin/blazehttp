@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 869
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/academic/search?q=icon+anime&FORM=HDRSC4
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>E3D087AB82E94E9DBC778BB234B3B013</IG><TS>1688376722279</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":1,"N":2,"I":"7l3","S":"V+C+BD","M":"V+L+M+MT+E+N+C+K+BD+BF","T":7896,"K":"63b+28x+2bi+2a3+ls%2Flsp.aspx+2fr+579+mousemove","F":0},"V":"56p/////////visible/","M":"k5+29y+-1+29y+1r+s+0+5+0+5m+1","E":"@y/2/X/1o/+@y/4/X/1w/+@y/5/X/1w/+@y/6/X/1w/+@y/7/X/1w/+@y/8/X/1w/+@y/9/X/1w/+@y/a/X/1w/+@y/b/X/1w/+@y/c/X/1w/+@y/d/X/1w/+@y/e/X/1w/+@y/f/X/1w/+@y/g/X/1c/","N":"@z/1o//@7/@x/@9/2k/@8/@z/@z/@z/28z/@10/@10+@11/1p//@7/@12/beacon/3l/@8/@11/@11/@11/2av/2dn/2do+@11/1q//@7/@12/@b/5n/@8/@11/@11/@11/2aw/@13/@13","C":"@14//@15/mouse/0/1ap/bf/0/573+5hf/////1co/b9//5h8+5hx/////1ep///5hv+5id/////1gb///5ic","BD":"@14/@15/1688376721"}]]]></D></E></Events><STS>1688376722279</STS></ClientInstRequest>

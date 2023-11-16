@@ -1,0 +1,15 @@
+GET /service/news/feed/pages/binghp?activityId=E421A233-D6F7-4FC8-BEA5-513BA81DB93E&apikey=QMmdky7jrTlM4mWJmMYQTi71lp678KyZJBKHCAyKCg&cm=zh-cn&it=app&ocid=bingHomepage-newsfeed&timeOut=2000&user=m-2EE9FC0608EC635A147FF32B0993620D&wpopageid=wponoads HTTP/1.1
+Host: assets.msn.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

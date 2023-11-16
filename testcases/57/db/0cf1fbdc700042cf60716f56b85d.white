@@ -1,0 +1,17 @@
+GET /useraccount/ilogin?risk_partner=11&risk_app=-1&risk_platform=3&backurl=https%3A%2F%2Fi.meituan.com%2Fawp%2Fh5%2Flvyou%2Fdeal%2Fgroup%2Findex.html%3FdealId%3D47934506%26ct_poi%3D282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb%26source%3Dmt HTTP/1.1
+Host: passport.meituan.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://i.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

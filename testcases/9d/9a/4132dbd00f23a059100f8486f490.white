@@ -1,0 +1,18 @@
+POST /UnifiedIDMPortal/ajaxHandler/cscPreprocess?reflushCode=0.7286606486744098&cVersion=UP_CAS_6.11.0.100_live HTTP/1.1
+Host: id1.cloud.huawei.com
+Content-Length: 325
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://id1.cloud.huawei.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://id1.cloud.huawei.com/UnifiedIDMPortal/portal/userRegister/regbyphone.html?themeName=red&access_type=offline&clientID=103493351&loginChannel=88000000&loginUrl=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2Flogin.html%3Fservice%3Dhttps%253A%252F%252Factivity.huaweicloud.com%252Fdiscount_area_v5%252Findex.html%253Futm_source%253Dbaidu%2526utm_medium%253Dbrand%2526utm_campaign%253D10033%2526utm_content%253D%2526utm_term%253D%2526utm_adplace%253DAdPlace024712%23&casLoginUrl=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2FcasLogin&service=https%3A%2F%2Fauth.huaweicloud.com%2Fauthui%2FcasLogin%3Fservice%3Dhttps%253A%252F%252Factivity.huaweicloud.com%252Fdiscount_area_v5%252Findex.html%253Futm_source%253Dbaidu%2526utm_medium%253Dbrand%2526utm_campaign%253D10033%2526utm_content%253D%2526utm_term%253D%2526utm_adplace%253DAdPlace024712&countryCode=cn&scope=https%3A%2F%2Fwww.huawei.com%2Fauth%2Faccount%2Funified.profile+https%3A%2F%2Fwww.huawei.com%2Fauth%2Faccount%2Frisk.idstate&reqClientType=88&state=5e35337bcedf4ac5a117cd570b7a9a46&lang=zh-cn
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+pageToken=7d553ac14923ced8250ae6aa8dbf0fe346c371e7c650b9d7bb72d08171934d8a&pageTokenKey=8c42156c098005188f5f8ae9f9dd5b612e50cfe212abfba019b5ca676d99066a&reqClientType=88&loginChannel=88000000&clientID=103493351&lang=zh-cn&languageCode=zh-cn&state=5e35337bcedf4ac5a117cd570b7a9a46&captchaType=1&clientType=cas&sceneId=register

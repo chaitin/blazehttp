@@ -1,0 +1,10 @@
+POST /api/report?cat=bingcsp HTTP/1.1
+Host: aefd.nelreports.net
+Content-Length: 630
+Content-Type: application/reports+json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+[{"age":59045,"body":{"blockedURL":"https://r.bing.com/rp/ICf9X-WMafiZOnS_3M9RpM8994E.gz.js","disposition":"report","documentURL":"https://cn.bing.com/","effectiveDirective":"script-src-elem","lineNumber":1,"originalPolicy":"script-src https: 'strict-dynamic' 'report-sample' 'nonce-bE8wzNsdYUNal5PUnypUSrdS9kEIv5MpvJH4CWFydHk='; base-uri 'self';report-to csp-endpoint","referrer":"","sample":"","sourceFile":"https://cn.bing.com/","statusCode":200},"type":"csp-violation","url":"https://cn.bing.com/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}]

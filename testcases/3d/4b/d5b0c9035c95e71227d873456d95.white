@@ -1,0 +1,15 @@
+GET /ptqrlogin?u1=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&ptqrtoken=745069721&ptredirect=0&h=1&t=1&g=1&from_ui=1&ptlang=2052&action=0-0-1688379243678&js_ver=23061410&js_type=1&login_sig=6DdfoKvylr78Du7aVqcaKFLgH5GeV59PosJQNudoPL0dXxcJgkwW*bBgOfXQEexj&pt_uistyle=40&aid=549000912&daid=5&&o1vId=60e32c3fa60517f34075671e80ebff15&pt_js_version=v1.45.1 HTTP/1.1
+Host: ssl.ptlogin2.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://xui.ptlogin2.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

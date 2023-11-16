@@ -1,0 +1,21 @@
+POST /api/5866982/envelope/?sentry_key=0fbf92e944b8468cb9706e15c488c84e&sentry_version=7 HTTP/1.1
+Host: o920916.ingest.sentry.io
+Content-Length: 491
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://mastermind.dev
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mastermind.dev/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"sent_at":"2023-07-03T10:40:33.894Z","sdk":{"name":"sentry.javascript.nextjs","version":"6.19.3"}}
+{"type":"session"}
+{"sid":"a5fc143c7927451d96b9300829a77d88","init":true,"started":"2023-07-03T10:40:33.893Z","timestamp":"2023-07-03T10:40:33.893Z","status":"ok","errors":0,"attrs":{"release":"3b6e56ccce1163382e4d5147f4e7b9ffd634a4f6","environment":"production","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}}

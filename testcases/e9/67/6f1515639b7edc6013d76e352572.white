@@ -1,0 +1,19 @@
+POST /v1/list HTTP/1.1
+Host: mcs.snssdk.com
+Content-Length: 302
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json; charset=UTF-8
+X-Mcs-Appkey: 566f58151b0ed37e
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://activity.feishu.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://activity.feishu.cn/landing/free_trial?tracking_code=7010o0000024cQ8AAI&utm_from=360sem_keyword_pc_office_pinpai_pinpai_feishu&source=360&device=pc&e_keywordid=36828965252
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"onload","params":"{\"app_id\":1658,\"app_name\":\"lark\",\"sdk_version\":\"4.1.63\",\"sdk_type\":\"script\",\"sdk_config\":{\"app_id\":1658,\"channel\":\"cn\",\"cross_subdomain\":true}}","local_time_ms":1688375804234}],"user":{"user_unique_id":"7251518767427536395"},"header":{}}]

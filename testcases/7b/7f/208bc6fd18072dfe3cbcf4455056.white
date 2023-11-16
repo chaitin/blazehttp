@@ -1,0 +1,15 @@
+GET /store-asset/ccc8f80f7e29651b1e54e8c21927deb7d0cf3415-ba93c20f207f4731a30e.js HTTP/1.1
+Host: mui.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mui.com/store/?utm_source=marketing&utm_medium=referral&utm_campaign=templates-cta
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+If-None-Match: "42aca18e82e898dfc9e07e4c668eee50-ssl-df"
+

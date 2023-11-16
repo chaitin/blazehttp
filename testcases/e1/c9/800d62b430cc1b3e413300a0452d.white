@@ -1,0 +1,10 @@
+GET /aladdin.php?url=0s0000KXHcU0HOfWtP-CVlQp8Znp5Fkzk1_fU5t6E8kPIAg7pO25Gx_0BiXjwsKXv8l-8ar1iLtxjdK8mHobAb13wjcjuDOu-UvEBHdI-lsGTUdz0UVwgncCFSFL0XFfoq9sVObRKf80PR7mfCnRalhHJD8OQP_UWlyc-E1B5khCUmzhEDyDNHZiVzyR3jzLdJkRygZvBEzm8_aPCsWK8LrE7NBu.7R_NR2Ar5Od66dYglJJDx-jfhxWw0S6SFn1nvBKYiXKMwKNJJ1L4mSq1PKQAi1Fk1vXrX1_l_YpQvmCR3hPMHke2OZoZBm3tTh1WvU8o_AF9i_nYQ7xukvIc.THveS_pkd2ivJfKhuyNbpyfqnHD1nHDL0A-1gLIGThN_ugP15HD0ugFsmvqbuHdfnWTknfKWThnqn1nznf HTTP/1.1
+Host: m.baidu.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%A3%9E%E6%9C%BA%E7%A5%A8&fenlei=256&oq=%25E7%25BE%258E%25E5%259B%25A2&rsv_pq=b2f2f87300015d78&rsv_t=4699oNnkMuiSCCXLZdjfzUoycby%2B0%2BZ0yEB%2BdToTRUrw23NQVR2nLxAEn3c&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=1984&rsv_sug3=18&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2023
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

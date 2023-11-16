@@ -1,0 +1,18 @@
+POST / HTTP/1.1
+Host: data.js.design
+Content-Length: 503
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.design
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"theme":"behaviour","action":"invite_search_view","distinct_id":"Xj-I6JXQ3Dg364ubVJ94X","time":1688375818584,"user_id":"64a291910ef7f80e8ef41a7f","hrefUrl":"https://js.design/f/I9u2rA?p=TB-y6Kofha","properties":{"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","device_type":"web","os":"Win10","browser_window_size":"1920x921","screen_resolution":"1920x1080","screen_magnification":2,"projectid":"64a291e3ccae1f2e52b9f544"}}

@@ -1,0 +1,15 @@
+GET /x/getad?src=330&c=100&sz=1x1&apiVersion=2.0&pj=%7B%22placement%22%3A%22adunit%22%2C%22tracking_id%22%3A%22bradlindsdigi-20%22%2C%22ad_type%22%3A%22link_enhancement_widget%22%2C%22marketplace%22%3A%22amazon%22%2C%22region%22%3A%22US%22%2C%22linkid%22%3A%2262024bee7b53ef846f5273139bc9ad06%22%2C%22textlinks%22%3A%22%22%2C%22debug%22%3A%22false%22%2C%22acap_publisherId%22%3A%22bradlindsdigi-20%22%2C%22slotNum%22%3A0%7D&u=https%3A%2F%2Fliliputing.com%2F&jscb=amzn_assoc_jsonp_callback_adunit_0 HTTP/1.1
+Host: aax-us-east.amazon-adsystem.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://liliputing.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

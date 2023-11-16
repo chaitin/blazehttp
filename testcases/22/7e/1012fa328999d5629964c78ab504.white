@@ -1,0 +1,21 @@
+POST /events/bulk/5afa3d7607a72221591aeb73 HTTP/1.1
+Host: events.launchdarkly.com
+Content-Length: 2887
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Launchdarkly-Payload-Id: e366ae90-198b-11ee-b18f-139fa188ad38
+X-Launchdarkly-Event-Schema: 3
+X-Launchdarkly-User-Agent: JSClient/2.24.2
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.atlassian.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"kind":"identify","key":"marketingEngineering","user":{"key":"marketingEngineering","custom":{"cohort":37,"location":"https://www.atlassian.com/software/jira/free"}},"creationDate":1688379907600},{"startDate":1688379908280,"endDate":1688379908315,"features":{"atl-global-destination-trigger":{"counters":[{"value":"gasv3","count":2,"variation":0,"version":68}]},"atl-global-event-validation":{"counters":[{"value":false,"count":1,"variation":1,"version":2}]},"atl-global-gasv-3-trigger":{"counters":[{"value":false,"count":1,"variation":1,"version":4}]},"atl-global-gtm":{"counters":[{"value":true,"count":6,"variation":0,"version":13}]},"atl-global-parse-big-int":{"counters":[{"value":false,"count":1,"variation":1,"version":2}]},"atl-global-phased-roll-out":{"counters":[{"value":"2.202.0","count":2,"variation":164,"version":434}]},"atl-global-safe-enrichment":{"counters":[{"value":true,"count":4,"variation":0,"version":3}]},"atl-global-stargate":{"counters":[{"value":false,"count":1,"variation":1,"version":8}]},"atl-global-test-flag":{"counters":[{"value":false,"count":1,"variation":1,"version":3}]},"cxp-delivery-override-audience-key-for-v1":{"counters":[{"value":true,"count":1,"variation":0,"version":3}]},"gas-beacon-call":{"counters":[{"value":false,"count":2,"variation":1,"version":2}]},"gasv3-legacy-url-flag":{"counters":[{"value":false,"count":2,"variation":1,"version":38}]},"gtm-container":{"counters":[{"value":"null","count":1,"variation":12,"version":2}]},"load-error-logging":{"counters":[{"value":true,"count":5,"variation":0,"version":7}]},"marketo-integrator-process-streamhub-events":{"counters":[{"value":true,"count":1,"variation":0,"version":8}]},"opted-in-all-sites":{"counters":[{"value":["www.atlassian.com","info.trello.com","blog.trello.com","qa-wac.internal.atlassian.com","qa-wac.atlassian.com","wac.stg.internal.atlassian.com","author.marketing.internal.atlassian.com","proof.marketing.internal.atlassian.com","truth.marketing.internal.atlassian.com","127.0.0.1:9002","localhost:9002","127.0.0.1:9000","localhost:9000","bitbucket.org","leaderhub.atlassian.com","leader-hub.dev.atl-paas.net","atlassian.exceedlms-staging.com","university.atlassian.com","events.atlassian.com","community-dev4.dev.atlassian.com"],"count":2,"variation":0,"version":12}]},"opted-in-sites":{"counters":[{"value":["blogs.atlassian.com","confluence.atlassian.com","marketplace.atlassian.com","developer.atlassian.com","community.atlassian.com","community.stg.atlassian.com","community-dev1.dev.atlassian.com","my.atlassian.com"],"count":2,"variation":0,"version":4}]},"segment-gasv3-order-switch":{"counters":[{"value":false,"count":2,"variation":1,"version":22}]},"teamplates.scrub-trello-urls":{"counters":[{"value":true,"count":8,"variation":0,"version":3}]},"test-temp-flag":{"counters":[{"value":"0.2.0","count":1,"variation":1,"version":3}]}},"kind":"summary"}]

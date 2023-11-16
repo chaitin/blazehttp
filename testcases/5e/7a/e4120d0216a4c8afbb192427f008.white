@@ -1,0 +1,17 @@
+POST /j/collect?v=1&_v=j101&aip=1&a=1634563644&t=pageview&_s=1&dl=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&dr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a&dp=%2Fcn-zh%2Ftopics%2Fsaas&ul=zh-cn&de=UTF-8&dt=SaaS%20-%20%E8%BD%AF%E4%BB%B6%E5%8D%B3%E6%9C%8D%E5%8A%A1%20%7C%20IBM&sd=24-bit&sr=1920x1080&vp=1903x921&je=0&_u=4GBACUABBAAAACgDo~&jid=1468513359&gjid=1622414764&cid=1853340856.1688382617&tid=UA-143580012-4&_gid=295166406.1688382617&_r=1&cd1=0&cd2=IBMSEC&cd5=904a4b9b-00ac-45c7-9d7d-c61394fbf53d&cd6=expressed&cd7=CN&cd8=IBM%20Software%20w%2Fo%20TPS&cd9=Public%20Cloud%20PaaS&cd12=www.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&cd13=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&cd14=MKT&cd15=(undefined)&cd16=www.baidu.com%2Flink&cd17=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DS_fOZ92OUnEb9MXdAwtNVy4QmW87eSKJslCywQawTeHTsfBICIHPE5KVa-roHvn5IoehWOPC-vOS8dQ7dge_U_%26wd%3D%26eqid%3D8708c0100003171e0000000464a2ac4a&cd19=Carbon%20for%20ibm.com%20v1.45.0%20DELIVERY%3AN%2FA%20AUTHORING%3AN%2FA&cd27=10A00&cd28=17DVS&cd31=zh-CN&cd32=Public%20Cloud%20Platform&cd33=153QH&cd34=url-5537afbf75e8e4f6dae9cef77b574244c4ce162888fa8f819f49990429832535&cd35=1688382610027&cd37=https%3A%2F%2Fwww.ibm.com%2Fcn-zh%2Ftopics%2Fsaas&cd39=PC060&cd50=Osearch&cd69=prod&cd90=2%3A&cd91=Mobile%20Network&cd92=Wireless&cd96=true&cd99=Chinanet&cm54=1&cd123=Haining&cd124=Zhejiang&cd125=China&gtm=457e36s0&cg1=Learn&z=1863885812 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.ibm.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.ibm.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,16 @@
+POST /g/collect?v=2&tid=G-5NXDQLC2ZK&gtm=45je36s0&_p=1394455762&cid=1798231774.1688380340&ul=zh-cn&sr=1920x1080&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1688380344&sct=1&seg=1&dl=https%3A%2F%2Fmui.com%2Fstore%2F%3Futm_source%3Dmarketing%26utm_medium%3Dreferral%26utm_campaign%3Dtemplates-cta&dr=https%3A%2F%2Fmui.com%2Ftemplates%2F&dt=React%20themes%20%26%20templates%20-%20MUI%20Store&en=user_engagement&ep.productId=store&_et=7295 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mui.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mui.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

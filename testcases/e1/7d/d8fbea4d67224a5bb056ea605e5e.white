@@ -1,0 +1,14 @@
+OPTIONS /api?functionId=youshouinfoList&appid=search-pc-java&client=pc&clientVersion=1.0.0&uuid=122270672.1688363422614408241737.1688363423.1688363423.1688375738.2&loginType=3&t=1688375749307&body={%22sku%22:%2210070898984538,10076220242615,10066737989769,10068933367455,10079347437419,10061118938166,10039939446153,10077499866415,10056108804548,10049556587252,10071948970999,10075544983588,10073856785073,10053098488527,10047816727358,10072839704246,10072144304752,10073857229549,10079236642966%22} HTTP/1.1
+Host: api.m.jd.com
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: x-referer-page,x-rp-client
+Origin: https://search.jd.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://search.jd.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

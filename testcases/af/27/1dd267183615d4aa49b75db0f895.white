@@ -1,0 +1,15 @@
+GET /w.gif?baiduId=D036BBD98CD2638F76C82F9B35B06C21&searchId=ce2153fd0000b037&tag=ecom_msa_tmp_4&adt=0&adb=0&top=0&wise=11&bottom=0&mid=3&initViewZone=w_1_0.00%3Aw_4_0.88&adsHeight=_w1%3A116_w2%3A91_m1%3A136_w3%3A116_w4%3A220_m2%3A95_w5%3A70_w6%3A136_w7%3A91_w8%3A401_w9%3A116_w10%3A116_w11%3A116_m3%3A137&availHeight=1032&availWidth=1920&winHeight=921&winWidth=1903&action=init&adsCmatch=_m1%3A136%3A25%3A1461_m2%3A95%3A25%3A1534_m3%3A137%3A25%3A227&rand=1688378131402.4487 HTTP/1.1
+Host: fclick.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%A4%A7%E9%BA%A6%E7%BD%91&fenlei=256&rsv_pq=0xa5330e2600006476&rsv_t=58dcFT11ip8wutgbi0E6jpbJTcnoOLzO%2FUQxQusI9Ja61sNEy6DvS0cflmEZ&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=6&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=damaiw&rsp=0&inputT=1816&rsv_sug4=1816
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

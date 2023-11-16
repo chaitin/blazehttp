@@ -1,0 +1,19 @@
+POST /data/api.json?action=DescribeReplicationJobs HTTP/1.1
+Host: smcnext.console.aliyun.com
+Content-Length: 1259
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://smcnext.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://smcnext.console.aliyun.com/replicationJobs
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=DescribeReplicationJobs&collina=140%23cIXoIeZ1zzPHPQo22ZfFCtSdv5tU5yCA7RSW2CYoO3submURK8vIuBwl8%2Flp4sXcuGS%2FVeIo7fnRl7SMrDrvD5gqlbzxhfhiZ9jCzzrQJO0iltQzzPzbVXl%2FlbB12ZY%2BcpQyoHGSdN%2BP3EXxxDFiVP%2F%2FlQrzlbrR6sYIPtrPHpcD3CUhWBuB8ZObqHQGL%2BftMka%2FsN6hlchX7o8JT5GYI4LNcOyQmCV3uk4ef5SUHkSdmT83JDwh%2BmBIaaSnN3wpobXGhFZd1eIDRjyBw8NIslx%2F8xHxSy03AHD%2Buqn%2BpYIht7%2BSbAPkTr50jDDGeIPq8PGZKsl6ifNSJCXY665ItlCj40EgyCZ72Gaj%2BUsSY6UCk2uDX8ga3uDrraqfNdcYw%2FV8ww1fcmpcTSaBuO4g4POWiduJwQ5029IAw6h2wJYn0y%2BNDmGC5UvH%2FdquJ2%2B7LYomj%2FtmVxlU04s%2F4IShxwDOun97a7eoFiYjbMRfRqr84bPCo4KPG4jTpO2kwsH5OaCJ%2BwBFn24VJ13jQUFQTQx0RAIdX6VO02sYcwkc4rYYlaU%2B%2FmpRK30LWCOcytQ8kmnMpj6G1rmlKCdbDf%2Bm5UeLuGHN94DaaEuUHqF1nreCPXUYcm7B%2Ft5dMcjeD8evQH1Skdke2SOE%2Brga4I2zNYYsMMdrSKZtqZ%2B788bcO8aTV6mSxLXnoYXN5qUIMYmYFCUQLY0RKGgZJqe9o2txaCXBnTdYZtnB2bB1Rh5c1frEB8So0kVo1iqAZj30tvrI2Z24ptcc%2Bxyuwf7CzCc5xq%2FBLE07B9uTtjXQ8DsEqE%2BNU58uSj65FyrHOzE%2B%2FzAcfBfcRJZGwth%2Bb5Ds3jrH1McuYr6iWFy1kn9z3mQi%2BFxAaSIkuF8HdU2z6KJkivPhoIPbOLAmEmfPU9zPmIsljAbfMY8kqF7Eh%2BTKhPJb9bFz%2BArRKLPshxZZnkWCahSophJhVmdE1%2F5n%2Bz%3D%3D&params=%7B%22PageSize%22%3A20%2C%22JobType%22%3A0%7D&product=smc&region=cn-hangzhou&sec_token=d5mraaH0uvLd9OQlTDzyz7&umid=Ya7fc04269a847f0d255e2bba70d2d2a5

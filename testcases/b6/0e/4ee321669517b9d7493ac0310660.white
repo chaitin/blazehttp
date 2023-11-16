@@ -1,0 +1,10 @@
+POST /domainreliability/upload HTTP/1.1
+Host: mail.google.com
+Content-Length: 727
+Content-Type: application/json; charset=utf-8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"network_changed":false,"protocol":"","request_age_ms":71547,"request_elapsed_ms":11516,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://mail.google.com/mail/u/0/data?sw=2&token=%5B%22cftp%22,%2249a0cda681%22,%22gmail.pinto-server_20230621.06_p2%22,%22ZyMrc6cBAw-rFZnvtXyj5A%5Cu003d%5Cu003d%22,null,3,%22%22%5D&dilte=0&gme=1&sme=1&pt=ji","was_proxied":false},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"network_changed":false,"protocol":"","request_age_ms":71559,"request_elapsed_ms":11530,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://mail.google.com/mail/u/0/logstreamz","was_proxied":false}],"reporter":"chrome"}

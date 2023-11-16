@@ -1,0 +1,20 @@
+POST /weapi/w/nuser/account/get?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 444
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Nm-Gcore-Status: 1
+Sec-Ch-Ua-Mobile: ?0
+X-Channelsource: undefined
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=UjiKobSebcI0uhlb%2BAMOLqd%2BKql3blwXyRBZohmQ4xlhxJ8%2F1RpX73zvA2bc1vsO7o5lXQ%2Bpi2POLUvK1bYxrd%2B7K7Y%2BeWFR7gd1SYuGBdpdNi8lsl2H5x%2BbMovScrnZYzd5nX2uWriT0Ip5ydoJvQ%3D%3D&encSecKey=b39a5d9a24a300af62297bb39aa0647e5d07bd646c385c2920a5340a206f956b00381468d1dc456a83485178684f786f20d0fa56cbca2e83f9a88d64a2a723416f72ffc51dda4edf9edd509b024ee73b4be2bdfc061079e6fcdbe897a07700ea7dc90dc02e19ebf14c2b69ea36c05ffa056f13082c17aece49028da3a59727eb

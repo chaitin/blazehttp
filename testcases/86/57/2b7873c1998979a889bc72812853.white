@@ -1,0 +1,24 @@
+POST /rewardsapp/reportActivity?IG=D106D4CB40DA439F90799B9549AA152A&IID=SERP.5050&q=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&lq=0&pq=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&sc=0-38&sk=&cvid=CB54D0C297E941E8989D943B8045192B&ghsh=0&ghacc=0&ghpl= HTTP/1.1
+Host: cn.bing.com
+Content-Length: 858
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&lq=0&pq=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&sc=0-38&sk=&cvid=CB54D0C297E941E8989D943B8045192B&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+url=https%3A//cn.bing.com/search%3Fq%3Dsql%25E6%25B3%25A8%25E5%2585%25A5%25E7%259A%2584%25E2%2580%259Cand%25201%253D1%25EF%25BC%258Cand%25201%253D2%25E2%2580%259D%25E6%25B5%258B%25E8%25AF%2595%25E6%25B3%2595%25E5%258F%25AF%25E4%25BB%25A5%25E7%259B%25B4%25E6%258E%25A5%25E7%2594%25A8and%25E4%25BB%25A3%25E6%259B%25BF%25E5%2590%2597%25EF%25BC%259F%26qs%3Dn%26form%3DQBRE%26%3D%2525eManage%2520Your%2520Search%2520History%2525E%26sp%3D-1%26lq%3D0%26pq%3Dsql%25E6%25B3%25A8%25E5%2585%25A5%25E7%259A%2584%25E2%2580%259Cand%25201%253D1%25EF%25BC%258Cand%25201%253D2%25E2%2580%259D%25E6%25B5%258B%25E8%25AF%2595%25E6%25B3%2595%25E5%258F%25AF%25E4%25BB%25A5%25E7%259B%25B4%25E6%258E%25A5%25E7%2594%25A8and%25E4%25BB%25A3%25E6%259B%25BF%25E5%2590%2597%25EF%25BC%259F%26sc%3D0-38%26sk%3D%26cvid%3DCB54D0C297E941E8989D943B8045192B%26ghsh%3D0%26ghacc%3D0%26ghpl%3D&V=web

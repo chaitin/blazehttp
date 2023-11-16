@@ -1,0 +1,18 @@
+POST /bee/collect HTTP/1.1
+Host: s.c-ctrip.com
+Content-Length: 922
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://hotels.ctrip.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://hotels.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"d":"f001688378026220!m1Legacy!ac=ntl&d=vXsidHlwZSI6InRpbGVkX3RsIiwiY29tbW9uIjpbMTAyMDAyLCIxNjg4Mzc4MDExODQyLjRlamZmMCIsMSwDGAMpAykDKYYyLjguNDYDL5V0c21ieHEtMXQzbGxjZi1qajJnM2QDRIgiLG51bGwsIgNMA0wDTIZvbmxpbmUDUgMqlzgsIjA5MDMxMTIxNDEwNzg4ODg0NTg3A2mVaHR0cHM6Ly9ob3RlbHMuY3RyaXAuA3sHB6svbGlzdD9jb3VudHJ5SWQ9MSZjaXR5PTImY2hlY2tpbj0yMDIzLzA3LzAzBg2Db3V0CgSINCZvcHRpb24DJoEyBwGBVAOBRII9QwMkjyZkaXJlY3RTZWFyY2g9MAMMnHNwbGF5PSVFNCVCOCU4QSVFNiVCNSVCNyZjcm4DU4VhZHVsdARXi2hpbGRyZW49MCZzBS6WQm94QXJnPXQmdHJhdmVsUHVycG9zZQMXmWN0bV9yZWY9aXhfc2JfZGwmZG9tZXN0aWMDgRKIIl0sImRhdGEDgiGFeyJrZXkDgjqUb19mbHRfY29mZmVlYmVhbl9kZXYDgkOTdmFsIjp7InJvb3RNc2dJREFycgOCYYVbXCIxMAOCTJk1NTI3LTBhNzBjMzE0LTQ2ODk5My0yOTM1AwaDXCIsBBwDgmgLEYJlMwsGhDY1NjkDBgQiA4JuChiDMjA2Cw2HNjk1OVwiXQODBwaDE4oxLCJWRVJTSU9OA4MchTMuNi4yA4MWiklTX0lOUyI6MH0DeYN1aWQDgy4DgyOJJC51YnQuaGVyA4ENkS50b3BpYy5jbGFzc2lmaWVyA4NIj0RlYnVnQ3VzdG9tIn1dfQ~~&c=1&mt=1688378025590&jv=2.8.46"}

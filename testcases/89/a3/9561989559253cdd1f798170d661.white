@@ -1,0 +1,18 @@
+POST /web/common?msToken=TSIFFI6n3e_tspN8FLprg5FHWksYbmAFwZkOi-5kQuOvYDcQJwICZRZR4vBoRHD0TPgRhq1xH4a--HIyTgsKNXcpogsMl31zwHQojfpptVf5nssrZA-bE-p5I7BZyDw4 HTTP/1.1
+Host: mssdk.bytedance.com
+Content-Length: 767
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"magic":538969122,"version":1,"dataType":8,"strData":"fA+aszPMGnRAHrIa1UYaOcBd9TP4f/+QzhP1gTVnwX2lJI4BIwwCe2C3N3WGo3nd3jp/Gb42MXE85QLFb7sHgTDUQ2wGOSi0Bmr+14S09Ifh7BK9HiQ/z1j0mU9/Vw2fdH1gfqpZIcLu//r6qnzyZTV6zEPzm6ORG1RNsFazwwnFPXy0OufKmJKGKs97DcSn+7RwXexReeemKayWsVCm2wZTn0QYgOD+XplhxsTj1WL8BXnLsgeCzrWUdGb94Q536VXd7943wETYHPFe3ZtTN7uDrfCPCVBcB7jOVLLU7ZEGMnBertTZVTKvFdSt5WB8Ob2qtCCGKHzGYJiKJFRfLz62cLcnnc52G4WcMDIRVFScsOvjapZ2ILOtCxQjcNj736jpf6fNfTgJB7rNQmWWqRNS2CBG/xKZ7y3IdHs64QLgjtGvNzW29LpmqLgpSnbPnc/pNszqpgvaHkmlqmYf1S4foGpLGTw38em1CrC9krIZRKyxvaA3e5Cetg7jKS8jaHNibmdkHh2wINmiZl95RdkQpkP6QygkArGU3jeHBLXyBwm/oY3tw7hQRmpKqg1GBZquC63u+e4zAAatQTWtm0PwBLTmRr+9nO5w5EKcK4RwqWmCbY5wTbHxlVJ6ogc9ZuqhZgMQQ5+AKxktcwdXpEozRN4X8nTsYJoVuD==","tspFromClient":1688376739838}

@@ -1,0 +1,20 @@
+GET /fd/ls/l?IG=C3D1A9B791554F76AFC3009F57548750&TYPE=Event.ClientInst&DATA=%5B%7B%22T%22%3A%22CI.Init%22%2C%22TS%22%3A1688375795902%2C%22Name%22%3A%22Base%22%2C%22FID%22%3A%22CI%22%7D%2C%7B%22Rtt%22%3A%22100%22%2C%22Downlink%22%3A%2210%22%2C%22T%22%3A%22CI.NetworkPerformance%22%2C%22TS%22%3A1688375795902%2C%22Name%22%3A%22timinginfo%22%2C%22FID%22%3A%22NetworkPerformanceDetails%22%7D%2C%7B%22T%22%3A%22CI.SCArrST%22%2C%22TS%22%3A1688375795908%2C%22Name%22%3A710%2C%22FID%22%3A%22SCArrST%22%7D%2C%7B%22width%22%3A%221920%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688375795910%2C%22Name%22%3A%22XW%22%2C%22FID%22%3A%22BRW%22%7D%2C%7B%22height%22%3A%22921%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688375795910%2C%22Name%22%3A%22M%22%2C%22FID%22%3A%22BRH%22%7D%2C%7B%22RawDPR%22%3A%221.0%22%2C%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688375795911%2C%22Name%22%3A%221.0%22%2C%22FID%22%3A%22DPR%22%7D%2C%7B%22T%22%3A%22CI.Info%22%2C%22TS%22%3A1688375795911%2C%22Name%22%3A%220%22%2C%22FID%22%3A%22DM%22%7D%2C%7B%22Time%22%3A1229%2C%22time%22%3A1233%2C%22T%22%3A%22CI.Latency%22%2C%22TS%22%3A1688375796041%2C%22Name%22%3A%22Loaded%22%2C%22FID%22%3A%22HP%22%7D%5D HTTP/1.1
+Host: cn.bing.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cn.bing.com/search?q=%E9%A3%9E%E9%BC%A0&form=QBLH&sp=-1&lq=0&pq=%E9%A3%9E%E9%BC%A0&sc=10-2&qs=n&sk=&cvid=24D8911793D94188878E8F1B17F7F90B&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

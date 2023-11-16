@@ -1,0 +1,18 @@
+POST /weapi/user/getfollows/31771583?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 482
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/song?id=1842025914
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=4oOpD4PXZX4JFTHRaDQtlsWnUP3EkZfB1xJ5K4sXW3WabS2WBBcpMj71boiJC1kA7QGsH1jJ9YwHkZs4SHSn1B%2BMbP%2F7tlcTNXOuMLYLZREQyVDdgMtOLH6T%2Ft4e91Luhfy84%2Fj99LpKiq9T8sEFLldh607QB1%2BaUxm4El4uWcaLctNbFKAUES%2FiFCx%2B%2B5ib&encSecKey=79aea9f8fc1e7491bdbe6b72a4ab6d0a285149c6d2958f3f8534bf2ccc53e2c6e70fa48cd312ee5d9f69d9a6c30916f19a0e729e3cae958444e54b4ae54ba8bd9f2b3ca83163f4f8898b26c079b8da261280769b629b8745669ddc6fc169c7b9f58639874db5516b80addeb9d3fb8cf7ffab7e20aff2ba5b26b81c6b61749d21

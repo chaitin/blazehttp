@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1143
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&lq=0&pq=sql%E6%B3%A8%E5%85%A5%E7%9A%84%E2%80%9Cand%201%3D1%EF%BC%8Cand%201%3D2%E2%80%9D%E6%B5%8B%E8%AF%95%E6%B3%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E7%94%A8and%E4%BB%A3%E6%9B%BF%E5%90%97%EF%BC%9F&sc=0-38&sk=&cvid=CB54D0C297E941E8989D943B8045192B&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>D106D4CB40DA439F90799B9549AA152A</IG><TS>1688377708328</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":1,"N":4,"I":"1ie","S":"V+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":129367,"K":"2rtj+2r6b+keydown+2r8m","F":0},"V":"2pzv/////////visible/","L":"@1l/p/INPUT#sb_form_q//5c/18/dt/18/4/K/-1","M":"0+yh+-1+2k1+2i+1k+0+1x+0+2ga+1","E":"@1k/2/X/1o/+@1k/6/X/1o/+@1k/7/X/1o/+@1k/8/X/1o/+@1k/9/X/1o/+@1k/a/X/1o/+@1k/b/X/1o/+@1k/c/X/1o/+@1k/d/X/1o/+@1k/e/X/1o/+@1k/f/X/1o/+@1k/g/X/1o/+@1k/h/X/2s/+@1k/i/X/4y/","C":"2pzx/6////9l/eq//2pzt+2qbc/////9r/e9//2qba+2qbv/////9u/dp//2qbs+2qca/////a1/cw//2qc6+2qcr/////a8/c4//2qcp+2qd8/////ai/b7//2qd3+2qe5/////as/90//2qdz+2qem/////au/89//2qee+2qfj/////aw/70//2qfb+2qgh//////66//2qge+2qk5/////az/5o//2qjx+2ql3/////b1/59//2qkm+2qlj/0////bm/3a//2qli+2qm0/////bs/2x//2qly+2qmh/////by/2m//2qme+2qnv/p////c5/28//2qnq+2qqn/////cf/1y//2qqe+2qs2/////co/1s//2qrq+2qwc//mousedown///cq/1q/1/2qwb+2qzr//mouseup/////0/2qzq+2qzs//click//////","K":"@1l/p/@1m/1ekk/2r6a+@1n/p/@1m/4/@1n"}]]]></D></E></Events><STS>1688377708328</STS></ClientInstRequest>

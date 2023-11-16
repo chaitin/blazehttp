@@ -1,0 +1,15 @@
+GET /log/web?00111116883797590361688379758434|Homepage:Ugc:0|3.27.2-d0bc6222|showTime|{%22val%22:216,%22initErr%22:0}|219e8af1ecdc8a35f59edfb1b9be4e1a|||230396854|1182648645|1|0|4|3|2|3|32|0|https://cn-sxxa-ct-03-03.bilivideo.com/upgcxcode/45/86/1182648645/1182648645-1-30032.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1688386954&gen=playurlv2&os=bcache&oi=3080682842&trid=000014889c2365074771b5d26d3cb598a9f3u&mid=503647489&platform=pc&upsig=efb2d0f08d48e8f3e6a5b506e07bbb98&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=63303&bvc=vod&nettype=0&orderid=0,3&buvid=54F00853-746D-49F1-B499-6192F46FDB16138373infoc&build=0&agrr=1&bw=99486&logo=80000000,|vtag:bvc-h2-server,atag:||{%22playerIdle%22:%22eg%22,%22qn%22:32,%22aq%22:-1} HTTP/1.1
+Host: data.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

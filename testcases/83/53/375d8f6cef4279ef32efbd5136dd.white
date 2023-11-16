@@ -1,0 +1,18 @@
+POST /bee/collect HTTP/1.1
+Host: s.c-ctrip.com
+Content-Length: 2630
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"d":"f001688378110496!m1Legacy!ac=tl&pi=10320673302&key=c_flight_btn_mouse_event&val=%7B%22type%22%3A%22mouseEnter%22%2C%22__app_resource__%22%3A32271%7D&pv=1688378011842.4ejff0.1.9&duid=&env=online&v=6&mt=1688378108717&jv=2.8.46\r\nm1Legacy!ac=tl&pi=10320673302&key=c_flight_btn_mouse_event&val=%7B%22type%22%3A%22mouseLeave%22%2C%22__app_resource__%22%3A32271%7D&pv=1688378011842.4ejff0.1.9&duid=&env=online&v=6&mt=1688378109935&jv=2.8.46\r\nm1Legacy!ac=tl&pi=10320673302&key=c_flight_btn_expand_click&val=%7B%22position%22%3A%7B%22x%22%3A12.5%2C%22y%22%3A16.625%7D%2C%22isCenter%22%3Afalse%2C%22__app_resource__%22%3A32271%7D&pv=1688378011842.4ejff0.1.9&duid=&env=online&v=6&mt=1688378109089&jv=2.8.46\r\nm1Legacy!ac=tl&pi=10320673302&key=c_brand_price_show_choose&val=%7B%22priceSummary%22%3A%22%7B%5C%22adultprice%5C%22%3A750%2C%5C%22childprice%5C%22%3A750%2C%5C%22infantprice%5C%22%3A240%2C%5C%22cabin%5C%22%3A%5C%22Y%5C%22%2C%5C%22producttype%5C%22%3A%5C%22Airline%7C%5C%22%2C%5C%22routesearchtoken%5C%22%3A%5C%22KLUv%2FWBvAAUJABbSPifg6qoAmCgUmSPURF5mO8HSF6EenIL0AZ1m41NEjWFFjmeMMcYYnwkyADMANACJmMi0yphytTp85tjbcVy%2Bch%2BW8cZ1GsXYoSS%2FWVmrHluvgzLy3bbRIgo1a3fjOHpQJgkXUw6fXb7raIfKtF6HZ0wCU4Yrgudj%2FZI0asPFuA8PeUAu%2F%2BVLxSgXCiklEIoYTTEKCO3p2betljkOJOySYiaRXC4Ui6P6LG37PrrC6Yhtaraim2AyTAAws%2Be0Pbl8FaEcxsUkXwOaUO06dNNlXtVq%2Fmz4UBOKUTIiIpJijANdaW8BM3DAYJY3K%2BthYpOCab%2B2ja50U49pvZ4BDABUC9pn89CNFb0p3VwsPqMNsMvo1JYyGNJmDo0qa2Qwow%3D%3D%5C%22%2C%5C%22flightNum%5C%22%3A%5C%22HU7678_1688478300000%5C%22%2C%5C%22matchedKey%5C%22%3A%5B%5C%22ZLCZCW%5C%22%2C%5C%22JJCZL_HU%5C%22%2C%5C%22CZCW_HU%5C%22%2C%5C%22GRADE_Y%5C%22%2C%5C%22SPECIAL_CLASS%5C%22%2C%5C%22AIRLINE_HU%5C%22%5D%2C%5C%22key%5C%22%3A%5C%22JJCZL_HU%5C%22%7D%22%2C%22__app_resource__%22%3A32271%7D&pv=1688378011842.4ejff0.1.9&duid=&env=online&v=6&mt=1688378109103&jv=2.8.46\r\nm1Legacy!ac=ntl&d=xXsidHlwZSI6InRpbGVkX3RsIiwiY29tbW9uIjpbMTAzMjA2NzMzMDIsIjE2ODgzNzgwMTE4NDIuNGVqZmYwIiwxLDksIgMxAzEDMYYyLjguNDYDN5V0c21ieHEtMXQzbGxjZi1qajJnM2QDTIgiLG51bGwsIgNUA1QDVIZvbmxpbmUDWgMtA0SUMDkwMzExMjE0MTA3ODg4ODQ1ODcDbpZodHRwczovL2ZsaWdodHMuY3RyaXAuA4EBgS8GK78vbGlzdC9vbmV3YXktaGdoLWJqcz9fPTEmZGVwZGF0ZT0yMDIzLTA3LTA0JmFsbGlhbmNlaWQ9ODYzNDE3JnMDCIszMzI4MzQ1Il0sIgMrgWEDgUeFeyJrZXkDgWCUb19mbHRfY29mZmVlYmVhbl9kZXYDgWmTdmFsIjp7InJvb3RNc2dJREFycgOCB4tbXCIxMDAwMjU1MgNYmWE3MGMzMTUtNDY4OTkzLTMwMTQyNzdcIl0DgiAGgiyHMSwidG9rZQOCH54iUFJELTMtMTQ4OWU2OTEtYzRiNi00MTRmLWJlYzYDLYswYzQ4Nzc2NDlhLQSBJoMwNzADPIguMi4yLVdFQgOCW4dWRVJTSU9OA4JtgTMEDAOCY5BJU19JTlMiOjF9LCJkdWlkA4J-A4JznSQudWJ0Lmhlcm1lcy50b3BpYy5jbGFzc2lmaWVyA4Mbj0RlYnVnQ3VzdG9tIn1dfQ~~&c=1&mt=1688378109683&jv=2.8.46\r\n"}

@@ -1,0 +1,18 @@
+POST /web/spans HTTP/1.1
+Host: apm.you.163.com
+Content-Length: 1810
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://you.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://you.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"meta":{"app":"yanxuan-expert-web","uid":"","tid":"1#yanxuan-expert-web#1688379585815#79585814","os":"unknown","bws":"Chrome","sdk":"1.7.0","type":1980,"dpi":"1920x1080","page":"you.163.com/expert/index"},"list":[{"st":1688379591159,"sid":"1688379585820","spn":"ajax","type":1980,"psid":1688379585821,"url":"/xhr/login/getQRState.json","et":712,"err":0,"tag":{},"fds":{"httpCode":200,"method":"GET","code":"200","msg":"","duration":712}},{"st":1688379590231,"sid":"1688379585819","spn":"ajax","type":1980,"psid":1688379585821,"url":"/xhr/login/checkPrivacyPolicy.json","et":1631,"err":0,"tag":{},"fds":{"httpCode":200,"method":"GET","code":"200","msg":"","duration":1631}},{"st":1688379591260,"sid":"1688379585821","spn":"ajax","type":1980,"psid":1688379585821,"url":"/xhr/login/getQRState.json","et":600,"err":0,"tag":{},"fds":{"httpCode":200,"method":"GET","code":"200","msg":"","duration":600}},{"st":1688379589222,"sid":"1688379585818","spn":"ajax","type":1980,"psid":1688379585818,"url":"/xhr/login/getQRState.json","et":26,"err":0,"tag":{},"fds":{"httpCode":200,"method":"GET","code":"200","msg":"","duration":26}},{"st":1688379589200,"sid":"1688379585817","spn":"ajax","type":1980,"psid":1688379585817,"url":"/xhr/common/checklogin.json","et":20,"err":0,"tag":{},"fds":{"httpCode":200,"method":"GET","code":"200","msg":"","duration":20}},{"st":1688379589168,"sid":"1688379585816","spn":"ajax","type":1980,"psid":1688379585816,"url":"/xhr/accountRelate/relateMobileCheck.json","et":31,"err":0,"tag":{},"fds":{"httpCode":200,"method":"POST","code":"200","msg":"","duration":31}},{"st":1688379589148,"sid":"1688379585815","spn":"ajax","type":1980,"psid":1688379585815,"url":"/xhr/common/checklogin.json","et":17,"err":0,"tag":{},"fds":{"httpCode":200,"method":"GET","code":"200","msg":"","duration":17}}]}

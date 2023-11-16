@@ -1,0 +1,18 @@
+POST /monitor_browser/collect/batch/?biz_id=docs_portal_website HTTP/1.1
+Host: mon.zijieapi.com
+Content-Length: 1411
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://docs.feishu.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://docs.feishu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"ev_type":"batch","list":[{"ev_type":"performance","payload":{"name":"lcp","value":1108.6000000238419,"isSupport":true,"isPolyfill":false,"isBounced":false,"isCustom":false,"type":"perf"},"common":{"bid":"docs_portal_website","pid":"/docs","view_id":"/docs_1688375867715","user_id":"c2f62822-056d-49f2-9f24-c4dfcca2d54b","device_id":"1920af98-1e8d-475c-98eb-b068f6ecf04f","session_id":"3cba5439-b0e1-4cae-88f0-b6d3383567e1","release":"unknown","env":"online_pc","url":"https://docs.feishu.cn/docs","timestamp":1688375918371,"sdk_version":"1.7.0","sdk_name":"SDK_SLARDAR_WEB","context":{"websiteType":"Hera","viewType":"first","htmlFetchType":"html_fetch_network","devicePixelRatio":"1"},"network_type":"4g","sample_rate":1}},{"ev_type":"performance","payload":{"name":"fid","value":1.5,"isSupport":true,"isPolyfill":false,"isBounced":false,"isCustom":false,"type":"perf"},"common":{"bid":"docs_portal_website","pid":"/docs","view_id":"/docs_1688375867715","user_id":"c2f62822-056d-49f2-9f24-c4dfcca2d54b","device_id":"1920af98-1e8d-475c-98eb-b068f6ecf04f","session_id":"3cba5439-b0e1-4cae-88f0-b6d3383567e1","release":"unknown","env":"online_pc","url":"https://docs.feishu.cn/docs","timestamp":1688375918380,"sdk_version":"1.7.0","sdk_name":"SDK_SLARDAR_WEB","context":{"websiteType":"Hera","viewType":"first","htmlFetchType":"html_fetch_network","devicePixelRatio":"1"},"network_type":"4g","sample_rate":1}}]}

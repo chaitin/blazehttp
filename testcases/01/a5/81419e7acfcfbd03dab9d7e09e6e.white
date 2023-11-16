@@ -1,0 +1,18 @@
+POST /x/vip/ads/material/report HTTP/1.1
+Host: api.bilibili.com
+Content-Length: 280
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"platform":"pc","buvid":"54F00853-746D-49F1-B499-6192F46FDB16138373infoc","mid":503647489,"csrf":"75a49d3dee0cd505eec38f4677904fb7","private_params":[{"mid":"503647489","event_type":"show","material_type":"3","tips_id":"18634","tips_repeat_key":"18634:52:1688375124:503647489"}]}

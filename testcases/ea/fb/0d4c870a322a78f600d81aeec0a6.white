@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.zijieapi.com
+Content-Length: 1075
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://login.feishu.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://login.feishu.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"predefine_pageview","params":"{\"_staging_flag\":0,\"title\":\"/accounts/page/login\",\"url\":\"https://login.feishu.cn/accounts/page/login?app_id=18&redirect_uri=https%3A%2F%2Fwww.feishu.cn%2Fdrive%2Fhome%2F&from=ccm_docsapp_all_officialsite_home_header_login\",\"url_path\":\"/accounts/page/login\",\"time\":1688375922311,\"referrer\":\"\",\"$is_first_time\":\"false\",\"event_index\":1688376253089}","local_time_ms":1688375922311,"is_bav":0,"session_id":"d182cdef-f26b-4709-85c8-0523e6c33289"}],"user":{"user_unique_id":"8611841688375803725","web_id":"7137524116031538701"},"header":{"app_id":1658,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","language":"zh-CN","platform":"web","sdk_version":"5.0.27","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"","referrer_host":"","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"tracer_data":"{\"$utm_from_url\":1}","custom":"{\"_type_\":\"default\"}"},"local_time":1688375922}]

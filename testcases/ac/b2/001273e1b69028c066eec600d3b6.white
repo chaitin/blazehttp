@@ -1,0 +1,19 @@
+POST /log/ocpcagl?type=behavior&emd=euc HTTP/1.1
+Host: fclog.baidu.com
+Content-Length: 1192
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain; charset=UTF-8
+Accept: */*
+Origin: https://www.kingdee.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.kingdee.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+N4IgLgziBcCMBsAORBmRAmArJ9CAMANOAF4yJEA2A9gOYCWAJjCAGYBGeeALAOwooBaeJgZsBXAMbYBAQwY9EA9GxTwZSeFxZ4UIIgAcATlQYBXCWDpUAdswD6LHgBl0ADQDuAcVcArAJ4QxGxcDLAApuhUAB4ACn5sNAAieiASYYZgzCkQYRAQVtaMzDIAnCwsKOgMgrCimOKI4bIoCOJcEWGwXIiiqimmRdAgeGwyKAzy8AIoEuriEwwCbJ14AiUoY7DoPSwyXCUpVPqWTEMphmEs6ReGzAAWYGD6ENAA9K-unwB0ANZ01jQGGEwl8JFQALavHLgiR+awAflMYHBdggVFMhjSAF5RoxTAAyJEo8FhBh0UzgrExADCAgApABREp0xB4OklACCjJ47K4dI5iEZgo5ADEWYl6QyeRyGfzYNz2WzEPAFQAheWq1VC-lixASqjUmmE5F2MHWMBhc1YiAyGQQbWqxI6xl8zV01XwY0oi2GSku93UlnyhmuwWchUyuUKkpKlUMwWO50h91aj02u34tgMOwAN0YWNgsAwsB4OkwJXgJdgnB4wl0lCos0sNhgoCMVDAjaoFHuj2eQyIdyoEDA1hkJOYn3cv3+gOBoIhKX0VAyWQMMjAdzHE6GULC4MMFFsRByMkxd2YiJNaIx2NxZi9dhJZIpVNpjOZrPZXKlvP5gvjZ09UlaVZQ5YMeRjFk4x5dUU21UVxQEA0jSJU0bAtK103tQDE0Q5M3Q9R8fT9AjA0af1VTDH9QKjX8oOVB0nXw11U3gbDM2zPMGALItcFLFBy0rHhqzwWtMHrEA7jtC8zgAXyIMA-H0MJmGoOQUhkGAAG1QDsMAZBoSd-gYKh3BAOSAF0DGHOhm1saBQCiGBCBAPwXIUkAwiiTJHJAXNmHQL48C+SS7DoCAWBgXYKByIgog5AEwgoOgZCcWhBmGTBukQTBNE4LgkH2PBMDweAUjYCQUtOEBC2LAShKrGs6wqhhIsxbjmAgABNABJAB5AApMJqXgdAOVVEM8B8FhqSsFAAFU6B4dBVTABlPAWjkAEUABUAAk1CoRIfncEUYn0ABZQbBoSPxEjiBgNrwGJ0AWxAaDwABpUwBC+sIAHVOxoL7QZofqDt66kRTsdBTCifqfB8GhEAWsAADVhtG56YjAFgPrwFhMBSVFmBYWYaB7OS5KAA

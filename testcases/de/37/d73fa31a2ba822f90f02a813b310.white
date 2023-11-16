@@ -1,0 +1,20 @@
+GET /s?ie=utf-8&mod=11&isbd=1&isid=D036BB06C2124504&ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=burp&fenlei=256&rsv_pq=0xab042314000076d8&rsv_t=2734%2BC%2F8MInjWE6%2Fh9osubsb4jShPBIq3bB6d3RIxJDdIyHE%2FP7M9TxwqTSd&rqlang=en&rsv_enter=1&rsv_dl=ib&rsv_sug3=3&rsv_sug1=3&rsv_sug7=100&rsv_sid=36549_38881_38796_38907_38955_38964_38918_38811_38987_38636_26350&_ss=1&clist=&hsug=&csor=4&pstg=5&_cr1=30083 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Is_xhr: 1
+Ps-Dataurlconfigqid: 0xab042314000076d8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Is_params: imes=0.1.152.0.1.127.0.1.65
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Is_referer: https://www.baidu.com/
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.baidu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

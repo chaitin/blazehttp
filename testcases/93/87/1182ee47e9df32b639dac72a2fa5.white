@@ -1,0 +1,16 @@
+GET /gingame/report/click?sid=s3610448934&pvid=4600417016&_ver=tcss.3.4.6.8&qq=&dm=game.qq.com&url=%2Fimages%2Fjs%2Ftitle%2Ftitle_game_rank.html&rdm=pvp.qq.com&rurl=%2F&hottag=weekloop_0-0-0-27_%E5%91%A8%E7%95%99%E5%AD%98%3Broute_navigation_%E8%B7%AF%E5%BE%84%3Buser_newUsers_%E6%96%B0%E7%94%A8%E6%88%B7%3B%3BosSysUser_newUsers_%E6%96%B0%E7%94%A8%E6%88%B7%3BactUser_newUsers_%E6%96%B0%E7%94%A8%E6%88%B7%3BbrowserInfo_chrome114.0_%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BF%A1%E6%81%AF%3Bdevicesize_1920x1080_%E8%AE%BE%E5%A4%87%E5%B0%BA%E5%AF%B8%3Bviewsize_1020x228_%E5%8F%AF%E8%A7%86%E5%B0%BA%E5%AF%B8%3BsystemInfo_windowswin10_%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF%3BnetType_PCNetwork_%E7%BD%91%E7%BB%9C%E7%B1%BB%E5%9E%8B&rarg=&scr=1920x1080&scl=24-bit&lang=zh-cn&java=0&pf=Win32&tz=-8&flash=-&ct=-&ext=pttplat%3Ddcv_pc%26pttproject%3Dother_navigation_pc%26pttpagetype%3Drankinglist%26pttpagename%3D%25E6%25B8%25B8%25E6%2588%258F%25E6%258E%2592%25E8%25A1%258C%25E6%25A6%259C%26pttrefer%3Dother_pvp_qq_com&hurlcn=&reserved1=-1&tt=&rand=41916&pttplat=dcv_pc&pttproject=other&pttpagetype=rankinglist&pttsitetype=navigation&pttosact=pc&pttpagename=%E6%B8%B8%E6%88%8F%E6%8E%92%E8%A1%8C%E6%A6%9C&pttrefer=other_pvp_qq_com&game=game&acctype=0&platid=&openid=&game_openid=&game_appid=&reserved2=&reserved3=pv&partition=&roleid=&pageid=https%3A%2F%2Fgame.gtimg.cn%2Fimages%2Fjs%2Ftitle%2Ftitle_game_rank.html&business=dmpnew&action=pv&title=&targetid=&targettype=&tag=&from=&dt=1688379820790&staytime=&path=&recid=&channelid=&top=&fortest1=&fortest2=&fortest3=&fortest4=&fortest5=&sourceid=index.0.0.0.page&adtag=&rtype=pv HTTP/1.1
+Host: dmplog.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://game.gtimg.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://game.gtimg.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

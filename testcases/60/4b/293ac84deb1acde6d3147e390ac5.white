@@ -1,0 +1,14 @@
+GET /c/=/qzone/app/v8/controls/mood_poster/mood_poster_facade.60825.js,/qzone/app/v8/controls/mood_poster/1.0.50318.js,/qzone/app/v8/controls/mood_poster/common/constant/1.0.31226.js,/qzone/app/v8/controls/mood_poster/mood_editor/1.0.210120.js,/qzone/app/v8/controls/mood_poster/mood_editor_config/1.0.40405.js,/qzone/app/v8/controls/mood_poster/template_1.0.40818.js,/qzone/app/v8/controls/sensible_editor/3.0.40625.js,/qzone/app/v8/controls/mood_poster/misc/1.0.js,/qzone/app/v8/controls/mood_poster/utils/misc/1.0.50921.js,/qzone/app/v8/f4a/1.0.20130723.js,/qzone/app/v8/controls/mood_poster/managed_content_loader/1.0.js,/qzone/app/v8/models/mood/image/1.0.js,/qzone/app/v8/controls/mood_poster/utils/photo_data_converter/1.0.4010801.js,/qzone/app/v8/controls/mood_poster/mood_wall_entrance/qbPreData.js,/qzone/app/v8/controls/mood_poster/plugins/quick_image_attacher/trigger/1.0.20130808.js?max_age=72000 HTTP/1.1
+Host: qzonestyle.gtimg.cn
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

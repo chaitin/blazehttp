@@ -1,0 +1,16 @@
+GET /gampad/ads?pvsid=2310584625527428&correlator=1694812773804760&eid=31075759%2C31075761&output=ldjh&gdfp_req=1&vrg=202306270101&ptt=17&impl=fifs&iu_parts=1090369%2CC1&enc_prev_ius=%2F0%2F1&prev_iu_szs=300x250&ifi=1&adks=2350102003&sfv=1-0-40&cust_params=url%3D%252FLittleHann%252Fp%252F17506649.html%26ref%3Dwww.cnblogs.com&sc=1&cookie=ID%3D869a7633753c63eb%3AT%3D1660900283%3ART%3D1688359259%3AS%3DALNI_MYZvCIEWVjgSvMdemqMSo2oMECTyw&gpic=UID%3D00000bf41afcc381%3AT%3D1681366274%3ART%3D1688359259%3AS%3DALNI_Ma7Ic3Z-sWyMQ9B_C5TC0XgyQcdgA&abxe=1&dt=1688377182207&lmt=1688377182&dlt=1688377181483&idt=699&adxs=284&adys=14868&biw=1903&bih=921&scr_x=0&scr_y=0&btvi=1&ucis=1&oid=2&u_his=8&u_h=1080&u_w=1920&u_ah=1032&u_aw=1920&u_cd=24&u_sd=1&u_tz=480&dmc=8&bc=31&uach=WyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTE0LjAuNTczNS4xOTkiLFtdLDAsbnVsbCwiNjQiLFtbIk5vdC5BL0JyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTQuMC41NzM1LjE5OSJdLFsiR29vZ2xlIENocm9tZSIsIjExNC4wLjU3MzUuMTk5Il1dLDBd&nvt=1&url=https%3A%2F%2Fwww.cnblogs.com%2FLittleHann%2Fp%2F17506649.html&ref=https%3A%2F%2Fwww.cnblogs.com%2FLittleHann%2F&frm=20&vis=1&psz=300x250&msz=300x-1&fws=4&ohw=1893&ga_vid=220337481.1597988301&ga_sid=1688377182&ga_hid=1999435396&ga_fc=true&a3p=EhkKCnVpZGFwaS5jb20Y-4_92JExSABSAghkEhsKDGlkNS1zeW5jLmNvbRj1vbfQkTFIAFICCGoSHAoNY3J3ZGNudHJsLm5ldBj6j_3YkTFIAFICCGQSGQoKcHViY2lkLm9yZxjih5LfkDFIAFICCGoS-wEKDmVzcC5jcml0ZW8uY29tEt8Bb1FhSXNWOXRaMFZrY1V4dlQxTlljRWhUZUVZd1NtaEpRMVZFYzA1bFNrMHhOR2R4ZW1JeEpUSkdRMkp2UjJNMlJUUlZSMUp0ZGlVeVJtRXlPR3QwWlhCV1IwaDFkREZ3VTFSVVIxRkJRVkp4YjJ4Q09GaG9kMmh4WkhOWVNEWjVaMkUyYjNKdWFVUmlNa3QxYVU5NE9UTk5ibTU1YUZJekpUSkdNRlUwV21jd1V6UnFUblIzVmpoQlFUTmtXWFZzUzA1SmRGTkpNREphYzNNM1REWmtSWGNsTTBRbE0wURiqxbfQkTFIABI-CgVvcGVueBIsZXlKcElqb2lNR05rTkZCaWVVUlRLelp4WWxsTGNWbGtUMjlFVVQwOUluMD0YsrO30JExSAA. HTTP/1.1
+Host: securepubads.g.doubleclick.net
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.cnblogs.com
+X-Client-Data: CJG2yQEIpLbJAQipncoBCMKTywEIkqHLAQj6mM0BCIWgzQEIpL3NAQ==
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cnblogs.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

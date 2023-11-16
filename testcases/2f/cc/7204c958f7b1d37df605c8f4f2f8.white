@@ -1,0 +1,18 @@
+POST /api/v1/proxy-api?url=https://api2.amplitude.com/2/httpapi HTTP/1.1
+Host: cdn.builder.io
+Content-Length: 1171
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://builder.io
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://builder.io/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"api_key":"2532be1b0436a18cb938b21fc7fa9faf","events":[{"device_id":"eb723e0e-f429-4d4c-9c0d-13d6d343a8c3","session_id":1688380331632,"time":1688380531525,"platform":"Web","os_name":"Chrome","os_version":"114.0.0.0","device_model":"Windows","language":"zh-CN","ip":"$remote","insert_id":"f1828ea5-4378-4db1-81cb-ce922971a0f3","event_type":"submit signup form","event_properties":{"position":"signup page","app":"app","host":"builder.io","url":"https://builder.io/signup","sessionId":"db6aa3283e5c4ebb81ac07689c923844","user_id":null,"user_email":null,"user_logged_in":false,"accountType":"cms","parentFrameUrl":false,"timestamp":1688380531522,"date":"Mon, 03 Jul 2023 10:35:31 GMT","sessionUrl":"https://app.fullstory.com/ui/B9193/client-session/4b2b7c84-aa5f-44aa-b927-6f55e6eb3095%3Ae8bba38b-760e-41cc-af00-249c1b5fba76%3A1688380531522","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","browser":"Chrome","browserVersion":"114.0.0.0","os":"Windows","osVersion":"10","userId":null,"userEmail":null,"userLoggedIn":false,"user":{}},"event_id":6,"library":"amplitude-ma-ts/0.3.3"}],"options":{}}

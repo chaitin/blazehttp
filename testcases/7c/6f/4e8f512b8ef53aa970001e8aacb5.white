@@ -1,0 +1,17 @@
+GET /link?url=PvuoZ_YSX1X7aEmgWwXTybzWUUjmNLK2CwUAHkTsFMvkCrZNJnkPQ9Dwv_5d7Ufa&wd=&eqid=e8b69b7f00078a0f0000000464a2b030 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.baidu.com/s?wd=saas%20%E7%BD%91%E9%A1%B5%E7%89%88&pn=10&oq=saas%20%E7%BD%91%E9%A1%B5%E7%89%88&ie=utf-8&fenlei=256&rsv_idx=1&rsv_pq=a45dcf090012eca2&rsv_t=17afteu%2F4zT%2B3OyNKrhVnwC6u%2BoUfqXiMhSqBARwTO4%2FrQ57TLZSGnLaGDk&rsv_page=1
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

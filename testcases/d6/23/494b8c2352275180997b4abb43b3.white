@@ -1,0 +1,18 @@
+POST /cdn-cgi/rum? HTTP/1.1
+Host: ant.design
+Content-Length: 457
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://ant.design
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ant.design/components/dropdown-cn
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"resources":[],"referrer":"https://ant.design/components/button-cn","eventType":1,"firstPaint":3843.2000000476837,"firstContentfulPaint":3843.2000000476837,"startTime":1688376809182.7,"versions":{"fl":"2023.4.0","js":"2023.4.2","timings":1},"pageloadId":"0838a5c7-0b2c-470e-9f69-0c60a0d3a68b","location":"https://ant.design/components/dropdown-cn","wd":false,"b":1,"timingsV2":{"nextHopProtocol":"h2"},"siteToken":"99e8e5822a844cdaa1916725da659cf2","st":2}

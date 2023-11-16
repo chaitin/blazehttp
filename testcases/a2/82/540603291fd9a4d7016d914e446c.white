@@ -1,0 +1,16 @@
+GET /logstores/web/track?APIVersion=0.6.0&date=1688382688545&group=default&tags=ACE_SERVICES%3Bget&level=warn&message=https%3A%2F%2Fbridge.aliyun.com%2Fabs%2Fhome%2FqueryUserBaseInfo%20%E5%93%8D%E5%BA%94%E7%8A%B6%E6%80%81%E7%A0%81%E9%9D%9E200&params=%7B%22response%22%3A%7B%22success%22%3Afalse%2C%22code%22%3A%22USER_NOT_LOGIN%22%2C%22message%22%3A%22%E7%94%A8%E6%88%B7%E6%9C%AA%E7%99%BB%E5%BD%95%22%2C%22data%22%3Anull%2C%22rt%22%3A35%7D%7D&requestId=4851cf5f-9093-49a4-ab46-9f4459b451ca&url=https%3A%2F%2Fwww.aliyun.com%2F&response=%5Bobject%20Object%5D HTTP/1.1
+Host: aliyun-page.cn-hangzhou.log.aliyuncs.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

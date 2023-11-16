@@ -1,0 +1,15 @@
+GET /x/player/wbi/playurl?qn=32&fnver=0&fnval=4048&fourk=1&voice_balance=1&gaia_source=pre-load&avid=402157835&bvid=BV1No4y1N7eg&cid=1159742698&w_rid=ea5361ce32f096f0c580a62aaf18d8c2&wts=1688375140 HTTP/1.1
+Host: api.bilibili.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

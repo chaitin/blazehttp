@@ -1,0 +1,22 @@
+POST /run?file=demo.tsx HTTP/1.1
+Host: stackblitz.com
+Content-Length: 3542
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Origin: https://ant.design
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://ant.design/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+project%5Btitle%5D=%E5%9F%BA%E6%9C%AC+-+antd%405.6.4&project%5Btemplate%5D=create-react-app&project%5Bdependencies%5D=%7B%22antd%22%3A%225.6.4%22%2C%22%40ant-design%2Ficons%22%3A%22latest%22%2C%22%40types%2Freact%22%3A%22%5E18.0.0%22%2C%22%40types%2Freact-dom%22%3A%22%5E18.0.0%22%2C%22react%22%3A%22%5E18.0.0%22%2C%22react-dom%22%3A%22%5E18.0.0%22%7D&project%5Bfiles%5D%5Bindex.css%5D=&project%5Bfiles%5D%5Bindex.tsx%5D=import+React+from+%27react%27%3B%0D%0Aimport+%7B+createRoot+%7D+from+%27react-dom%2Fclient%27%3B%0D%0Aimport+Demo+from+%27.%2Fdemo%27%3B%0D%0A%0D%0AcreateRoot%28document.getElementById%28%27container%27%29%29.render%28%3CDemo+%2F%3E%29%3B%0D%0A++&project%5Bfiles%5D%5Bdemo.tsx%5D=import+React+from+%27react%27%3B%0D%0Aimport+%27.%2Findex.css%27%3B%0D%0Aimport+%7B+DownOutlined%2C+SmileOutlined+%7D+from+%27%40ant-design%2Ficons%27%3B%0D%0Aimport+type+%7B+MenuProps+%7D+from+%27antd%27%3B%0D%0Aimport+%7B+Dropdown%2C+Space+%7D+from+%27antd%27%3B%0D%0A%0D%0Aconst+items%3A+MenuProps%5B%27items%27%5D+%3D+%5B%0D%0A++%7B%0D%0A++++key%3A+%271%27%2C%0D%0A++++label%3A+%28%0D%0A++++++%3Ca+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22+href%3D%22https%3A%2F%2Fwww.antgroup.com%22%3E%0D%0A++++++++1st+menu+item%0D%0A++++++%3C%2Fa%3E%0D%0A++++%29%2C%0D%0A++%7D%2C%0D%0A++%7B%0D%0A++++key%3A+%272%27%2C%0D%0A++++label%3A+%28%0D%0A++++++%3Ca+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22+href%3D%22https%3A%2F%2Fwww.aliyun.com%22%3E%0D%0A++++++++2nd+menu+item+%28disabled%29%0D%0A++++++%3C%2Fa%3E%0D%0A++++%29%2C%0D%0A++++icon%3A+%3CSmileOutlined+%2F%3E%2C%0D%0A++++disabled%3A+true%2C%0D%0A++%7D%2C%0D%0A++%7B%0D%0A++++key%3A+%273%27%2C%0D%0A++++label%3A+%28%0D%0A++++++%3Ca+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22+href%3D%22https%3A%2F%2Fwww.luohanacademy.com%22%3E%0D%0A++++++++3rd+menu+item+%28disabled%29%0D%0A++++++%3C%2Fa%3E%0D%0A++++%29%2C%0D%0A++++disabled%3A+true%2C%0D%0A++%7D%2C%0D%0A++%7B%0D%0A++++key%3A+%274%27%2C%0D%0A++++danger%3A+true%2C%0D%0A++++label%3A+%27a+danger+item%27%2C%0D%0A++%7D%2C%0D%0A%5D%3B%0D%0A%0D%0Aconst+App%3A+React.FC+%3D+%28%29+%3D%3E+%28%0D%0A++%3CDropdown+menu%3D%7B%7B+items+%7D%7D%3E%0D%0A++++%3Ca+onClick%3D%7B%28e%29+%3D%3E+e.preventDefault%28%29%7D%3E%0D%0A++++++%3CSpace%3E%0D%0A++++++++Hover+me%0D%0A++++++++%3CDownOutlined+%2F%3E%0D%0A++++++%3C%2FSpace%3E%0D%0A++++%3C%2Fa%3E%0D%0A++%3C%2FDropdown%3E%0D%0A%29%3B%0D%0A%0D%0Aexport+default+App%3B&project%5Bfiles%5D%5Bindex.html%5D=%0D%0A++++%3C%21DOCTYPE+html%3E%0D%0A++++++%3Chtml+lang%3D%22en%22%3E%0D%0A++++++++%3Chead%3E%0D%0A++++++++++%3Cmeta+charset%3D%22utf-8%22%3E%0D%0A++++++++++%3Cmeta+name%3D%22viewport%22+content%3D%22width%3Ddevice-width%2C+initial-scale%3D1%2C+shrink-to-fit%3Dno%22%3E%0D%0A++++++++++%3Cmeta+name%3D%22theme-color%22+content%3D%22%23000000%22%3E%0D%0A++++++++%3C%2Fhead%3E%0D%0A++++++++%3Cbody%3E%0D%0A++++++++++%3Cdiv+id%3D%22container%22+style%3D%22padding%3A+24px%22+%2F%3E%0D%0A++++++++++%3Cscript%3Econst+mountNode+%3D+document.getElementById%28%27container%27%29%3B%3C%2Fscript%3E%0D%0A++++++++%3C%2Fbody%3E%0D%0A++++++%3C%2Fhtml%3E%0D%0A++++&project%5Bfiles%5D%5Btsconfig.json%5D=%7B%0D%0A++%22compilerOptions%22%3A+%7B%0D%0A++++%22target%22%3A+%22esnext%22%2C%0D%0A++++%22module%22%3A+%22esnext%22%2C%0D%0A++++%22esModuleInterop%22%3A+true%2C%0D%0A++++%22moduleResolution%22%3A+%22node%22%2C%0D%0A++++%22jsx%22%3A+%22react%22%2C%0D%0A++++%22jsxFactory%22%3A+%22React.createElement%22%2C%0D%0A++++%22jsxFragmentFactory%22%3A+%22React.Fragment%22%0D%0A++%7D%0D%0A%7D

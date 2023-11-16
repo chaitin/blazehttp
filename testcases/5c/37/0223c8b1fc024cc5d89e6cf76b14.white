@@ -1,0 +1,16 @@
+GET /rpc/v2/login/options?state=801ffdc5-3762-4a79-afb8-bde9bc2fe9f3 HTTP/1.1
+Host: qiye.aliyun.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Eagleeye-Traceid: 1418e28616883826331891000886a2
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://qiye.aliyun.com/login/v2/index?uiTheme=webmail&takeOverParentWindow=true&deviceIdType=UMID&state=801ffdc5-3762-4a79-afb8-bde9bc2fe9f3&lang=zh_CN
+Accept-Encoding: gzip, deflate
+Connection: close
+

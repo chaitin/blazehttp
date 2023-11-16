@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 2966
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/xml
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=dsl&qs=n&form=QBRE&=%25eManage%20Your%20Search%20History%25E&sp=-1&lq=0&pq=dsl&sc=10-3&sk=&cvid=C701D3B491AF4AB49B702AFAEDDFCAB1&ghsh=0&ghacc=0&ghpl=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>C2804D2A582041BAA4C3582BD15FBC01</IG><TS>1688379940465</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":7,"N":1,"I":"3n3","S":"C+BD+BF+T","M":"V+L+M+MT+E+N+C+K+BD+BF","T":1975,"K":"LI.b_algo+1cf+LI.b_ans+1k0+2o6+1gv+31o+SERP,5036.1+SERP,5189.1+SERP,5215.1+SERP,5538.1+SERP,5263.1+SERP,5300.1+SERP,5327.1+SERP,5351.1+SERP,5376.1+SERP,5403.1+IFRAME#aadssofr+1iu+1iv+mousemove","F":0},"V":"kw/0/0/1hc/pl/@5/@4/1/e/visible/default+ou//////2sv////+s6//////@6////","L":"s6/0/NAV.b_scopebar/SERP,5027.1/4g/2q/@1/13/2/T/-1+s6/1/H1.b_logo//o/1m/38/i/4/T/-1+s6/2/DIV.b_searchboxForm/SERP,5032.1/4g/17/i2/1c/3/T/-1+s6/3/DIV#id_h/@7/18d/17/7e/1e/2/T/2+s6/4/SPAN.sb_count//50/47/4t/u/4/T/-1+s6/5/SPAN.ftrB/SERP,5465.1/9t/47/2q/u/4/T/-1+s6/6/@0/@8/4g/51/i0/fp/4/T/-1+s6/7/@0/@9/4g/ku/i0/ar/4/T/-1+s6/8/LI.b_ans b_mop b_vidAns/@a/4g/vp/i0/9m/4/T/-1+s6/9/@0/SERP,5236.1/4g/15f/i0/6w/4/T/-1+s6/a/@0/@b/4g/@1/i0/55/4/T/-1+s6/b/@0/@c/4g/1ho/i0/7v/4/T/-1+s6/c/LI.b_ans b_mop/SERP,5601.1/4g/1pn/i0/9h/4/T/-1+s6/d/@0/@d/4g/1z8/i0/55/4/T/-1+s6/e/@0/@e/4g/24h/i0/55/4/T/-1+s6/f/@0/@f/4g/29q/i0/4h/4/T/-1+s6/g/@0/@g/4g/2eb/i0/55/4/T/-1+s6/h/@0/SERP,5424.1/4g/2jk/i0/4d/4/T/-1+s6/i/@2/SERP,5633.1/4g/2o1/i0/8k/4/T/-1+s6/j/LI.b_msg b_canvas/SERP,5083.1/4g/2wp/i0/1i/4/T/-1+s6/k/LI.b_pag/SERP,5697.1/4g/2yb/i0/2p/4/T/-1+s6/l/LI#mfa_root/SERP,5711.1/0/0/3s/3s/4/T/2+s6/m/LI.b_ans b_dr_mod/SERP,5667.1/oo/51/d4/9s/4/T/-1+s6/n/@2/SERP,5678.1/oo/ey/d4/cg/4/T/-1+s6/o/@2/SERP,5708.1/oo/rj/d4/1y/4/T/-1+s6/p/LI.b_super_task_pane_metadata b_hide//0/0/0/0/4/T/-1+s6/q/LI#tab_3_head//50/@3/5n/14/c/T/-1+s6/r/LI#tab_4_head//an/@3/5n/14/c/T/-1+s6/s/LI#tab_5_head//g9/@3/5n/14/c/T/-1+kx/t/FOOTER#b_footer/SERP,5060.1/0/@4/@5/1c/1/T/-1+s6/t////@6////T/+s6/u/IMG#id_p/@7/197/10/1s/1s/4/T/2+s6/v/IMG#emb65D5B507/@8/je/7j/28/28/9/T/2+s6/w/IMG#emb167D77C4C/@9/je/ne/28/28/9/T/2+s6/x/IMG#emb274B4F792/@a/50/xj/6k/3o/k/T/2+s6/y/IMG#emb3628728BE/@a/bs/xj/6k/3o/k/T/2+s6/z/IMG#emb43641D1CD/@a/ik/xj/6k/3o/k/T/2+s6/10/IMG#emb5767F172A/@b/je/1ez/28/28/9/T/2+s6/11/IMG#emb616FDA2D4/@c/jo/1lj/28/28/g/T/2+s6/12/IMG#emb75CF46844/@d/je/21s/28/28/a/T/2+s6/13/IMG#emb82DF9EB66/@e/je/271/28/28/9/T/2+s6/14/IMG#emb9592E3CCE/@f/je/2ba/28/28/9/T/2+s6/15/IMG#embA212C0455/@g/je/2gv/28/28/9/T/2+s6/16/@h//@5/@6/0/0/1/T/-1+s6/17/IFRAME#OverlayIFrame//0/0/0/0/1/T/-1+s6/18/@h//@5/@6/0/0/1/T/-1+s6/19/IFRAME//0/0/0/0/1/T/-1+@i/3///199//6i///R/+@i/u///1a3/////R/","E":"@j/2/X/1o/+@j/6/X/1o/+@j/7/X/1o/+@j/8/X/1o/+@j/9/X/1o/+@j/a/X/1o/+@j/b/X/1o/+@j/c/X/1o/+@j/d/X/1o/+@j/e/X/1o/+@j/f/X/1o/+@j/g/X/1o/+@j/h/X/1o/+@j/i/X/1o/+@j/j/X/1o/+@j/k/X/1o/+@j/l/X/2s/+@j/m/X/4y/+@j/n/X/4y/+@j/o/X/4y/+@j/p/X/jq/","C":"kj/4/@k/mouse/0/m9/7g/0/-2a48+oi/////mm/6y//-29yr+p0/////o7/52//-29yc+pi/////qb/1u//-29xv+vn/2////a7/1s//vj+xy/////a6/21//xq","BD":"kj/@k/1688379940","BF":"0/0/Win32/20030107/1////"}]]]></D></E></Events><STS>1688379940465</STS></ClientInstRequest>

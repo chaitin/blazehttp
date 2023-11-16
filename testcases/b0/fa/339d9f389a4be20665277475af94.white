@@ -1,0 +1,19 @@
+POST /loggw/dwcookieLogGet.do HTTP/1.1
+Host: mdap.alipay.com
+Content-Length: 1199
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://www.antgroup.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.antgroup.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+data=D-AE%2C2023-07-03%2017%3A34%3A16%3A237%2C%2C%2C2%2C%2C%2C%2C1000%2C102022%2CH5behavior%2C2%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2CMozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%252C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Safari%2F537.36%2C%2C%2C%2C%2C%2C%2Ccode%3D4%5Emsg%3Dhttps%253A%252F%252Fgw.alipayobjects.com%252Fv%252Fportal_qb9pdx%252Fafts%252Fvideo%252FA*WEdmSKgFbrIAAAAAAAAAAAAAAQAAAQ%252F720P_h265%5Es1%3Dsource%5Es2%3Ddiv%255B%2540class%253D%2522banner-anim%2522%255D%253Ediv%255B%2540class%253D%2522banner-anim-elem%2520banner-text-inner-element___vYATs%2522%255D%253Ediv%255B%2540class%253D%2522banner-text-inner-bg___ZHjpI%2522%255D%253Evideo%255B%2540id%253D%2522bg-video%2522%255D%253Esource%5Es3%3D%5EsampleRate%3D1%5Ebm_sid%3DS09001619361%5Eyuyan_id%3D180020010000005703%5Emonitor_ver%3Dwebsdk%253A3.0.2%5Etitle%3D%25E8%259A%2582%25E8%259A%2581%25E9%259B%2586%25E5%259B%25A2%5Edom_cnt%3D559%5Edelay%3D767%5Escroll_top%3D0%5Econtent_height%3D5963%5Elast_action%3D0%2502%25022023-07-03%252017%253A34%253A15%253A473%2502%5Enetwork%3D4g%5Es_c%3Dtrue%5EfullURL%3Dhttps%253A%252F%252Fwww.antgroup.com%252F&time=1688376856237

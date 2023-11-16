@@ -1,0 +1,21 @@
+POST /data/api.json?action=DescribeResources HTTP/1.1
+Host: ecs.console.aliyun.com
+Content-Length: 592
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json, text/plain, */*
+Arms-Traceid: a0a06ac0ee41f24bcc513fc282741906
+Arms-Userdata: traceId=a0a06ac0ee41f24bcc513fc282741906&domain=ecs-core&session=NDF_wr62u1eZWaBIKSsBd&actionId=db051a9a9c4bb843d778e7ac538f081f&actionType=%40%40dynamic%28%23instance-global-resource%29%5BM8EzbLG00BDVyu8v_Zuji%5D%2FDESCRIBE_RESOURCES
+Bx-V: 2.5.1
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/home?spm=5176.12818093.top-nav.3.2c9616d0N2zpa0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+action=DescribeResources&collina=&params=%7B%22Product%22%3A%22Ecs%22%2C%22ResourceType%22%3A%22Instance%22%2C%22RegionId%22%3A%22cn-hangzhou%22%2C%22Global%22%3Atrue%2C%22MaxItems%22%3A100%2C%22Filter.1.AttributeName%22%3A%22InstanceChargeType%22%2C%22Filter.1.AttributeValue%22%3A%22PostPaid%22%2C%22Filter.1.Operation%22%3A%22equal%22%2C%22TagFilter.1.TagKey%22%3A%22acs%3Aecs%3Ainstance%3Ainconsistency%22%2C%22TagFilter.1.TagValues.1%22%3A%22expire_no_release%22%7D&product=Ecs&region=cn-hangzhou&secToken=d5mraaH0uvLd9OQlTDzyz7&token=Y5d9e0a380443c7194dc0c2c552bf5de2&version=2016-03-14

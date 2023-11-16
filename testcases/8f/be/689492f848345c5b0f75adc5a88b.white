@@ -1,0 +1,20 @@
+GET /api/v4/me/switches?include=is_creator HTTP/1.1
+Host: www.zhihu.com
+X-Zse-93: 101_3_3.0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ab-Param: 
+X-Ab-Pb: CgY7AicH+AwSAwIAAA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Requested-With: fetch
+X-Zse-96: 2.0_TWZOVRj9bxX4zxAmd/GooNn/Uw/D2whuI1jP7FoWNqXUQPCwJtmveT/otygDHBua
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://zhuanlan.zhihu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://zhuanlan.zhihu.com/p/365020263
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

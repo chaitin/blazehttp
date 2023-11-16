@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx? HTTP/1.1
+Host: cn.bing.com
+Content-Length: 351
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=modsecurity+%e8%a7%84%e5%88%99&qs=HS&pq=modsecurity+&sc=10-12&cvid=BBE72EDEE9C7441D829439A103ACAA74&FORM=QBRE&sp=1&lq=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>D57F10AB4A6747C892D71227AE04150B</IG><TS>1688378739963</TS><D><![CDATA[{id:1205,P:"2:17,3:17,4:17,5:17,7:17,8:1e,9:jm,10:jo,11:jr,12:ll,13:ll,14:ll,15:lm,16:lm,17:lm,FN:k4,BN:k5",S:"nav:0",v:1.1,T:"CI.Perf",FID:"CI",Name:"PerfV2"}]]></D></E></Events><STS>1688378739963</STS></ClientInstRequest>

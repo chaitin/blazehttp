@@ -1,0 +1,19 @@
+POST /v3/d HTTP/1.1
+Host: webzjac.reg.163.com
+Content-Length: 1116
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://dl.reg.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dl.reg.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+d=TmJ%2FmL8HAW5RnV1B0HN%2BA4CJg0i2cLBHXZK59Th6roTw8%2B5m01DdIdz9WYaV5LnKsfLFVtvdJpqHQS.rJYG9EwmK1UGTqzpenTRNzqDEt8jIRcUNaq8AoNW8nmGccDKcyN18D1J3SNsXCiyGmYf5b4LthTFVkpVMYSIdii4hipTZTeG.8629MGKBzQhCSXHoC6Jg15XmjanQaQUcwLocR7X25%2B.LjR7xFK5AtP%2FFMosMZGdaNqVnO6He5tg.XmtAyYy0xZGjmHSCLrUS2MKzr8M7tzHqPv43%2FFbgIDYay%2BARNODDvwJNe8iSY3boPJpx3sJXD1mvKh1GeX4kbsogYSsyn2yLrx8Rinuc8SDHfwsDUqN9ohfXdS%2FSIIf1zkwu.rrSfE8B2iByAwq6X3IoKMVinbSLZ73hbZRngBmH2Sa9jPvLGH8YG4G7XZmNtAnqrH3x5R1svV78Oy4nxKO9ei%2BnXs%2FC9fW3KQYuOvXSVssBFj7f5c.zUyiVxNXHQSM.HONMiDDZT..gJfX9Jgb3ikQk09IPOS4.1x.fTdm5EttR65zAMFEE1GzNGE899SMZWv8yVNH3Uy54y2jEndIBK454bnT%2F5jVveJ3zsPTXZsdy1ZcDqbSZ7cW4MBCqgr%2FxFwO2rKW3nB%2FWcrHh4SRaMcyYDbBogdoNaK1W0o5Dvs849oPae.GfQ5cWVEPCBt1Aspq3YY5E%2FJHo4%2FieDywDXuuOWv7nZH4xnQdNw1nkJFmkDY%2BWbPnshvAOc10mP858oy5p%2FBfyJrygJGdWzAFN207bq%2BI6i9R.PDso4z5FJRVBGBvRSCmI2BDxqI7DP1.YdmobtRBEW2k5Y247%2BNBSdNw%2BHFN0D5RRfRCUtIaK.yfeL4d4YHrPn0HDhie5kWnTdG%2FS7cK6LdPpS%2F1v1HfsW1UoE9jSH26O%2F%2FYW0nfhEKKTXpV9xKj.FxtsiA%2BRF0xiK1aZKaQJnr8tOyj85At1kpOQ4rdHyxay9.Az9YVAjKzaLR2z6xyGZRyA50vjzj2qyzPN0Yll&v=e2891084&cb=__wmjsonp_91cefb4

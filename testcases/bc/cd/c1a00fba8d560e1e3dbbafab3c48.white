@@ -1,0 +1,14 @@
+OPTIONS /api/v2/assemble/list/channel/search_hot_word?new_hot_flag=1&channel_name=pc_hot_word&size=20&user_name=weixin_46708016&platform=pc&imei=10_18754282740-1597979518688-247971&toolbarSearchExt=%7B%22landingWord%22%3A%5B%5D%2C%22queryWord%22%3A%22%22%2C%22tag%22%3A%5B%22%E6%9C%8D%E5%8A%A1%E5%99%A8%22%2C%22%E8%BF%90%E7%BB%B4%22%2C%22%E8%BF%90%E7%BB%B4%E5%BC%80%E5%8F%91%22%2C%22linux%22%2C%22windows%22%5D%2C%22title%22%3A%22%E7%89%A7%E4%BA%91+%26bull%3B+%E4%B8%BB%E6%9C%BA%E7%AE%A1%E7%90%86%E5%8A%A9%E6%89%8B%EF%BD%9C%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA%EF%BC%8C%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E9%9B%B7%E6%B1%A0WAF%E7%AD%89%E5%A4%9A%E6%AC%BE%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%22%7D HTTP/1.1
+Host: silkroad.csdn.net
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: content-type
+Origin: https://blog.csdn.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://blog.csdn.net/weixin_46708016/article/details/130892341
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

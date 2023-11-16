@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.zijieapi.com
+Content-Length: 1399
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"predefine_pageview","params":"{\"aid\":2608,\"did\":\"0\",\"iid\":\"0\",\"type\":2,\"h5_sdk_version\":\"2.28.5\",\"h5_sdk_use_type\":\"cdn\",\"platform\":\"pc\",\"os_name\":\"windows\",\"once\":1688376750879,\"region\":\"cn\",\"is_decision\":0,\"is_rendered\":0,\"fp\":\"f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f\",\"product_host\":\"juejin.cn\",\"product_path\":\"/post/7250375753597943863\",\"title\":\"hippo - 提升我们团队工程效率的工具 - 掘金\",\"url\":\"https://juejin.cn/post/7250375753597943863\",\"url_path\":\"/post/7250375753597943863\",\"time\":1688376751176,\"referrer\":\"https://juejin.cn/\",\"$is_first_time\":\"false\",\"event_index\":1688377077885}","local_time_ms":1688376751176,"is_bav":0,"session_id":"ae90a11e-1ed1-49e2-90e2-d98fad14a340"}],"user":{"user_unique_id":"f151d35210af3edfbbc8a05cd2bfe9341b543d1adf8a48760f","web_id":"7248929098973103651"},"header":{"app_id":2018,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","language":"zh-CN","platform":"web","sdk_version":"5.0.25","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://juejin.cn/","referrer_host":"juejin.cn","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"tracer_data":"{\"$utm_from_url\":1}","custom":"{}"},"local_time":1688376751}]

@@ -1,0 +1,19 @@
+POST /weapi/nmusician/workbench/openplatform/ispermitview?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 406
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/st/musician
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=g8oZq8H4wbllJAQC%2BfnXrymf5hmCVrerGVmCOdgFyxGr%2FzDlHPgUY3MHXmHW659b1LtUTTKmtRbkFeBo14ZBUbCUfgsmEF8YGgsdof1TQxgoHAkKqyuZVCX9Tw1aS5lk&encSecKey=74131ad6bddec164a138e134ce586c708f6d992515346931d8f6291c7e9138410972cd6e4580bfc6180abea4200980172dab0f9b72207d0a7968be8281a5cf1c835c8855b741df04def5a968b8944630a92e2613086cddd5171b34910e8d06191258d704f9e5287ce39ef67d12cdf558e1e5281b733d54188cb21893193d5ae5

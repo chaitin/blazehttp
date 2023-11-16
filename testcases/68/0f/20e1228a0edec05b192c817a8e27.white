@@ -1,0 +1,15 @@
+GET /trafficCollect.php?expKey=stayTime&expValue=2045&uin=&ul=https%3A%2F%2Fcloud.tencent.com%2Fact%2Fpro%2Fseckill_season%3FfromSource%3Dgwzcw.7455492.7455492.7455492%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.7455492.7455492.7455492&referer=https%3A%2F%2Fwww.baidu.com%2Fother.php%3Fsc.0s0000agNEWVCqwHvU-KWoew17MycxbHKvXusbyxwh18oFckSE4-s-87FPNTlmKhOT92xDIIapxOD5MkFfzp2Zwt49jFTk99iaX3bjl0w88nReYJs68qpRgvZ9g5TpmJ8oyXnRgZuH6IHty_owfVNucDQlRk15s45ixkv7cPKvi8HJ8VzH5u0h02ngjq53V934cLypyfV9Kegb9N3JFVTU85KUA-.DD_NR2Ar5Od669C8sgXNKnR2mJacAmpDZG6WHjvECYXyPQnUC8S8uvMtgmFCR_p8j9935QkePve_L45QkePve_L45QkePve_L4r8a9G4I2UM3PQDrrZo6CpXgDkJ3rAZ6tEZ_LU81xbtEZ_LU81xbtEZ_LU81xbRojPakvu2e5D.TLFWgv-b5HDkrfK1ThPGujYknHb0THY0IAYqIAN8uL9dUM-dU6KdTvNzgLw4TARqn0K9u7qYXgK-5Hn0IvqzujdYuy4MXZN8XgN80ZFWIWYs0ZNzU7qGujYkPHRsnjRsrHRz0Addgv-b5HDdPjb1nW040AdxpyfqnHcdrjfsP1R0UgwsU7qGujYknW6zP6KsI-qGujYs0A-bm1dribGH0ZKGujY1n6KWpyfqnW6s0APzm1YYPjmvnf%26dt%3D1688383646%26wd%3D%25E8%2585%25BE%25E8%25AE%25AF%25E4%25BA%2591%26tpl%3Dtpl_12826_31784_0%26l%3D1550050952%26ai%3D0_200025055_1_1%26us%3DlinkVersion%253D1%2526compPath%253D10036.0-10032.0%2526label%253D%2525E4%2525B8%2525BB%2525E6%2525A0%252587%2525E9%2525A2%252598%2526linkType%253D%2526linkText%253D%2525E3%252580%252590%2525E8%252585%2525BE%2525E8%2525AE%2525AF%2525E4%2525BA%252591%2525E3%252580%252591-%2525E4%2525B8%25258A%2525E4%2525BA%252591%2525E7%2525B2%2525BE%2525E9%252580%252589%2525E7%252589%2525B9%2525E6%252583%2525A0%2525EF%2525BC%25258C%2525E5%25258A%2525A9%2525E5%25258A%25259B%2525E4%2525BC%252581%2525E4%2525B8%25259A%2525E5%252592%25258C%2525E5%2525BC%252580%2525E5%25258F%252591&fromSource=gwzcw.7455492.7455492.7455492&visitId=bc8df4a3860ada8b1f029c7dff7f16c4&landingpage=https%3A%2F%2Fcloud.tencent.com%2Fact%2Fpro%2Fseckill_season%3FfromSource%3Dgwzcw.7455492.7455492.7455492%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.7455492.7455492.7455492&language=zh&lastLoginType=&_ga=GA1.2.594869390.1598960110&pageTitle=%E4%B8%8A%E4%BA%91%E7%B2%BE%E9%80%89_%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A7%92%E6%9D%80_%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%8A%E4%BA%91%E6%8E%A8%E8%8D%90-%E8%85%BE%E8%AE%AF%E4%BA%91&from=&from_column=&type=OfficialNetworkTraffic&t=1688383655953 HTTP/1.1
+Host: ping.cloud.tencent.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://cloud.tencent.com/act/pro/seckill_season?fromSource=gwzcw.7455492.7455492.7455492&utm_medium=cpc&utm_id=gwzcw.7455492.7455492.7455492
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

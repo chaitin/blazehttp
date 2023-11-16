@@ -1,0 +1,13 @@
+POST /oauth2/v4/token HTTP/1.1
+Host: www.googleapis.com
+Content-Length: 278
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+client_id=77185425430.apps.googleusercontent.com&client_secret=OTJgUOQcT7lO7GsGZq2G4IlT&grant_type=refresh_token&refresh_token=1//06B3yxoHjwFj_CgYIARAAGAYSNwF-L9Irx1dWD-B22-Kkiw2uklyyi9Yv2mqPsDkZKJgq0qVKNx126TYhOGS_JI7blOF4C50LFzs&scope=https://www.googleapis.com/auth/cryptauth

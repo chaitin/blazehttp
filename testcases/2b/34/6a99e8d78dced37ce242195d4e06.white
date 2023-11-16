@@ -1,0 +1,16 @@
+GET /api/v1/config/rainbow?appID=dd065b0c-70e7-4a0a-b298-29db43c3ef16&envName=Default&groupId=console_regionId_canary HTTP/1.1
+Host: network.console.cloud.tencent.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=utf-8
+Accept: */*
+Origin: https://console.cloud.tencent.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://console.cloud.tencent.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,0 +1,18 @@
+POST /UnifiedIDMPortal/ajaxHandler/getCountryRegion?reflushCode=0.9978805084889106&cVersion=UP_CAS_6.11.0.100_live HTTP/1.1
+Host: id1.cloud.huawei.com
+Content-Length: 219
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://reg.huaweicloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://reg.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+pageToken=8d9b8901f09664abd32997c668a4b0edee47a2366aadae4224a3c9036a900d62&pageTokenKey=46137673875764476234745972414980&reqClientType=88&loginChannel=88000000&clientID=103493351&lang=zh-cn&languageCode=zh-cn&state=null

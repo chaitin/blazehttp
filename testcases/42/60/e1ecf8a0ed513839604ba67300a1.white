@@ -1,0 +1,23 @@
+POST /v1/rgstr HTTP/1.1
+Host: exp.notion.so
+Content-Length: 1247
+Statsig-Client-Time: 1688380632380
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Statsig-Api-Key: client-Tgza5wNFa8dVt9BdeUfG6Vkm29bHxX10MhoztTMzLBB
+Statsig-Sdk-Version: 4.36.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Statsig-Encoded: 0
+Statsig-Sdk-Type: js-client
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"events":[{"eventName":"statsig::gate_exposure","user":{"userID":"44c83b11-0dec-4a79-a165-c5997ba51eca","custom":{"locale":"en-US","clientVersion":"23.12.0.143","isElectron":false,"isMobileNative":false,"isMobileBrowser":false,"isBrowser":true,"isMobile":false,"isDesktopBrowser":true,"spaceCreatedTime":1667996742046,"spaceCreatedDate":"2022-11-09","spaceMemberCount":"1","spaceSubscriptionTier":"free","userSignupTime":1667996686195,"domainType":"personal","persona":"it","teamRole":"dept_lead","useCases":["docs","wikis","project","notes","other"],"planType":"personal","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615","deviceId":"729581cc-c52f-4258-9875-b2da05aa077f"},"customIDs":{"deviceId":"729581cc-c52f-4258-9875-b2da05aa077f","spaceId":"2f02162d-df95-4b24-9ef0-39f24f015615"},"statsigEnvironment":{"tier":"production"}},"value":null,"metadata":{"gate":"layout_title_with_icon","gateValue":"true","ruleID":"6dOZoVzJeAt7e6yxi5egi8:100.00:1","reason":"Network","time":1688375273475},"time":1688380631820,"statsigMetadata":{"currentPage":"https://www.notion.so/WAF-fc15ee8d2bbf410b821555ebb62e0f23"},"secondaryExposures":[]}],"statsigMetadata":{"sdkType":"js-client","sdkVersion":"4.36.0","stableID":"74d51316-7eae-414c-b276-c91265e80512"}}

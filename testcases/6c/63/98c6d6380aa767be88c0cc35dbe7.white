@@ -1,0 +1,18 @@
+GET /api/comment/list?map=lowlat&longitude=-319.21875&latitude=85.02070774312594&zoom=1 HTTP/1.1
+Host: fz-api-ce2.greensea.org
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Baggage: sentry-public_key=683c136a430b4893bd1a0bb4952e99c9,sentry-trace_id=b49ca59271af4533a0ac598f3d866edb,sentry-sample_rate=0.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sentry-Trace: b49ca59271af4533a0ac598f3d866edb-90f0e702632c53ef-0
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://ce2.greensea.org
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ce2.greensea.org/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

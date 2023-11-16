@@ -1,0 +1,13 @@
+GET /_sockets/u/130349172/ws?session=eyJ2IjoiVjMiLCJ1IjoxMzAzNDkxNzIsInMiOjExNDY0NTMwMDAsImMiOjE5MjIxMjExNjAsInQiOjE2ODgzNzg1ODF9--3976d0b3f8fa2234c6443e332091e41c2b15e0d9355dc325ad543320a710f95d&shared=true&p=1071861931_1688378586.0 HTTP/1.1
+Host: alive.github.com
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://github.com
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: iYLu31ZVAUPkKEJl7r4GAQ==
+

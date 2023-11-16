@@ -1,0 +1,22 @@
+POST /api/sns/web/v1/homefeed HTTP/1.1
+Host: edith.xiaohongshu.com
+Content-Length: 187
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-T: 1688377998028
+X-B3-Traceid: 451342b8672fdc81
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Accept: application/json, text/plain, */*
+X-S-Common: 2UQAPsHC+aIjqArjwjHjNsQhPsHCH0rjNsQhPaHCH0P1PUhAHjIj2eHjwjQgynEDJ74AHjIj2ePjwjQhyoPTqBPT49pjHjIj2ecjwjHUN0rAN0ZjNsQh+aHCH0rhwBPFPASj+/DAyAZl8BMUq94j8AbkGgmV4B4kPeSC20qlqAY32fME+/ZIPeZAPAPEweHjNsQh+jHCP/GhweP7+ADEweZUwsIj2eqjwjQGnp4K8gSt2fbg8oppPMkMank6yLELznSPcFkCGp4D4p8HJo4yLFD9anEd2rSk49S8nrQ7LM4zyLRka0zYarMFGF4+4BcUpfSQyg4kGAQVJfQVnfl0JDEIG0HFyLRkagYQyg4kGF4B+nQownYycFD9ankpPLMgzg4wPSp7nfkd+bSxpfl+2Dk3/F4tyrExz/QyyfPM/pzQPrExyBkwzMpCnp482rRLn/+OprQVngkyJrELagY+2SDUngk02LRLnfTwJpQT/M4Q2bkLzfSwpBqFnD48PrEgL/byzFEi/dkbPDMxG7SwzM8k/p4Q+LRgpfl+JLFMnSzwypkTLfY+pMkinpzBJbSxy74yzBPInp4b2DMga/bwzFFA/nMwyFMoL/+wzF8i/gkByLELLfkw2DkxnD4ByDEr8Ap8yfl3npziySkLpflwzBYT/D4BJpSxJBY8PSkx//QnyrMxnfMyprQk/nk8PSSLnfSwzFEx//QwyLELzgYwyDSC/0Qp2rEoLfM+zbLAnnMb2bSgz/b+pbkT/dkDySDUzgS+JLLMngkm4FMgLfl+pbQinnM8PDMxp/+8JpbE/F4nyMkxyBS8ySQ3/fMtypSTLfk8yDrU/pzBypSTLgYyyDS7/Fz8PrMxz/pOzB+CnDz+2rMxpgSyprLInDzVyrEoa/mw2DMC/nk8+rRgpgS82SSEn/Qp2LEopflwPS8V/nk0PrExp/+OzMki/p4p2bSLzgS82SQi/D4z4FECLfYwpFM7/fMb+rMLpfMyyfYi/DzDJrECpgY8pFp7//Qb2bSxzfT82SDl/gk84MSC/fM+zMLAnnktyrEgLflOcFiEHjIj2eWjwjQQPAYUaBzdq9k6qB4Q4fpA8b878FSet9RQzLlTcSiM8/+n4MYP8F8LagY/P9Ql4FpUzfpS2BcI8nT1GFbC/L88JdbFyrSiafp/8DMra7pFLDDAa7+8J7QgabmFz7Qjp0mcwp4fanD68p40+fp8qgzELLbILrDA+9p3JpHlLLlz+LSk+d+DJfRAyfRL+gSl4bYlqg48qDQlJFShtUTozBD6qM8FyFShPo+h4g4U+obFyLS3qd4QyaRAy9+0PFSe/B8QPFRSPopFJeHIzbkA/epSzb+t8nkn4AmQynpS2b87/sTc4BRUqgzit9+N8gY8wBRQcMHlaLpUL94n4FQoqgzaagYbN9pr8Bpn4g4xaLPIqAbl4BEQy7mNanTQq9pSP7+g+9P9GMLMqMSl4okYzBzS8dklPgkDN9pgpF8AagW68p+l4omQz/8SzbmFcnQC4LbOJM8oag8d8nSl4oL6nn4S2BklJLS3/o4QyLzcz9bTyDS9yBF3a/WhanSC4LQn49lQ4D4B+Bp98Lz/+9Ll4gzeaLP7qFz0O/FjNsQhwaHCN/qE+Aql+0PhwsIj2erIH0il+7F=
+X-S: XYW_eyJzaWduU3ZuIjoiNTEiLCJzaWduVHlwZSI6IngxIiwiYXBwSWQiOiJ4aHMtcGMtd2ViIiwic2lnblZlcnNpb24iOiIxIiwicGF5bG9hZCI6IjU1MWEwN2UwZjg4YjVlMzJkOGJhNjE2Zjc5MTI0NjhjNGUzYWYxOTY3OTBlYzZlNTIxMzY2YzcyOTZkNmRmOWIxZTFiNTg4ZGY0NWQ1ZGNhNzE2MjcyNGViMWI5OWVlMmM5ZTNiZmRhMWZhYTFlYjkwZDc0YWEzMWI1NGM3MmNkMGQ3NGFhMzFiNTRjNzJjZGFjNDg5YjlkYThjZTVlNDhmNGFmYjlhY2ZjM2VhMjZmZTBiMjY2YTZiNGNjM2NiNTExNjIzN2UxNGRmMDU3YmExYWE1MTZmNzdjY2EyMmE5YzAwMWRlMTRhYmY2MjU3YmQyOGVkZjhiYjRkNmJiYmRjYjA2MTFiYmQxZjIwODY0MjE5ODczZDMxMjUyZTE0ZDlhNGI0NzMzMjY4OWUyYzYyY2UyNGVlN2VlMjc0NjU3OGZhMWUxYTEyYzRhNGQwNzRhNWMwNmE4MTVmZjhhNDdlNzUxYWEwM2ExYjFkYzY1MzYwYzNmMGU3YjJhNWRlOCJ9
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.xiaohongshu.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.xiaohongshu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"cursor_score":"65772","num":39,"refresh_type":3,"note_index":36,"unread_begin_note_id":"","unread_end_note_id":"","unread_note_count":0,"category":"homefeed.fashion_v3","search_key":""}

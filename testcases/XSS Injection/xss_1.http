@@ -1,2 +1,0 @@
-# tag: black,xss
-GET /somepath?q=<script>alert('XSS')</script> HTTP/1.1

@@ -1,0 +1,18 @@
+POST /_axiom/web-vitals HTTP/1.1
+Host: mastermind.dev
+Content-Length: 193
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://mastermind.dev
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://mastermind.dev/indexes-in-postgresql?continueFlag=ed33b44512f3232a855bab2a5a1e7cff
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"webVitals":[{"route":"/[...slug]","id":"v3-1688380834046-7559869591289","name":"FID","startTime":4799.900000095367,"value":1.1999999284744263,"label":"web-vital"}],"environment":"production"}

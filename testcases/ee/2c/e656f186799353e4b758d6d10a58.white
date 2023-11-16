@@ -1,0 +1,15 @@
+GET /v.gif?logFrom=searchlist&ct=2&sid=36549_38942_38881_38796_38907_38955_38964_38918_38811_38987_38636_26350&ssid=&logid=&tid=11545&logInfo=tts_show&cst=1&logExtra=%7B%22type%22%3A%22tts_player_show%22%2C%22value%22%3A%22%22%7D&r=1688379730188& HTTP/1.1
+Host: hpd.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%9C%80%E6%B5%81%E8%A1%8C%E7%9A%84%E7%BD%91%E7%AB%99&fenlei=256&rsv_pq=0xf731e38c00001751&rsv_t=cd8dAtcN3EVutFfETzaCIwuNxErlIrP3iPhHC1SoCTOhtZOVhql%2FkssyEx94&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_sug3=24&rsv_sug1=8&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&inputT=3378&rsv_sug4=3378
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

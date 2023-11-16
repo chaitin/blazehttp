@@ -1,0 +1,22 @@
+POST /international/search/api/flight/comfort/getFlightComfort?v=0.4470099791255022 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 191
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-qP9Rn6eLkYzgy0Qrfdw5zjsOjS3WG3jhoyqUyTZwgUwZNj0Sv9QEtLE0oYbcy7Zjc7EfFwGlJXdJ9FWBqw4AJqpEnGi0aYfLJANEP6v34vpOETlY3DR4Ytgr0aJBTwGlRnfw0MjcDjBAiDpyMtjo6R5HWnHw9lYQSW5XWkmJm5Y7NicY85joZWUnIQ6K6MjMmjUQE0GIFEzLifnYzESDYs3ySEOSY85y0qv90WhXeFXxnfKN8jqgymNI7SwBkjckw43egQEktIFGwt6iU9R1EscYA5yMGiz6Y7OWfhemBY9qjkEUkY1TycDW7pepQyUPjqE5TYdSyoSiF7YNLjS3K3LE1mIO0eHGKskxdtKAUet4JXhI40yUE6didTypPYdEUcisHJ1LRsEn6YaswhByFljBcENny8mEzSjsZjPE0liH9JksYSXWqmYAFibFeXoWZ8ykQeHqWfmEHEq3YF7wlLEMhW4GW1hecaEomYl7wnBjbheGMy9EHpiMOJmdjPowz1iMLEf5RdlyfESkYGDwNcytZesFylENlip5J8mi9ZiZ5Y1XjDoip7E0dJF5EZ6icqrQYHfvnaJsOIsNRBkwkgj38j9AilZyDbj4SWMoRsgR6HjOgET1YhBI9zEfzjPzIThvgDvtFWLySDeh9KqYa3ro3y9lyNcvzBES3yMOEtQv9PYXaR1UjaLePXWTfyoLYA7jMteD7El6Jd7Wf5RGqeTLJalvk1yf8wMGe7UE4dRDnY9sJlSysfJZGwmkEU7RAzJ67JXtRsPeokws6JlYtnI4ovpsvG0YTowSbY3pwP6EtSjn1YgzwS9K9Lja3E8Y8ZyZPvDXw6lY3GETJZ4InsYtYQcYOdxsUYlDvXHe7zYMDi70Y67Rd8rBne8Y8FjPTvhlrkpeFdEOPjzHWk1r5lJoTjqYaZygzWzOjnBrDbKTAe3aE57WbOigHyOHRPYtheknJAEo4RD3vSZYn1W05eg4RFHWHBjATW6tr06RcZxpY4GitdyAlx1bRlpvP9Y7AWaLeHNRosWnkikFYG8r6Dvmb
+Transactionid: 62ae5f73921a451291f62e5a376c36ef
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-bjs?_=1&depdate=2023-07-04&allianceid=863417&sid=3328345
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"airlineCode":"JD","arrivalDate":"2023-07-04","cabinList":["Y"],"departureCityCode":"HGH","arrivalCityCode":"BJS","departureDate":"2023-07-04","flightNoList":["JD5352"],"aircraftCode":"320"}

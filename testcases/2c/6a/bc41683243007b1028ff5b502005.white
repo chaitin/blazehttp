@@ -1,0 +1,19 @@
+POST /api/feedback/weblog HTTP/1.1
+Host: interface.music.163.com
+Content-Length: 503
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Nm-Gcore-Status: 1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+logs=%5B%7B%22action%22%3A%22_pv%22%2C%22useForRefer%22%3Atrue%2C%22json%22%3A%7B%22_plist%22%3A%5B%7B%22_oid%22%3A%22page_web_register_login%22%7D%2C%7B%22_oid%22%3A%22page_h5_biz%22%7D%5D%2C%22_elist%22%3A%5B%5D%2C%22_spm%22%3A%22page_web_register_login%7Cpage_h5_biz%22%2C%22_scm%22%3A%22%3A%3A%3A%7C%3A%3A%22%2C%22_eventtime%22%3A1688383712791%2C%22_sessid%22%3A%221688383712761%23541%22%2C%22g_dprefer%22%3A%22%5BF%3A1%5D%5B1688383712761%23541%5D%22%2C%22is_webview%22%3A1%7D%7D%5D&multiupload=true

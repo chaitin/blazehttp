@@ -1,0 +1,19 @@
+POST /csp/report?type=header&enable=1 HTTP/1.1
+Host: h5.qzone.qq.com
+Content-Length: 1171
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/csp-report
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: report
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"csp-report":{"document-uri":"https://user.qzone.qq.com/389264167","referrer":"https://qzs.qq.com/","violated-directive":"script-src-elem","effective-directive":"script-src-elem","original-policy":"script-src 'unsafe-inline' 'unsafe-eval' 'self' jsbridge: http://*.gtimg.cn https://*.gtimg.cn http://*.qq.com https://*.qq.com http://*.idqqimg.com https://*.idqqimg.com;child-src 'self' jsbridge: musicqzone: mqzonev2: mqzonev3: mqzone: mqqzone: mqqapi: nextradio: mvshow: weixin: mqq: blob: jserror: http://*.qq.com https://*.qq.com http://*.qzone.com https://*.qzone.com;frame-src 'self' jsbridge: musicqzone: mqzonev2: mqzonev3: mqzone: mqqzone: mqqapi: nextradio: mvshow: weixin: mqq: blob: jserror: http://*.qq.com https://*.qq.com http://*.qzone.com https://*.qzone.com http://*.gtimg.cn https://*.gtimg.cn https://www.darryring.com https://*.res.meizu.com;report-uri https://h5.qzone.qq.com/csp/report?type=header&enable=1","disposition":"enforce","blocked-uri":"https://cdn-go.cn/vasdev/web_webpersistance_v2/v1.5.3/flog.core.min.js","line-number":67,"column-number":27533,"source-file":"https://user.qzone.qq.com/389264167","status-code":200,"script-sample":""}}

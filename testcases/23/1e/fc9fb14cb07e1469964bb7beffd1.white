@@ -1,0 +1,20 @@
+POST /_web/_search/api/searchCon/create.rst?_p=YXM9MTExJnQ9MzM1JmQ9MTEwOSZwPTEmbT1TTiY_&tt=0.41891299067370236 HTTP/1.1
+Host: en.hdu.edu.cn
+Content-Length: 359
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://en.hdu.edu.cn
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://en.hdu.edu.cn/_web/_search/api/search/new.rst?locale=zh_CN&request_locale=zh_CN&_p=YXM9MTExJnQ9MzM1JmQ9MTEwOSZwPTEmbT1TTiY_
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+searchInfo=W3siZmllbGQiOiJwYWdlSW5kZXgiLCJ2YWx1ZSI6MX0seyJmaWVsZCI6Imdyb3VwIiwidmFsdWUiOjB9LHsiZmllbGQiOiJzZWFyY2hUeXBlIiwidmFsdWUiOiIzIn0seyJmaWVsZCI6ImtleXdvcmQiLCJ2YWx1ZSI6IuWViiJ9LHsiZmllbGQiOiJyZWNvbW1lbmQiLCJ2YWx1ZSI6IjEifSx7ImZpZWxkIjo0LCJ2YWx1ZSI6IiJ9LHsiZmllbGQiOjUsInZhbHVlIjoiIn0seyJmaWVsZCI6NiwidmFsdWUiOiIifSx7ImZpZWxkIjo3LCJ2YWx1ZSI6IiJ9XQ%3D%3D

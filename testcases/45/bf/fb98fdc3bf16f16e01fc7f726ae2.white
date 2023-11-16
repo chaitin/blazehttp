@@ -1,0 +1,18 @@
+POST /list HTTP/1.1
+Host: mcs.snssdk.com
+Content-Length: 961
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"events":[{"event":"applog_trace","params":"{\"count\":3,\"state\":\"net\",\"key\":\"log\",\"params_for_special\":\"applog_trace\",\"aid\":2608,\"platform\":\"web\",\"_staging_flag\":1,\"sdk_version\":\"4.2.9\",\"event_index\":1688377303544}","local_time_ms":1688376757904}],"user":{"user_unique_id":"6922073775576761864","user_is_login":false,"web_id":"6922073775576761864"},"header":{"app_id":2608,"os_name":"windows","os_version":"10","device_model":"Windows NT 10.0","ab_sdk_version":"90083871","language":"zh-CN","creative_id":null,"ad_id":null,"campaign_id":null,"platform":"Web","sdk_version":"4.2.9","sdk_lib":"js","timezone":8,"tz_offset":-28800,"resolution":"1920x1080","browser":"Chrome","browser_version":"114.0.0.0","referrer":"https://juejin.cn/post/7126456742409568269","referrer_host":"juejin.cn","width":1920,"height":1080,"screen_width":1920,"screen_height":1080,"custom":"{\"profile_id\":\"6922073775576761864\"}"},"local_time":1688376757}]

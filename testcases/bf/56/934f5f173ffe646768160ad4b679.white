@@ -1,0 +1,15 @@
+GET /cache/aladdin/ui/suggestion/suggestion.js?v=20170208 HTTP/1.1
+Host: www.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%A3%9E%E6%9C%BA%E7%A5%A8&fenlei=256&oq=%25E7%25BE%258E%25E5%259B%25A2&rsv_pq=b2f2f87300015d78&rsv_t=4699oNnkMuiSCCXLZdjfzUoycby%2B0%2BZ0yEB%2BdToTRUrw23NQVR2nLxAEn3c&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=1984&rsv_sug3=18&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2023
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

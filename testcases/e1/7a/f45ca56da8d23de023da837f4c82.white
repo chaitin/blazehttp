@@ -1,0 +1,16 @@
+GET /r/www/cache/static/protocol/https/plugins/compatible_ipad_input_6f6bbc9.js HTTP/1.1
+Host: pss.bdstatic.com
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=burp+%E4%BF%A1%E4%BB%BB%E8%AF%81%E4%B9%A6+chrome&fenlei=256&oq=burp+%E4%BF%A1%E4%BB%BB%E8%AF%81%E4%B9%A6&rsv_pq=b25902460000eb0f&rsv_t=674cwzCAXuxYI33FH90xAXT%2F9Z%2BLQgsdwUag6scM%2FM7U1GlSgJnsrUHCmeA&rqlang=cn
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

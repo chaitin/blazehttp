@@ -1,0 +1,14 @@
+GET /proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_multiple_strategy?bosstrace=2501_1929959_789_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A87.27%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8923516%2C%22prc%5Fsize%22%3A4%2C%22rc%5Fsize%22%3A4%2C%22tianshu%5Ffootageid%22%3A0%7D,2502_1930139_788_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A37.89%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8930757%2C%22prc%5Fsize%22%3A3%2C%22rc%5Fsize%22%3A3%2C%22tianshu%5Ffootageid%22%3A0%7D,2502_1929362_788_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A19.12%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8922666%2C%22prc%5Fsize%22%3A3%2C%22rc%5Fsize%22%3A3%2C%22tianshu%5Ffootageid%22%3A0%7D,2502_1929548_788_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A11.89%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8922976%2C%22prc%5Fsize%22%3A3%2C%22rc%5Fsize%22%3A3%2C%22tianshu%5Ffootageid%22%3A0%7D,2503_1930623_787_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A16.22%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8924523%2C%22prc%5Fsize%22%3A3%2C%22rc%5Fsize%22%3A3%2C%22tianshu%5Ffootageid%22%3A0%7D,2503_1930646_787_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A10.4%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8924560%2C%22prc%5Fsize%22%3A3%2C%22rc%5Fsize%22%3A3%2C%22tianshu%5Ffootageid%22%3A0%7D,2503_1930597_787_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A10.51%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8924488%2C%22prc%5Fsize%22%3A3%2C%22rc%5Fsize%22%3A3%2C%22tianshu%5Ffootageid%22%3A0%7D,2248_1929798_797_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A21.36%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8923295%2C%22prc%5Fsize%22%3A1%2C%22rc%5Fsize%22%3A1%2C%22tianshu%5Ffootageid%22%3A0%7D,2249_1929640_798_1_0_0_0_dummy_busi%7B%22as%5Fts%22%3A15.18%2C%22p%5Fsize%22%3A1%2C%22pack%5Ftime%22%3A0%2C%22policy%5Fid%22%3A8923092%2C%22prc%5Fsize%22%3A1%2C%22rc%5Fsize%22%3A1%2C%22tianshu%5Ffootageid%22%3A0%7D&uin=389264167&qboper=1&from=1 HTTP/1.1
+Host: h5.qzone.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://game.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

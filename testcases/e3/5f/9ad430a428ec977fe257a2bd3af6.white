@@ -1,0 +1,19 @@
+POST /data/api.json?_DescribeRoleAuthStatus:waf HTTP/1.1
+Host: home.console.aliyun.com
+Content-Length: 1032
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/home/dashboard/ProductAndService
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=waf&action=DescribeRoleAuthStatus&params=%7B%22RoleName%22%3A%22AliyunWafAssetsManageRole%22%7D&sec_token=d5mraaH0uvLd9OQlTDzyz7&umid=Ya2e9ad212a7420c01f8a345505a4557a&collina=140%23T4boFOqWzzWI1zo2%2Bi%2BbKtN8s77%2BPKdJLlGYOK2C46D%2BOY87kTaX7pqptHk6K20YHxLOlp1zzqeKYUIMpFzx0LkDaph%2Fzzrb22U3l61KEIPPIC%2FBKbW0L2c2%2Ft%2BUoKOs7XrfM62zzPzYVXlqlVMcKpII1wba7X53z0%2BM0lINn4mADbg%2F39D5KflOF9Yj4NbWEIjOhqHw%2FKuDRB%2FR3uDrraqfNdcYwPxzu8Y9jRMz6rE%2B3y%2B78%2FklKDVjw4co17yLD3mA%2BnHCayfz3xhZWRCLdDKboIUPVw1oDMrqOpFv%2FlWsoTGCsps3n90Udvzq1vW7GnWuGG%2BqtK0DoaAOhIBViW5O3AkFwR2cUjoE1xSLH0buvGElc0yil2K%2FzqqUUEVrWMWDZQZWQWYNEfYSjn%2FVJ31CcnayhmRLTsBKHinOoXH6NJrJkcz%2FQM1ggCbznwCJ3rRavu2fJ8vc9OXIn3yRIdbze8cyi67vxdlmePQiABxUSBgocr%2B9Tr4A7IKHGMuUZQ20WtQZqdc121SEV503xTrtTYuOgGMXXKVb7nV5fQrXGkmbZc5A50wuLRwGQvgdcZbihcpOK5Vz61HGE3262L5It3zXSpbpaTwxOujTwYU19oUmQ2ATGhN%2BGNFB4gFw9%2FULMprK0VtIQrBJnFVT3z5QMRkpkQvv2ngq7YjABXeNJniBawVBRHG1FnRxLro3%2BLNS4KjlhaLglpqhaCAv9%2FTXPdT991m5PsFg6nK9nQxmfo7ZF%2BaK1U9QKs0WFevbYkU3WTptK69jRi1w3kOS

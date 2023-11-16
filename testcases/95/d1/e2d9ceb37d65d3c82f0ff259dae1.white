@@ -1,0 +1,19 @@
+POST /recommend_api/v1/article/recommend_all_feed?aid=2608&uuid=6922073775576761864&spider=0 HTTP/1.1
+Host: api.juejin.cn
+Content-Length: 72
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Secsdk-Csrf-Token: 0001000000018d21bf8c1d87ab7229a159d017cab51499b43a02ed941755c99c3127cd6cc56f176e55f9131b2d41
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://juejin.cn
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://juejin.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"id_type":2,"client_type":2608,"sort_type":200,"cursor":"0","limit":20}

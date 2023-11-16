@@ -1,0 +1,18 @@
+POST /weapi/user/binding/cellphone?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 414
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/song?id=1842025914
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=z2Evz%2FU%2B4aWohMRMJwovD4lU1JG4zD0M8UN%2BjsDJ8UYBj8Lg2iyNN%2BsdmpStV2YPQK0TjlYnAhHHnRSaBkKWzd28h2BWr4mVj8Jm0lmzG3v986tNLg3EbDCYfjBi%2FnE%2B&encSecKey=521fd61c172ce209d278a9a49e5a2a1205e343bce43b472f92ec59164baf5e47e9fdd537b91331d340ce2ac82ff9940e0a245cf5955ac15476fc7726b653b3bed79e0eb4f5fd39e6bb949ffb4741acdafb0f87977f1412d85e47cb4996a97eb0640b1b9818e952edf583570896033e78813688f130e7b8aa6f7e9aaac3807377

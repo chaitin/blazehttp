@@ -1,0 +1,21 @@
+POST /chat-web/user/chatconnect.action HTTP/1.1
+Host: www.sobot.com
+Content-Length: 742
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Bno: b01b7974722c472e9e5af65207799681
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://www.sobot.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.sobot.com/chat/pc/v2/index.html?sysnum=b01b7974722c472e9e5af65207799681&visit_start_time=1688382565724&visitTitle=%E5%AF%B9%E6%AF%94Jira%20-%20PingCode%20%E4%B8%80%E6%AC%BE%E6%AF%94Jira%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84%E7%A0%94%E5%8F%91%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7&unit=__&from=iframe&top_bar_flag=1&uid=938701d12d1865ef1444c71f90bc2e62&cid=25bf7db9d5b44e91b924349721177558&color=6698ff&channelid=3
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+sysNum=b01b7974722c472e9e5af65207799681&uid=938701d12d1865ef1444c71f90bc2e62&cid=25bf7db9d5b44e91b924349721177558&chooseAdminId=&tranFlag=0&way=1&current=false&groupId=&keyword=&keywordId=&queueFlag=&transferType=&transferAction=&adminHelloWord=%3Cp+style%3D%22white-space%3A+normal%3B%22%3E%E6%82%A8%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E4%B8%BA%E6%82%A8%E6%9C%8D%E5%8A%A1%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E5%B8%AE%E6%82%A8%EF%BC%9F%3C%2Fp%3E%3Cp+style%3D%22white-space%3A+normal%3B%22%3E%3Cbr%2F%3E%E6%88%96%E5%8F%AF%E6%8B%A8%E6%89%93%E7%94%B5%E8%AF%9D%EF%BC%9A%3Cspan+style%3D%22color%3A+rgb(0%2C+0%2C+0)%3B%22%3E%3Cstrong%3E400-800-1024%3C%2Fstrong%3E%3C%2Fspan%3E%3C%2Fp%3E&activeTransfer=0

@@ -1,0 +1,18 @@
+POST /page_click HTTP/1.1
+Host: tongji.kingdee.com
+Content-Length: 370
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.kingdee.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.kingdee.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"tenant":"kingdee","visitor_id":"97632a872980dbc3ca45434c69c1afd8","action_code":"element_click","collect_time":"2023-07-03 19:09:10","mobile":"","page_title":"sem财务云","user_name":"","user_id":"","ip":"183.159.125.90","province":"浙江","city":"杭州市","url":"https://www.kingdee.com/semcyn","tag":"","utm_source":"baidu","element":"人力云","os":"windows"}

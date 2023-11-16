@@ -1,0 +1,19 @@
+POST /OneCollector/1.0/?cors=true&content-type=application/x-json-stream&client-id=NO_AUTH&client-version=1DS-Web-JS-3.2.7&apikey=b8ffe739c47a401190627519795ca4d2-044a8309-9d4b-430b-9d47-6e87775cbab6-6888&upload-time=1688381573239&time-delta-to-apply-millis=-2044&w=0&NoResponseBody=true HTTP/1.1
+Host: browser.events.data.microsoft.com
+Content-Length: 890
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.office.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"name":"Ms.Webi.MeControl.TrackedScenario","time":"2023-07-03T10:52:53.239Z","ver":"4.0","iKey":"o:b8ffe739c47a401190627519795ca4d2","ext":{"sdk":{"ver":"1DS-Web-JS-3.2.7"},"metadata":{"f":{"flags":{"t":6},"data":{"f":{"durationMs":{"t":6}}}}}},"data":{"baseData":{"properties":{"version":""}},"ver":"2.1","name":"Ms.Webi.MeControl.TrackedScenario","time":"2023-07-03T10:52:53.239Z","appId":"JS:MeControl","cV":"zVjGt3nOBbWbyiTa.24","flags":2097152,"ext":{"javascript":{"ver":"1.1","libVer":"4.2.3","domain":"www.office.com","userConsent":false},"app":{"env":"Prod"}},"data":{"partner":"iwapp","controlVersion":"10.23038.5","market":"en-US","scenario":"Get Graph Picture","action":"BAD","previousAction":"START","success":false,"durationMs":0,"details":"MeControlError::Iframe operation to https://amcdn.msftauth.net timed out. Iframe succeeded to load and send INIT trigger to parent."}}}

@@ -1,0 +1,18 @@
+POST /6 HTTP/1.1
+Host: m.stripe.com
+Content-Length: 676
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://m.stripe.network
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://m.stripe.network/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+JTdCJTIybXVpZCUyMiUzQSUyMmE4YTBmMTM4LTQ2MjctNDE3ZS05YTEzLWI0YzQyYzA4NzA2YjBmOGU2ZSUyMiUyQyUyMnNpZCUyMiUzQSUyMmUwYzFhMGQ1LWNlYjktNGUyNC05M2E4LTE2ZTIxMzhhYWU4OGQxM2RlMiUyMiUyQyUyMnVybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdTh2V2hfczZrOWVfYnVUREF0akl2aUUtdk1zelpRU1lHVk9leFFEckRkZy5uUE1Jbk9Mby15UVVveUhXZ01JT3I3YzByaGtwRVNGZFE2TjBOMEVSTndZJTJGYXZUTF9DWUFLcGpnOUN2MlYwUDJ6STd0ajhZbUtJdVh0UldtZkdUQW02YyUzRiUyNmx6YnNzVWh3d01OUFFEY01ia1FEeWYyQUhJSU9lVl92YXpzanlmaktCTWMlM0RwU0hKV3FZTXlfRG9wQVNTcmQ4RmcxT2xIcE5kc0RuZElhTzNvQmI2Q2pjJTIyJTJDJTIyc291cmNlJTIyJTNBJTIybW91c2UtdGltaW5ncy0xMCUyMiUyQyUyMmRhdGElMjIlM0ElNUIzNTYxMyUyQzE3JTJDMTYlMkMxNiUyQzE3JTJDMTclMkMxNiUyQzE3JTJDMzQlMkMxNyU1RCU3RA==

@@ -1,0 +1,18 @@
+POST /0 HTTP/1.1
+Host: r.stripe.com
+Content-Length: 2519
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://js.stripe.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://js.stripe.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+event_name=elements.timings&client_id=stripe-js&created=1688380969929&event_count=33&os=Windows&browserFamily=Chrome&version=e788aede38&browserClassification=modern&event_id=742ac92e-3523-4f9a-9db5-dce360d8a0dd&deploy_status=main&key=pk_live_51HG2NqEkNJHWF29kIRFXLA6zm5kEpZoj5gK3mR69yC8n6CCQX6TnACGPXS6XqQTU1a207KG9EseoU7XfJqCLiL6D00HoiGrdyj&key_mode=live&referrer=https%3A%2F%2Freviewgpt.lemonsqueezy.com&stripe_js_id=187e1b79-6252-485c-befc-469c66e02ebd&controller_load_time=1688380969034&wrapper=unknown&es_module=true&es_module_version=1.47.0&deploy_status_time_to_fetch_ms=197&deploy_status_fetch_failed=false&intent_id=seti_1NPkDQEkNJHWF29kbNl68ABx&decoupled_intent=false&frame_width=0&dom_loading=674&dom_interactive=677&dom_complete=1983&since_sjs_load=76630&since_stripe_create=2325&since_group_create=2312&since_store=242&since_create=2311&since_mount=2303&since_load=674&since_loaderstart=631&loader_enabled=true&since_fetch=2297&resource_timings-elements-inner-payment.js-duration=874&resource_timings-elements-inner-payment.js-transfer_size=971259&resource_timings-elements-inner-payment.js-tcp_handshake_duration=0&resource_timings-elements-inner-payment.js-dns_lookup_duration=0&resource_timings-elements-inner-payment.js-request_duration=864&resource_timings-elements-inner-payment.js-response_duration=4&resource_timings-elements-inner-payment.js-tls_negotiation_duration=7&resource_timings-elements-inner-payment.js-fetch_duration=874&resource_timings-elements-inner-payment.js-raw_size=970959&resource_timings-elements-inner-payment.js-compressed=true&resource_timings-elements-inner-payment.js-cached_locally=false&resource_timings-elements-inner-payment.js-next_hop_protocol=h2&resource_timings-elements-inner-payment.js-is_http3=false&resource_timings-phone-numbers-lib.js-duration=370&resource_timings-phone-numbers-lib.js-transfer_size=2447&resource_timings-phone-numbers-lib.js-tcp_handshake_duration=0&resource_timings-phone-numbers-lib.js-dns_lookup_duration=0&resource_timings-phone-numbers-lib.js-request_duration=369&resource_timings-phone-numbers-lib.js-response_duration=1&resource_timings-phone-numbers-lib.js-tls_negotiation_duration=1&resource_timings-phone-numbers-lib.js-fetch_duration=370&resource_timings-phone-numbers-lib.js-raw_size=2147&resource_timings-phone-numbers-lib.js-compressed=true&resource_timings-phone-numbers-lib.js-cached_locally=false&resource_timings-phone-numbers-lib.js-next_hop_protocol=h2&resource_timings-phone-numbers-lib.js-is_http3=false&element=payment

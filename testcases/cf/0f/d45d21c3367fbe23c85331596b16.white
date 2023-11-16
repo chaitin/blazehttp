@@ -1,0 +1,19 @@
+POST /g/collect?v=2&tid=G-ZTQ8VHN22X&gtm=45je36s0&_p=1439181773&ul=zh-cn&sr=1920x1080&cid=515135196.1688025924&ir=1&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CGoogle%2520Chrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=EBA&ngs=1&dl=https%3A%2F%2Fbbs.sangfor.com.cn%2Fforum.php%3Fmod%3Dviewthread%26tid%3D258987%26page%3D1%26extra%3D&dp=%2Fforum.php%3Fmod%3Dviewthread%26tid%3D258987%26page%3D1%26extra%3D%23%2Fpid3497165&dt=%E3%80%90%E6%8A%A2%E5%85%88%E4%BD%93%E9%AA%8C%EF%BC%8C%E6%89%BE%E8%8C%AC%E6%9C%89%E7%A4%BC%E3%80%91%E6%B7%B1%E4%BF%A1%E6%9C%8D%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81%E5%B9%B3%E5%8F%B0%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF%E5%95%A6%EF%BC%81%20-%20%E6%B4%BB%E5%8A%A8%E4%B8%93%E5%8C%BA%20-%20%E6%B7%B1%E4%BF%A1%E6%9C%8D%E7%A4%BE%E5%8C%BA&sid=1688379612&sct=2&seg=1&_s=1 HTTP/1.1
+Host: www.google-analytics.com
+Content-Length: 51
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://bbs.sangfor.com.cn
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://bbs.sangfor.com.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+en=page_view&_ee=1
+en=timing_complete&_ee=1&_et=24

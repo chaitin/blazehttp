@@ -1,0 +1,9 @@
+POST /domainreliability/upload HTTP/1.1
+Host: accounts.google.com
+Content-Length: 630
+Content-Type: application/json; charset=utf-8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"SPDY","request_age_ms":499425,"request_elapsed_ms":21062,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://accounts.google.com/domainreliability/upload","was_proxied":true},{"http_response_code":200,"network_changed":false,"protocol":"SPDY","request_age_ms":81832,"request_elapsed_ms":21032,"sample_rate":0.05,"server_ip":"127.0.0.1:8081","status":"ok","url":"https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard","was_proxied":true}],"reporter":"chrome"}

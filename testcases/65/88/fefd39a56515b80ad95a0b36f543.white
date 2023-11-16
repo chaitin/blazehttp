@@ -1,0 +1,22 @@
+POST /international/search/api/lowprice/calendar/getCalendarDetailList?v=0.16950033581645974 HTTP/1.1
+Host: flights.ctrip.com
+Content-Length: 138
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Scope: d
+Accept: application/json
+Cache-Control: no-cache
+Token: 1001-common-MqXI0nyplKSaWfTvAhKb3jkayQ7J7XjGHw9hWkLwn9jpHwl5v7mvB6RfHwsOyzojSsRnaYzPwZDvP1ELXE3pRnbw5XRM7E3gWzcRPOwoZYDcvh3JHTrZY1hKkdyMZImZR7pwnsjg5jf1i1hy68j9zR8GRAFi0tYQzvF5i9mwLoiaNvoYmUjQ7JOgeFBKqBjc0jBpESFy6EFGiLbY0EAtY34yHEtnYngyd8vpQW6UeUlxb1KOdjQZyNTI8XwpNjaqw4ZePZEgfIs0wlqiSaRsEnPY1mybmispY43Wkhe58YcAjBEn3YGZysMW3UepOygQjME1lYANyNMiScYg1jStKB7E5zItleXPK4oxqTKhZesdK6GvZoKOEGTi6nyzMyb1j0sEmfyFAE0Mj6DjNETZimgJd4YSBWM6YtSi04eoDWmOyGce0ZW1lEGEntYgcwnQwS9EaTJ1DeL4YlEZHisOJZqIcfYZ9yHtYlUwnhY3TvLEdhYTbw9zEQnyUovQ7W07joES9i10JPURtENmYqAwgXwfOKlOesaWFcy6E4oiSGJ5dWbEcQYk6wLHenZYhgvaXE4GYM4jAETOimzJ9TW15WXBEcFWpYP3IGpJUSwOGRTtwMOjkGjgzi1qyNbj3dWAGRhFRXUjT5EOFYgAIobENnjgDIPcvZlvkZWFGwnlJdbY6YNPxkORLqx3diUQEQ1YMFvPHyptY4LR9SjoZegdyn3jBOJX7jMPecPEU5yAaJkhiz8e18EO0RsfEnhJQkesgw4TjgnwFtwszJaQJOpRfFyNcyTPymlygTjozyQfE1gRUYhhxUlRQpi1PYaFwl9YPHw5gETUjo6YFgwfMWPFx8XimYcqrPTxLzwXGYcpEO1EH9W04eSYMmK5dJ6pKn4vlTefkYMLiclYShrGURq5K3Y03y5fwldEF6eA8EhQjldW70eUDWOPv4Ymneo4wZhv9ZrozK8pe1AEXZWdoJfXY35e8Y3kxzhIhoxslRaPvXDY9TWZUeMLR8GWbfj9hWAQKfHJsPvqY63rphinoiPqRqSvhQYGNW9fecDRSpW8LiFsY9HEl4Wnn
+Transactionid: 14df44056144400a9e6079166ea184fe
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://flights.ctrip.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://flights.ctrip.com/online/list/oneway-hgh-wuh?depdate=2023-07-04&cabin=y_s_c_f&adult=1&child=0&infant=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"cabin":"Y_S_C_F","flightWay":"S","flightSegmentList":[{"arrivalCityCode":"WUH","departureCityCode":"HGH","departureDate":"2023-07-04"}]}

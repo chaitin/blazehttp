@@ -1,0 +1,19 @@
+POST /dl/zj/mail/l HTTP/1.1
+Host: dl.reg.163.com
+Content-Length: 880
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://dl.reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dl.reg.163.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2023%2F%2Fcss%2F&cf=urs.163.5dcd4ddd.css&MGID=1688376203003.7632&wdaId=&pkid=CvViHzl&product=mail163
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"8d00be1f6366d72a7870fcb6b95eb157edce2a017c4e925822a43150f795a73a87ce96b58575b3a44301c12314cc5e54b78dccfdda491b2d5a0e17a727735281d3fac4e8dbb4b68c4b104c651b6ff2b8894b0c4b6f3265e09075b4fab8a0f791e93064db1c0d2f8f78fe6247816c4e774c481c7746237c509976b79aadb0bdd4ec2521434dc6880fc9d641d459f755428613ac77e97f2356c9d15270c41ef6d1b35987dd67e2df38c495e757c2c95027383d31c4426fe8f263b1b9f34b8c28828a1c2da403f35d532bc34a7f19cb0967f1c214adbf85123dd2da8c80cfd408278f3070bf01c31bc1dda223c6adf93ffbb745af34423d55a52f15aed89b339ca1833d2ed251947aec40061027801f60474462b63349063d6599176fa8e7677b334b2fe90ce92b8c9a3be7f82989a80015213b284f7ef0aa1592a704fafa9d9b3670045c390e03953f2cdaffa93bdfa1b1b86e1cf408cd38e0028c7e4d006fe54874656e8d36cfaae0b0304f0dee5ebd2647210f67d37cd2b37f7466bd2c0359e57bd731b638a0402afd6f1f8028cea49264d4286c044a0a3d768061c24e42287f5b3a9f53398c010b8c0631ccc3ab2011"}

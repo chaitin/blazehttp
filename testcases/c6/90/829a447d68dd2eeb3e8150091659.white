@@ -1,0 +1,18 @@
+POST /batch?v=1&sdk=1.8.13&pageId=owl-a64e7eb2-b9b7-8573-d17b-441c82742262 HTTP/1.1
+Host: catfront.dianping.com
+Content-Length: 1402
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://passport.meituan.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://passport.meituan.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"region":"","operator":"","network":"","container":"","os":"","unionId":"1891b2c7593c8-0b92b24043d27e-26031d51-1fa400-1891b2c7593c8","infos":[{"resourceUrl":"https://s0.meituan.net/static-prod01/com.sankuai.fe.www.passport-files/5e496dd/js/common.js","type":"js","timestamp":"1688378078948","requestbyte":"0","responsebyte":"301726","responsetime":"93","project":"mpw-passport","pageUrl":"/useraccount/ilogin","realUrl":"https://passport.meituan.com/useraccount/ilogin?risk_partner=11&risk_app=-1&risk_platform=3&backurl=https%3A%2F%2Fi.meituan.com%2Fawp%2Fh5%2Flvyou%2Fdeal%2Fgroup%2Findex.html%3FdealId%3D47934506%26ct_poi%3D282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb%26source%3Dmt","statusCode":"200|","logContent":""},{"resourceUrl":"https://p1.meituan.net/images","type":"image","timestamp":"1688378078949","requestbyte":"0","responsebyte":"5223","responsetime":"299.7000000476837","project":"mpw-passport","pageUrl":"/useraccount/ilogin","realUrl":"https://passport.meituan.com/useraccount/ilogin?risk_partner=11&risk_app=-1&risk_platform=3&backurl=https%3A%2F%2Fi.meituan.com%2Fawp%2Fh5%2Flvyou%2Fdeal%2Fgroup%2Findex.html%3FdealId%3D47934506%26ct_poi%3D282369907819251698543717530387790931534_e7532936853755574510_c2_dtrippoipolyb%26source%3Dmt","statusCode":"200|","logContent":"https://p1.meituan.net/travelcube/86c5b686264c3cda292c30f623970f955983.png"}]}

@@ -1,5 +1,0 @@
-# tag: black,file_include
-GET /hello?content=hello&user=file:///etc/passwd HTTP/1.1
-Host: www.baidu.com
-User-Agent: Chrome
-Referer: http://www.qq.com/abc.html

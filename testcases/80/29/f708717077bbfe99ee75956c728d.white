@@ -1,0 +1,17 @@
+POST /e HTTP/1.1
+Host: api.daily.dev
+Content-Length: 273
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: chrome-extension://jlmpjdjjbgclbocgajdjefcidcncaied
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"events":[{"screen_height":1080,"screen_width":1920,"page_referrer":"","window_height":921,"window_width":1920,"page_state":"passive","event_timestamp":"2023-07-03T09:24:30.114Z","event_id":"1688376270vky7","event_page":"/","event_name":"page view","event_duration":482}]}

@@ -1,0 +1,20 @@
+POST /ref/Common/GetArticleStatusList HTTP/1.1
+Host: ref.cnki.net
+Content-Length: 297
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://ref.cnki.net
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ref.cnki.net/REF/AdvSearch/Index?colName=%E8%A2%AB%E5%BC%95%E4%B8%BB%E9%A2%98&colValue=waf&isJump=true
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+fileNames=1017863836%3B1011403730%3B1017195867%3B2008167681%3B1021025408%3BSWCX202215037%3BZHGZ199904014%3B1012497397%3B1012284912%3B1013244426%3B2009143000%3B1012496885%3BAIZH200401014%3BGAYX200404016%3BZZLL201510004%3BXTYY202004021%3B1020004494%3BAIZH200009002%3BZHXY200201005%3BXDYF200510016%3B

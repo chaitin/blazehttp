@@ -1,0 +1,10 @@
+GET /api/search?limit=1000&sort=name_sort&folderIds=3 HTTP/1.1
+Host: 47.97.113.134:3000
+accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+x-grafana-org-id: 1
+Referer: http://47.97.113.134:3000/dashboards/f/Xk6NloEVk/test
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

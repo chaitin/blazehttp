@@ -1,0 +1,19 @@
+POST /dl/dlzc/yd/ini HTTP/1.1
+Host: dl.reg.163.com
+Content-Length: 432
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://dl.reg.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dl.reg.163.com/webzj/v1.0.1/pub/index2_new.html?cd=https%3A%2F%2Fyanxuan.nosdn.127.net%2F&cf=dec5919cc21e6a69d55c1d27426a13a8.css&MGID=1688379465195.335&wdaId=&pkid=SkeBZeG&product=yanxuan_web
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"encParams":"5dff672756b7cb9746d69d403308141fd77950e76584dd8bd656c2401539b09329c487d3ae5194f30cc13dce9a193a4e41853ceb8d3351737a8bd648d8898414851d73cfdca77b5a01de52b15081f563e69faba277ad57db2a54f7dfb2c3fb1aa7a75998c391740e2783acd2ff06999e4b66a9bfd1726144ecd19025229db4d11cdb2899ec842f44b8dde6f653fac6df7bd9fba1ca561300921f9423b5a1ef58a884e9a715638a62cd484e2c6435d8975e9f2cdd56e145be7d954b8a997caebfcbac47a4b97a1c3f84d72971c7720a6a"}

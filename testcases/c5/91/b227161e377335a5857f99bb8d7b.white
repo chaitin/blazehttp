@@ -1,0 +1,18 @@
+POST /m2/amazonwebservicesinc/ubox/raw?mboxPC=1664161865611-28161.32_0&mboxSession=1688379007026-243422&uniq=1688379018526-98077 HTTP/1.1
+Host: amazonwebservicesinc.tt.omtrdc.net
+Content-Length: 552
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: */*
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://aws.amazon.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://aws.amazon.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+mbox=en_header_nav_cta-clicked&mboxTime=1688407818526&mboxTarget=243839&category0=Amazon+Aurora&category1=MySQL+compatible&mboxPC=1664161865611-28161.32_0&mboxSession=1688379007026-243422&mboxPage=1688379007026-567552&mboxXDomain=disabled&mboxNoRedirect=1&mboxHost=aws.amazon.com&screenWidth=1920&screenHeight=1080&colorDepth=24&browserWidth=1920&browserHeight=921&browserTimeOffset=480&mboxUrl=https%3A%2F%2Faws.amazon.com%2Fcn%2Fblogs%2Fdatabase%2Fbest-practices-for-exporting-and-importing-data-from-amazon-aurora-mysql-to-amazon-s3%2F&mboxReferrer=

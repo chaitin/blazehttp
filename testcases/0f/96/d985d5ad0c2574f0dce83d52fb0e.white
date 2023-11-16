@@ -1,0 +1,18 @@
+POST /weapi/appcustomconfig/get?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: interface.music.163.com
+Content-Length: 506
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/javascript
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://music.163.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=e9wmNjnNyFdwbzAaGu%2FrRmhO%2BH5d8dUHF4XXIe1jXJmZB3fS%2FKWaqAggu2s9F53KSyyxU8ljJgiilUbaDBSjxP9nM0m1cPKGEpRCyp34ZUJsSEi6d756h%2FyqgkHBHXgpL7JJvCO68t%2Fa9yFEsSWSGVT1A3S7kIp5SuBnrzzWsiH13HNyw1%2BQwAFFj3P4mT5V0xrgvDBvxVESIfPiOosAhQ%3D%3D&encSecKey=6d0266ff0b90ee2f7a88fda9f699b9ec9b26732a6315f00584fdfa92caad71c7c2b6c277e6954fde197755f2f464061461bab59cc614e672e5409e7f8c5a3977008a063eae62984e2e6794c17a4c297ef236b325c2ab10a7a7f9623459a2912697b76ced3836eb886bfa82cc3ed63ba2e90f3eb532ac7fe247f23d78b23a086b

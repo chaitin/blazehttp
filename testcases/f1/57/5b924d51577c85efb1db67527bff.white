@@ -1,0 +1,24 @@
+POST /fd/ls/lsp.aspx HTTP/1.1
+Host: cn.bing.com
+Content-Length: 1709
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Content-Type: text/plain
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://cn.bing.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://cn.bing.com/search?q=modsecurity&filters=ufn%3a%22ModSecurity%22+sid%3a%22863a4021-961d-5d9b-9be1-4f1a555d3703%22&asbe=AS&qs=MB&pq=modsec&sc=10-6&cvid=AB071B8E32B4494FA036CB7051595CF0&FORM=QBLH&sp=1&lq=0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>BBE72EDEE9C7441D829439A103ACAA74</IG><TS>1688378698154</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8.3","P":{"C":6,"N":3,"I":"7og","S":"V+C+K","M":"V+L+M+MT+E+N+C+K+BD+BF","T":251600,"K":"5e4w+23z8+241r+242w+246h+5c6k+5cbi+5c6m+5cdm+5cl0+10m+5dzq","F":1},"V":"@3t/////////visible/+5e4q/////////hidden/","L":"@3z/6v/BODY.b_respl b_sbText/SERP,5031.1/0/0/@3/@2/0/K/-1","M":"p2+lt+-1+5e4w+51+1l+0+3d+0+3wp+1","E":"@3o/2/X/1o/+@3o/4/X/1o/+@3o/5/X/1o/+@3o/6/X/1o/+@3o/7/X/1o/+@3o/8/X/1o/+@3o/9/X/1o/+@3o/a/X/1o/+@3o/b/X/1o/+@3o/c/X/1o/+@3o/d/X/1o/+@3o/e/X/1o/+@3o/f/X/1o/+@3o/g/X/1o/+@3o/h/X/1o/+@3o/i/X/2s/+@3o/j/X/4y/+@3o/k/X/4y/+@3o/l/X/jq/","N":"@3p/4x//@17/ls%2FGLinkPingPost.aspx/@36/2j/@18/@3p/@3p/@3p/23z9/@3q/@3q+@3r/4y//@17/@3g/@36/3l/@18/@3r/@3r/@3r/242y/@3s/@3s+@3t/4z//@17/tabfocuschanged/@1b/4y/@18/@3t/@3t/@3t/5c71/@3u/@3u+@3v/50//@17/returntop15/@1b/70/@18/@3v/@3v/@3v/5c78/@3w/@3w","C":"@3x//@3c///12v/0//@3x+5cla/////12l/8//5cl7+5clr/////124/h//5cln+5cmo/////@g/m//5cmj+5cnm/////11i/o//5cnf+5cqu/////113/1a//5cqo+5crb/////10w/1s//5cr4+5crt/////@3y/2d//5crl+5cs8/0////109/39//5cs0+5csp/////103/41//5csi+5ct5/////102/4p//5ct4+5cvy/////@3y/4v//5cvs+5cwg/////10z/4t//5cw9+5cxc/////11l/4p//5cx6+5cxu/////120/4i//5cxt+5cyq/////13g/3w//5cyp+5cz6/0////145/3l//5cz5+5czo/////14x/37//5czl+5d04/////15q/2s//5d00+5d0k/////164/2m//5d0f+5d5o/////16g/29//5d5k+5d65/////16p/21//5d61+5d6m/////@j/1q//5d6f+5d72/////17a/1g//5d6w+5dc8//mousedown///17i/1b/1/5dc7+5dg1//mouseup/////0/5dg0+//click//////+5dlw//@3c///172/1d//5dls+5dmt/////16x/1e//5dmo","K":"@3z/6v/keydown/1ekk/5dzp"}]]]></D></E></Events><STS>1688378698154</STS></ClientInstRequest>

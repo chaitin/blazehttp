@@ -1,0 +1,20 @@
+POST /logstores/prod/track HTTP/1.1
+Host: console-base.log-global.aliyuncs.com
+Content-Length: 1757
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/json
+X-Log-Bodyrawsize: 1757
+X-Log-Apiversion: 0.6.0
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"__topic__":"fetcher_success","__logs__":[{"__topic__":"fetcher_success","GROUP":"LOG","TIME":"1688383003079","OS":"Windows","OS_VERSION":"10","BROWSER":"Chrome","BROWSER_VERSION":"114.0.0.0","LOCATION_HOST":"ecs.console.aliyun.com","LOCATION_PATHNAME":"/home","RESOLUTION_SCREEN":"1920x1080","RESOLUTION_BROWSER":"1920x921","SPM_A":"5176","SPM_B":"ecscore_overview","IN_IFRAME":"false","REFERRER":"https://ecs.console.aliyun.com/?spm=5176.12818093.top-nav.3.2c9616d0N2zpa0","channel":"OFFICIAL","locale":"zh-CN","uid":"1845102322007694","uidMain":"1845102322007694","product":"ecs","versionOfLoader":"NEW","versionOfConsoleBase":"4.27.6","config.urlBase":"https://fecs.console.aliyun.com","config.headers.Content-Type":"application/x-www-form-urlencoded","config.url":"/data/api.json?_fetcher_=aegis__DescribeAccesskeyLeakList","config.method":"POST","config.body.product":"aegis","config.body.action":"DescribeAccesskeyLeakList","config.body.params":"{\"Status\":\"pending\",\"CurrentPage\":1,\"PageSize\":100}","config._id":"M_POST!U_https://fecs.console.aliyun.com/data/api.json?_fetcher_=aegis__DescribeAccesskeyLeakList!B_{action:'DescribeAccesskeyLeakList','params':'{\\'Status\\':\\'pending\\',\\'CurrentPage\\':1,\\'PageSize\\':100}','product':'aegis'}","config._timeCreated":"1688383002898","config.merger.key":"M_POST!U_https://fecs.console.aliyun.com/data/api.json?_fetcher_=aegis__DescribeAccesskeyLeakList!B_{action:'DescribeAccesskeyLeakList','params':'{\\'Status\\':\\'pending\\',\\'CurrentPage\\':1,\\'PageSize\\':100}','product':'aegis'}","config._timeStarted":"1688383002917","config.credentials":"include","requestId":"6D83A7F4-0AB7-5D53-A9DB-69380052B9EF","eagleEyeTraceId":"0bc0590416883829997081839e09b4","TOPIC":"fetcher_success"}]}

@@ -1,0 +1,24 @@
+GET /o/oauth2/v2/auth?response_type=code&client_id=596149463257-9oquqfivs9on8t8erq23c8qso6vk3cp1.apps.googleusercontent.com&code_challenge=ioJmyb7Ra5OgH3YguqByuGZ8QCUywdJoKzvHAyC7Sok&code_challenge_method=S256&redirect_uri=https%3A%2F%2Fid.atlassian.com%2Flogin%2Fgoogle&scope=openid+email+profile&state=eyJjc3JmVG9rZW4iOiJiMWQ1MTBiZDM1MjlkYzA5ZTU3NzMyZmI1OTk5YjBkNzk4MDcxN2IwMWMwNmVmNGRhOWI0YTQzZDU2ZGYyNzFkIiwiYW5vbnltb3VzSWQiOiJlZjY4ODJhMC1mZTBiLTBhNTgtMjk0Zi01NTI2NDg4MDNjMDciLCJxdWVyeSI6Ij9jb250aW51ZT1odHRwcyUzQSUyRiUyRnd3dy5hdGxhc3NpYW4uY29tJTJGZ2F0ZXdheSUyRmFwaSUyRnN0YXJ0JTJGYXV0aHJlZGlyZWN0JTNGYXRsT3JpZ2luJTNEZXlKcElqb2lOR1UxT0RJeU4yWmpaak16TkROaVlUaGxOakF6TW1FNE1qTm1NRGN3WmpFaUxDSndJam9pZDJGakxXZHNiMkpoYkdSeWIzQmtiM2R1SW4wJmxvZ2luVHlwZT1nb29nbGVCdXR0b24mbG9naW5faGludD0mcHJvbXB0PXNlbGVjdF9hY2NvdW50JnNvdXJjZT1sb2dpblNjcmVlbiIsInNvdXJjZSI6ImxvZ2luU2NyZWVuIiwibG9naW5UeXBlIjoiZ29vZ2xlQnV0dG9uIn0%3D&prompt=select_account HTTP/1.1
+Host: accounts.google.com
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+X-Chrome-Id-Consistency-Request: version=1,client_id=77185425430.apps.googleusercontent.com,device_id=f9a73372-7ca0-40bd-81c6-cf6964604763,sync_account_id=109753762713414067766,signin_mode=all_accounts,signout_mode=show_confirmation
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Full-Version: "114.0.5735.199"
+Sec-Ch-Ua-Arch: "x86"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Platform-Version: "15.0.0"
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Bitness: "64"
+Sec-Ch-Ua-Wow64: ?0
+Sec-Ch-Ua-Full-Version-List: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.199", "Google Chrome";v="114.0.5735.199"
+Referer: https://id.atlassian.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

@@ -1,4 +1,0 @@
-# tag: black,directory_traversal
-GET /xx%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fsensitive.txt HTTP/1.1
-Host: 1.1.1.1
-

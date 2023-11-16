@@ -1,0 +1,15 @@
+GET /api/comment/v2/comment/list?thread_id=1040000058091214&reply_id=&start=0&num=20&appid=22862035&order=12&inner_order=9&use_list=1&callback=_boxjsonpb15a5461&out_reply_id=&use_uk=1 HTTP/1.1
+Host: ext.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://baijiahao.baidu.com/s?id=1769485266430777663&wfr=spider&for=pc
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

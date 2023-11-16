@@ -1,0 +1,15 @@
+GET /lview?c=www&loc=NEW_QQCOM_N_Width2,NEW_QQCOM_N_Width3,NEW_QQCOM_N_Width4,NEW_WWW_RM_RightMove1,NEW_QQ_Couplet&callback=crystal.callbackarea&rot=1&ri=l.&chl=www&page_type=1&k=&t=%E8%85%BE%E8%AE%AF%E7%BD%91&r=&s= HTTP/1.1
+Host: l.qq.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

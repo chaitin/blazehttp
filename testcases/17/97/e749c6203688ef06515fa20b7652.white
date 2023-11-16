@@ -1,0 +1,19 @@
+POST /metrics/v1/frontend/custom/send?hs_static_app=conversations-visitor-ui&hs_static_app_version=static-1.15990 HTTP/1.1
+Host: metrics-fe-na1.hubspot.com
+Content-Length: 729
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://app.hubspot.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://app.hubspot.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+[{"name":"metrics.loaded","values":[1],"type":"COUNTER","dimensions":{}},{"name":"page-load.rhumb-provider-mounted","type":"TIMER","values":[1924.1000000238419],"dimensions":{"fe_library":"react-rhumb"}},{"name":"conversations-visitor-ui.page-view","values":[1],"type":"COUNTER","dimensions":{}},{"name":"page-load.succeeded","type":"TIMER","values":[1941.7000000476837],"dimensions":{"fe_library":"react-rhumb","scenario":"default"}},{"name":"page-load.transition-succeeded","type":"TIMER","values":[1941.7000000476837],"dimensions":{"fe_library":"react-rhumb","scenario":"default"}},{"name":"http.request-sent","values":[1],"type":"COUNTER","dimensions":{"fe_library":"hub-http","hostname":"app.hubspot.com","prom_only":true}}]

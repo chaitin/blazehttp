@@ -1,0 +1,15 @@
+GET /nclm?conwid=300&conhei=250&rdid=6404226&dc=3&di=u6404226&s1=1198808589&s2=1271209691&dri=1&dis=0&dai=36&ps=4693x1251&enu=encoding&exps=110277,110275,110261,110252,110011&ant=0&psi=7e041c77c24f30ae&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tpr=1688379372322&ti=%E7%BD%91%E6%98%93&ari=2&ver=0609&vc=%E9%98%BF%E9%87%8C%E5%91%8A%E5%88%AB%E2%80%9C%E5%BC%A0%E5%8B%87%E6%97%B6%E4%BB%A3%E2%80%9D&dbv=2&drs=4&pcs=1903x921&pss=1903x11297&cfv=0&cpl=3&chi=2&cce=true&cec=UTF-8&tlm=1688379373&prot=2&rw=921&ltu=https%3A%2F%2Fwww.163.com%2F&ecd=1&dft=0&uc=1920x1032&pis=-1x-1&sr=1920x1080&tcn=1688379373&qn=79de50bbd8425127&ft=1 HTTP/1.1
+Host: pos.baidu.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

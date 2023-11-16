@@ -1,0 +1,21 @@
+POST /weapi/login/qrcode/client/login HTTP/1.1
+Host: music.163.com
+Content-Length: 444
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Nm-Gcore-Status: 1
+Sec-Ch-Ua-Mobile: ?0
+X-Channelsource: undefined
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+X-Loginmethod: QrCode
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=M0nhewyB87bxbuac03jkxKyCR1XZ021Tiq%2B%2FK2MSJu%2FXobuS40zIG0SpSznvj5H0gJEC9it7nlK53%2FGZ%2Bhr3hTk2ZlhcPs3f%2Bd3Y04M22v7hm8Ybw6RxlEi0d%2BvZHuSyPexG7q96lPr8QbrYXOFuCw%3D%3D&encSecKey=dec34cbb9958e3615c2ddc019142a480e5866e164b4e4870eefc51a6acb80c37188ae426da0a5b546f32ae3b763e26d7bf3360b68cc0e8c434cabb7f4fbe6b7a08354f871c6e910cf606a7363068667056aeeb81b9f14b4a5d00dd1f517389607f3809e96b5050efeea159e205d7b9e9476ae42ba74f08947df9ef47306ccca4

@@ -1,0 +1,21 @@
+POST /cpe/process HTTP/1.1
+Host: codepen.io
+Content-Length: 1259
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Csrf-Token: SNRfTR/MYHLOzsvOHeUsuttqZb+8BIGGuvQEIDR0NotH4XMugkznypGm7RvLi7hsvLj+n1PTcb42uUz7j5NxFg==
+Sec-Ch-Ua-Mobile: ?0
+Authorization: Bearer undefined
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://codepen.io
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: empty
+Referer: https://codepen.io/pen?&editors=001
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+[{"id":"js","options":{"detectInfiniteLoops":true},"processors":["typescript-4"],"syntax":"typescript","textInput":"const { createRoot } = ReactDOM;\nconst {  DownOutlined, SmileOutlined  } = icons;\nconst {  Dropdown, Space  } = antd;\nconst items = [\n  {\n    key: '1',\n    label: (\n      <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.antgroup.com\">\n        1st menu item\n      </a>\n    ),\n  },\n  {\n    key: '2',\n    label: (\n      <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.aliyun.com\">\n        2nd menu item (disabled)\n      </a>\n    ),\n    icon: <SmileOutlined />,\n    disabled: true,\n  },\n  {\n    key: '3',\n    label: (\n      <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.luohanacademy.com\">\n        3rd menu item (disabled)\n      </a>\n    ),\n    disabled: true,\n  },\n  {\n    key: '4',\n    danger: true,\n    label: 'a danger item',\n  },\n];\nconst App = () => (\n  <Dropdown\n    menu={{\n      items,\n    }}\n  >\n    <a onClick={(e) => e.preventDefault()}>\n      <Space>\n        Hover me\n        <DownOutlined />\n      </Space>\n    </a>\n  </Dropdown>\n);\nconst ComponentDemo = App;\n\n\ncreateRoot(mountNode).render(<ComponentDemo />);\n"}]

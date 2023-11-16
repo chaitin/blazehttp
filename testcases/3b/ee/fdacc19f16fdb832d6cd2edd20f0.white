@@ -1,0 +1,22 @@
+GET /api/v4/me?include=draft_count HTTP/1.1
+Host: www.zhihu.com
+Pragma: no-cache
+Cache-Control: no-cache
+X-Zse-93: 101_3_3.0
+X-Zst-81: 3_2.0aR_sn77yn6O92wOB8hPZnQr0EMYxc4f18wNBUgpTQ6nxERFZKXY0-4Lm-h3_tufIwJS8gcxTgJS_AuPZNcXCTwxI78YxEM20s4PGDwN8gGcYAupMWufIeQuK7AFpS6O1vukyQ_R0rRnsyukMGvxBEqeCiRnxEL2ZZrxmDucmqhPXnXFMTAoTF6RhRuLPF6eY8vxKjhuOrLg_oCcfHwCYWrHOiq2sIuo8PUpqDcg1cD3BAqHC6uF1CuSTv_YB9BC8Zg2_jbw9QXgLhGL1ZqOC3cc_JqNsbhXy89pBthCZVJO8qCg1jgY_AhCMSBL_SMH8yJHOobCOCGo__CLBuwLfQJO_svLpJht1xbOfowL_LJxsCqfz-CVLCc3qb6Lpb_e02hXYwGLMFGCf9qHmdDVKzDrqeCO8PgYCqBYYVrHGbTHOfwoBHuFqxbpGIhNxHgcC3qXLxgV9uUH_9wXyJrXmQ8HCEJeBwweLwwYC
+X-Ab-Param: 
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+X-Ab-Pb: CgY7AicH+AwSAwIAAA==
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+X-Requested-With: fetch
+X-Zse-96: 2.0_lDnq8LqNYCYaM1q7seSMXQPTFV=t/9R4GuwTBxrORx6rrSnrgML0Bw9ZJo8ggQkq
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.zhihu.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

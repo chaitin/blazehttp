@@ -1,0 +1,18 @@
+POST /collect?id=RiaWqsnTHOaqiNeiQn&uin=o0389264167&version=1.23.51&aid=7d994c22-9157-4bfa-84fa-2628ba4bc8f4&platform=100&x5Type=3&netType=100&sessionId=session-1688379278350&from=https%3A%2F%2Fuser.qzone.qq.com%2F389264167%2Fmain&referer= HTTP/1.1
+Host: aegis.qq.com
+Content-Length: 2032
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://user.qzone.qq.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://user.qzone.qq.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+msg[0]=SCRIPT%20load%20fail%3A%20https%3A%2F%2Fcdn-go.cn%2Fvasdev%2Fweb_webpersistance_v2%2Fv1.5.3%2Fflog.core.min.js&level[0]=32&&msg[1]=req%20url%3A%20https%3A%2F%2Ftsdk.qq.com%2Fhandle%20%0Ares%20time%3A%2074%20%0Areq%20param%3A%20xubN7QAAAAMAAAAfAAAAAAAAAAAAAwAIAAABNAEABTEwMDg2SkV%2BMXAIe9YEFPLijIcUknZxaH9RpFS674UYH%2F1j1kZLVK84uN1qDkcJy7fdgwJ5ameTnu5ykygcjZXxKk74Uk9gOq5KlhuAqakfvApIrHEOfRK5d%2B4tYofhjgX3Vu2q7vpq8%2FWE86mjmKaokcmegCgTxetkRCOIRSEuciLK9pqmeV21r%2F5WCMv14GJSHfD%2FZb0fcQRzaOkB5pQNo%2BEBiq%2BpawTpWE0ZjtI9KkJzM9fCBHgnmPVB%2Bs4Tnz5r5AEOdF%2B9Tztrt01%2FCEcInoKs64oq4IDyQmzvIyO8iSoQgECkkhbJNsnz3Wx3kzNcMGORhLQIII8fwHj7KGmqlqbXdWdzMOnnIJWXgpkhTNNB%2BE9qkbXG98eT09VzFIaOYwtXmSXF1ADtT25y0wuKsCEhAm%2BdT68%3D%20%0Ares%20data%3A%20%7B%22code%22%3A0%2C%22msg%22%3A%22ok%22%2C%22data%22%3A%22%22%7D&level[1]=1&&msg[2]=Script%20error.%20%40%20(%3A0%3A0)&level[2]=4&&msg[3]=req%20url%3A%20https%3A%2F%2Fuser.qzone.qq.com%2Fproxy%2Fdomain%2Fg.qzone.qq.com%2Ffcg-bin%2Fcgi_emotion_list.fcg%3Fuin%3D389264167%26loginUin%3D389264167%26rd%3D0.4213226934535177%26num%3D3%26noflower%3D1%26q_sig%3D4201044beaa37063567a37704d658e9fa26483e4a7d95a180b4b%26ver%3D1.0.3%26g_tk%3D1508769380%26g_tk%3D1508769380%20%0Ares%20time%3A%20215%20%0Areq%20param%3A%20%20%0Ares%20data%3A%20%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22GBK%22%3F%3E%20%0A%3Cqzone%3E%0A%3Cresult%20type%3D%220%22%3E%0A%3Cmessage%3E%3C%2Fmessage%3E%0A%3Cdata%3E%0A%3Cvisitcount%3E12448%3C%2Fvisitcount%3E%0A%3Ctodayvisit%3E0%3C%2Ftodayvisit%3E%0A%3C%2Fdata%3E%0A%3C%2Fresult%3E%0A%3C%2Fqzone%3E&level[3]=1&&msg[4]=req%20url%3A%20https%3A%2F%2Fuser.qzone.qq.com%2Fproxy%2Fdomain%2Fboss.qzone.qq.com%2Ffcg-bin%2Ffcg_get_strategy%3Fboard_id%3D2715%26uin%3D389264167%26g_tk%3D1508769380%26g_tk%3D1508769380%20%0Ares%20time%3A%20192%20%0Areq%20param%3A%20%20%0Ares%20data%3A%20_Callback(%7B%0A%09%22code%22%3A0%2C%0A%09%22subcode%22%3A0%2C%0A%09%22message%22%3A%22%22%2C%0A%09%22default%22%3A0%2C%0A%09%22data%22%3A%0A%7B%22count%22%3A0%7D%7D%0A)%3B&level[4]=1&&count=5

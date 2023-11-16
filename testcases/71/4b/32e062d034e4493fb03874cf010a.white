@@ -1,0 +1,20 @@
+POST /authredir?url=https%3a%2f%2fwww.onenote.com%3a443%2fnotebooks%3fauth%3d1%26nf%3d1&hurl=lG6WExdq76WKr%2fF7EYwN0vFtsyykNqsakbo5jp%2bT8CU%3d.m6ouEzXATQgsn3x3noPQwKXBh3K%2bvneBULwQUJRs6Bc%3d&ipt=0&si=1&wctx=2b389064-292f-4303-aafb-d1735190a1f3&wa=wsignin1.0 HTTP/1.1
+Host: www.onenote.com
+Content-Length: 1085
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://login.live.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: https://login.live.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+NAPExp=Wed%2C+11-Oct-2023+17%3A51%3A59+GMT&pprid=e54a372df60d1ad8&NAP=V%253D1.9%2526E%253D1c2d%2526C%253D8HFxo3oc04rbgf6GL0WP88jWZpQX1MG0hXOElBvaOhm4-dOc417Yjg%2526W%253D3&ANON=A%253DB67EBF8DDE561213F871D593FFFFFFFF%2526E%253D1c2d%2526W%253D3&ANONExp=Fri%2C+19-Jan-2024+18%3A51%3A59+GMT&t=GABGAgMAAAAMgAAADgAgn458q2VGmTdJ50IVa98NdLHIqfi9hBVvxVipZSoJnNsAASjgp0kPZB79Urbo4sp7x7xLKjsekkfxbp73eOSHWUHdCMRuBHZLCWlxUtCRxeWTrflucX7SehCwDLxNDeMnsUhnV1DFxSXcFqY4f%2FT1p%2BBdC9Dy2TEgmstY7%2BxlmKhWyr3kyVskbdCx6iI2oE0VfdmhR1O1UzLYcBIIbrR1sidoJogoPAkONohC8aPGc8xDs20YBjNzV%2FwJE3wjz4WFdmxz3bh9jmISqeILlExwlT87AMa3Vbt%2BCW0%2BywxWFCboICnLQu%2FRXf4EFAKkg6EiISTFcOY8n20yzsQqB57kxN9v2JYcbEswmuRF7COtY%2Bu%2F%2BOv61sLZt27LdboZRg7SVisTAX4AEwH9vwMAPInuX0qoomQEbj5kjG4EAAoTIAAYFABhZ2RuZ2N5QG91dGxvb2suY29tAFgAACBhZ2RuZ2N5JW91dGxvb2suY29tQHBhc3Nwb3J0LmNvbQAAAApVUwAAAAAAAAQJAgAAjQFVQAAGQwAERG9yYQAGQ2FybWVuAAAAAAAAAAAAAAAAAAAAAAAA9g0a2OVKNy0AAEqoomQJFbVkAAAAAAAAAAAAAAAADwAxODMuMTU5LjEyNS45MAAFAQAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAAAAAASuWtA4JrrygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAA

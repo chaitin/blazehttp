@@ -1,0 +1,18 @@
+POST /api/v3/teV1 HTTP/1.1
+Host: www.notion.so
+Content-Length: 1594
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: https://www.notion.so
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.notion.so/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+checksum=70d38c4221618a5a60f34761a5872e3f&client=af43d4b535912f7751949bfb061d8659&e=%5B%7B%22device_id%22%3A%22729581ccc52f42589875b2da05aa077f%22%2C%22user_id%22%3A%2244c83b110dec4a79a165c5997ba51eca%22%2C%22timestamp%22%3A1688375272489%2C%22event_id%22%3A743%2C%22session_id%22%3A1688375272488%2C%22event_type%22%3A%22%24identify%22%2C%22version_name%22%3A%222022051601%22%2C%22platform%22%3A%22Web%22%2C%22os_name%22%3A%22Chrome%22%2C%22os_version%22%3A%22114%22%2C%22device_model%22%3A%22Windows%22%2C%22device_manufacturer%22%3Anull%2C%22language%22%3A%22zh-CN%22%2C%22api_properties%22%3A%7B%7D%2C%22event_properties%22%3A%7B%7D%2C%22user_properties%22%3A%7B%22%24setOnce%22%3A%7B%22initial_notion_utm_source%22%3A%22null%22%2C%22initial_notion_utm_medium%22%3A%22null%22%2C%22initial_notion_utm_campaign%22%3A%22null%22%2C%22initial_notion_utm_term%22%3A%22null%22%2C%22initial_notion_utm_content%22%3A%22null%22%7D%2C%22%24set%22%3A%7B%22notion_utm_content%22%3A%22null%22%2C%22notion_utm_medium%22%3A%22null%22%2C%22notion_utm_source%22%3A%22null%22%2C%22notion_utm_term%22%3A%22null%22%2C%22notion_utm_campaign%22%3A%22null%22%7D%7D%2C%22uuid%22%3A%2231c9eaff-a7d8-4e56-84f8-1cfdec1f3274%22%2C%22library%22%3A%7B%22name%22%3A%22amplitude-js%22%2C%22version%22%3A%228.6.0%22%7D%2C%22sequence_number%22%3A9643%2C%22groups%22%3A%7B%7D%2C%22group_properties%22%3A%7B%7D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36%22%7D%5D&upload_time=1688375272490&v=2

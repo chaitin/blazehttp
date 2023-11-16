@@ -1,0 +1,19 @@
+POST /data/api.json?_fetcher_=metrics20190101__DescribeProjectMeta HTTP/1.1
+Host: home.console.aliyun.com
+Content-Length: 955
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded
+Bx-V: 2.5.1
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://home.console.aliyun.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://home.console.aliyun.com/home/dashboard/ProductAndService
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=metrics20190101&action=DescribeProjectMeta&params=%7B%22pageNumber%22%3A1%2C%22pageSize%22%3A1000%7D&collina=140%23lRMox2M3zzWQszo2%2Bi%2BbKtN8s77%2BPKdJLlGYOK2C46D%2BOY87kTaX7pqptHk6K20YWxZblp1zzqeKYUIMpFzx0ojHOph%2Fzzrb22U3l61ZEIPPIC%2FBKbW0L2c2%2Ft%2BUoKOs7XrfMM%2B2y8bWiWVCrbvKHPc3V36ezzzi2oMcKpII1wba7X53z0%2BM0lINn4mADbg%2F39D5KflOF9Yj4NbWEIjOhqHw%2Fm1ot5K4%2BTDrraqfNdcYwPxzu8Y9jRMz6rE%2B3y%2B78%2FklKDVjw4co17yLD3mA%2BnHCayfz3xhZWRCLD8AWbLal1IffEnWm07%2F%2Fuka6M3fEJGx2VO7UkrQKTKPlG6kYHw%2F81KhJzWW31oL9eMBXiOZtCCjMemLZeSaimkzZh28XRcYgpLzbw%2F8YKHFZMvovHUUISuZfZIf83SnWeGO3GL1KTMH1YAirRt5tIRFLljpvteuMWu53rJ6HH2Ta1CdOwAwgBf5vNiodfOiEAo3b1Ndi%2Fxd%2FJAaYCJaPDis1py2pe4YHXTYFnmo3QtTOiWT1jPTQVsIW32jLV6hoo%2BYr6GJECXMTTLKe%2Bd9V7SqjYD2UnZz6dRdV%2FWTlIAtMvj8KbCH77L%2BtGz4L4WBr3IpOQm08xhL4vrqUPLUyNXm51LxZmHyUpIWI3pYFpel5e2UE%2FOVoAtw1EMzvAj0BeFPBMxmkjOI3KPMF7FAQGV8w2j1Y&umid=Ya2e9ad212a7420c01f8a345505a4557a&sec_token=d5mraaH0uvLd9OQlTDzyz7

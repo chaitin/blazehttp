@@ -1,0 +1,19 @@
+POST /mp/getappmsgad?f=json&mockid=&rtx=&uin=&key=&pass_ticket=&wxtoken=777&devicetype=&clientversion=&__biz=MzIwMDk1MjMyMg%3D%3D&appmsg_token=&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Content-Length: 527
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://mp.weixin.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247491582&idx=1&sn=b94836fcf0990550373c52e398bf153e&chksm=96f40093a1838985c8ad9bc7a7d44b5b926b7a7505cb66f40e69095798f0684269c3d342a39b
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+r=0.20000293216607945&appmsg_type=9&mid=2247491582&sn=b94836fcf0990550373c52e398bf153e&idx=1&scene=&title=0day%25E9%2580%259F%25E4%25BF%25AE%25EF%25BD%259CSmartbi%2520%25E8%25BF%259C%25E7%25A8%258B%25E4%25BB%25A3%25E7%25A0%2581%25E6%2589%25A7%25E8%25A1%258C%25E6%25BC%258F%25E6%25B4%259E&ct=1688382111&abtest_cookie=&devicetype=&version=&is_need_ad=0&both_ad=0&send_time=&msg_daily_idx=1&pass_ticket=&is_temp_url=0&item_show_type=0&tmp_version=1&pos_type_list=&vid_list=%5B%5D&exportkey=&waid=&is_care_mode=0&is_teenager_mode=0

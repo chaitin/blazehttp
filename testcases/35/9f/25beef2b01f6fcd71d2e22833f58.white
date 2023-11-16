@@ -1,0 +1,16 @@
+POST /log/web?0000161688375168817https%3A%2F%2Fspace.bilibili.com%2F3493279433755293|333.999.space_home.video.show|1688375168817|1920x921|1|{%22up_mid%22:3493279433755293,%22module_name%22:3,%22b_nut_h%22:0,%22lsid%22:%22751246A8_1891AFFEBA8%22,%22buvid_fp%22:%2237641a7278a6dec1a3053feadfe22ff3%22,%22buvid4%22:%22508919D7-0DB9-FBB9-A110-2A2D135A8F3C69825-022022821-gtEiJcM77nJdstIZYcpm5g%3D%3D%22,%22bsource_origin%22:%22empty%22,%22share_source_origin%22:%22empty%22}||{%22in_new_ab%22:true,%22ab_version%22:{%22unify_fetch%22:%22V1%22,%22for_new_opus_version%22:%22NEW%22},%22ab_split_num%22:{%22unify_fetch%22:14,%22for_new_opus_version%22:84}}|1 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://space.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://space.bilibili.com/3493279433755293
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

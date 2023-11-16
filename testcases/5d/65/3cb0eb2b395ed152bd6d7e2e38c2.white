@@ -1,0 +1,18 @@
+POST /weapi/middle/clientcfg/config/list?csrf_token=0099a41e18e2a8977e76f6370caba1a4 HTTP/1.1
+Host: music.163.com
+Content-Length: 522
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://music.163.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://music.163.com/song?id=1842025914
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+params=B0JhL5zsJ%2FRtm3%2FfAdV94jOmIEDFB%2BeSmExd7tpppSsENOBUsEmffB0KH8hScEUAjjEJdw9kP3pUBpBNKq3LxFmMYXgePq%2B3Jak9kz9lTL35WPUgyHqM7AJqo5U4%2FvdrSFZkeoc8f7act04eCh0J4JCSCdo2D2jiFjWALBYlQVIR8VJ5C0y7gyCuDkgdzEeuawLbsz1syBACsQD2gHVLZFxAHkl9kSjaGve5MUycCnQ%3D&encSecKey=b4a7d1a809c49032db20475e8cc5cb0641182c787a54d3c67313e23a0923b9327296cf465652ffe66399f739f8cd5de5d1ed985b61be09227b121b68c83093a33cbbadbfdfcfa4fc8c43f35073df1a9e8708ca6562ee5859d67cb3059ab7921fb7ec782fb833e2f0cf0d0ba6525b945dac8f30e064fa84f19fcafcdcacf34149

@@ -1,0 +1,21 @@
+POST / HTTP/1.1
+Host: cognito-idp.us-east-2.amazonaws.com
+Content-Length: 916
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-amz-json-1.1
+Cache-Control: no-store
+X-Amz-Target: AWSCognitoIdentityProviderService.InitiateAuth
+X-Amz-User-Agent: aws-amplify/5.0.4 js
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://minimals.cc
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://minimals.cc/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"AuthFlow":"USER_SRP_AUTH","ClientId":"5rlr9414shmclka7708f9v5fcp","AuthParameters":{"USERNAME":"demo@minimals.cc","SRP_A":"96c16291b7c215a613eef4fc2df95f7d6d52d9f33b20d01b1f2d5fe1856a9eda480432974845890d13c33880c66002a41948432e8050e509f28233b234f413974fc2c3cda63d3a471a42f542abb5b6af1b7f5f90c117f58f121df13b40746017210df90c138d968c53bf7b731a6ffacd9383c37f5b88c3b8a78b619fbfdedfc72c99c9a5c5dad0bf208b94a9bb2aa52e6ca63a10796fb7996386cb09eff36ab572148f29c71072aa323b6a2a00befec97b4ff1a35280157bdc01c491002587bcafd54fe15f03cead1ad1fb652157bde26116e2bfb803166ba07547654f20571b7fee6eb1e39b56117b909f43bbce782f7cf0f4d340e6a72931b6baf99fef340c7f5ba8537f1ee12ddfbf7736fe3a517c08b8634548e0bea5e6ea45eeb0eeeab0950cad8e468e9a433faee9cee787a4aefd8a1e4ebd5633b35e84b95024bf7805f1f8cd0669ff7578637f0b5e0df32848c9cbd310adb3e40051ce1a66760547d6c70b20cfbbb88972cc49cfc799920113fa97e605e72fae10b9c9e7829ffcfb78"},"ClientMetadata":{}}

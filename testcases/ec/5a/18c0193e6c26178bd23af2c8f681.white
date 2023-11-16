@@ -1,0 +1,18 @@
+POST /UnifiedIDMPortal/ajaxHandler/common/dev?reflushCode=0.3988039699917554&cVersion=UP_CAS_6.11.0.100_live HTTP/1.1
+Host: id1.cloud.huawei.com
+Content-Length: 1113
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/x-www-form-urlencoded
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://auth.huaweicloud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://auth.huaweicloud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+pageToken=9d253c8672c13f5fc2314f0c125ff578a200b70b1de99bb0940856024aaf6317&pageTokenKey=23d629b59ea44d44bba4d5b1f797618a&reqClientType=88&loginChannel=88000000&clientID=103493351&lang=zh-cn&languageCode=zh-cn&state=10957910d9564c668ac56a34c427dccd&fp=sNyzj7eEspf0gAg6CD4PPht5GXYDYxEtHC5LKUwqS3tNeEJ5SHFGchMqH39Jfk95SXsbfx8sG3hCeEEiEiAvHzhTN0BMdlM3RnhAXWpZbl86Cz0KMVVlB2QGMQNkUWgCZQYyCDBLehp4RiQae0wvGy4fOFIhTHZAGX0MZxUpeEV2QyEYckF2EDdQfB0vTX8cfhhzRCZBcUF0RnxJfx15HigeKx9%2FH39baCRgaAE2AjMCNVFpWmxdbl44AzoLOl87Cm1eZVw%2FXz9fOg5oUzEDNVUxCCITUR19GCAvHi8afR0tG3lOfhwvFidEchMnHnhBdRVyRicXICsfKxsjESAtCTp6Lh8sGikYJBUhRCYSJBNxFndHf0l8TSobI0R0Q3cTIhJyQiQWdhEkRiA5XShTb19oX2ZWbV9oVWVVYldwCn0GOBotFCMEZQtkF2VZOghkWjsMOQk%2BDWkNOQ9sU2RQe04rGSoeLhR1EXZDe0soFiZBI0BaPRpwH21Rdht7GXZICmYfdxp1FTJfP1ByP1suXj5cK09oCWsPM0Y3QycAkfycpt%2B2mNSdutemw%2F%2Bpwa6er4j0kvnF9cTw3fqK6JCygEZ3RmMReEp4R35NahpuUH5EcUAZbwtoAJOvzP%2FGo5GlnPmeqMag%2Bs74wqeUppGixKCuzquS88DZ6djj0%2Brf6Y29j6jEsJKpmKGX8N7uj7eD4YOwmqGQvN%2FngrWASy8YJBogfBghFSUWJhF1RHVB&hwid_cas_sid=2049371936fef2bfb9b8316a7b7e671d575386b7874fe2c362546cbed02f20db10a51edf8bf4376837a3

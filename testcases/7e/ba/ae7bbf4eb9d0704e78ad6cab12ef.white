@@ -1,0 +1,18 @@
+POST /api/v2/rcmd/list/channel/search_default_word HTTP/1.1
+Host: silkroad.csdn.net
+Content-Length: 228
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Accept: application/json, text/plain, */*
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://so.csdn.net
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://so.csdn.net/so/search?spm=1000.2115.3001.4498&q=WAF%202023&t=&u=
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"channel":"search_default_word","ext":{"default_word_new":"1","imei":"10_18754282740-1597979518688-247971","platform":"PC","user_name":"weixin_46708016","username_type":"username","trace_id":"silkroad_1604115857679"},"size":10}

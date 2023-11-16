@@ -1,0 +1,21 @@
+POST /v2transapi?from=zh&to=en HTTP/1.1
+Host: fanyi.baidu.com
+Content-Length: 352
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Acs-Token: 1688377453835_1688377457164_bRZFXlRsfHh9mgvWv0os/gSB4uL1fB/FKj3xmMa+oL5aqVtyA1R22cwRVxToSHc+tgagXLzNl0zY+racoNQLIQeBYRVVTcZDCDq6V+oAHzpNcUbK4jlKbJR3CSa4zjtcp8peLYN+J7ezZSd/623mzcNplj3G3/wsmhpxim3AWAkaISSlpF6hOkGzzWw06PAIkxAd9pe06Yqxt9zRXV8a3Bzyd5kE4X0gdI+LA7jiwUVG1FNs5b+910XbKIx4wuXRdEUFVvpffHLBPXegYjXg52t4qiICOLhuixgvhdFyzJjHpFWEdkiJTKd0bWu4K6twimqBKNAxijCoznVpa+k2aT0M61FFA/0jythLofezCldEoPwG+Uf1ay+SbNz5kQ/ZWzhA58PhP/OSIsai6/FVcBXx3qJzAZqhS10PvVPY+CAQYet2nZzVwQWvrdy0jBP5k4LGwxlgndPbPit/bmjOCyUJLgHiTySdn72/UFTUX539vCSMxsB5pMt1fpW6ObA2
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://fanyi.baidu.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://fanyi.baidu.com/translate?aldtype=16047&query=%E6%9C%89%E4%B8%A4%E4%B8%AA%E9%80%89%E9%A1%B9%EF%BC%8C1+%E5%92%8C+2%0D%0A1.+%E5%90%83%E9%A5%AD%0D%0A2.+%E4%B8%8D%E5%90%83%E9%A5%AD%0D%0A%EF%BC%8C%E9%80%89%E6%8B%A9+1+%E6%88%96%E8%80%85+2+%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C&keyfrom=baidu&smartresult=dict&lang=auto2zh
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+from=zh&to=en&query=%E6%9C%89%E4%B8%A4%E4%B8%AA%E9%80%89%E9%A1%B9%EF%BC%8C1+%E5%92%8C+2%0A1.+%E5%90%83%E9%A5%AD%0A2.+%E4%B8%8D%E5%90%83%E9%A5%AD%0A%EF%BC%8C%E9%80%89%E6%8B%A9+1+%E6%88%96%E8%80%85+2+%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C&simple_means_flag=3&sign=898235.612234&token=599e79104917c56031b843d52bbd5836&domain=common&ts=1688377457149

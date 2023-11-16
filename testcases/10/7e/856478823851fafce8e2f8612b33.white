@@ -1,0 +1,16 @@
+POST /log/web?0133241688379152182https%3A%2F%2Fwww.bilibili.com%2F|333.1007.home.feeds.tech||1688379152182|||1920x921|1||{%22b_ut%22:%225%22,%22home_version%22:%22V8%22,%22i-wanna-go-back%22:%22-1%22,%22in_new_ab%22:true,%22ab_version%22:{%22for_ai_home_version%22:%22V8%22,%22tianma_banner_inline%22:%22CONTROL%22,%22login_dialog_version%22:%22V_TIANMA_LOGIN%22,%22h5_read_awaken_app%22:%22B%22,%22home_pop_window%22:%22V1%22,%22channel_show_back_btn%22:%22HIDDEN%22,%22nano_pcdn_version%22:%22V_PCDN%22,%22in_theme_version%22:%22CLOSE%22,%22storage_back_btn%22:%22HIDE%22,%22web_homepage_video_continuation%22:%22CLOSE%22,%22clean_version_old%22:%22KEEP%22},%22ab_split_num%22:{%22for_ai_home_version%22:56,%22tianma_banner_inline%22:56,%22login_dialog_version%22:72,%22h5_read_awaken_app%22:4,%22home_pop_window%22:36,%22channel_show_back_btn%22:90,%22nano_pcdn_version%22:99,%22in_theme_version%22:14,%22storage_back_btn%22:13,%22web_homepage_video_continuation%22:92,%22clean_version_old%22:14}}||8851DAFA-5BDA-FEA10-628D-CCC29C7D6E1A21408infoc|zh-CN|null|1 HTTP/1.1
+Host: data.bilibili.com
+Content-Length: 0
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.bilibili.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.bilibili.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+

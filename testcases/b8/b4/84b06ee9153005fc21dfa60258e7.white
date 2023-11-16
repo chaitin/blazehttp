@@ -1,0 +1,20 @@
+POST /proxy/domain/qq110.qq.com/v3/querymbphonestat?bkn=1336104582 HTTP/1.1
+Host: accounts.qq.com
+Content-Length: 59
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Qname-Service: 1935233:65536
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+Qname-Space: Production
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://accounts.qq.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://accounts.qq.com/homepage
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"com":{"src":2,"scene":251,"platform":5,"version":"1000"}}

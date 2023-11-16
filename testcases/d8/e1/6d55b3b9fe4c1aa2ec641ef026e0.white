@@ -1,0 +1,19 @@
+POST /v1/events HTTP/1.1
+Host: logx.optimizely.com
+Content-Length: 1020
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.blackbaud.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.blackbaud.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"account_id":"20497791765","anonymize_ip":true,"client_name":"js","client_version":"0.186.0","enrich_decisions":true,"project_id":"21287320532","revision":"1194","visitors":[{"visitor_id":"oeu1688383562281r0.9469773891301745","session_id":"AUTO","attributes":[{"e":null,"k":"","t":"first_session","v":true},{"e":null,"k":"","t":"browserId","v":"gc"},{"e":null,"k":"","t":"device","v":"desktop"},{"e":null,"k":"","t":"device_type","v":"desktop_laptop"},{"e":null,"k":"","t":"referrer","v":"https://link.zhihu.com/?target=https%3A//www.blackbaud.com/"},{"e":null,"k":"","t":"source_type","v":"referral"},{"e":null,"k":"","t":"currentTimestamp","v":1688383563095},{"e":null,"k":"","t":"offset","v":-480}],"snapshots":[{"activationTimestamp":1688383562281,"decisions":[{"c":"24624000007","x":"24609701152","v":"24598350695","h":false}],"events":[{"e":"24626000010","k":"21287320532_url_targeting_for_18__news_banner_ai_webinar","t":1688383563297,"u":"8b7084dc-ab7e-4a6d-ba60-26f55492cbb5","y":"view_activated","a":{}}]}]}]}

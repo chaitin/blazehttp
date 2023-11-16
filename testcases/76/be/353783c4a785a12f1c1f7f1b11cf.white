@@ -1,0 +1,18 @@
+POST /data/api.json?_fetcher_=aegis__DescribeAccesskeyLeakList HTTP/1.1
+Host: fecs.console.aliyun.com
+Content-Length: 994
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://ecs.console.aliyun.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ecs.console.aliyun.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+product=aegis&action=DescribeAccesskeyLeakList&params=%7B%22Status%22%3A%22pending%22%2C%22CurrentPage%22%3A1%2C%22PageSize%22%3A100%7D&collina=140%237Y2o%2BZMWzzWe4zo23zbQK3N8s77%2BPKnWEITw4FTSBkCs2MuQD1Z4zxJ1L2y9fdVmUVSm83hqzznpWNpA09sxzXPJijlqlQzx2DD3Vtgqz7QVVOF4bXzzzPzYVXE%2Flbz5xe5OONdOHaU%2BWFqNygx%2FShxfAgJnU6mTY5MmAxE2p1qFgQLIf42eQ2FP9GP1fB9Rk4LRBiFXNMB8P9NM4%2FIiIZ6kFqTxqrRIxFMGGILa8XxF9hTmrsjOdwsfedVv1qn5tqXtp1oXlz4V8Dv81NBpKv7L5m3G3kaoZP1bCjCYg%2FcaPcga83ENM4AE9W8Gmvf4bt7xZ6zTwzztYk098bxPkB%2B2HFwt3OOkRkqa5UGt2RKdGjshBLqa8Wn5sb66Zip5TtQ8JsepbcH199cFung7eAkq2henYkC1KLT3lNf0XmjsFRMarhie%2BxSxp7VL7DGGbI5U9cjjQ7ZP4efcCkcSCIiReiz6oDEiXrqdCvOf5X%2FxKPtJ8eCaRvQsyxQHXoKOo8cUtBTPPDqEaGh%2FbS%2Fge2tc%2Bqt4mAQ0jmpSX%2F1Bv2jOeARN9Cr%2FfTvTxyRzCFjKwE6ZCZU7s3M1yeRY5DEUY0aUblPINz6r2R3HdKH7MHXB4eRekKzbd7ZReqVyUOwI7PcWUPr9dTSzt1cte2VIqlgL7%2BIKECuJ7ljoEtyggPvwH1b4OeB3IJJMtTmT4fgmmeGHJ2Gnq48m5gFavoOuGp2iZrV53YysbTsVWFM%3D&umid=C1688382990936902701681431688382990936158&sec_token=25NARh6Y

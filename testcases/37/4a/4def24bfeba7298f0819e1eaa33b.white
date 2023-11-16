@@ -1,0 +1,27 @@
+POST /OneCollector/1.0/?cors=true&content-type=application/x-json-stream&w=2 HTTP/1.1
+Host: browser.events.data.microsoft.com
+Content-Length: 4165
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Upload-Time: 1688381522183
+Sec-Ch-Ua-Mobile: ?0
+Client-Version: 1DS-Web-JS-3.2.11
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Time-Delta-To-Apply-Millis: -1979
+Content-Type: application/x-json-stream
+Cache-Control: no-cache, no-store
+Apikey: b0c82c6598ad49f3848b1d3dc0d8dd25-299cbfe9-b72e-4e9d-a5e3-20319efba5b5-7268
+Client-Id: NO_AUTH
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Origin: https://www.office.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.office.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Connection: close
+
+{"name":"Office.Taos.Shell.Monitoring","time":"2023-07-03T10:52:00.180Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":5,"ver":"1DS-Web-JS-3.2.11"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.11"}},"Event.Name":"Office.Taos.Shell.Monitoring","Event.Source":"OTelJS","Event.Time":"2023-07-03T10:52:00.180Z","Event.Sequence":5,"Event.Id":"db57f7f2-2696-4c4b-85b3-82794e38dc08.5","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"20230626.1","Session.Id":"1688381502016_0.2204420010619117","User.PrimaryIdentityHash":"0003BFFD5FEE893C","User.PrimaryIdentitySpace":"MSAPUID","User.TenantId":"84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa","User.TenantGroup":"Consumer","User.IsAnonymous":false,"Context_Env":"NCUprod","Context_Site":"IWApp","Context_SiteSubId":"ShellOffice","Context_WorkloadAppId":"OfficeDotCom","Context_WorkloadContext":"AppBarEnabled:true;StoreAppEnabled:false;M365AppsEnabled:false","Context_PID":"1688381502904_0.7415794366161486","Context_Language":"en-US","Data.OTelJS.Version":"4.13.17","Data.Event_Type":"TagID","Data.Monitoring_Name":"AddOrUpdateCustomHeaderButton","Data.Monitoring_Severity":"Info","Data.Monitoring_AdHoc0":"benefits","Data.Monitoring_AdHoc1":""}}
+{"name":"Office.Taos.Shell.Monitoring","time":"2023-07-03T10:52:00.183Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":6,"ver":"1DS-Web-JS-3.2.11"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.11"}},"Event.Name":"Office.Taos.Shell.Monitoring","Event.Source":"OTelJS","Event.Time":"2023-07-03T10:52:00.183Z","Event.Sequence":6,"Event.Id":"db57f7f2-2696-4c4b-85b3-82794e38dc08.6","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"20230626.1","Session.Id":"1688381502016_0.2204420010619117","User.PrimaryIdentityHash":"0003BFFD5FEE893C","User.PrimaryIdentitySpace":"MSAPUID","User.TenantId":"84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa","User.TenantGroup":"Consumer","User.IsAnonymous":false,"Context_Env":"NCUprod","Context_Site":"IWApp","Context_SiteSubId":"ShellOffice","Context_WorkloadAppId":"OfficeDotCom","Context_WorkloadContext":"AppBarEnabled:true;StoreAppEnabled:false;M365AppsEnabled:false","Context_PID":"1688381502904_0.7415794366161486","Context_Language":"en-US","Data.OTelJS.Version":"4.13.17","Data.Event_Type":"TagID","Data.Monitoring_Name":"AddOrUpdateCustomHeaderButton","Data.Monitoring_Severity":"Info","Data.Monitoring_AdHoc0":"goPremium","Data.Monitoring_AdHoc1":""}}
+{"name":"Office.Taos.Shell.Click.RememberedAccounts","time":"2023-07-03T10:52:00.312Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":7,"ver":"1DS-Web-JS-3.2.11"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.Click_ListCount":{"t":4},"Data.Click_ListIndex":{"t":4}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.11"}},"Event.Name":"Office.Taos.Shell.Click.RememberedAccounts","Event.Source":"OTelJS","Event.Time":"2023-07-03T10:52:00.312Z","Event.Sequence":7,"Event.Id":"db57f7f2-2696-4c4b-85b3-82794e38dc08.7","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"20230626.1","Session.Id":"1688381502016_0.2204420010619117","User.PrimaryIdentityHash":"0003BFFD5FEE893C","User.PrimaryIdentitySpace":"MSAPUID","User.TenantId":"84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa","User.TenantGroup":"Consumer","User.IsAnonymous":false,"Context_Env":"NCUprod","Context_Site":"IWApp","Context_SiteSubId":"ShellOffice","Context_WorkloadAppId":"OfficeDotCom","Context_WorkloadContext":"AppBarEnabled:true;StoreAppEnabled:false;M365AppsEnabled:false","Context_PID":"1688381502904_0.7415794366161486","Context_Language":"en-US","Data.OTelJS.Version":"4.13.17","Data.Click_IntentionalPageView":true,"Data.Event_Type":"Click","Data.Click_Name":"RememberedAccounts","Data.Click_Label":"RememberedAccounts","Data.Click_Area":"UniversalMeControlPane","Data.Click_Context":"1","Data.Click_ListCount":1,"Data.Click_ListIndex":1}}

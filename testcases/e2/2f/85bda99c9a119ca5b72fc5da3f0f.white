@@ -1,0 +1,19 @@
+POST /action?url=https%3A%2F%2Fwww.csdn.net%2F&pvid=948d895b95e64b969800f056e4ae9ca5&ref=https%3A%2F%2Fwww.csdn.net%2F&referrer=&v=3.3.1-saas.2&av=3.3.1-saas.2&did=10_18754282740-1597979518688-247971&uid=weixin_46708016&sid=6645052141d14f1a8c546504fe0fc9f7&__s=1688373822942&id=hWg-u0rE5b8&key=Z1Tu5hoKbGw&token=568934913a6343de840a781ca5eaba4b&sh=1080&sw=1920&ps=0&__r=1688374728022 HTTP/1.1
+Host: wkbrs1.tingyun.com
+Content-Length: 858
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://www.csdn.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://www.csdn.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+c{"type":"common","optCustomParam":{}}
+e{"type":"event","subType":"click","start":1688374727661,"data":{"type":"event","id":"","nodeName":"A","className":"","title":"","text":"数据结构与算法","path":"html > body > div:nth-child(2)#app > div > div.main > div.page-container.page-component > div > div.home_wrap > div.content_wrap > div:nth-child(1)#floor-nav_557 > div.blog-nav-tag > div.blog-nav > div.blog-nav-box > ul.def > li:nth-child(11).navigation-right > a","trigger":"normal","range":"current","eventId":"7feacf998d3d431f82ef90a946d43410","href":"https://blog.csdn.net/nav/algo","eventHandlerType":"inline","crossPage":true,"items":[{"type":"crossPage","subType":"a_link","id":0,"cid":16,"url":"https://blog.csdn.net/nav/algo","start":1688374727668,"crossPage":true,"end":1688374728022,"state":"finish"}],"state":"finish"},"end":1688374728022}

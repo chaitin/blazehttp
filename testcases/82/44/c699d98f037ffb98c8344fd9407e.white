@@ -1,0 +1,15 @@
+GET /rp?ext=53&data=4utSG%2BtbmngCAXPGXJySNyNL&random=0.12180278002346245&point=BBgYtti7yFkjgN67tgy2js-F6UaqAXyLoLlzplIJZNMG7bjX-hFMGy7PJSVdfTRj&pid=22&e1=false&e2=330%2C320&e3=false HTTP/1.1
+Host: fourier.taobao.com
+Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
+Origin: https://passport.aliyun.com
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://passport.aliyun.com/mini_login.htm?lang=zh_CN&appName=aliyun&appEntrance=aliyun_sms&styleType=vertical&bizParams=&notLoadSsoView=true&notKeepLogin=true&isMobile=false&returnUrl=https%3A%2F%2Faccount.aliyun.com%2Flogin%2Flogin_aliyun.htm%3Fft%3Dpc_sms_login%26oauth_callback%3Dhttps%253A%252F%252Fwww.aliyun.com%252F%26params%3D%257B%2522site%2522%253A%25226%2522%252C%2522ru%2522%253A%2522https%253A%252F%252Fwww.aliyun.com%252F%2522%252C%2522umidToken%2522%253A%2522Y224ff530afcad0488b3a57fbb329773c%2522%257D&bizPassParams=%7B%22tenantName%22%3A%22%22%7D&cssUrl=https%3A%2F%2Fg.alicdn.com%2Fdawn%2Faliyun-account-styles%2F0.0.1%2Flogin-embedder.css&pageversion=v1&rnd=0.42159427738047595
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
