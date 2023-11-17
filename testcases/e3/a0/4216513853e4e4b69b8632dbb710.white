@@ -1,5 +1,5 @@
 GET /_next/data/e1aSlNLk-QluGt1uAAq0w/landing/collie.json?app_scope=collie HTTP/1.1
-Host: rivers.chaitin.cn
+Host: safeline.com
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Purpose: prefetch
 X-Nextjs-Data: 1
@@ -10,7 +10,7 @@ Accept: */*
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: cors
 Sec-Fetch-Dest: empty
-Referer: https://rivers.chaitin.cn/
+Referer: https://safeline.com/
 Accept-Encoding: gzip, deflate
 Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
 Connection: close

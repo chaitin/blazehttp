@@ -1,5 +1,5 @@
 GET /tool/detail?id=1175 HTTP/1.1
-Host: stack.chaitin.com
+Host: safeline.com
 Cache-Control: max-age=0
 Sec-Ch-Ua: "Not:A-Brand";v="99", "Chromium";v="112"
 Sec-Ch-Ua-Mobile: ?0

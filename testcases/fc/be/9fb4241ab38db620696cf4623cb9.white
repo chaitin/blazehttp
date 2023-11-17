@@ -1,5 +1,5 @@
 GET /tool/index HTTP/1.1
-Host: stack.chaitin.com
+Host: safeline.com
 Sec-Ch-Ua: "Not:A-Brand";v="99", "Chromium";v="112"
 Sec-Ch-Ua-Mobile: ?0
 Sec-Ch-Ua-Platform: "Windows"

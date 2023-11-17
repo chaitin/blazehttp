@@ -1,5 +1,5 @@
 GET /posts/faq_other HTTP/1.1
-Host: waf-ce.chaitin.cn
+Host: safeline.com
 Cache-Control: max-age=0
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Sec-Ch-Ua-Mobile: ?0

@@ -1,4 +1,4 @@
-GET /rpc/v1/internal/greyconfig?bizKey=chaitin.com&greyKey=gray_domainSharedContact&_=1688382659063 HTTP/1.1
+GET /rpc/v1/internal/greyconfig?bizKey=safeline.com&greyKey=gray_domainSharedContact&_=1688382659063 HTTP/1.1
 Host: qiye.aliyun.com
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Content-Type: application/x-www-form-urlencoded

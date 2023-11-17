@@ -1,5 +1,5 @@
 GET /_ct/set-cookie?q=eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhdXRoLmNoYWl0aW4ubmV0Iiwic3ViIjoiNWE1ZDZlNzcyN2U5MzYwMDExNTg3MDU3IiwiYXVkIjpbImh0dHBzOi8vY29sbGllLWFkbWluLmNoYWl0aW4ubmV0LyJdLCJleHAiOjE2ODgzODIzMzQsImlhdCI6MTY4ODM4MjI3NCwic2VzIjoiYTc2NGI5ZjgyYWMwYjhmZjZiYTY1ZTk0IiwidiI6IjJiIn0.9HH-R9Af3uZ52zbKz70LAqsy34T8fJQZF08Qzdn3fAx030vZhAefMtr0a7zBUdwdp2zfKvgZwpAr1mNl_s-1Ag&v=2 HTTP/1.1
-Host: collie-admin.chaitin.net
+Host: safeline.com
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 Sec-Purpose: prefetch;prerender

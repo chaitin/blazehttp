@@ -1,4 +1,4 @@
-GET /chaitin HTTP/1.1
+GET /safeline HTTP/1.1
 Host: github.com
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Sec-Ch-Ua-Mobile: ?0
