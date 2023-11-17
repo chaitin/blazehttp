@@ -185,9 +185,9 @@ func main() {
 	FP := 0
 	FN := 0
 	elap := make([]int64, 0)
-	nomalStatusCode, err := getNomalStatusCode(target, mHost)
-	blockStatusCode, err := getNomalStatusCode(target+`/keys?1%20AND%201=1%20UNION%20ALL%20SELECT%201,NULL,%27<script>alert("XSS")</script>%27,table_name%20FROM%20information_schema.tables%20WHERE%202>1--/**/;%20EXEC%20xp_cmdshell(%27cat%20../../../etc/passwd%27)#`, mHost)
-	if err != nil {
+	nomalStatusCode, getNomalStatusCodeErr := getNomalStatusCode(target, mHost)
+	blockStatusCode, getBlockStatusCodeerr := getNomalStatusCode(target+`/keys?1%20AND%201=1%20UNION%20ALL%20SELECT%201,NULL,%27<script>alert("XSS")</script>%27,table_name%20FROM%20information_schema.tables%20WHERE%202>1--/**/;%20EXEC%20xp_cmdshell(%27cat%20../../../etc/passwd%27)#`, mHost)
+	if getNomalStatusCodeErr != nil || getBlockStatusCodeerr != nil {
 		os.Exit(1)
 	}
 	if nomalStatusCode == blockStatusCode {
