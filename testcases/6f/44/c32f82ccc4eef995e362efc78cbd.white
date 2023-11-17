@@ -1,4 +1,4 @@
-GET /sinaurl?u=https%3A%2F%2Fwaf-ce.chaitin.cn%2F HTTP/1.1
+GET /sinaurl?u=https%3A%2F%safeline.com%2F HTTP/1.1
 Host: weibo.cn
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Sec-Ch-Ua-Mobile: ?0

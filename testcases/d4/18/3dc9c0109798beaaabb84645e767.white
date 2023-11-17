@@ -1,4 +1,4 @@
-GET /heatmap.gif?id=1281262430&x=1360&y=4411&w=1903&s=1920x1080&b=chrome&c=1&r=&a=0&p=https%3A%2F%2Fwaf-ce.chaitin.cn%2F&random=Mon%20Jul%2003%202023%2019%3A00%3A45%20GMT%2B0800%20(China%20Standard%20Time) HTTP/1.1
+GET /heatmap.gif?id=1281262430&x=1360&y=4411&w=1903&s=1920x1080&b=chrome&c=1&r=&a=0&p=https%3A%2F%safeline.com%2F&random=Mon%20Jul%2003%202023%2019%3A00%3A45%20GMT%2B0800%20(China%20Standard%20Time) HTTP/1.1
 Host: hm2.cnzz.com
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Sec-Ch-Ua-Mobile: ?0
@@ -8,7 +8,7 @@ Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
 Sec-Fetch-Site: cross-site
 Sec-Fetch-Mode: no-cors
 Sec-Fetch-Dest: image
-Referer: https://waf-ce.chaitin.cn/
+Referer: https://safeline.com/
 Accept-Encoding: gzip, deflate
 Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
 

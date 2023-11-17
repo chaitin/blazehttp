@@ -20,7 +20,7 @@ Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/safeline
+repository:safeline/safeline
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -32,7 +32,7 @@ repository:waydabber/BetterDisplay
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/xray
+repository:safeline/xray
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -44,7 +44,7 @@ repository:ruanyf/weekly
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/blazehttp
+repository:safeline/blazehttp
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -76,7 +76,7 @@ repository:sindresorhus/devtools-detect
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/collie
+repository:safeline/collie
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -196,15 +196,15 @@ repository:ljinkai/weekly
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/safeline-open-platform
+repository:safeline/safeline-open-platform
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/yanshi
+repository:safeline/yanshi
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/lua-resty-t1k
+repository:safeline/lua-resty-t1k
 ------WebKitFormBoundaryAbHLlyqUeKwr7qmI
 Content-Disposition: form-data; name="variables[pageViews][]"
 
