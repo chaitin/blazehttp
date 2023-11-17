@@ -263,11 +263,10 @@ func main() {
 		}
 	}
 
-	fmt.Printf("TP[攻击拦截]: %d    TN[正常放行]: %d    FP[误报]: %d    FN[漏报]: %d\n", TP, TN, FP, FN)
 	fmt.Printf("总样本数量: %d    成功: %d    错误: %d\n", len(fileList), success, (len(fileList) - success))
-	fmt.Printf("检出率: %.2f%%\n", float64(TP)*100/float64(TP+FN))
-	fmt.Printf("误报率: %.2f%%\n", float64(FP)*100/float64(TP+FP))
-	fmt.Printf("准确率: %.2f%%\n\n", float64(TP+TN)*100/float64(TP+TN+FP+FN))
+	fmt.Printf("检出率: %.2f%% (恶意样本总数: %d , 正确拦截: %d , 漏报放行: %d)\n", float64(TP)*100/float64(TP+FN), TP+FN, TP, FN)
+	fmt.Printf("误报率: %.2f%% (正常样本总数: %d , 正确放行: %d , 误报拦截: %d)\n", float64(FP)*100/float64(TN+FP), TN+FP, TN, FP)
+	fmt.Printf("准确率: %.2f%% (正确拦截 + 正确放行）/样本总数 \n", float64(TP+TN)*100/float64(TP+TN+FP+FN))
 
 	all := len(elap)
 	p90 := int(math.Ceil(float64(all) * 0.9))
