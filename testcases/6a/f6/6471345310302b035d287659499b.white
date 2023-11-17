@@ -20,7 +20,7 @@ Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/safeline
+repository:safeline/safeline
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -44,7 +44,7 @@ repository:SecWiki/sec-chart
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/xray
+repository:safeline/xray
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -124,15 +124,15 @@ repository:88250/awesome-seeds
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/lua-resty-t1k
+repository:safeline/lua-resty-t1k
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/safeline-open-platform
+repository:safeline/safeline-open-platform
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/yanshi
+repository:safeline/yanshi
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
@@ -300,11 +300,11 @@ repository:vulhub/vulhub
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/collie
+repository:safeline/collie
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 
-repository:chaitin/blazehttp
+repository:safeline/blazehttp
 ------WebKitFormBoundarykoUQFoLeozgzQtE8
 Content-Disposition: form-data; name="variables[pageViews][]"
 

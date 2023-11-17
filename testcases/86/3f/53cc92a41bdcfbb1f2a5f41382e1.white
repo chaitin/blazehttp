@@ -1,5 +1,5 @@
 GET /?continueFlag=ed33b44512f3232a855bab2a5a1e7cff HTTP/1.1
-Host: waf-ce.chaitin.cn
+Host: safeline.com
 Sec-Ch-Ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"
 Sec-Ch-Ua-Mobile: ?0
 Sec-Ch-Ua-Platform: "Windows"
