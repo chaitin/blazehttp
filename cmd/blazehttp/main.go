@@ -4,7 +4,6 @@ import (
 	"crypto/tls"
 	"flag"
 	"fmt"
-	"math"
 	"net"
 	"net/http"
 	"net/url"
@@ -269,18 +268,10 @@ func main() {
 	fmt.Printf("准确率: %.2f%% (正确拦截 + 正确放行）/样本总数 \n", float64(TP+TN)*100/float64(TP+TN+FP+FN))
 
 	all := len(elap)
-	p90 := int(math.Ceil(float64(all) * 0.9))
-	p99 := int(math.Ceil(float64(all) * 0.99))
 	sort.Slice(elap, func(i, j int) bool { return elap[i] < elap[j] })
 	var sum int64 = 0
-	for i, v := range elap {
+	for _, v := range elap {
 		sum += v
-		if i == p90 {
-			fmt.Printf("90%% 平均耗时: %.2f毫秒\n", float64(sum)/float64(p90)/1000000)
-		} else if i == p99 {
-			fmt.Printf("99%% 平均耗时: %.2f毫秒\n", float64(sum)/float64(p90)/1000000)
-			break
-		}
 	}
-	fmt.Printf("平均耗时: %.2f毫秒\n", float64(sum)/float64(p90)/1000000)
+	fmt.Printf("平均耗时: %.2f毫秒\n", float64(sum)/float64(all)/1000000)
 }
