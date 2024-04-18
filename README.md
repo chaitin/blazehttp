@@ -21,7 +21,13 @@ git clone https://github.com/chaitin/blazehttp.git && cd blazehttp
 ## 🚀 一键运行
 
 ``` bash
-bash build.sh && ./build/blazehttp -t http://127.0.0.1:8008
+bash build.sh && ./build/blazehttp -t http://127.0.0.1:8080
+```
+
+也可配置 `thread` 参数提高测试速度，默认 2
+
+```
+bash build.sh && ./build/blazehttp -t http://127.0.0.1:8080 -thread 4
 ```
 
 ## 🕹️ 靶机服务
