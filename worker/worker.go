@@ -21,6 +21,7 @@ type Worker struct {
 	cancel context.CancelFunc
 
 	concurrence   int // concurrent connections
+	sleep         int // concurrent connections
 	fileList      []string
 	jobs          chan *Job
 	jobResult     chan *Job
@@ -70,6 +71,12 @@ func WithConcurrence(c int) WorkerOption {
 	}
 }
 
+func WithSleep(c int) WorkerOption {
+	return func(w *Worker) {
+		w.sleep = c
+	}
+}
+
 func WithResultCh(ch chan *Result) WorkerOption {
 	return func(w *Worker) {
 		w.resultCh = ch
@@ -95,6 +102,7 @@ func NewWorker(
 ) *Worker {
 	w := &Worker{
 		concurrence: 10, // default 10
+		sleep: 0, // default 10
 
 		// payloads
 		fileList: fileList,
@@ -185,6 +193,9 @@ func (w *Worker) runWorker() {
 			defer func() {
 				w.jobResult <- job
 			}()
+			if w.sleep >0 {
+				time.Sleep(time.Duration(w.sleep) * time.Second) // 这里可以选择在工作中间或之前添加 sleep
+			}
 			filePath := job.FilePath
 			req := new(blazehttp.Request)
 			if w.useEmbedFS {

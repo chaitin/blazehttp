@@ -242,6 +242,11 @@ func MakeRunForm(w fyne.Window, outputCh chan string, resultCh chan *worker.Resu
 	workers := widget.NewEntry()
 	workers.SetText("10")
 	workers.Validator = validation.NewRegexp(`^\d+$`, "工作线程必须是数字")
+
+	sleep := widget.NewEntry()
+	sleep.SetText("0")
+	sleep.Validator = validation.NewRegexp(`^\d+$`, "请求间隔必须是数字")
+	
 	// modify host header
 	reqHost := widget.NewEntry()
 	// timeout
@@ -272,6 +277,7 @@ func MakeRunForm(w fyne.Window, outputCh chan string, resultCh chan *worker.Resu
 		Items: []*widget.FormItem{
 			{Text: "目标网站", Widget: target, HintText: ""},
 			{Text: "工作线程", Widget: workers, HintText: ""},
+			{Text: "请求间隔（秒）", Widget: sleep, HintText: "注：请求间隔用于外部waf频率过高会封ip时候选择，使用时结合工作线程计算频率"},
 		},
 	}
 	// cancel
@@ -304,10 +310,13 @@ func MakeRunForm(w fyne.Window, outputCh chan string, resultCh chan *worker.Resu
 			workersText := strings.TrimSpace(workers.Text)
 			worksNum, _ := strconv.Atoi(workersText)
 
+			sleepText := strings.TrimSpace(sleep.Text)
+			sleepNum, _ := strconv.Atoi(sleepText)
+
 			statusCode := strings.TrimSpace(statusCode.Text)
 			statusCodeI, _ := strconv.Atoi(statusCode)
 
-			err := run(target.Text, reqHost.Text, worksNum, statusCodeI, resultCh, stopCh)
+			err := run(target.Text, reqHost.Text, worksNum,sleepNum, statusCodeI, resultCh, stopCh)
 			if err != nil {
 				outputCh <- err.Error()
 			}
@@ -460,7 +469,7 @@ func MakeTestCaseTab(w fyne.Window) fyne.CanvasObject {
 	return container.NewBorder(tableFilterForm, nil, nil, exportBtn, table)
 }
 
-func run(target, mHost string, c, statusCode int, resultCh chan *worker.Result, stopCh chan struct{}) error {
+func run(target, mHost string, c,sleepNum, statusCode int, resultCh chan *worker.Result, stopCh chan struct{}) error {
 	var addr string
 	var isHttps bool
 
@@ -489,6 +498,7 @@ func run(target, mHost string, c, statusCode int, resultCh chan *worker.Result, 
 		allTestData,
 		blockStatusCode,
 		worker.WithConcurrence(c),
+		worker.WithSleep(sleepNum),
 		worker.WithReqHost(mHost),
 		worker.WithUseEmbedFS(true), // use embed test case fs when glob is empty
 		worker.WithResultCh(resultCh),

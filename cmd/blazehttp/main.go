@@ -26,6 +26,7 @@ var (
 	glob              string // use glob expression to select multi files
 	timeout           = 1000 // default 1000 ms
 	c                 = 10   // default 10 concurrent workers
+	s                 = 0    // default 0 sleep second
 	mHost             string // modify host header
 	requestPerSession bool   // send request per session
 )
@@ -37,6 +38,7 @@ func init() {
 	}
 	flag.StringVar(&target, "t", "", "target website, example: http://192.168.0.1:8080")
 	flag.IntVar(&c, "c", 10, "concurrent workers, default 10")
+	flag.IntVar(&s, "s", 0, "sleep second, default 0")
 	flag.StringVar(&glob, "g", "", "glob expression, example: *.http")
 	flag.IntVar(&timeout, "timeout", 1000, "connection timeout, default 1000 ms")
 	flag.StringVar(&mHost, "H", "", "modify host header")
@@ -118,6 +120,7 @@ func main() {
 		fileList,
 		blockStatusCode,
 		worker.WithConcurrence(c),
+		worker.WithSleep(s),
 		worker.WithReqHost(mHost),
 		worker.WithReqPerSession(requestPerSession),
 		worker.WithTimeout(timeout),
