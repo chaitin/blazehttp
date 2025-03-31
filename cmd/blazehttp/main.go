@@ -22,12 +22,13 @@ const (
 )
 
 var (
-	target            string // the target web site, example: http://192.168.0.1:8080
-	glob              string // use glob expression to select multi files
-	timeout           = 1000 // default 1000 ms
-	c                 = 10   // default 10 concurrent workers
-	mHost             string // modify host header
-	requestPerSession bool   // send request per session
+	target             string // the target web site, example: http://192.168.0.1:8080
+	glob               string // use glob expression to select multi files
+	timeout            = 1000 // default 1000 ms
+	c                  = 10   // default 10 concurrent workers
+	mHost              string // modify host header
+	requestPerSession  bool   // send request per session
+	defaultBlockStatus = -1   // any value other than -1 will cause blazehttp to skip the leading waf test and be used for status comparison
 )
 
 func init() {
@@ -41,6 +42,7 @@ func init() {
 	flag.IntVar(&timeout, "timeout", 1000, "connection timeout, default 1000 ms")
 	flag.StringVar(&mHost, "H", "", "modify host header")
 	flag.BoolVar(&requestPerSession, "rps", true, "send request per session")
+	flag.IntVar(&defaultBlockStatus, "block-status", -1, "any value other than -1 will cause blazehttp to skip the leading waf test and be used for status comparison")
 	flag.Parse()
 	if url, err := url.Parse(target); err != nil || url.Scheme == "" || url.Host == "" {
 		fmt.Println("invalid target url, example: http://chaitin.com:9443")
@@ -59,15 +61,20 @@ func main() {
 		}
 		addr = u.Host
 	}
-
-	isWaf, blockStatusCode, err := utils.GetWafBlockStatusCode(target, mHost)
-	if err != nil {
-		fmt.Println(err)
-		os.Exit(1)
-	}
-	if !isWaf {
-		fmt.Println("目标网站未开启waf")
-		os.Exit(1)
+	var blockStatusCode int
+	if defaultBlockStatus == -1 {
+		isWaf, status, err := utils.GetWafBlockStatusCode(target, mHost)
+		if err != nil {
+			fmt.Println(err)
+			os.Exit(1)
+		}
+		if !isWaf {
+			fmt.Println("目标网站未开启waf")
+			os.Exit(1)
+		}
+		blockStatusCode = status
+	} else {
+		blockStatusCode = defaultBlockStatus
 	}
 
 	fileList := make([]string, 0)
