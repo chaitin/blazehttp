@@ -64,21 +64,20 @@ func GetWafBlockStatusCode(target, mHost string) (isWaf bool, statusCode int, er
 	return
 }
 
-func GetAllFiles(path string) ([]string, error) {
+func GetAllFiles(glob string) ([]string, error) {
 	var files []string
-
-	err := filepath.Walk(path, func(filePath string, info os.FileInfo, err error) error {
+	matches, err := filepath.Glob(glob)
+	if err != nil {
+		return nil, err
+	}
+	for _, filePath := range matches {
+		info, err := os.Stat(filePath)
 		if err != nil {
-			return err
+			return nil, err
 		}
 		if !info.IsDir() {
 			files = append(files, filePath)
 		}
-		return nil
-	})
-	if err != nil {
-		return nil, err
 	}
-
 	return files, nil
 }
