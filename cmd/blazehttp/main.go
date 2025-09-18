@@ -28,6 +28,7 @@ var (
 	c                 = 10   // default 10 concurrent workers
 	mHost             string // modify host header
 	requestPerSession bool   // send request per session
+	wafStatusCode     int    // manually specify WAF block status code
 )
 
 func init() {
@@ -41,6 +42,7 @@ func init() {
 	flag.IntVar(&timeout, "timeout", 1000, "connection timeout, default 1000 ms")
 	flag.StringVar(&mHost, "H", "", "modify host header")
 	flag.BoolVar(&requestPerSession, "rps", true, "send request per session")
+	flag.IntVar(&wafStatusCode, "w", 0, "manually specify WAF block status code (0 means auto-detect)")
 	flag.Parse()
 	if url, err := url.Parse(target); err != nil || url.Scheme == "" || url.Host == "" {
 		fmt.Println("invalid target url, example: http://chaitin.com:9443")
@@ -60,14 +62,23 @@ func main() {
 		addr = u.Host
 	}
 
-	isWaf, blockStatusCode, err := utils.GetWafBlockStatusCode(target, mHost)
-	if err != nil {
-		fmt.Println(err)
-		os.Exit(1)
-	}
-	if !isWaf {
-		fmt.Println("目标网站未开启waf")
-		os.Exit(1)
+	var blockStatusCode int
+	if wafStatusCode != 0 {
+		// Use manually specified WAF status code
+		blockStatusCode = wafStatusCode
+		fmt.Printf("使用手动指定的WAF状态码: %d\n", blockStatusCode)
+	} else {
+		// Auto-detect WAF status code
+		isWaf, detectedStatusCode, err := utils.GetWafBlockStatusCode(target, mHost)
+		if err != nil {
+			fmt.Println(err)
+			os.Exit(1)
+		}
+		if !isWaf {
+			fmt.Println("目标网站未开启waf")
+			os.Exit(1)
+		}
+		blockStatusCode = detectedStatusCode
 	}
 
 	fileList := make([]string, 0)

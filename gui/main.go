@@ -251,7 +251,7 @@ func MakeRunForm(w fyne.Window, outputCh chan string, resultCh chan *worker.Resu
 
 	// timeout
 	statusCode := widget.NewEntry()
-	statusCode.SetText("403")
+	statusCode.SetText("0")
 	statusCode.Validator = validation.NewRegexp(`^\d+$`, "StatusCode必须是数字")
 
 	advanceForm := &widget.Form{
@@ -472,15 +472,20 @@ func run(target, mHost string, c, statusCode int, resultCh chan *worker.Result, 
 		addr = u.Host
 	}
 
-	isWaf, blockStatusCode, err := utils.GetWafBlockStatusCode(target, mHost)
-	if err != nil {
-		return err
-	}
-	if !isWaf {
-		return errors.New("目标网站未开启waf")
-	}
-	if blockStatusCode != statusCode {
-		return fmt.Errorf("探测到拦截状态码: %d 与配置拦截状态码: %d 不一致", blockStatusCode, statusCode)
+	var blockStatusCode int
+	if statusCode != 0 {
+		// 使用手动指定的WAF状态码
+		blockStatusCode = statusCode
+	} else {
+		// 自动检测WAF状态码
+		isWaf, detectedStatusCode, err := utils.GetWafBlockStatusCode(target, mHost)
+		if err != nil {
+			return err
+		}
+		if !isWaf {
+			return errors.New("目标网站未开启waf")
+		}
+		blockStatusCode = detectedStatusCode
 	}
 
 	worker := worker.NewWorker(
