@@ -35,12 +35,20 @@ type Worker struct {
 	reqHost         string // request host of header
 	reqPerSession   bool   // request per session
 	useEmbedFS      bool
+	proxy           string
 	resultCh        chan *Result
 }
 
 type WorkerOption func(*Worker)
 
+func WithProxy(proxy string) WorkerOption {
+	return func(w *Worker) {
+		w.proxy = proxy
+	}
+}
+
 func WithTimeout(timeout int) WorkerOption {
+
 	return func(w *Worker) {
 		w.timeout = timeout
 	}
@@ -213,24 +221,24 @@ func (w *Worker) runWorker() {
 			req.CalculateContentLength()
 
 			start := time.Now()
-			conn := blazehttp.Connect(w.addr, w.isHttps, w.timeout)
-			if conn == nil {
-				job.Result.Err = fmt.Sprintf("connect to %s failed!\n", w.addr)
+			conn, err := blazehttp.Connect(w.addr, w.proxy, w.isHttps, w.timeout)
+			if err != nil {
+				job.Result.Err = fmt.Sprintf("connect to %s failed!\n", err)
 				return
 			}
-			nWrite, err := req.WriteTo(*conn)
+			defer conn.Close()
+			nWrite, err := req.WriteTo(conn)
 			if err != nil {
 				job.Result.Err = fmt.Sprintf("send request poc: %s length: %d error: %s", filePath, nWrite, err)
 				return
 			}
 
 			rsp := new(blazehttp.Response)
-			if err = rsp.ReadConn(*conn); err != nil {
+			if err = rsp.ReadConn(conn); err != nil {
 				job.Result.Err = fmt.Sprintf("read poc file: %s response, error: %s", filePath, err)
 				return
 			}
 			elap := time.Since(start).Nanoseconds()
-			(*conn).Close()
 			job.Result.Success = true
 			if strings.HasSuffix(job.FilePath, "white") {
 				job.Result.IsWhite = true // white case

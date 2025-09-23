@@ -27,6 +27,7 @@ var (
 	timeout           = 1000 // default 1000 ms
 	c                 = 10   // default 10 concurrent workers
 	mHost             string // modify host header
+	proxy             string // proxy address, example: http://127.0.0.1:8083
 	requestPerSession bool   // send request per session
 )
 
@@ -40,6 +41,7 @@ func init() {
 	flag.StringVar(&glob, "g", "", "glob expression, example: *.http")
 	flag.IntVar(&timeout, "timeout", 1000, "connection timeout, default 1000 ms")
 	flag.StringVar(&mHost, "H", "", "modify host header")
+	flag.StringVar(&proxy, "proxy", "", "proxy address, example: http://127.0.0.1:8083")
 	flag.BoolVar(&requestPerSession, "rps", true, "send request per session")
 	flag.Parse()
 	if url, err := url.Parse(target); err != nil || url.Scheme == "" || url.Host == "" {
@@ -122,6 +124,7 @@ func main() {
 		worker.WithReqPerSession(requestPerSession),
 		worker.WithTimeout(timeout),
 		worker.WithUseEmbedFS(glob == ""), // use embed test case fs when glob is empty
+		worker.WithProxy(proxy),
 		worker.WithProgressBar(progressBar),
 	)
 	c := make(chan os.Signal, 1)
