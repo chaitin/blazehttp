@@ -3,6 +3,7 @@ package worker
 import (
 	"context"
 	"fmt"
+	"regexp"
 	"strings"
 	"sync"
 	"time"
@@ -210,7 +211,16 @@ func (w *Worker) runWorker() {
 				req.SetHeader("Connection", "close")
 			}
 
-			req.CalculateContentLength()
+			// 目前样本中没有使用Transfer-Encoding: chunked的，但是为了自定义样本需要更小心地设置Content-Length
+			// 参考: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Length
+			is_http1_1, err := regexp.Match("[A-Z]+ [^ ]+ HTTP/1.1", req.RequestLine)
+			if err != nil {
+				job.Result.Err = fmt.Sprintf("parse request failed, error: %s", err)
+				return
+			}
+			if is_http1_1 && !strings.Contains(req.GetHeader("Transfer-Encoding"), "chunked") {
+				req.CalculateContentLength()
+			}
 
 			start := time.Now()
 			conn := blazehttp.Connect(w.addr, w.isHttps, w.timeout)
